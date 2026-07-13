@@ -29,6 +29,8 @@ import {
   getOfferId,
   getProgramVariants,
   resolveCourseId,
+  loadCurriculum,
+  isCurriculumLoaded,
 } from "@/lib/curriculum"
 import { formatShiftLabel, getShift, type Shift } from "@/lib/shift"
 import { captureEvent, registerAnalyticsContext } from "@/lib/analytics"
@@ -192,12 +194,34 @@ function SetupBody({ onDone }: { onDone: () => void }) {
   }, [draftOfferId, draftShift, courseId])
   const [draftSemester, setDraftSemester] = useState<number | null>(semester)
 
+  // Load curriculum data for the selected course (lazy)
+  const [curriculumReady, setCurriculumReady] = useState(() =>
+    Boolean(draftCourse && isCurriculumLoaded(draftCourse)),
+  )
+
+  useEffect(() => {
+    if (!draftCourse) {
+      setCurriculumReady(false)
+      return
+    }
+    if (isCurriculumLoaded(draftCourse)) {
+      setCurriculumReady(true)
+      return
+    }
+    let cancelled = false
+    setCurriculumReady(false)
+    loadCurriculum(draftCourse).then(() => {
+      if (!cancelled) setCurriculumReady(true)
+    })
+    return () => { cancelled = true }
+  }, [draftCourse])
+
   const predicted = useMemo(() => {
-    if (!draftCourse || !draftSemester) return []
+    if (!draftCourse || !draftSemester || !curriculumReady) return []
     return getClasses(draftCourse).filter(
       (cls) => !cls.elective && cls.ref_period < draftSemester,
     )
-  }, [draftCourse, draftSemester])
+  }, [draftCourse, draftSemester, curriculumReady])
 
   const confirm = () => {
     if (!draftCourse || !draftSemester) return
