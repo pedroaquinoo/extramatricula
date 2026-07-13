@@ -14,10 +14,12 @@ import {
   CloudOff,
   CalendarX2,
   Lock,
+  Sparkles,
 } from "lucide-react"
 import LandingFooter from "@/components/landing/landing-footer"
 import SchedulePreview from "@/components/landing/schedule-preview"
 import ClassDetailPreview from "@/components/landing/class-detail-preview"
+import MagicModePreview from "@/components/landing/magic-mode-preview"
 import GithubIcon from "@/components/landing/github-icon"
 import { GITHUB_REPO, GITHUB_URL } from "@/components/landing/constants"
 import { GithubStarCount, STAR_URL } from "@/components/landing/github-stars"
@@ -66,7 +68,7 @@ const problems = [
   {
     icon: CalendarX2,
     title: "Nunca mais monte grade com conflito",
-    text: "Veja sua semana num calendário visual e descubra na hora quando duas turmas batem — sem planilha, sem tentativa e erro.",
+    text: "Veja sua semana num calendário visual e descubra na hora quando duas turmas batem, sem planilha, sem tentativa e erro.",
   },
   {
     icon: Lock,
@@ -89,7 +91,7 @@ const steps = [
   {
     icon: Share2,
     title: "Compartilhe sua grade",
-    text: "Gere um link público da sua semana e mande para quem quiser — sem precisar de conta.",
+    text: "Gere um link público da sua semana e mande para quem quiser, sem precisar de conta.",
   },
 ]
 
@@ -148,8 +150,8 @@ export default function LandingPage() {
           </div>
         </section>
 
-                {/* Como funciona · passo a passo */}
-                <section className="border-t bg-muted/30">
+        {/* Como funciona · passo a passo */}
+        <section className="border-t bg-muted/30">
           <div className="mx-auto max-w-5xl px-4 py-14 sm:py-20">
             <div className="mx-auto max-w-xl text-center">
               <p className="text-xs font-medium tracking-wide text-primary uppercase">
@@ -194,6 +196,35 @@ export default function LandingPage() {
           </div>
         </section>
 
+        {/* Modo mágico · novo destaque */}
+        <section className="border-t">
+          <div className="mx-auto grid max-w-5xl gap-8 px-4 py-14 sm:py-20 lg:grid-cols-2 lg:items-center">
+            <div>
+              <span className="inline-flex items-center gap-1.5 rounded-full border border-primary/20 bg-primary/10 px-3 py-1 text-xs font-medium text-primary">
+                <Sparkles className="size-3" />
+                Novidade
+              </span>
+              <h2 className="mt-4 text-2xl font-semibold tracking-tight text-balance sm:text-3xl">
+                Deixe o Modo mágico montar sua grade
+              </h2>
+              <p className="mt-3 text-pretty text-muted-foreground">
+                Diga sua carga horária e o que não pode faltar. O Modo mágico calcula as
+                melhores versões da sua semana, sem conflitos, com menos dias na UFMG e
+                menos janelas entre aulas.
+              </p>
+              <div className="mt-6">
+                <Button size="lg" asChild>
+                  <TrackedCtaLink href="/simulation" cta="simulate">
+                    <Sparkles className="size-4" />
+                    Experimentar
+                  </TrackedCtaLink>
+                </Button>
+              </div>
+            </div>
+            <MagicModePreview />
+          </div>
+        </section>
+
         {/* Problemas que resolve · proposta de valor */}
         <section className="border-t">
           <div className="mx-auto max-w-5xl px-4 py-14 sm:py-20">
@@ -202,7 +233,7 @@ export default function LandingPage() {
                 Por que usar
               </p>
               <h2 className="mt-2 text-2xl font-semibold tracking-tight text-balance sm:text-3xl">
-                Matrícula na UFMG é um porre. 
+                Matrícula na UFMG é um porre.
               </h2>
               <p className="mt-3 text-pretty text-muted-foreground">
                 Interface antiga, site que cai o tempo todo e grade cheia de lacunas. O
@@ -241,7 +272,7 @@ export default function LandingPage() {
               <p className="mt-3 text-pretty text-muted-foreground">
                 Abra qualquer disciplina e veja a ementa, os créditos, o período de
                 referência, os pré-requisitos que ela exige e as disciplinas que ela
-                desbloqueia mais à frente. 
+                desbloqueia mais à frente.
               </p>
             </div>
             <ClassDetailPreview />
@@ -316,9 +347,9 @@ export default function LandingPage() {
             </h2>
 
             <p className="mx-auto mt-3 max-w-xl text-pretty text-muted-foreground">
-              O Extramatrícula é um projeto iniciado por {" "}
-              <span className="font-medium">Pedro Aquino</span> e o código
-              está todo no GitHub. Se o app te ajudou, deixa uma estrela ou compartihe com seus amigos.
+              O Extramatrícula é um projeto iniciado por{" "}
+              <span className="font-medium">Pedro Aquino</span> e o código está todo no
+              GitHub. Se o app te ajudou, deixa uma estrela ou compartihe com seus amigos.
             </p>
 
             <div className="mt-7 flex flex-col items-center justify-center gap-2 sm:flex-row">

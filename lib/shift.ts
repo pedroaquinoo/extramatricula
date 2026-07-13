@@ -51,11 +51,15 @@ function hasNightSession(times: ClassTime[]): boolean {
 }
 
 function isDaytimeOnly(times: ClassTime[]): boolean {
-  return times.length > 0 && times.every((time) => toMinutes(time.start) < NIGHT_START_MINUTES)
+  return (
+    times.length > 0 && times.every((time) => toMinutes(time.start) < NIGHT_START_MINUTES)
+  )
 }
 
 function isMorningOnly(times: ClassTime[]): boolean {
-  return times.length > 0 && times.every((time) => toMinutes(time.start) < MORNING_END_MINUTES)
+  return (
+    times.length > 0 && times.every((time) => toMinutes(time.start) < MORNING_END_MINUTES)
+  )
 }
 
 export function isOffShift(shift: Shift | null, times: ClassTime[]): boolean {

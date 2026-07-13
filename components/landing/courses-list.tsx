@@ -10,9 +10,7 @@ const INITIAL_COUNT = 4
 export default function CoursesList({ courses }: { courses: CourseGroup[] }) {
   const [expanded, setExpanded] = useState(false)
 
-  const sorted = [...courses].sort((a, b) =>
-    a.name.localeCompare(b.name, "pt-BR"),
-  )
+  const sorted = [...courses].sort((a, b) => a.name.localeCompare(b.name, "pt-BR"))
   const visible = expanded ? sorted : sorted.slice(0, INITIAL_COUNT)
   const hidden = sorted.length - INITIAL_COUNT
 

@@ -1,13 +1,8 @@
 {
   "current": "2026/2",
-  "terms": [
-    "2026/1",
-    "2026/2"
-  ],
+  "terms": ["2026/1", "2026/2"],
   "programsByTerm": {
-    "2026/1": [
-      "controle-automacao"
-    ],
+    "2026/1": ["controle-automacao"],
     "2026/2": [
       "ciencia-computacao",
       "controle-automacao",

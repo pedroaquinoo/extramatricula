@@ -12,7 +12,7 @@ export default function LandingFooter() {
         <div>
           <Logo />
           <p className="mt-2 max-w-xs text-sm text-muted-foreground">
-            Planeje seus semestres na UFMG. 
+            Planeje seus semestres na UFMG.
           </p>
         </div>
 
@@ -49,7 +49,8 @@ export default function LandingFooter() {
       <div className="border-t">
         <div className="mx-auto flex max-w-5xl flex-col gap-3 px-4 py-4 sm:flex-row sm:items-center sm:justify-between">
           <p className="text-xs text-muted-foreground">
-            Projeto independente, sem vínculo oficial com a UFMG. Código aberto sob licença AGPL-3.0.
+            Projeto independente, sem vínculo oficial com a UFMG. Código aberto sob
+            licença AGPL-3.0.
           </p>
           <ResetAppButton />
         </div>

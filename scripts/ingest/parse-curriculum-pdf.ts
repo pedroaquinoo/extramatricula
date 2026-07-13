@@ -80,7 +80,19 @@ function formatCourseName(raw: string): string {
 }
 
 function formatClassName(raw: string): string {
-  const lowerParticles = new Set(["a", "e", "o", "de", "da", "do", "das", "dos", "em", "na", "no"])
+  const lowerParticles = new Set([
+    "a",
+    "e",
+    "o",
+    "de",
+    "da",
+    "do",
+    "das",
+    "dos",
+    "em",
+    "na",
+    "no",
+  ])
   const romanNumeral = /^(i{1,3}|iv|v|vi{0,3}|ix|xi{0,3}|xii|xiii)$/i
 
   return raw
@@ -106,7 +118,11 @@ function parsePrerequisites(cells: Map<string, Fragment[]>): string[] {
   return [...codes]
 }
 
-function cellsForRow(frags: Fragment[], top: number, bottom: number): Map<string, Fragment[]> {
+function cellsForRow(
+  frags: Fragment[],
+  top: number,
+  bottom: number,
+): Map<string, Fragment[]> {
   const cells = new Map<string, Fragment[]>()
   for (const f of frags) {
     if (f.y >= bottom - 1 && f.y < top - 1) {
@@ -186,7 +202,9 @@ function extractMetadata(frags: Fragment[]): { courseName: string; shift: Shift 
   }
 
   if (!courseName) {
-    throw new Error("Não foi possível detectar o nome do curso na primeira página do PDF.")
+    throw new Error(
+      "Não foi possível detectar o nome do curso na primeira página do PDF.",
+    )
   }
 
   return { courseName: formatCourseName(courseName), shift }
@@ -297,7 +315,9 @@ export function parseCurriculumPdfBuffer(buffer: Buffer): ParsedCurriculum {
   }
 }
 
-export async function parseCurriculumPdfFile(filePath: string): Promise<ParsedCurriculum> {
+export async function parseCurriculumPdfFile(
+  filePath: string,
+): Promise<ParsedCurriculum> {
   const buffer = await readFile(filePath)
   return parseCurriculumPdfBuffer(buffer)
 }

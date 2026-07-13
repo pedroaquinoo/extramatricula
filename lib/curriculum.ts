@@ -167,4 +167,3 @@ export function isLocked(code: string, courseId: string, passed: Set<string>): b
   if (prerequisites.length === 0) return false
   return !prerequisites.every((prereq) => passed.has(prereq.prerequisite_code))
 }
-

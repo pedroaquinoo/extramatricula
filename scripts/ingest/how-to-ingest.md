@@ -7,14 +7,14 @@ Guia rápido para atualizar `data/offers/` com a oferta do semestre.
 - Node.js 20+ e `pnpm install` já rodado no repo
 - O `offerId` do curso registrado em [`data/curriculum/index.json`](../../data/curriculum/index.json) (veja abaixo se o curso ainda não existir)
 - A oferta do semestre, em um destes formatos:
-  - **PDF** — relatório *Mapa de oferta por curso* (recomendado)
+  - **PDF** — relatório _Mapa de oferta por curso_ (recomendado)
   - **JSON** — snapshot já no formato do app
 
 Diurno e noturno do mesmo curso compartilham um `offerId` (ex.: `controle-automacao`). A grade curricular continua separada por turno.
 
 ## Grade curricular a partir do PDF
 
-Exporte o *Relatório de percurso curricular* do turno desejado. Cada PDF cobre um único turno (diurno ou noturno).
+Exporte o _Relatório de percurso curricular_ do turno desejado. Cada PDF cobre um único turno (diurno ou noturno).
 
 ```bash
 pnpm ingest-curriculum eng-producao-diurno ./curriculum.pdf --offer-id eng-producao
@@ -28,7 +28,7 @@ Só então o `pnpm ingest` de ofertas passa a aceitar o `offerId` correspondente
 
 ## Opção A: a partir do PDF
 
-Exporte o *Mapa de oferta por curso* do curso desejado. Depois rode:
+Exporte o _Mapa de oferta por curso_ do curso desejado. Depois rode:
 
 ```bash
 pnpm ingest 2026/2 controle-automacao ./mapa.pdf
@@ -89,9 +89,7 @@ Abra `/simulation` e confira algumas turmas contra o PDF original.
   "name": "INTRODUÇÃO A BANCO DE DADOS",
   "availabilityCode": "TB",
   "spots": 65,
-  "times": [
-    { "day": "Segunda", "start": "09:25", "end": "11:05" }
-  ],
+  "times": [{ "day": "Segunda", "start": "09:25", "end": "11:05" }],
   "teachers": ["Francisco V. B."]
 }
 ```
@@ -102,11 +100,11 @@ Nomes de professores são gravados como primeiro nome + iniciais (ex.: `Francisc
 
 ## Problemas comuns
 
-| Sintoma | O que checar |
-| --- | --- |
-| `offerId desconhecido` | Registre o curso em `data/curriculum/index.json` primeiro |
-| `Fonte inválida` | Passou `.json` e `.pdf` juntos, ou extensão errada |
-| App sem oferta nova | `current` desatualizado em `data/offers/index.json` |
-| Dados estranhos no PDF | Confirme que o relatório é o *Mapa de oferta por curso*, não outro relatório |
+| Sintoma                | O que checar                                                                 |
+| ---------------------- | ---------------------------------------------------------------------------- |
+| `offerId desconhecido` | Registre o curso em `data/curriculum/index.json` primeiro                    |
+| `Fonte inválida`       | Passou `.json` e `.pdf` juntos, ou extensão errada                           |
+| App sem oferta nova    | `current` desatualizado em `data/offers/index.json`                          |
+| Dados estranhos no PDF | Confirme que o relatório é o _Mapa de oferta por curso_, não outro relatório |
 
 Os parsers vivem em [`parse-offer-pdf.ts`](./parse-offer-pdf.ts) (oferta) e [`parse-curriculum-pdf.ts`](./parse-curriculum-pdf.ts) (grade). São determinísticos (sem LLM) e compartilham utilitários em [`pdf-utils.ts`](./pdf-utils.ts).

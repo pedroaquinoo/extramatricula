@@ -7,6 +7,7 @@ import LandingFooter from "@/components/landing/landing-footer"
 import GithubIcon from "@/components/landing/github-icon"
 import { GITHUB_URL } from "@/components/landing/constants"
 import { GithubStarCount, STAR_URL } from "@/components/landing/github-stars"
+import { getCurrentOfferTerm } from "@/lib/offers"
 
 export const metadata: Metadata = {
   title: "Por que o Extramatrícula existe",
@@ -14,7 +15,12 @@ export const metadata: Metadata = {
     "A história por trás do Extramatrícula: um app open-source feito por um estudante para tornar a matrícula na UFMG menos dolorosa.",
 }
 
+// Roughly how many students planned their semester in the current cycle. Update per cycle.
+const USERS_THIS_CYCLE = 310
+
 export default function PorquePage() {
+  const cycle = getCurrentOfferTerm()
+
   return (
     <div className="flex flex-col">
       <article className="mx-auto w-full max-w-2xl px-4 pt-12 pb-16 sm:pt-20">
@@ -46,6 +52,27 @@ export default function PorquePage() {
             precisar descobrir sua grade na hora do desespero, com o sistema travando e o
             relógio correndo. Dá pra planejar tudo antes, com calma.
           </p>
+
+          <div className="mt-8 w-fit -rotate-1 rounded-xl border bg-card p-4 shadow-md mx-auto">
+            <div className="flex items-center gap-3">
+              <span className="text-xs font-medium tracking-wide text-muted-foreground uppercase">
+                Ciclo de matrícula {cycle}
+              </span>
+              <span className="inline-flex items-center gap-1.5 rounded-full bg-green-500/10 px-2 py-0.5 text-xs font-medium text-green-600 dark:text-green-400">
+                <span className="relative flex size-2">
+                  <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-green-500 opacity-75" />
+                  <span className="relative inline-flex size-2 rounded-full bg-green-500" />
+                </span>
+                Ao vivo
+              </span>
+            </div>
+            <p className="mt-2 text-2xl font-semibold tracking-tight text-foreground">
+              {USERS_THIS_CYCLE.toLocaleString("pt-BR")}{" "}
+              <span className="text-sm font-normal text-muted-foreground">
+                usuários neste ciclo
+              </span>
+            </p>
+          </div>
 
           <h2 className="pt-4 text-xl font-semibold tracking-tight text-foreground">
             O que ele resolve

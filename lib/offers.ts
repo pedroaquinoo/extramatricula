@@ -42,7 +42,7 @@ const offersByTermAndOfferId: Record<string, Record<string, AvailableClass[]>> =
     "eng-producao": offer20262EngProducao as AvailableClass[],
     "eng-quimica": offer20262EngQuimica as AvailableClass[],
     "eng-sistemas": offer20262EngSistemas as AvailableClass[],
-    "estatistica": offer20262Estatistica as AvailableClass[],
+    estatistica: offer20262Estatistica as AvailableClass[],
     "sistemas-informacao": offer20262SistemasInformacao as AvailableClass[],
   },
 }
@@ -101,4 +101,3 @@ export function findTurmasAcrossOffers(
 
   return Array.from(byAvailabilityCode.values())
 }
-

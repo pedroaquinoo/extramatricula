@@ -16,6 +16,7 @@ import { Badge } from "@/components/ui/badge"
 import { Clock, Users } from "lucide-react"
 import { useAvailableClasses, type AvailableClass } from "@/hooks/use-available-classes"
 import { useCourseData } from "@/hooks/use-course-data"
+import { isLocked } from "@/lib/curriculum"
 import { getCurrentOfferTerm } from "@/lib/offers"
 import { getShift, isOffShift } from "@/lib/shift"
 import { OffShiftBadge } from "@/components/extra/off-shift-badge"
@@ -23,18 +24,29 @@ import { OffShiftBadge } from "@/components/extra/off-shift-badge"
 type ClassSearchProps = {
   onSelectClass: (cls: AvailableClass) => void
   selectedClasses: AvailableClass[]
+  ignorePrereqs?: boolean
 }
 
-export function ClassSearch({ onSelectClass, selectedClasses }: ClassSearchProps) {
+export function ClassSearch({
+  onSelectClass,
+  selectedClasses,
+  ignorePrereqs = false,
+}: ClassSearchProps) {
   const [open, setOpen] = useState(false)
   const [searchValue, setSearchValue] = useState("")
   const { availableClasses } = useAvailableClasses()
-  const { course, passedSet } = useCourseData()
+  const { course, courseId, passedSet } = useCourseData()
   const shift = getShift(course)
   const term = getCurrentOfferTerm()
 
-  // Hide classes the user has already taken, based on their stored curriculum.
-  const classes = availableClasses.filter((cls) => !passedSet.has(cls.course_id))
+  // Hide classes the user has already taken, plus disciplines still locked by unmet
+  // prerequisites — they can't be enrolled in yet, so surfacing them here is misleading.
+  // When the student opts to ignore prerequisites, keep the locked disciplines visible.
+  const classes = availableClasses.filter(
+    (cls) =>
+      !passedSet.has(cls.course_id) &&
+      (ignorePrereqs || !(courseId && isLocked(cls.course_id, courseId, passedSet))),
+  )
 
   const sectionCounts = classes.reduce<Record<string, number>>((acc, cls) => {
     acc[cls.course_id] = (acc[cls.course_id] ?? 0) + 1
@@ -119,7 +131,7 @@ export function ClassSearch({ onSelectClass, selectedClasses }: ClassSearchProps
                         {formatTime(time)}
                       </Badge>
                     ))}
-                    {                      sectionCounts[classItem.course_id] > 1 &&
+                    {sectionCounts[classItem.course_id] > 1 &&
                       isOffShift(shift, classItem.times) && <OffShiftBadge />}
                   </div>
                 </CommandItem>

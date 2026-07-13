@@ -9,6 +9,10 @@ export const metadata: Metadata = {
   },
 }
 
-export default function SharedScheduleLayout({ children }: { children: React.ReactNode }) {
+export default function SharedScheduleLayout({
+  children,
+}: {
+  children: React.ReactNode
+}) {
   return children
 }

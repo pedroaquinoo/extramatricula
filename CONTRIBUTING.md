@@ -37,7 +37,7 @@ Hoje o app cobre apenas Eng. de Controle e Automação (diurno e noturno). Adici
      em data/curriculum/, como registrar o curso em index.json, e como as cadeias de
      pré-requisitos são representadas. -->
 
-*Processo ainda não documentado.* Se você quer adicionar o seu curso, abra uma issue e a gente escreve esta seção junto com você.
+_Processo ainda não documentado._ Se você quer adicionar o seu curso, abra uma issue e a gente escreve esta seção junto com você.
 
 ## Pull Requests
 

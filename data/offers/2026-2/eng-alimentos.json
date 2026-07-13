@@ -16,9 +16,7 @@
         "end": "15:00"
       }
     ],
-    "teachers": [
-      "Mario D. H. B."
-    ]
+    "teachers": ["Mario D. H. B."]
   },
   {
     "course_id": "ICA005",
@@ -32,9 +30,7 @@
         "end": "16:00"
       }
     ],
-    "teachers": [
-      "Marcelo V. M. P."
-    ]
+    "teachers": ["Marcelo V. M. P."]
   },
   {
     "course_id": "ICA005",
@@ -48,9 +44,7 @@
         "end": "17:00"
       }
     ],
-    "teachers": [
-      "Marcelo V. M. P."
-    ]
+    "teachers": ["Marcelo V. M. P."]
   },
   {
     "course_id": "ICA005",
@@ -64,9 +58,7 @@
         "end": "17:00"
       }
     ],
-    "teachers": [
-      "Marcelo V. M. P."
-    ]
+    "teachers": ["Marcelo V. M. P."]
   },
   {
     "course_id": "ICA104",
@@ -80,9 +72,7 @@
         "end": "16:00"
       }
     ],
-    "teachers": [
-      "Charles M. A."
-    ]
+    "teachers": ["Charles M. A."]
   },
   {
     "course_id": "ICA104",
@@ -96,9 +86,7 @@
         "end": "12:00"
       }
     ],
-    "teachers": [
-      "Charles M. A."
-    ]
+    "teachers": ["Charles M. A."]
   },
   {
     "course_id": "ICA104",
@@ -112,9 +100,7 @@
         "end": "10:00"
       }
     ],
-    "teachers": [
-      "Charles M. A."
-    ]
+    "teachers": ["Charles M. A."]
   },
   {
     "course_id": "ICA105",
@@ -128,9 +114,7 @@
         "end": "12:00"
       }
     ],
-    "teachers": [
-      "Roberta T. C."
-    ]
+    "teachers": ["Roberta T. C."]
   },
   {
     "course_id": "ICA105",
@@ -144,9 +128,7 @@
         "end": "16:00"
       }
     ],
-    "teachers": [
-      "Roberta T. C."
-    ]
+    "teachers": ["Roberta T. C."]
   },
   {
     "course_id": "ICA105",
@@ -160,9 +142,7 @@
         "end": "10:00"
       }
     ],
-    "teachers": [
-      "Roberta T. C."
-    ]
+    "teachers": ["Roberta T. C."]
   },
   {
     "course_id": "ICA113",
@@ -176,9 +156,7 @@
         "end": "18:00"
       }
     ],
-    "teachers": [
-      "Sergio H. S. S."
-    ]
+    "teachers": ["Sergio H. S. S."]
   },
   {
     "course_id": "ICA118",
@@ -192,9 +170,7 @@
         "end": "17:00"
       }
     ],
-    "teachers": [
-      "Aureo E. M. R."
-    ]
+    "teachers": ["Aureo E. M. R."]
   },
   {
     "course_id": "ICA127",
@@ -202,9 +178,7 @@
     "availabilityCode": "P1",
     "spots": 46,
     "times": [],
-    "teachers": [
-      "Milton N. C. C."
-    ]
+    "teachers": ["Milton N. C. C."]
   },
   {
     "course_id": "ICA128",
@@ -223,9 +197,7 @@
         "end": "15:00"
       }
     ],
-    "teachers": [
-      "Maximiliano S. P."
-    ]
+    "teachers": ["Maximiliano S. P."]
   },
   {
     "course_id": "ICA129",
@@ -233,9 +205,7 @@
     "availabilityCode": "P1",
     "spots": 46,
     "times": [],
-    "teachers": [
-      "Milton N. C. C."
-    ]
+    "teachers": ["Milton N. C. C."]
   },
   {
     "course_id": "ICA139",
@@ -249,9 +219,7 @@
         "end": "12:00"
       }
     ],
-    "teachers": [
-      "Bruna M. A. C. M."
-    ]
+    "teachers": ["Bruna M. A. C. M."]
   },
   {
     "course_id": "ICA139",
@@ -265,9 +233,7 @@
         "end": "12:00"
       }
     ],
-    "teachers": [
-      "Junio C. S."
-    ]
+    "teachers": ["Junio C. S."]
   },
   {
     "course_id": "ICA140",
@@ -281,9 +247,7 @@
         "end": "18:00"
       }
     ],
-    "teachers": [
-      "Caroline L. P."
-    ]
+    "teachers": ["Caroline L. P."]
   },
   {
     "course_id": "ICA140",
@@ -297,11 +261,7 @@
         "end": "17:00"
       }
     ],
-    "teachers": [
-      "Claudia R. V.",
-      "Bruna M. A. C. M.",
-      "Juliana P. L."
-    ]
+    "teachers": ["Claudia R. V.", "Bruna M. A. C. M.", "Juliana P. L."]
   },
   {
     "course_id": "ICA140",
@@ -315,9 +275,7 @@
         "end": "16:00"
       }
     ],
-    "teachers": [
-      "Juliana P. L."
-    ]
+    "teachers": ["Juliana P. L."]
   },
   {
     "course_id": "ICA140",
@@ -331,9 +289,7 @@
         "end": "16:00"
       }
     ],
-    "teachers": [
-      "Gustavo L. T."
-    ]
+    "teachers": ["Gustavo L. T."]
   },
   {
     "course_id": "ICA140",
@@ -347,9 +303,7 @@
         "end": "17:00"
       }
     ],
-    "teachers": [
-      "Juliana P. L."
-    ]
+    "teachers": ["Juliana P. L."]
   },
   {
     "course_id": "ICA140",
@@ -363,9 +317,7 @@
         "end": "19:00"
       }
     ],
-    "teachers": [
-      "Janaina T. F."
-    ]
+    "teachers": ["Janaina T. F."]
   },
   {
     "course_id": "ICA140",
@@ -379,9 +331,7 @@
         "end": "16:00"
       }
     ],
-    "teachers": [
-      "Claudia R. V."
-    ]
+    "teachers": ["Claudia R. V."]
   },
   {
     "course_id": "ICA201",
@@ -400,9 +350,7 @@
         "end": "15:00"
       }
     ],
-    "teachers": [
-      "Renato D. M."
-    ]
+    "teachers": ["Renato D. M."]
   },
   {
     "course_id": "ICA223",
@@ -416,9 +364,7 @@
         "end": "16:00"
       }
     ],
-    "teachers": [
-      "Ulisses A. P."
-    ]
+    "teachers": ["Ulisses A. P."]
   },
   {
     "course_id": "ICA223",
@@ -432,9 +378,7 @@
         "end": "18:00"
       }
     ],
-    "teachers": [
-      "Ulisses A. P."
-    ]
+    "teachers": ["Ulisses A. P."]
   },
   {
     "course_id": "ICA223",
@@ -448,9 +392,7 @@
         "end": "14:00"
       }
     ],
-    "teachers": [
-      "Ulisses A. P."
-    ]
+    "teachers": ["Ulisses A. P."]
   },
   {
     "course_id": "ICA245",
@@ -464,9 +406,7 @@
         "end": "16:00"
       }
     ],
-    "teachers": [
-      "Claudia R. V."
-    ]
+    "teachers": ["Claudia R. V."]
   },
   {
     "course_id": "ICA376",
@@ -480,9 +420,7 @@
         "end": "22:00"
       }
     ],
-    "teachers": [
-      "Caroline L. P."
-    ]
+    "teachers": ["Caroline L. P."]
   },
   {
     "course_id": "ICA390",
@@ -501,9 +439,7 @@
         "end": "15:00"
       }
     ],
-    "teachers": [
-      "Janaina T. F."
-    ]
+    "teachers": ["Janaina T. F."]
   },
   {
     "course_id": "ICA573",
@@ -517,9 +453,7 @@
         "end": "12:00"
       }
     ],
-    "teachers": [
-      "Maria F. L. A."
-    ]
+    "teachers": ["Maria F. L. A."]
   },
   {
     "course_id": "ICA574",
@@ -538,9 +472,7 @@
         "end": "12:00"
       }
     ],
-    "teachers": [
-      "William J. N. L."
-    ]
+    "teachers": ["William J. N. L."]
   },
   {
     "course_id": "ICA578",
@@ -554,9 +486,7 @@
         "end": "17:00"
       }
     ],
-    "teachers": [
-      "Juliana P. L."
-    ]
+    "teachers": ["Juliana P. L."]
   },
   {
     "course_id": "ICA578",
@@ -570,9 +500,7 @@
         "end": "18:00"
       }
     ],
-    "teachers": [
-      "Juliana P. L."
-    ]
+    "teachers": ["Juliana P. L."]
   },
   {
     "course_id": "ICA578",
@@ -586,9 +514,7 @@
         "end": "16:00"
       }
     ],
-    "teachers": [
-      "Juliana P. L."
-    ]
+    "teachers": ["Juliana P. L."]
   },
   {
     "course_id": "ICA579",
@@ -602,9 +528,7 @@
         "end": "18:00"
       }
     ],
-    "teachers": [
-      "Milton N. C. C."
-    ]
+    "teachers": ["Milton N. C. C."]
   },
   {
     "course_id": "ICA579",
@@ -618,9 +542,7 @@
         "end": "16:00"
       }
     ],
-    "teachers": [
-      "Milton N. C. C."
-    ]
+    "teachers": ["Milton N. C. C."]
   },
   {
     "course_id": "ICA579",
@@ -634,9 +556,7 @@
         "end": "15:00"
       }
     ],
-    "teachers": [
-      "Milton N. C. C."
-    ]
+    "teachers": ["Milton N. C. C."]
   },
   {
     "course_id": "ICA580",
@@ -650,9 +570,7 @@
         "end": "10:00"
       }
     ],
-    "teachers": [
-      "Igor V. B."
-    ]
+    "teachers": ["Igor V. B."]
   },
   {
     "course_id": "ICA580",
@@ -666,9 +584,7 @@
         "end": "12:00"
       }
     ],
-    "teachers": [
-      "Igor V. B."
-    ]
+    "teachers": ["Igor V. B."]
   },
   {
     "course_id": "ICA581",
@@ -682,9 +598,7 @@
         "end": "12:00"
       }
     ],
-    "teachers": [
-      "Claudia R. V."
-    ]
+    "teachers": ["Claudia R. V."]
   },
   {
     "course_id": "ICA581",
@@ -698,9 +612,7 @@
         "end": "15:00"
       }
     ],
-    "teachers": [
-      "Claudia R. V."
-    ]
+    "teachers": ["Claudia R. V."]
   },
   {
     "course_id": "ICA581",
@@ -714,9 +626,7 @@
         "end": "10:00"
       }
     ],
-    "teachers": [
-      "Claudia R. V."
-    ]
+    "teachers": ["Claudia R. V."]
   },
   {
     "course_id": "ICA582",
@@ -730,9 +640,7 @@
         "end": "12:00"
       }
     ],
-    "teachers": [
-      "Fausto M."
-    ]
+    "teachers": ["Fausto M."]
   },
   {
     "course_id": "ICA590",
@@ -746,9 +654,7 @@
         "end": "19:00"
       }
     ],
-    "teachers": [
-      "Janaina T. F."
-    ]
+    "teachers": ["Janaina T. F."]
   },
   {
     "course_id": "ICA594",
@@ -762,9 +668,7 @@
         "end": "16:00"
       }
     ],
-    "teachers": [
-      "Juliana P. L."
-    ]
+    "teachers": ["Juliana P. L."]
   },
   {
     "course_id": "ICA612",
@@ -778,11 +682,7 @@
         "end": "17:00"
       }
     ],
-    "teachers": [
-      "Juliana P. L.",
-      "Claudia R. V.",
-      "Bruna M. A. C. M."
-    ]
+    "teachers": ["Juliana P. L.", "Claudia R. V.", "Bruna M. A. C. M."]
   },
   {
     "course_id": "ICA612",
@@ -796,9 +696,7 @@
         "end": "16:00"
       }
     ],
-    "teachers": [
-      "Gustavo L. T."
-    ]
+    "teachers": ["Gustavo L. T."]
   },
   {
     "course_id": "ICA614",
@@ -812,9 +710,7 @@
         "end": "12:00"
       }
     ],
-    "teachers": [
-      "Bruna M. A. C. M."
-    ]
+    "teachers": ["Bruna M. A. C. M."]
   },
   {
     "course_id": "ICA614",
@@ -828,9 +724,7 @@
         "end": "12:00"
       }
     ],
-    "teachers": [
-      "Junio C. S."
-    ]
+    "teachers": ["Junio C. S."]
   },
   {
     "course_id": "ICA615",
@@ -844,9 +738,7 @@
         "end": "11:00"
       }
     ],
-    "teachers": [
-      "Gustavo L. T."
-    ]
+    "teachers": ["Gustavo L. T."]
   },
   {
     "course_id": "ICA617",
@@ -860,9 +752,7 @@
         "end": "18:00"
       }
     ],
-    "teachers": [
-      "Caroline L. P."
-    ]
+    "teachers": ["Caroline L. P."]
   },
   {
     "course_id": "ICA618",
@@ -881,9 +771,7 @@
         "end": "17:00"
       }
     ],
-    "teachers": [
-      "Mario D. H. B."
-    ]
+    "teachers": ["Mario D. H. B."]
   },
   {
     "course_id": "ICA619",
@@ -897,9 +785,7 @@
         "end": "16:00"
       }
     ],
-    "teachers": [
-      "Claudia R. V."
-    ]
+    "teachers": ["Claudia R. V."]
   },
   {
     "course_id": "ICA620",
@@ -913,9 +799,7 @@
         "end": "12:00"
       }
     ],
-    "teachers": [
-      "Luiz C. G. F."
-    ]
+    "teachers": ["Luiz C. G. F."]
   },
   {
     "course_id": "ICA621",
@@ -929,9 +813,7 @@
         "end": "12:00"
       }
     ],
-    "teachers": [
-      "Sergio H. S. S."
-    ]
+    "teachers": ["Sergio H. S. S."]
   },
   {
     "course_id": "ICA621",
@@ -945,9 +827,7 @@
         "end": "10:00"
       }
     ],
-    "teachers": [
-      "Sergio H. S. S."
-    ]
+    "teachers": ["Sergio H. S. S."]
   },
   {
     "course_id": "ICA624",
@@ -961,9 +841,7 @@
         "end": "19:00"
       }
     ],
-    "teachers": [
-      "Renato D. M."
-    ]
+    "teachers": ["Renato D. M."]
   },
   {
     "course_id": "ICA625",
@@ -977,9 +855,7 @@
         "end": "16:00"
       }
     ],
-    "teachers": [
-      "Roberta T. C."
-    ]
+    "teachers": ["Roberta T. C."]
   },
   {
     "course_id": "ICA625",
@@ -993,9 +869,7 @@
         "end": "18:00"
       }
     ],
-    "teachers": [
-      "Roberta T. C."
-    ]
+    "teachers": ["Roberta T. C."]
   },
   {
     "course_id": "ICA625",
@@ -1009,9 +883,7 @@
         "end": "18:00"
       }
     ],
-    "teachers": [
-      "Roberta T. C."
-    ]
+    "teachers": ["Roberta T. C."]
   },
   {
     "course_id": "ICA632",
@@ -1025,9 +897,7 @@
         "end": "10:00"
       }
     ],
-    "teachers": [
-      "William J. N. L."
-    ]
+    "teachers": ["William J. N. L."]
   },
   {
     "course_id": "ICA633",
@@ -1046,9 +916,7 @@
         "end": "12:00"
       }
     ],
-    "teachers": [
-      "Janaina T. F."
-    ]
+    "teachers": ["Janaina T. F."]
   },
   {
     "course_id": "ICA634",
@@ -1062,9 +930,7 @@
         "end": "10:00"
       }
     ],
-    "teachers": [
-      "Erika E. A."
-    ]
+    "teachers": ["Erika E. A."]
   },
   {
     "course_id": "ICA634",
@@ -1078,9 +944,7 @@
         "end": "16:00"
       }
     ],
-    "teachers": [
-      "Erika E. A."
-    ]
+    "teachers": ["Erika E. A."]
   },
   {
     "course_id": "ICA634",
@@ -1094,9 +958,7 @@
         "end": "08:00"
       }
     ],
-    "teachers": [
-      "Erika E. A."
-    ]
+    "teachers": ["Erika E. A."]
   },
   {
     "course_id": "ICA638",
@@ -1104,9 +966,7 @@
     "availabilityCode": "P1",
     "spots": 46,
     "times": [],
-    "teachers": [
-      "Milton N. C. C."
-    ]
+    "teachers": ["Milton N. C. C."]
   },
   {
     "course_id": "ICA639",
@@ -1120,9 +980,7 @@
         "end": "15:00"
       }
     ],
-    "teachers": [
-      "Maximiliano S. P."
-    ]
+    "teachers": ["Maximiliano S. P."]
   },
   {
     "course_id": "ICA641",
@@ -1136,9 +994,7 @@
         "end": "16:00"
       }
     ],
-    "teachers": [
-      "Claudia R. V."
-    ]
+    "teachers": ["Claudia R. V."]
   },
   {
     "course_id": "LET223",
@@ -1146,9 +1002,7 @@
     "availabilityCode": "TOL1",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Rodrigo A. F."
-    ]
+    "teachers": ["Rodrigo A. F."]
   },
   {
     "course_id": "LET223",
@@ -1156,9 +1010,7 @@
     "availabilityCode": "TOL2",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Rodrigo A. F."
-    ]
+    "teachers": ["Rodrigo A. F."]
   },
   {
     "course_id": "LET223",
@@ -1166,9 +1018,7 @@
     "availabilityCode": "TOL3",
     "spots": 499,
     "times": [],
-    "teachers": [
-      "Rodrigo A. F."
-    ]
+    "teachers": ["Rodrigo A. F."]
   },
   {
     "course_id": "LET223",
@@ -1176,9 +1026,7 @@
     "availabilityCode": "TOL4",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Warley M. S."
-    ]
+    "teachers": ["Warley M. S."]
   },
   {
     "course_id": "LET223",
@@ -1186,9 +1034,7 @@
     "availabilityCode": "TOL5",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Warley M. S."
-    ]
+    "teachers": ["Warley M. S."]
   },
   {
     "course_id": "LET223",
@@ -1196,9 +1042,7 @@
     "availabilityCode": "TOL6",
     "spots": 499,
     "times": [],
-    "teachers": [
-      "Warley M. S."
-    ]
+    "teachers": ["Warley M. S."]
   },
   {
     "course_id": "UNI001",
@@ -1206,9 +1050,7 @@
     "availabilityCode": "TOL1",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Ronaldo C. G. J."
-    ]
+    "teachers": ["Ronaldo C. G. J."]
   },
   {
     "course_id": "UNI001",
@@ -1216,9 +1058,7 @@
     "availabilityCode": "TOL2",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Luciana O. S."
-    ]
+    "teachers": ["Luciana O. S."]
   },
   {
     "course_id": "UNI001",
@@ -1226,9 +1066,7 @@
     "availabilityCode": "TOL3",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Luciana O. S."
-    ]
+    "teachers": ["Luciana O. S."]
   },
   {
     "course_id": "UNI002",
@@ -1236,9 +1074,7 @@
     "availabilityCode": "TOL1",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Ronaldo C. G. J."
-    ]
+    "teachers": ["Ronaldo C. G. J."]
   },
   {
     "course_id": "UNI002",
@@ -1246,9 +1082,7 @@
     "availabilityCode": "TOL2",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Junia C. F. B."
-    ]
+    "teachers": ["Junia C. F. B."]
   },
   {
     "course_id": "UNI002",
@@ -1256,9 +1090,7 @@
     "availabilityCode": "TOL3",
     "spots": 499,
     "times": [],
-    "teachers": [
-      "Luciana O. S."
-    ]
+    "teachers": ["Luciana O. S."]
   },
   {
     "course_id": "UNI003",
@@ -1266,9 +1098,7 @@
     "availabilityCode": "TOL1",
     "spots": 94,
     "times": [],
-    "teachers": [
-      "Luana L. A."
-    ]
+    "teachers": ["Luana L. A."]
   },
   {
     "course_id": "UNI003",
@@ -1276,9 +1106,7 @@
     "availabilityCode": "TOL2",
     "spots": 94,
     "times": [],
-    "teachers": [
-      "Luana L. A."
-    ]
+    "teachers": ["Luana L. A."]
   },
   {
     "course_id": "UNI003",
@@ -1286,9 +1114,7 @@
     "availabilityCode": "TOL3",
     "spots": 94,
     "times": [],
-    "teachers": [
-      "Raquel L. A. A."
-    ]
+    "teachers": ["Raquel L. A. A."]
   },
   {
     "course_id": "UNI003",
@@ -1296,9 +1122,7 @@
     "availabilityCode": "TOL4",
     "spots": 94,
     "times": [],
-    "teachers": [
-      "Raquel L. A. A."
-    ]
+    "teachers": ["Raquel L. A. A."]
   },
   {
     "course_id": "UNI003",
@@ -1306,9 +1130,7 @@
     "availabilityCode": "TOL5",
     "spots": 94,
     "times": [],
-    "teachers": [
-      "Ana C. F. M."
-    ]
+    "teachers": ["Ana C. F. M."]
   },
   {
     "course_id": "UNI010",
@@ -1322,9 +1144,7 @@
         "end": "11:00"
       }
     ],
-    "teachers": [
-      "Gustavo L. T."
-    ]
+    "teachers": ["Gustavo L. T."]
   },
   {
     "course_id": "UNI010",
@@ -1338,9 +1158,7 @@
         "end": "17:00"
       }
     ],
-    "teachers": [
-      "Marilda T. M."
-    ]
+    "teachers": ["Marilda T. M."]
   },
   {
     "course_id": "UNI010",
@@ -1354,8 +1172,6 @@
         "end": "17:00"
       }
     ],
-    "teachers": [
-      "Marilda T. M."
-    ]
+    "teachers": ["Marilda T. M."]
   }
 ]

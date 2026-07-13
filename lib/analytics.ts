@@ -8,10 +8,7 @@ const analyticsEnabled = Boolean("phc_B9FEPkwx4CT2kf6dCyNfEwgUIdVCVg7J8unhgqyuws
 
 let progressTimer: ReturnType<typeof setTimeout> | undefined
 
-export function captureEvent(
-  event: string,
-  properties?: Record<string, unknown>,
-) {
+export function captureEvent(event: string, properties?: Record<string, unknown>) {
   if (!analyticsEnabled) return
   posthog.capture(event, properties)
 }

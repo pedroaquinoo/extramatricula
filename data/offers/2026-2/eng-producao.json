@@ -11,9 +11,7 @@
         "end": "11:10"
       }
     ],
-    "teachers": [
-      "Braulio B. N."
-    ]
+    "teachers": ["Braulio B. N."]
   },
   {
     "course_id": "DCC011",
@@ -32,9 +30,7 @@
         "end": "11:05"
       }
     ],
-    "teachers": [
-      "Rodrygo L. T. S."
-    ]
+    "teachers": ["Rodrygo L. T. S."]
   },
   {
     "course_id": "DCC011",
@@ -53,9 +49,7 @@
         "end": "20:40"
       }
     ],
-    "teachers": [
-      "Clodoveu A. D. J."
-    ]
+    "teachers": ["Clodoveu A. D. J."]
   },
   {
     "course_id": "DCC203",
@@ -74,9 +68,7 @@
         "end": "14:40"
       }
     ],
-    "teachers": [
-      "Pedro O. S. V. M."
-    ]
+    "teachers": ["Pedro O. S. V. M."]
   },
   {
     "course_id": "DCC203",
@@ -95,9 +87,7 @@
         "end": "14:40"
       }
     ],
-    "teachers": [
-      "Raquel C. M. M."
-    ]
+    "teachers": ["Raquel C. M. M."]
   },
   {
     "course_id": "DCC204",
@@ -116,9 +106,7 @@
         "end": "14:40"
       }
     ],
-    "teachers": [
-      "Paulo A. F. R."
-    ]
+    "teachers": ["Paulo A. F. R."]
   },
   {
     "course_id": "DCC204",
@@ -137,9 +125,7 @@
         "end": "14:40"
       }
     ],
-    "teachers": [
-      "Thiago F. N."
-    ]
+    "teachers": ["Thiago F. N."]
   },
   {
     "course_id": "DCC603",
@@ -158,9 +144,7 @@
         "end": "16:35"
       }
     ],
-    "teachers": [
-      "Marco T. O. V."
-    ]
+    "teachers": ["Marco T. O. V."]
   },
   {
     "course_id": "ECN075",
@@ -174,9 +158,7 @@
         "end": "09:10"
       }
     ],
-    "teachers": [
-      "Joao P. R."
-    ]
+    "teachers": ["Joao P. R."]
   },
   {
     "course_id": "ECN075",
@@ -190,9 +172,7 @@
         "end": "09:10"
       }
     ],
-    "teachers": [
-      "Igor V. M. S."
-    ]
+    "teachers": ["Igor V. M. S."]
   },
   {
     "course_id": "ECN075",
@@ -206,9 +186,7 @@
         "end": "22:35"
       }
     ],
-    "teachers": [
-      "Ronaldo N."
-    ]
+    "teachers": ["Ronaldo N."]
   },
   {
     "course_id": "EPD001",
@@ -227,10 +205,7 @@
         "end": "11:05"
       }
     ],
-    "teachers": [
-      "Raoni G. L. R.",
-      "Talita V. G."
-    ]
+    "teachers": ["Raoni G. L. R.", "Talita V. G."]
   },
   {
     "course_id": "EPD034",
@@ -249,9 +224,7 @@
         "end": "09:10"
       }
     ],
-    "teachers": [
-      "Rafael A. S. R. P."
-    ]
+    "teachers": ["Rafael A. S. R. P."]
   },
   {
     "course_id": "EPD048",
@@ -270,9 +243,7 @@
         "end": "12:50"
       }
     ],
-    "teachers": [
-      "Samuel V. C."
-    ]
+    "teachers": ["Samuel V. C."]
   },
   {
     "course_id": "EPD048",
@@ -291,9 +262,7 @@
         "end": "11:05"
       }
     ],
-    "teachers": [
-      "Noel T. J."
-    ]
+    "teachers": ["Noel T. J."]
   },
   {
     "course_id": "EPD048",
@@ -307,9 +276,7 @@
         "end": "12:50"
       }
     ],
-    "teachers": [
-      "Anderson L. G. T."
-    ]
+    "teachers": ["Anderson L. G. T."]
   },
   {
     "course_id": "EPD048",
@@ -328,9 +295,7 @@
         "end": "09:10"
       }
     ],
-    "teachers": [
-      "Lasara F. R."
-    ]
+    "teachers": ["Lasara F. R."]
   },
   {
     "course_id": "EPD048",
@@ -349,9 +314,7 @@
         "end": "09:10"
       }
     ],
-    "teachers": [
-      "Raoni B. B."
-    ]
+    "teachers": ["Raoni B. B."]
   },
   {
     "course_id": "EPD048",
@@ -365,9 +328,7 @@
         "end": "12:50"
       }
     ],
-    "teachers": [
-      "Marcelo A. C."
-    ]
+    "teachers": ["Marcelo A. C."]
   },
   {
     "course_id": "EPD048",
@@ -386,9 +347,7 @@
         "end": "11:05"
       }
     ],
-    "teachers": [
-      "Eduardo R. F."
-    ]
+    "teachers": ["Eduardo R. F."]
   },
   {
     "course_id": "EPD048",
@@ -402,9 +361,7 @@
         "end": "12:50"
       }
     ],
-    "teachers": [
-      "Joao F. F. A."
-    ]
+    "teachers": ["Joao F. F. A."]
   },
   {
     "course_id": "EPD048",
@@ -423,9 +380,7 @@
         "end": "11:05"
       }
     ],
-    "teachers": [
-      "Lasara F. R."
-    ]
+    "teachers": ["Lasara F. R."]
   },
   {
     "course_id": "EPD048",
@@ -439,9 +394,7 @@
         "end": "11:05"
       }
     ],
-    "teachers": [
-      "Rodrigo M. R."
-    ]
+    "teachers": ["Rodrigo M. R."]
   },
   {
     "course_id": "EPD048",
@@ -460,9 +413,7 @@
         "end": "11:05"
       }
     ],
-    "teachers": [
-      "Mauricio C. S."
-    ]
+    "teachers": ["Mauricio C. S."]
   },
   {
     "course_id": "EPD059",
@@ -481,10 +432,7 @@
         "end": "12:50"
       }
     ],
-    "teachers": [
-      "William A. V.",
-      "Marcelo A. S."
-    ]
+    "teachers": ["William A. V.", "Marcelo A. S."]
   },
   {
     "course_id": "EPD064",
@@ -503,9 +451,7 @@
         "end": "09:10"
       }
     ],
-    "teachers": [
-      "Rodrigo M. R."
-    ]
+    "teachers": ["Rodrigo M. R."]
   },
   {
     "course_id": "EPD065",
@@ -524,9 +470,7 @@
         "end": "11:05"
       }
     ],
-    "teachers": [
-      "Carlos R. V. C."
-    ]
+    "teachers": ["Carlos R. V. C."]
   },
   {
     "course_id": "EPD066",
@@ -545,9 +489,7 @@
         "end": "11:05"
       }
     ],
-    "teachers": [
-      "Samuel V. C."
-    ]
+    "teachers": ["Samuel V. C."]
   },
   {
     "course_id": "EPD067",
@@ -566,9 +508,7 @@
         "end": "09:10"
       }
     ],
-    "teachers": [
-      "Alvaro L. F."
-    ]
+    "teachers": ["Alvaro L. F."]
   },
   {
     "course_id": "EPD068",
@@ -587,9 +527,7 @@
         "end": "09:10"
       }
     ],
-    "teachers": [
-      "Ana V. C. D."
-    ]
+    "teachers": ["Ana V. C. D."]
   },
   {
     "course_id": "EPD069",
@@ -608,9 +546,7 @@
         "end": "14:40"
       }
     ],
-    "teachers": [
-      "Noel T. J."
-    ]
+    "teachers": ["Noel T. J."]
   },
   {
     "course_id": "EPD071",
@@ -629,10 +565,7 @@
         "end": "12:50"
       }
     ],
-    "teachers": [
-      "William A. V.",
-      "Marcelo A. S."
-    ]
+    "teachers": ["William A. V.", "Marcelo A. S."]
   },
   {
     "course_id": "EPD072",
@@ -651,9 +584,7 @@
         "end": "12:50"
       }
     ],
-    "teachers": [
-      "Mauricio C. S."
-    ]
+    "teachers": ["Mauricio C. S."]
   },
   {
     "course_id": "EPD073",
@@ -672,9 +603,7 @@
         "end": "09:10"
       }
     ],
-    "teachers": [
-      "Eduardo R. F."
-    ]
+    "teachers": ["Eduardo R. F."]
   },
   {
     "course_id": "EPD076",
@@ -848,9 +777,7 @@
         "end": "11:05"
       }
     ],
-    "teachers": [
-      "Rafael A. S. R. P."
-    ]
+    "teachers": ["Rafael A. S. R. P."]
   },
   {
     "course_id": "EPD080",
@@ -858,9 +785,7 @@
     "availabilityCode": "TTKL2",
     "spots": 50,
     "times": [],
-    "teachers": [
-      "William A. V."
-    ]
+    "teachers": ["William A. V."]
   },
   {
     "course_id": "EPD080",
@@ -874,9 +799,7 @@
         "end": "11:05"
       }
     ],
-    "teachers": [
-      "Talita V. G."
-    ]
+    "teachers": ["Talita V. G."]
   },
   {
     "course_id": "EPD080",
@@ -884,9 +807,7 @@
     "availabilityCode": "TTMS1",
     "spots": 50,
     "times": [],
-    "teachers": [
-      "Marcelo A. S."
-    ]
+    "teachers": ["Marcelo A. S."]
   },
   {
     "course_id": "EPD080",
@@ -900,9 +821,7 @@
         "end": "11:05"
       }
     ],
-    "teachers": [
-      "Rafael A. S. R. P."
-    ]
+    "teachers": ["Rafael A. S. R. P."]
   },
   {
     "course_id": "EPD095",
@@ -916,9 +835,7 @@
         "end": "12:50"
       }
     ],
-    "teachers": [
-      "Anderson L. G. T."
-    ]
+    "teachers": ["Anderson L. G. T."]
   },
   {
     "course_id": "EPD095",
@@ -932,9 +849,7 @@
         "end": "12:50"
       }
     ],
-    "teachers": [
-      "Anderson L. G. T."
-    ]
+    "teachers": ["Anderson L. G. T."]
   },
   {
     "course_id": "EPD096",
@@ -964,9 +879,7 @@
         "end": "16:35"
       }
     ],
-    "teachers": [
-      "Carlos R. V. C."
-    ]
+    "teachers": ["Carlos R. V. C."]
   },
   {
     "course_id": "EPD113",
@@ -980,9 +893,7 @@
         "end": "16:35"
       }
     ],
-    "teachers": [
-      "Carlos R. V. C."
-    ]
+    "teachers": ["Carlos R. V. C."]
   },
   {
     "course_id": "EQM044",
@@ -996,9 +907,7 @@
         "end": "17:25"
       }
     ],
-    "teachers": [
-      "Fabricio E. B. C."
-    ]
+    "teachers": ["Fabricio E. B. C."]
   },
   {
     "course_id": "ESA109",
@@ -1045,9 +954,7 @@
         "end": "09:10"
       }
     ],
-    "teachers": [
-      "Camila C. L. P."
-    ]
+    "teachers": ["Camila C. L. P."]
   },
   {
     "course_id": "FIS031",
@@ -1387,9 +1294,7 @@
     "availabilityCode": "TOL1",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Rodrigo A. F."
-    ]
+    "teachers": ["Rodrigo A. F."]
   },
   {
     "course_id": "LET223",
@@ -1397,9 +1302,7 @@
     "availabilityCode": "TOL2",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Rodrigo A. F."
-    ]
+    "teachers": ["Rodrigo A. F."]
   },
   {
     "course_id": "LET223",
@@ -1407,9 +1310,7 @@
     "availabilityCode": "TOL3",
     "spots": 499,
     "times": [],
-    "teachers": [
-      "Rodrigo A. F."
-    ]
+    "teachers": ["Rodrigo A. F."]
   },
   {
     "course_id": "LET223",
@@ -1417,9 +1318,7 @@
     "availabilityCode": "TOL4",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Warley M. S."
-    ]
+    "teachers": ["Warley M. S."]
   },
   {
     "course_id": "LET223",
@@ -1427,9 +1326,7 @@
     "availabilityCode": "TOL5",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Warley M. S."
-    ]
+    "teachers": ["Warley M. S."]
   },
   {
     "course_id": "LET223",
@@ -1437,9 +1334,7 @@
     "availabilityCode": "TOL6",
     "spots": 499,
     "times": [],
-    "teachers": [
-      "Warley M. S."
-    ]
+    "teachers": ["Warley M. S."]
   },
   {
     "course_id": "MAT001",
@@ -2059,9 +1954,7 @@
     "availabilityCode": "TOL1",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Ronaldo C. G. J."
-    ]
+    "teachers": ["Ronaldo C. G. J."]
   },
   {
     "course_id": "UNI001",
@@ -2069,9 +1962,7 @@
     "availabilityCode": "TOL2",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Luciana O. S."
-    ]
+    "teachers": ["Luciana O. S."]
   },
   {
     "course_id": "UNI001",
@@ -2079,9 +1970,7 @@
     "availabilityCode": "TOL3",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Luciana O. S."
-    ]
+    "teachers": ["Luciana O. S."]
   },
   {
     "course_id": "UNI002",
@@ -2089,9 +1978,7 @@
     "availabilityCode": "TOL1",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Ronaldo C. G. J."
-    ]
+    "teachers": ["Ronaldo C. G. J."]
   },
   {
     "course_id": "UNI002",
@@ -2099,9 +1986,7 @@
     "availabilityCode": "TOL2",
     "spots": 999,
     "times": [],
-    "teachers": [
-      "Junia C. F. B."
-    ]
+    "teachers": ["Junia C. F. B."]
   },
   {
     "course_id": "UNI002",
@@ -2109,9 +1994,7 @@
     "availabilityCode": "TOL3",
     "spots": 499,
     "times": [],
-    "teachers": [
-      "Luciana O. S."
-    ]
+    "teachers": ["Luciana O. S."]
   },
   {
     "course_id": "UNI003",
@@ -2119,9 +2002,7 @@
     "availabilityCode": "TOL1",
     "spots": 94,
     "times": [],
-    "teachers": [
-      "Luana L. A."
-    ]
+    "teachers": ["Luana L. A."]
   },
   {
     "course_id": "UNI003",
@@ -2129,9 +2010,7 @@
     "availabilityCode": "TOL2",
     "spots": 94,
     "times": [],
-    "teachers": [
-      "Luana L. A."
-    ]
+    "teachers": ["Luana L. A."]
   },
   {
     "course_id": "UNI003",
@@ -2139,9 +2018,7 @@
     "availabilityCode": "TOL3",
     "spots": 94,
     "times": [],
-    "teachers": [
-      "Raquel L. A. A."
-    ]
+    "teachers": ["Raquel L. A. A."]
   },
   {
     "course_id": "UNI003",
@@ -2149,9 +2026,7 @@
     "availabilityCode": "TOL4",
     "spots": 94,
     "times": [],
-    "teachers": [
-      "Raquel L. A. A."
-    ]
+    "teachers": ["Raquel L. A. A."]
   },
   {
     "course_id": "UNI003",
@@ -2159,8 +2034,6 @@
     "availabilityCode": "TOL5",
     "spots": 94,
     "times": [],
-    "teachers": [
-      "Ana C. F. M."
-    ]
+    "teachers": ["Ana C. F. M."]
   }
 ]

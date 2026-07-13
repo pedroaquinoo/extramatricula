@@ -57,8 +57,7 @@ export function extractContentStreams(buffer: Buffer): string[] {
 }
 
 export function extractFragments(content: string): Fragment[] {
-  const tokenRe =
-    /\((?:[^()\\]|\\.)*\)|BT|ET|-?[\d.]+|T[dscz*fL]|Tm|Tj|TJ|[a-zA-Z*'"]+/g
+  const tokenRe = /\((?:[^()\\]|\\.)*\)|BT|ET|-?[\d.]+|T[dscz*fL]|Tm|Tj|TJ|[a-zA-Z*'"]+/g
   const frags: Fragment[] = []
   let tlm: Matrix = [...IDENTITY]
   let tm: Matrix = [...IDENTITY]

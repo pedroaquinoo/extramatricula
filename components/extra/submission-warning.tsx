@@ -45,9 +45,7 @@ export function SubmissionWarning({ className }: { className?: string }) {
             <AlertTriangle className="size-4 text-amber-500" />
             Sobre o envio no SIGA
           </DialogTitle>
-          <DialogDescription>
-            Isto é só uma simulação. 
-          </DialogDescription>
+          <DialogDescription>Isto é só uma simulação.</DialogDescription>
         </DialogHeader>
 
         <div className="space-y-3 text-sm text-muted-foreground">
@@ -55,8 +53,7 @@ export function SubmissionWarning({ className }: { className?: string }) {
             Ao enviar o requerimento, o sistema pode recusar turmas com um aviso como{" "}
             <br />
             <span className="font-medium text-foreground">
-              &ldquo;você não pode cursar disciplinas de 3 períodos
-              consecutivos&rdquo;
+              &ldquo;você não pode cursar disciplinas de 3 períodos consecutivos&rdquo;
             </span>
             .
           </p>

@@ -131,7 +131,12 @@ function CourseStep({
         </select>
       </label>
 
-      <Button size="lg" className="w-full sm:size-default" disabled={!canContinue} onClick={onContinue}>
+      <Button
+        size="lg"
+        className="w-full sm:size-default"
+        disabled={!canContinue}
+        onClick={onContinue}
+      >
         Continuar
       </Button>
 

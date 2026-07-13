@@ -274,7 +274,10 @@ function Timeline({ today, next }: { today: string | null; next: Step | null }) 
             className={cn(groupPast && "opacity-60")}
           >
             <div className="flex items-baseline justify-between gap-3">
-              <h3 id={headingId} className="text-xs font-semibold tracking-wide uppercase text-muted-foreground">
+              <h3
+                id={headingId}
+                className="text-xs font-semibold tracking-wide uppercase text-muted-foreground"
+              >
                 {block.label}
               </h3>
               <span className="shrink-0 text-xs tabular-nums text-muted-foreground">
@@ -321,7 +324,11 @@ export default function MatriculaTimeline() {
     setOpen(nextOpen)
     // Limpa o #fases ao fechar para que a URL não reabra o diálogo depois.
     if (!nextOpen && window.location.hash === "#fases") {
-      window.history.replaceState(null, "", window.location.pathname + window.location.search)
+      window.history.replaceState(
+        null,
+        "",
+        window.location.pathname + window.location.search,
+      )
     }
   }
 
@@ -330,7 +337,7 @@ export default function MatriculaTimeline() {
   const next =
     today === null
       ? null
-      : allSteps.find((s) => daysUntil(stepEnd(s), today) >= 0) ?? null
+      : (allSteps.find((s) => daysUntil(stepEnd(s), today) >= 0) ?? null)
 
   const status =
     today === null

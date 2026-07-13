@@ -98,9 +98,7 @@ function buildCurriculumLib(courseIds: string[]): string {
     .map((id) => `import ${toCamelCase(id)} from "@/data/curriculum/${id}.json"`)
     .join("\n")
 
-  const curriculumMap = courseIds
-    .map((id) => `  "${id}": ${toCamelCase(id)},`)
-    .join("\n")
+  const curriculumMap = courseIds.map((id) => `  "${id}": ${toCamelCase(id)},`).join("\n")
 
   return `import coursesIndexData from "@/data/curriculum/index.json"
 ${curriculumImports}

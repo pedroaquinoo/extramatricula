@@ -100,7 +100,7 @@ export function OtherOfferingsDialog({
         <Alert variant="destructive">
           <TriangleAlert />
           <AlertDescription>
-            Não aparecem na sua matrícula — só entram via acerto de matrícula, pedindo ao
+            Não aparecem na sua matrícula, só entram via acerto de matrícula, pedindo ao
             Colegiado.
           </AlertDescription>
         </Alert>

@@ -8,6 +8,9 @@ export const AnalyticsEvents = {
   COURSE_PROGRESS_UPDATED: "course_progress_updated",
   OTHER_TURMAS_VIEWED: "other_turmas_viewed",
   SUBMISSION_WARNING_VIEWED: "submission_warning_viewed",
+  MAGIC_MODE_RUN: "magic_mode_run",
+  MAGIC_MODE_APPLIED: "magic_mode_applied",
+  PREREQS_IGNORED: "prereqs_ignored",
 } as const
 
 export type CtaName = "simulate" | "flow"

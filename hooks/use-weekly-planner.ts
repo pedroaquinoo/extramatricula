@@ -77,6 +77,17 @@ export function useWeeklyPlanner() {
     })
   }, [])
 
+  // Replace the whole plan in one shot — used when loading a full schedule (magic mode, share)
+  // rather than toggling classes one at a time.
+  const setPlan = useCallback((classes: AvailableClass[]) => {
+    setState({
+      plannedClasses: classes.map((cls) => ({
+        ...cls,
+        id: `${cls.course_id}-${cls.availabilityCode}`,
+      })),
+    })
+  }, [])
+
   const removeClass = useCallback((classId: string) => {
     setState((prev) => ({
       plannedClasses: prev.plannedClasses.filter((cls) => cls.id !== classId),
@@ -105,6 +116,7 @@ export function useWeeklyPlanner() {
   return {
     state,
     addClass,
+    setPlan,
     removeClass,
     clearPlanner,
     isClassSelected,

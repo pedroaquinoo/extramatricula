@@ -57,11 +57,8 @@ async function writeOffersIndex(term: string, terms: string[], offerId: string) 
   await mkdir(OFFERS_DIR, { recursive: true })
   await writeFile(
     path.join(OFFERS_DIR, "index.json"),
-    JSON.stringify(
-      { current: index.current || term, terms, programsByTerm },
-      null,
-      2,
-    ) + "\n",
+    JSON.stringify({ current: index.current || term, terms, programsByTerm }, null, 2) +
+      "\n",
   )
 }
 
@@ -89,7 +86,9 @@ async function main() {
 
   if (!term || !offerId || sources.length === 0) {
     console.error("Uso: pnpm ingest <termo> <offerId> <arquivo.json | pdf1 [pdf2 ...]>")
-    console.error("Exemplo JSON: pnpm ingest 2025/2 controle-automacao ./snapshots/oferta.json")
+    console.error(
+      "Exemplo JSON: pnpm ingest 2025/2 controle-automacao ./snapshots/oferta.json",
+    )
     console.error("Exemplo PDF:  pnpm ingest 2026/2 controle-automacao ./mapa.pdf")
     process.exit(1)
   }

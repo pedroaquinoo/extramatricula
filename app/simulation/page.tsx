@@ -7,13 +7,10 @@ import {
   CollapsibleTrigger,
 } from "@/components/ui/collapsible"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+import { Button } from "@/components/ui/button"
 import { Checkbox } from "@/components/ui/checkbox"
-import {
-  Tooltip,
-  TooltipContent,
-  TooltipTrigger,
-} from "@/components/ui/tooltip"
-import { ChevronDown } from "lucide-react"
+import { Tooltip, TooltipContent, TooltipTrigger } from "@/components/ui/tooltip"
+import { ChevronDown, Sparkles } from "lucide-react"
 
 import { useCourseData } from "@/hooks/use-course-data"
 import { useAvailableClasses } from "@/hooks/use-available-classes"
@@ -21,6 +18,7 @@ import { useWeeklyPlanner } from "@/hooks/use-weekly-planner"
 import { AvailableClassList } from "@/components/extra/available-class-list"
 import { WeeklyPlanner } from "@/components/extra/weekly-planner"
 import { ShareSimulationButton } from "@/components/extra/share-simulation-button"
+import { MagicModePanel } from "@/components/extra/magic-mode-panel"
 import { ClassSearch } from "@/components/extra/class-search"
 import { CourseChip } from "@/components/extra/course-chip"
 import { SetupPrompt } from "@/components/extra/setup-dialog"
@@ -30,9 +28,12 @@ import { AvailableClass } from "@/hooks/use-available-classes"
 import { useAppStore } from "@/lib/store"
 import { captureEvent } from "@/lib/analytics"
 import { AnalyticsEvents } from "@/lib/analytics-events"
+import { findTurmasAcrossOffers, getCurrentOfferTerm } from "@/lib/offers"
+import type { MagicSchedule } from "@/lib/magic-mode"
 import { cn } from "@/lib/utils"
 
 type Pane = "classes" | "schedule"
+type LeftView = "classes" | "magic"
 
 export default function SimulationPage() {
   const { classes, hasData, courseId, passedSet } = useCourseData()
@@ -42,18 +43,17 @@ export default function SimulationPage() {
   // On a phone there is no room for the class list and the week side by side, so they
   // become two panes; from lg up both are visible and this state is inert.
   const [pane, setPane] = useState<Pane>("classes")
-  const [showAllRemaining, setShowAllRemaining] = useState(false)
+  const [leftView, setLeftView] = useState<LeftView>("classes")
+  const [ignorePrereqs, setIgnorePrereqs] = useState(false)
 
   const programClassesByPeriod = useMemo(() => {
     if (!classes || !semester) return []
 
-    const filtered = showAllRemaining
-      ? classes.filter((cls) => !passedSet.has(cls.code))
-      : classes.filter(
-          (cls) =>
-            cls.ref_period === semester ||
-            (cls.ref_period < semester && !passedSet.has(cls.code)),
-        )
+    const filtered = classes.filter(
+      (cls) =>
+        cls.ref_period === semester ||
+        (cls.ref_period < semester && !passedSet.has(cls.code)),
+    )
 
     const grouped = new Map<number, string[]>()
     for (const cls of filtered) {
@@ -65,13 +65,11 @@ export default function SimulationPage() {
     return Array.from(grouped.entries())
       .sort(([a], [b]) => a - b)
       .map(([period, codes]) => ({ period, codes }))
-  }, [classes, semester, showAllRemaining, passedSet])
+  }, [classes, semester, passedSet])
 
   const hasEarlierRemaining = useMemo(() => {
     if (!classes || !semester) return false
-    return classes.some(
-      (cls) => cls.ref_period < semester && !passedSet.has(cls.code),
-    )
+    return classes.some((cls) => cls.ref_period < semester && !passedSet.has(cls.code))
   }, [classes, semester, passedSet])
 
   const userProgramCodes = useMemo(() => {
@@ -166,6 +164,31 @@ export default function SimulationPage() {
     [planner, userProgramCodes],
   )
 
+  // Load a magic-mode result straight into the weekly planner. Picks come from this program's
+  // offer, but fall back to a cross-offer lookup for turmas that live in another course's offer.
+  const applySchedule = useCallback(
+    (schedule: MagicSchedule) => {
+      const resolved = schedule.picks
+        .map(
+          (pick) =>
+            availableClasses.find(
+              (cls) =>
+                cls.course_id === pick.course_id &&
+                cls.availabilityCode === pick.availabilityCode,
+            ) ??
+            findTurmasAcrossOffers(getCurrentOfferTerm(), pick.course_id).find(
+              (t) => t.availabilityCode === pick.availabilityCode,
+            ) ??
+            null,
+        )
+        .filter((cls): cls is AvailableClass => cls !== null)
+      planner.setPlan(resolved)
+      // On phones the planner is a separate tab — surface the loaded grade right away.
+      setPane("schedule")
+    },
+    [availableClasses, planner],
+  )
+
   const handleClassRemove = useCallback(
     (classId: string) => {
       const classData = planner.state.plannedClasses.find((cls) => cls.id === classId)
@@ -202,40 +225,49 @@ export default function SimulationPage() {
             <h1 className="font-semibold">Simulação de grade</h1>
             <CourseChip className="mt-0.5" />
           </div>
-        <div className="flex flex-col sm:flex-row shrink-0 sm:items-center gap-2">
+          <div className="flex flex-col sm:flex-row shrink-0 sm:items-center gap-2">
+            <Button
+              size="sm"
+              onClick={() =>
+                setLeftView((prev) => (prev === "magic" ? "classes" : "magic"))
+              }
+              aria-pressed={leftView === "magic"}
+              className="gap-2"
+            >
+              <Sparkles className="size-4 shrink-0" />
+              <span className="whitespace-nowrap">Modo mágico</span>
+            </Button>
             <Tooltip>
               <TooltipTrigger asChild>
                 <label
                   className={cn(
                     "flex h-8 cursor-pointer items-center gap-2 rounded-md border px-3 text-sm transition-colors",
-                    showAllRemaining
+                    ignorePrereqs
                       ? "border-primary bg-primary/[0.06]"
                       : "bg-muted/30 hover:bg-muted/50",
                   )}
                 >
                   <Checkbox
-                    checked={showAllRemaining}
-                    onCheckedChange={(checked) =>
-                      setShowAllRemaining(checked === true)
-                    }
+                    checked={ignorePrereqs}
+                    onCheckedChange={(checked) => {
+                      const next = checked === true
+                      setIgnorePrereqs(next)
+                      captureEvent(AnalyticsEvents.PREREQS_IGNORED, { enabled: next })
+                    }}
                     className="size-4 shrink-0"
                   />
                   <span className="font-medium whitespace-nowrap">
-                    Todas as restantes
+                    Ignorar pré-requisitos
                   </span>
                 </label>
               </TooltipTrigger>
               <TooltipContent side="bottom" className="max-w-xs">
-                Por padrão, listamos o {semester}° período e pendências de períodos
-                anteriores. Ative para ver também disciplinas de períodos futuros que
-                ainda faltam na sua grade.
+                Por padrão, disciplinas com pré-requisitos pendentes ficam bloqueadas.
+                Ative para poder adicioná-las mesmo assim.
               </TooltipContent>
             </Tooltip>
             {hasThreeConsecutivePeriods && <SubmissionWarning />}
-            <ShareSimulationButton
-              simulationState={planner.state}
-              semester={semester}
-            />
+            <ShareSimulationButton simulationState={planner.state} semester={semester} />
           </div>
         </div>
 
@@ -253,100 +285,111 @@ export default function SimulationPage() {
           forceMount
           className="mt-0 w-full flex-col gap-4 data-[state=active]:flex data-[state=inactive]:hidden lg:w-2/5 lg:shrink-0 lg:flex-none lg:data-[state=inactive]:flex"
         >
-          <ClassSearch
-            onSelectClass={(classData) => handleClassSelect(classData, "search")}
-            selectedClasses={planner.state.plannedClasses}
-          />
+          {leftView === "magic" ? (
+            <MagicModePanel onApply={applySchedule} />
+          ) : (
+            <>
+              <ClassSearch
+                onSelectClass={(classData) => handleClassSelect(classData, "search")}
+                selectedClasses={planner.state.plannedClasses}
+                ignorePrereqs={ignorePrereqs}
+              />
 
-          <div className="flex w-full flex-col gap-4">
-            <div className="flex flex-col gap-3">
-              <h2 className="text-sm font-medium">
-                {showAllRemaining
-                  ? "Disciplinas restantes"
-                  : hasEarlierRemaining
-                    ? `Obrigatórias do ${semester}° período e pendentes`
-                    : `Obrigatórias do ${semester}° período`}
-              </h2>
+              <div className="flex w-full flex-col gap-4">
+                <div className="flex flex-col gap-3">
+                  <h2 className="text-sm font-medium">
+                    {hasEarlierRemaining
+                      ? `Obrigatórias do ${semester}° período e pendentes`
+                      : `Obrigatórias do ${semester}° período`}
+                  </h2>
 
-              {useGroupedView ? (
-                semesterClassesByPeriod.length > 0 ? (
-                  <div className="flex flex-col gap-4">
-                    {semesterClassesByPeriod.map(({ period, classes: periodClasses }) => (
-                      <div key={period} className="flex flex-col gap-2">
-                        <h3 className="text-xs font-medium text-muted-foreground">
-                          {period}° período
-                        </h3>
-                        <AvailableClassList
-                          availableClasses={periodClasses}
-                          loading={loading}
-                          error={error}
-                          selectedClasses={planner.state.plannedClasses}
-                          onSelectClass={handleClassSelect}
-                          title=""
-                          isCourseSelected={planner.isCourseSelected}
-                        />
+                  {useGroupedView ? (
+                    semesterClassesByPeriod.length > 0 ? (
+                      <div className="flex flex-col gap-4">
+                        {semesterClassesByPeriod.map(
+                          ({ period, classes: periodClasses }) => (
+                            <div key={period} className="flex flex-col gap-2">
+                              <h3 className="text-xs font-medium text-muted-foreground">
+                                {period}° período
+                              </h3>
+                              <AvailableClassList
+                                availableClasses={periodClasses}
+                                loading={loading}
+                                error={error}
+                                selectedClasses={planner.state.plannedClasses}
+                                onSelectClass={handleClassSelect}
+                                title=""
+                                isCourseSelected={planner.isCourseSelected}
+                                ignorePrereqs={ignorePrereqs}
+                              />
+                            </div>
+                          ),
+                        )}
                       </div>
-                    ))}
-                  </div>
-                ) : (
-                  <AvailableClassList
-                    availableClasses={[]}
-                    loading={loading}
-                    error={error}
-                    selectedClasses={planner.state.plannedClasses}
-                    onSelectClass={handleClassSelect}
-                    title=""
-                    isCourseSelected={planner.isCourseSelected}
-                  />
-                )
-              ) : (
-                <AvailableClassList
-                  availableClasses={semesterClasses}
-                  loading={loading}
-                  error={error}
-                  selectedClasses={planner.state.plannedClasses}
-                  onSelectClass={handleClassSelect}
-                  title=""
-                  isCourseSelected={planner.isCourseSelected}
-                />
-              )}
-            </div>
-
-            {Object.keys(groupedOptional).length > 0 && (
-              <div className="flex flex-col gap-3">
-                <h2 className="text-sm font-medium">Optativas em oferta</h2>
-                <div className="flex flex-col gap-2">
-                  {Object.entries(groupedOptional).map(([courseCode, courses]) => (
-                    <Collapsible key={courseCode}>
-                      <CollapsibleTrigger className="flex w-full items-center justify-between gap-3 rounded-lg bg-muted/50 p-3 text-left transition-colors hover:bg-muted">
-                        <div className="min-w-0">
-                          <div className="font-mono text-sm font-medium">
-                            {courseCode}
-                          </div>
-                          <div className="truncate text-xs text-muted-foreground">
-                            {courses[0]?.name || courseCode} · {courses.length} turma
-                            {courses.length > 1 ? "s" : ""}
-                          </div>
-                        </div>
-                        <ChevronDown className="size-4 shrink-0 text-muted-foreground" />
-                      </CollapsibleTrigger>
-                      <CollapsibleContent className="mt-2">
-                        <AvailableClassList
-                          availableClasses={courses}
-                          loading={false}
-                          error={null}
-                          selectedClasses={planner.state.plannedClasses}
-                          onSelectClass={handleClassSelect}
-                          title=""
-                          isCourseSelected={planner.isCourseSelected}
-                        />
-                      </CollapsibleContent>
-                    </Collapsible>
-                  ))}
+                    ) : (
+                      <AvailableClassList
+                        availableClasses={[]}
+                        loading={loading}
+                        error={error}
+                        selectedClasses={planner.state.plannedClasses}
+                        onSelectClass={handleClassSelect}
+                        title=""
+                        isCourseSelected={planner.isCourseSelected}
+                        ignorePrereqs={ignorePrereqs}
+                      />
+                    )
+                  ) : (
+                    <AvailableClassList
+                      availableClasses={semesterClasses}
+                      loading={loading}
+                      error={error}
+                      selectedClasses={planner.state.plannedClasses}
+                      onSelectClass={handleClassSelect}
+                      title=""
+                      isCourseSelected={planner.isCourseSelected}
+                      ignorePrereqs={ignorePrereqs}
+                    />
+                  )}
                 </div>
+
+                {Object.keys(groupedOptional).length > 0 && (
+                  <div className="flex flex-col gap-3">
+                    <h2 className="text-sm font-medium">Optativas em oferta</h2>
+                    <div className="flex flex-col gap-2">
+                      {Object.entries(groupedOptional).map(([courseCode, courses]) => (
+                        <Collapsible key={courseCode}>
+                          <CollapsibleTrigger className="flex w-full items-center justify-between gap-3 rounded-lg bg-muted/50 p-3 text-left transition-colors hover:bg-muted">
+                            <div className="min-w-0">
+                              <div className="font-mono text-sm font-medium">
+                                {courseCode}
+                              </div>
+                              <div className="truncate text-xs text-muted-foreground">
+                                {courses[0]?.name || courseCode} · {courses.length} turma
+                                {courses.length > 1 ? "s" : ""}
+                              </div>
+                            </div>
+                            <ChevronDown className="size-4 shrink-0 text-muted-foreground" />
+                          </CollapsibleTrigger>
+                          <CollapsibleContent className="mt-2">
+                            <AvailableClassList
+                              availableClasses={courses}
+                              loading={false}
+                              error={null}
+                              selectedClasses={planner.state.plannedClasses}
+                              onSelectClass={handleClassSelect}
+                              title=""
+                              isCourseSelected={planner.isCourseSelected}
+                              ignorePrereqs={ignorePrereqs}
+                            />
+                          </CollapsibleContent>
+                        </Collapsible>
+                      ))}
+                    </div>
+                  </div>
+                )}
               </div>
-            )}
-          </div>
+            </>
+          )}
         </TabsContent>
 
         <TabsContent

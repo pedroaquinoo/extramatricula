@@ -8,18 +8,18 @@ O Extramatrícula não substitui o sistema oficial. Ele adiciona a interface que
 
 ## Funcionalidades
 
-| Rota | O que faz |
-| --- | --- |
-| `/flow` | Fluxograma de pré-requisitos. Disciplinas com pré-requisitos não cumpridos aparecem trancadas. |
-| `/course` | Grade curricular. Marque o que você já cursou. |
-| `/simulation` | Simulador semanal com as turmas em oferta. Blocos sobrepostos aparecem lado a lado. |
-| `/s#...` | Grade compartilhada por link público. |
+| Rota          | O que faz                                                                                      |
+| ------------- | ---------------------------------------------------------------------------------------------- |
+| `/flow`       | Fluxograma de pré-requisitos. Disciplinas com pré-requisitos não cumpridos aparecem trancadas. |
+| `/course`     | Grade curricular. Marque o que você já cursou.                                                 |
+| `/simulation` | Simulador semanal com as turmas em oferta. Blocos sobrepostos aparecem lado a lado.            |
+| `/s#...`      | Grade compartilhada por link público.                                                          |
 
 Sem conta, sem servidor, sem banco de dados. O app é um bundle estático: o que você marca fica no `localStorage` deste navegador, e as grades compartilhadas são comprimidas no próprio fragmento da URL.
 
 ## Dados
 
-Tudo vem de fontes oficiais. Nada é *crowdsourced*.
+Tudo vem de fontes oficiais. Nada é _crowdsourced_.
 
 - **Grade curricular**: JSON estático em [`data/curriculum/`](data/curriculum/), um arquivo por curso, listados em `index.json`.
 - **Oferta do semestre**: JSON estático em [`data/offers/`](data/offers/), um arquivo por curso e semestre (`<termo>/<offerId>.json`). `index.json` aponta o semestre atual.
@@ -39,11 +39,11 @@ pnpm dev
 
 O script `dev` usa `--experimental-https`, então a app sobe em **https://localhost:3000**; o aviso de certificado autoassinado é esperado.
 
-| Comando | O que faz |
-| --- | --- |
-| `pnpm dev` | Servidor de desenvolvimento |
-| `pnpm build` | Build estático em `out/` |
-| `pnpm lint` | Formata com Prettier e roda o ESLint |
+| Comando                                   | O que faz                                 |
+| ----------------------------------------- | ----------------------------------------- |
+| `pnpm dev`                                | Servidor de desenvolvimento               |
+| `pnpm build`                              | Build estático em `out/`                  |
+| `pnpm lint`                               | Formata com Prettier e roda o ESLint      |
 | `pnpm ingest <termo> <offerId> <arquivo>` | Importa um snapshot da oferta de um curso |
 
 ## Arquitetura
