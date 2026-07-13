@@ -4,6 +4,7 @@ import type { Metadata } from "next"
 import { AppNav } from "@/components/extra/app-nav"
 import { SetupDialog } from "@/components/extra/setup-dialog"
 import { Toaster } from "@/components/ui/sonner"
+import { SITE_URL } from "@/lib/site"
 import "./globals.css"
 
 const geist = Geist({
@@ -12,8 +13,11 @@ const geist = Geist({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://extramatricula.pedroaquinoo.com"),
-  title: "Extramatricula",
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: "Extramatrícula",
+    template: "%s · Extramatrícula",
+  },
   description: "Planeje seus semestres",
 }
 

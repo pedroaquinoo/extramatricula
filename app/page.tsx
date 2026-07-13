@@ -27,7 +27,9 @@ import { getCourseGroups } from "@/lib/curriculum"
 import CoursesList from "@/components/landing/courses-list"
 
 export const metadata: Metadata = {
-  title: "Extramatrícula: monte sua grade antes de se matricular",
+  title: {
+    absolute: "Extramatrícula: monte sua grade antes de se matricular",
+  },
   description:
     "Simule o próximo semestre com as turmas realmente em oferta na UFMG e veja sua semana antes da matrícula. Código aberto.",
 }
