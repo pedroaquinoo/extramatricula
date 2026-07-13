@@ -12,6 +12,7 @@ export interface WeeklyPlannerState {
 }
 
 const STORAGE_KEY = "weekly-planner-state"
+const DEBOUNCE_MS = 300
 
 const emptyState: WeeklyPlannerState = { plannedClasses: [] }
 
@@ -31,17 +32,34 @@ function readStorage(): WeeklyPlannerState {
 export function useWeeklyPlanner() {
   const [state, setState] = useState<WeeklyPlannerState>(emptyState)
   const hydrated = useRef(false)
+  const debounceTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
 
-  // Reading localStorage during the first render would disagree with the server-rendered
-  // markup, so the saved plan lands right after hydration instead.
   useEffect(() => {
     setState(readStorage())
     hydrated.current = true
   }, [])
 
+  // Debounced localStorage persistence with error handling
   useEffect(() => {
     if (!hydrated.current) return
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+
+    if (debounceTimer.current) {
+      clearTimeout(debounceTimer.current)
+    }
+
+    debounceTimer.current = setTimeout(() => {
+      try {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+      } catch {
+        // Silently handle QuotaExceededError or other storage failures
+      }
+    }, DEBOUNCE_MS)
+
+    return () => {
+      if (debounceTimer.current) {
+        clearTimeout(debounceTimer.current)
+      }
+    }
   }, [state])
 
   const addClass = useCallback((availableClass: AvailableClass) => {
@@ -64,8 +82,6 @@ export function useWeeklyPlanner() {
         return { plannedClasses: [...prev.plannedClasses, planned] }
       }
 
-      // A course keeps at most one lecture and one lab section: picking another of the
-      // same kind replaces it, while lecture and lab coexist.
       const filtered = prev.plannedClasses.filter((c) => {
         if (c.course_id !== availableClass.course_id) return true
         return isP

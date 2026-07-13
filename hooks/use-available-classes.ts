@@ -1,5 +1,13 @@
-import { useMemo } from "react"
-import { getCurrentOfferForProgram } from "@/lib/offers"
+"use client"
+
+import { useEffect, useMemo, useState } from "react"
+import {
+  getCurrentOfferForProgram,
+  getCurrentOfferTerm,
+  isOfferLoaded,
+  loadOffer,
+} from "@/lib/offers"
+import { getOfferId } from "@/lib/curriculum"
 import { useAppStore } from "@/lib/store"
 
 export interface AvailableClass {
@@ -15,28 +23,66 @@ export interface AvailableClass {
   teachers: string[]
 }
 
-const cache = new Map<string, AvailableClass[]>()
-
 export function useAvailableClasses() {
   const { courseId } = useAppStore()
+  const [loaded, setLoaded] = useState(() => {
+    if (!courseId) return false
+    const offerId = getOfferId(courseId)
+    const term = getCurrentOfferTerm()
+    return isOfferLoaded(term, offerId)
+  })
+  const [loading, setLoading] = useState(false)
+
+  useEffect(() => {
+    if (!courseId) {
+      setLoaded(false)
+      setLoading(false)
+      return
+    }
+
+    const offerId = getOfferId(courseId)
+    const term = getCurrentOfferTerm()
+
+    if (isOfferLoaded(term, offerId)) {
+      setLoaded(true)
+      setLoading(false)
+      return
+    }
+
+    let cancelled = false
+    setLoading(true)
+    setLoaded(false)
+
+    loadOffer(term, offerId).then(() => {
+      if (!cancelled) {
+        setLoaded(true)
+        setLoading(false)
+      }
+    })
+
+    return () => {
+      cancelled = true
+    }
+  }, [courseId])
 
   const availableClasses = useMemo(() => {
-    if (!courseId) return []
-    if (!cache.has(courseId)) {
-      cache.set(courseId, getCurrentOfferForProgram(courseId))
-    }
-    return cache.get(courseId) ?? []
-  }, [courseId])
+    if (!courseId || !loaded) return []
+    return getCurrentOfferForProgram(courseId)
+  }, [courseId, loaded])
 
   const error = useMemo(() => {
     if (!courseId) return null
-    if (availableClasses.length > 0) return null
-    return "Nenhuma oferta encontrada para este curso no semestre atual."
-  }, [courseId, availableClasses.length])
+    if (loading) return null
+    if (loaded && availableClasses.length > 0) return null
+    if (loaded && availableClasses.length === 0) {
+      return "Nenhuma oferta encontrada para este curso no semestre atual."
+    }
+    return null
+  }, [courseId, loading, loaded, availableClasses.length])
 
   return {
     availableClasses,
-    loading: false,
+    loading,
     error,
   }
 }

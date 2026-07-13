@@ -1,11 +1,40 @@
 "use client"
 
-import { useMemo } from "react"
-import { getClassesWithPrerequisites, getCourseById } from "@/lib/curriculum"
+import { useEffect, useMemo, useState } from "react"
+import {
+  getClassesWithPrerequisites,
+  getCourseById,
+  loadCurriculum,
+  isCurriculumLoaded,
+} from "@/lib/curriculum"
 import { useAppStore } from "@/lib/store"
 
 export function useCourseData() {
   const { courseId, passed } = useAppStore()
+  const [loaded, setLoaded] = useState(() => Boolean(courseId && isCurriculumLoaded(courseId)))
+
+  useEffect(() => {
+    if (!courseId) {
+      setLoaded(false)
+      return
+    }
+
+    if (isCurriculumLoaded(courseId)) {
+      setLoaded(true)
+      return
+    }
+
+    let cancelled = false
+    setLoaded(false)
+
+    loadCurriculum(courseId).then(() => {
+      if (!cancelled) setLoaded(true)
+    })
+
+    return () => {
+      cancelled = true
+    }
+  }, [courseId])
 
   const course = useMemo(
     () => (courseId ? getCourseById(courseId) : undefined),
@@ -13,8 +42,8 @@ export function useCourseData() {
   )
 
   const classes = useMemo(
-    () => (courseId ? getClassesWithPrerequisites(courseId) : []),
-    [courseId],
+    () => (courseId && loaded ? getClassesWithPrerequisites(courseId) : []),
+    [courseId, loaded],
   )
 
   const passedSet = useMemo(() => new Set(passed), [passed])
@@ -25,7 +54,7 @@ export function useCourseData() {
     classes,
     passed,
     passedSet,
-    hasData: Boolean(courseId && classes.length > 0),
-    isLoading: false,
+    hasData: Boolean(courseId && loaded && classes.length > 0),
+    isLoading: Boolean(courseId && !loaded),
   }
 }

@@ -1,6 +1,6 @@
 "use client"
 
-import { useMemo, useState } from "react"
+import { useEffect, useMemo, useState } from "react"
 import {
   Dialog,
   DialogContent,
@@ -13,7 +13,7 @@ import { Alert, AlertDescription } from "@/components/ui/alert"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Clock, User, Check, Globe, TriangleAlert } from "lucide-react"
-import { findTurmasAcrossOffers, getCurrentOfferTerm } from "@/lib/offers"
+import { findTurmasAcrossOffers, getCurrentOfferTerm, loadAllOffersForTerm, areAllOffersLoadedForTerm } from "@/lib/offers"
 import { getCourseGroups } from "@/lib/curriculum"
 import { isOffShift, type Shift } from "@/lib/shift"
 import { OffShiftBadge } from "@/components/extra/off-shift-badge"
@@ -45,17 +45,30 @@ export function OtherOfferingsDialog({
   shift,
 }: OtherOfferingsDialogProps) {
   const [open, setOpen] = useState(false)
+  const [offersReady, setOffersReady] = useState(() => areAllOffersLoadedForTerm(getCurrentOfferTerm()))
   const term = getCurrentOfferTerm()
+
+  // Load all offers for the current term when the dialog opens
+  useEffect(() => {
+    if (!open || offersReady) return
+    let cancelled = false
+    loadAllOffersForTerm(term).then(() => {
+      if (!cancelled) setOffersReady(true)
+    })
+    return () => { cancelled = true }
+  }, [open, offersReady, term])
 
   const otherTurmas = useMemo(
     () =>
-      findTurmasAcrossOffers(term, disciplineCode).filter(
-        (turma) => !ownCodes.has(turma.availabilityCode),
-      ),
-    [term, disciplineCode, ownCodes],
+      offersReady
+        ? findTurmasAcrossOffers(term, disciplineCode).filter(
+            (turma) => !ownCodes.has(turma.availabilityCode),
+          )
+        : [],
+    [term, disciplineCode, ownCodes, offersReady],
   )
 
-  if (otherTurmas.length === 0) return null
+  if (otherTurmas.length === 0 && offersReady) return null
 
   const isSelected = (cls: AvailableClass) =>
     selectedClasses.some(

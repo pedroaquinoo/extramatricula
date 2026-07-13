@@ -45,7 +45,11 @@ function readStorage(): AppState {
 
 function writeStorage(next: AppState) {
   if (typeof window === "undefined") return
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(next))
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(next))
+  } catch {
+    // Silently handle QuotaExceededError or other storage failures
+  }
 }
 
 function emit() {
@@ -77,16 +81,12 @@ export function subscribe(listener: () => void) {
 
 function emitCourseProgressUpdated(courseId: string, passedCount: number) {
   if (!courseId) return
-  trackCourseProgressUpdated(passedCount, getClasses(courseId).length)
+  const classes = getClasses(courseId)
+  if (classes.length > 0) {
+    trackCourseProgressUpdated(passedCount, classes.length)
+  }
 }
 
-/**
- * Course, period and the history are always written in one shot, by the setup dialog:
- * splitting them would clear `passed` again the moment the course landed. The dialog
- * passes the full, already-reconciled `passed` set (it knows the curriculum), so we
- * write it verbatim instead of merging — merging would keep classes from periods the
- * user just moved *below*, e.g. when switching to an earlier semester.
- */
 export function completeSetup(courseId: string, semester: number, passed: string[]) {
   setState((current) => ({
     ...current,
@@ -126,7 +126,7 @@ export function setManyPassed(codes: string[], value: boolean) {
 export function useAppStore() {
   const snapshot = useSyncExternalStore(
     subscribe,
-    () => getState(),
+    getState,
     () => defaultState,
   )
 

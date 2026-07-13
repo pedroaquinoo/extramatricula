@@ -6,29 +6,43 @@ import { LoadingScreen } from "@/components/extra/loading-screen"
 import { captureEvent } from "@/lib/analytics"
 import { AnalyticsEvents } from "@/lib/analytics-events"
 import { decodeSharePayload, resolveShareCourseId } from "@/lib/share"
-import { findTurma, findTurmasAcrossOffers, getCurrentOfferTerm } from "@/lib/offers"
+import {
+  findTurma,
+  findTurmasAcrossOffers,
+  getCurrentOfferTerm,
+  loadAllOffersForTerm,
+} from "@/lib/offers"
 import type { PlannedClass } from "@/hooks/use-weekly-planner"
 
 export default function SharedSchedulePage() {
   const [hash, setHash] = useState("")
   const [ready, setReady] = useState(false)
+  const [offersLoaded, setOffersLoaded] = useState(false)
   const tracked = useRef(false)
+
+  const currentTerm = getCurrentOfferTerm()
 
   useEffect(() => {
     setHash(window.location.hash)
     setReady(true)
   }, [])
 
+  // Load all offers for the current term so we can resolve shared schedules
+  useEffect(() => {
+    let cancelled = false
+    loadAllOffersForTerm(currentTerm).then(() => {
+      if (!cancelled) setOffersLoaded(true)
+    })
+    return () => { cancelled = true }
+  }, [currentTerm])
+
   const decoded = useMemo(() => decodeSharePayload(hash), [hash])
-  const currentTerm = getCurrentOfferTerm()
 
   const plannedClasses: PlannedClass[] = useMemo(() => {
-    if (!decoded || decoded.term !== currentTerm) return []
+    if (!decoded || decoded.term !== currentTerm || !offersLoaded) return []
     const programId = resolveShareCourseId(decoded)
     return decoded.picks
       .map((pick) => {
-        // Prefer the sharer's own program offer, but fall back to any program that lists
-        // this turma — the sharer may have picked a turma from another course's offer.
         const turma =
           findTurma(decoded.term, programId, pick.course_id, pick.availabilityCode) ??
           findTurmasAcrossOffers(decoded.term, pick.course_id).find(
@@ -41,17 +55,17 @@ export default function SharedSchedulePage() {
         }
       })
       .filter((cls): cls is PlannedClass => cls !== null)
-  }, [decoded, currentTerm])
+  }, [decoded, currentTerm, offersLoaded])
 
   useEffect(() => {
-    if (!ready || !decoded || decoded.term !== currentTerm || tracked.current) return
+    if (!ready || !offersLoaded || !decoded || decoded.term !== currentTerm || tracked.current) return
     tracked.current = true
     captureEvent(AnalyticsEvents.SHARED_SCHEDULE_VIEWED, {
       planned_count: plannedClasses.length,
     })
-  }, [ready, decoded, currentTerm, plannedClasses.length])
+  }, [ready, offersLoaded, decoded, currentTerm, plannedClasses.length])
 
-  if (!ready) {
+  if (!ready || !offersLoaded) {
     return <LoadingScreen className="min-h-screen" />
   }
 
