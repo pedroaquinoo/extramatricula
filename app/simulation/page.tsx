@@ -1,6 +1,7 @@
 "use client"
 
 import { useMemo, useCallback, useState } from "react"
+import { cn } from "@/lib/utils"
 import {
   Collapsible,
   CollapsibleContent,
@@ -30,7 +31,6 @@ import { captureEvent } from "@/lib/analytics"
 import { AnalyticsEvents } from "@/lib/analytics-events"
 import { findTurmasAcrossOffers, getCurrentOfferTerm } from "@/lib/offers"
 import type { MagicSchedule } from "@/lib/magic-mode"
-import { cn } from "@/lib/utils"
 
 type Pane = "classes" | "schedule"
 type LeftView = "classes" | "magic"
@@ -225,10 +225,10 @@ export default function SimulationPage() {
             <h1 className="font-semibold">Simulação de grade</h1>
             <CourseChip className="mt-0.5" />
           </div>
-          <div className="flex flex-col sm:flex-row shrink-0 sm:items-center gap-2">
+          <div className="bg-secondary p-2 sm:p-0 rounded-md sm:bg-transparent grid grid-cols-2 sm:flex sm:flex-row shrink-0 sm:items-center gap-2">
             <Button
               size="sm"
-              variant={leftView === "magic" ? "outline" : "default"}
+              variant="outline"
               onClick={() =>
                 setLeftView((prev) => {
                   const next = prev === "magic" ? "classes" : "magic"
@@ -241,7 +241,7 @@ export default function SimulationPage() {
                 })
               }
               aria-pressed={leftView === "magic"}
-              className="gap-2"
+              className={cn("gap-2 col-span-1", leftView === "magic" ? "text-inherit" : "text-primary hover:text-primary/80")}
             >
               {leftView === "magic" ? <ArrowLeft className="size-4 shrink-0" /> : <Sparkles className="size-4 shrink-0" />}
               <span className="whitespace-nowrap">{leftView === "magic" ? "Voltar ao modo normal" : "Modo mágico"}</span>
@@ -250,7 +250,7 @@ export default function SimulationPage() {
               <TooltipTrigger asChild>
                 <label
                   className={cn(
-                    "flex h-8 cursor-pointer items-center gap-2 rounded-md border px-3 text-sm transition-colors",
+                    "flex h-8 cursor-pointer items-center gap-2 rounded-md border px-3 text-sm transition-colors col-span-1",
                     ignorePrereqs
                       ? "border-primary bg-primary/[0.06]"
                       : "bg-muted/30 hover:bg-muted/50",
@@ -275,7 +275,7 @@ export default function SimulationPage() {
                 Ative para poder adicioná-las mesmo assim.
               </TooltipContent>
             </Tooltip>
-            {hasThreeConsecutivePeriods && <SubmissionWarning />}
+            <SubmissionWarning hasWarnings={hasThreeConsecutivePeriods} />
             <ShareSimulationButton simulationState={planner.state} semester={semester} />
           </div>
         </div>

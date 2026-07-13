@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import { AlertTriangle } from "lucide-react"
+import { AlertTriangle, CheckCircle2 } from "lucide-react"
 import {
   Dialog,
   DialogContent,
@@ -14,7 +14,13 @@ import { captureEvent } from "@/lib/analytics"
 import { AnalyticsEvents } from "@/lib/analytics-events"
 import { cn } from "@/lib/utils"
 
-export function SubmissionWarning({ className }: { className?: string }) {
+export function SubmissionWarning({
+  hasWarnings = true,
+  className,
+}: {
+  hasWarnings?: boolean
+  className?: string
+}) {
   const [open, setOpen] = useState(false)
 
   const handleOpenChange = (next: boolean) => {
@@ -24,6 +30,24 @@ export function SubmissionWarning({ className }: { className?: string }) {
     }
   }
 
+  if (!hasWarnings) {
+    return (
+      <Button
+        variant="outline"
+        size="sm"
+        disabled
+        aria-disabled
+        className={cn(
+          "gap-2 col-span-1 text-muted-foreground disabled:opacity-100",
+          className,
+        )}
+      >
+        <CheckCircle2 className="h-4 w-4" />
+        Sem conflitos
+      </Button>
+    )
+  }
+
   return (
     <Dialog open={open} onOpenChange={handleOpenChange}>
       <Button
@@ -31,7 +55,7 @@ export function SubmissionWarning({ className }: { className?: string }) {
         variant="outline"
         size="sm"
         className={cn(
-          "gap-2 border-amber-500/50 text-amber-700 hover:bg-amber-500/10 hover:text-amber-800 dark:text-amber-300 dark:hover:text-amber-200",
+          "gap-2 col-span-1 border-amber-500/50 text-amber-700 hover:bg-amber-500/10 hover:text-amber-800 dark:text-amber-300 dark:hover:text-amber-200",
           className,
         )}
       >

@@ -88,7 +88,7 @@ export function ShareSimulationButton({
       disabled={isSharing || simulationState.plannedClasses.length === 0}
       variant="outline"
       size="sm"
-      className={cn("gap-2", className)}
+      className={cn("gap-2 col-span-1", className)}
     >
       {isCopied ? <Check className="h-4 w-4" /> : <UploadIcon className="h-4 w-4" />}
       {isCopied ? "Copiado!" : "Compartilhar com amigos"}
