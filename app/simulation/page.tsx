@@ -164,7 +164,7 @@ export default function SimulationPage() {
             <h1 className="font-semibold">Simulação de grade</h1>
             <CourseChip className="mt-0.5" />
           </div>
-          <div className="flex shrink-0 items-center gap-2">
+        <div className="flex flex-col sm:flex-row shrink-0 sm:items-center gap-2">
             <Tooltip>
               <TooltipTrigger asChild>
                 <label
