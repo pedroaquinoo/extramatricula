@@ -1,0 +1,4356 @@
+[
+  {
+    "course_id": "ECN075",
+    "name": "ECONOMIA PARA ENGENHARIA",
+    "availabilityCode": "TE3",
+    "spots": 100,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Ronaldo N."
+    ]
+  },
+  {
+    "course_id": "ECN075",
+    "name": "ECONOMIA PARA ENGENHARIA",
+    "availabilityCode": "TE4",
+    "spots": 100,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Sibelle C. D. C."
+    ]
+  },
+  {
+    "course_id": "EES003",
+    "name": "RESISTENCIA DOS MATERIAIS",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EES003",
+    "name": "RESISTENCIA DOS MATERIAIS",
+    "availabilityCode": "TN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EES022",
+    "name": "INTRODUCAO A MECANICA DOS SOLIDOS",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:50",
+        "end": "16:20"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EES022",
+    "name": "INTRODUCAO A MECANICA DOS SOLIDOS",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "21:45"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EES039",
+    "name": "ANALISE ESTRUTURAL",
+    "availabilityCode": "TD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EES039",
+    "name": "ANALISE ESTRUTURAL",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EES045",
+    "name": "ESTRUTURA DE ACO",
+    "availabilityCode": "TDN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:10",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ELE063",
+    "name": "ELETROTECNICA",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Paulo F. M. P."
+    ]
+  },
+  {
+    "course_id": "ELE063",
+    "name": "ELETROTECNICA",
+    "availabilityCode": "TN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Wallace C. B."
+    ]
+  },
+  {
+    "course_id": "ELT054",
+    "name": "ELETRONICA",
+    "availabilityCode": "PD1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Igor A. P."
+    ]
+  },
+  {
+    "course_id": "ELT054",
+    "name": "ELETRONICA",
+    "availabilityCode": "PD2",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Igor A. P."
+    ]
+  },
+  {
+    "course_id": "ELT054",
+    "name": "ELETRONICA",
+    "availabilityCode": "PN1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Igor A. P."
+    ]
+  },
+  {
+    "course_id": "ELT054",
+    "name": "ELETRONICA",
+    "availabilityCode": "PN2",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Igor A. P."
+    ]
+  },
+  {
+    "course_id": "ELT054",
+    "name": "ELETRONICA",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Igor A. P."
+    ]
+  },
+  {
+    "course_id": "ELT054",
+    "name": "ELETRONICA",
+    "availabilityCode": "TN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Igor A. P."
+    ]
+  },
+  {
+    "course_id": "EMA006",
+    "name": "VIBRACOES MECANICAS",
+    "availabilityCode": "PD1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Horacio V. D."
+    ]
+  },
+  {
+    "course_id": "EMA006",
+    "name": "VIBRACOES MECANICAS",
+    "availabilityCode": "PD2",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Horacio V. D."
+    ]
+  },
+  {
+    "course_id": "EMA006",
+    "name": "VIBRACOES MECANICAS",
+    "availabilityCode": "PD3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Horacio V. D."
+    ]
+  },
+  {
+    "course_id": "EMA006",
+    "name": "VIBRACOES MECANICAS",
+    "availabilityCode": "PD4",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Horacio V. D."
+    ]
+  },
+  {
+    "course_id": "EMA006",
+    "name": "VIBRACOES MECANICAS",
+    "availabilityCode": "PN1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Maria L. M. D."
+    ]
+  },
+  {
+    "course_id": "EMA006",
+    "name": "VIBRACOES MECANICAS",
+    "availabilityCode": "PN2",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Maria L. M. D."
+    ]
+  },
+  {
+    "course_id": "EMA006",
+    "name": "VIBRACOES MECANICAS",
+    "availabilityCode": "PN3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:05",
+        "end": "19:45"
+      }
+    ],
+    "teachers": [
+      "Maria L. M. D."
+    ]
+  },
+  {
+    "course_id": "EMA006",
+    "name": "VIBRACOES MECANICAS",
+    "availabilityCode": "PN4",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:05",
+        "end": "19:45"
+      }
+    ],
+    "teachers": [
+      "Maria L. M. D."
+    ]
+  },
+  {
+    "course_id": "EMA006",
+    "name": "VIBRACOES MECANICAS",
+    "availabilityCode": "TD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Maria L. M. D."
+    ]
+  },
+  {
+    "course_id": "EMA006",
+    "name": "VIBRACOES MECANICAS",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:50",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Maria L. M. D."
+    ]
+  },
+  {
+    "course_id": "EMA015",
+    "name": "INTRODUCAO A ENGENHARIA MECANICA",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EMA015",
+    "name": "INTRODUCAO A ENGENHARIA MECANICA",
+    "availabilityCode": "TN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EMA083",
+    "name": "DESENHO MECÂNICO",
+    "availabilityCode": "PD1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Roberta S. S.",
+      "Danilo A."
+    ]
+  },
+  {
+    "course_id": "EMA083",
+    "name": "DESENHO MECÂNICO",
+    "availabilityCode": "PD2",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Roberta S. S.",
+      "Danilo A."
+    ]
+  },
+  {
+    "course_id": "EMA083",
+    "name": "DESENHO MECÂNICO",
+    "availabilityCode": "PF1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:10",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Danilo A."
+    ]
+  },
+  {
+    "course_id": "EMA083",
+    "name": "DESENHO MECÂNICO",
+    "availabilityCode": "PF2",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:10",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Danilo A."
+    ]
+  },
+  {
+    "course_id": "EMA084",
+    "name": "METODOS NUMERICOS APLICADOS A ENGENHARIA MECANICA",
+    "availabilityCode": "TD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Moara M. C."
+    ]
+  },
+  {
+    "course_id": "EMA084",
+    "name": "METODOS NUMERICOS APLICADOS A ENGENHARIA MECANICA",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Lucas R. A."
+    ]
+  },
+  {
+    "course_id": "EMA090",
+    "name": "PROCESSOS PRIMARIOS DE FABRICACAO",
+    "availabilityCode": "TD",
+    "spots": 49,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Frederico C. M."
+    ]
+  },
+  {
+    "course_id": "EMA090",
+    "name": "PROCESSOS PRIMARIOS DE FABRICACAO",
+    "availabilityCode": "TN",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "21:45"
+      }
+    ],
+    "teachers": [
+      "Paulo C. M. R."
+    ]
+  },
+  {
+    "course_id": "EMA091",
+    "name": "MECANICA DOS FLUIDOS",
+    "availabilityCode": "TD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Leandro S. O."
+    ]
+  },
+  {
+    "course_id": "EMA091",
+    "name": "MECANICA DOS FLUIDOS",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Rudolf H."
+    ]
+  },
+  {
+    "course_id": "EMA092",
+    "name": "METROLOGIA",
+    "availabilityCode": "PD1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Meinhard S."
+    ]
+  },
+  {
+    "course_id": "EMA092",
+    "name": "METROLOGIA",
+    "availabilityCode": "PD2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Meinhard S."
+    ]
+  },
+  {
+    "course_id": "EMA092",
+    "name": "METROLOGIA",
+    "availabilityCode": "PD3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Meinhard S."
+    ]
+  },
+  {
+    "course_id": "EMA092",
+    "name": "METROLOGIA",
+    "availabilityCode": "PD4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Meinhard S."
+    ]
+  },
+  {
+    "course_id": "EMA092",
+    "name": "METROLOGIA",
+    "availabilityCode": "PN1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Roberta S. S."
+    ]
+  },
+  {
+    "course_id": "EMA092",
+    "name": "METROLOGIA",
+    "availabilityCode": "PN2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Roberta S. S."
+    ]
+  },
+  {
+    "course_id": "EMA092",
+    "name": "METROLOGIA",
+    "availabilityCode": "PN3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Roberta S. S."
+    ]
+  },
+  {
+    "course_id": "EMA092",
+    "name": "METROLOGIA",
+    "availabilityCode": "PN4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Roberta S. S."
+    ]
+  },
+  {
+    "course_id": "EMA092",
+    "name": "METROLOGIA",
+    "availabilityCode": "TD",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Meinhard S."
+    ]
+  },
+  {
+    "course_id": "EMA092",
+    "name": "METROLOGIA",
+    "availabilityCode": "TN",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Roberta S. S."
+    ]
+  },
+  {
+    "course_id": "EMA093",
+    "name": "PROCESSOS DE FABRICACAO POR USINAGEM",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:55"
+      }
+    ],
+    "teachers": [
+      "Juan C. C. R."
+    ]
+  },
+  {
+    "course_id": "EMA093",
+    "name": "PROCESSOS DE FABRICACAO POR USINAGEM",
+    "availabilityCode": "TN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:50",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Alexandre M. A."
+    ]
+  },
+  {
+    "course_id": "EMA094",
+    "name": "TRANSMISSAO DE CALOR",
+    "availabilityCode": "TD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Adriana S. F."
+    ]
+  },
+  {
+    "course_id": "EMA094",
+    "name": "TRANSMISSAO DE CALOR",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Adriana S. F."
+    ]
+  },
+  {
+    "course_id": "EMA095",
+    "name": "SISTEMAS FLUIDOMECANICOS",
+    "availabilityCode": "TD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Rafael A. M. F."
+    ]
+  },
+  {
+    "course_id": "EMA095",
+    "name": "SISTEMAS FLUIDOMECANICOS",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "21:45"
+      }
+    ],
+    "teachers": [
+      "Rafael A. M. F."
+    ]
+  },
+  {
+    "course_id": "EMA096",
+    "name": "PROCESSOS DE FABRICACAO POR SOLDAGEM",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Moara M. C."
+    ]
+  },
+  {
+    "course_id": "EMA096",
+    "name": "PROCESSOS DE FABRICACAO POR SOLDAGEM",
+    "availabilityCode": "TN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Moara M. C."
+    ]
+  },
+  {
+    "course_id": "EMA097",
+    "name": "LABORATORIO DE PROCESSOS DE FABRICACAO",
+    "availabilityCode": "PD1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Paulo C. M. R.",
+      "Juan C. C. R.",
+      "Ariel R. A."
+    ]
+  },
+  {
+    "course_id": "EMA097",
+    "name": "LABORATORIO DE PROCESSOS DE FABRICACAO",
+    "availabilityCode": "PD2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Paulo C. M. R.",
+      "Juan C. C. R.",
+      "Ariel R. A."
+    ]
+  },
+  {
+    "course_id": "EMA097",
+    "name": "LABORATORIO DE PROCESSOS DE FABRICACAO",
+    "availabilityCode": "PD3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Frederico C. M.",
+      "Alexandre M. A.",
+      "Ariel R. A."
+    ]
+  },
+  {
+    "course_id": "EMA097",
+    "name": "LABORATORIO DE PROCESSOS DE FABRICACAO",
+    "availabilityCode": "PD4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Frederico C. M.",
+      "Alexandre M. A.",
+      "Ariel R. A."
+    ]
+  },
+  {
+    "course_id": "EMA097",
+    "name": "LABORATORIO DE PROCESSOS DE FABRICACAO",
+    "availabilityCode": "PN1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Frederico C. M.",
+      "Alexandre M. A.",
+      "Ariel R. A."
+    ]
+  },
+  {
+    "course_id": "EMA097",
+    "name": "LABORATORIO DE PROCESSOS DE FABRICACAO",
+    "availabilityCode": "PN2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Alexandre M. A.",
+      "Ariel R. A.",
+      "Frederico C. M."
+    ]
+  },
+  {
+    "course_id": "EMA097",
+    "name": "LABORATORIO DE PROCESSOS DE FABRICACAO",
+    "availabilityCode": "PN3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Ariel R. A.",
+      "Paulo C. M. R.",
+      "Juan C. C. R."
+    ]
+  },
+  {
+    "course_id": "EMA097",
+    "name": "LABORATORIO DE PROCESSOS DE FABRICACAO",
+    "availabilityCode": "PN4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Ariel R. A.",
+      "Paulo C. M. R.",
+      "Juan C. C. R."
+    ]
+  },
+  {
+    "course_id": "EMA098",
+    "name": "LABORATORIO DE FLUIDOS",
+    "availabilityCode": "PD1",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Thiago T. M. R."
+    ]
+  },
+  {
+    "course_id": "EMA098",
+    "name": "LABORATORIO DE FLUIDOS",
+    "availabilityCode": "PD2",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Thiago T. M. R."
+    ]
+  },
+  {
+    "course_id": "EMA098",
+    "name": "LABORATORIO DE FLUIDOS",
+    "availabilityCode": "PD3",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Daniel D. A."
+    ]
+  },
+  {
+    "course_id": "EMA098",
+    "name": "LABORATORIO DE FLUIDOS",
+    "availabilityCode": "PN1",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Thiago A. R. L."
+    ]
+  },
+  {
+    "course_id": "EMA098",
+    "name": "LABORATORIO DE FLUIDOS",
+    "availabilityCode": "PN2",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Thiago A. R. L."
+    ]
+  },
+  {
+    "course_id": "EMA098",
+    "name": "LABORATORIO DE FLUIDOS",
+    "availabilityCode": "PN3",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Daniel D. A."
+    ]
+  },
+  {
+    "course_id": "EMA099",
+    "name": "ELEMENTOS DE MAQUINAS I",
+    "availabilityCode": "TD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Alexandre S. S."
+    ]
+  },
+  {
+    "course_id": "EMA099",
+    "name": "ELEMENTOS DE MAQUINAS I",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Claysson B. S. V."
+    ]
+  },
+  {
+    "course_id": "EMA100",
+    "name": "ELEMENTOS DE MAQUINAS II",
+    "availabilityCode": "TD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Antonio F. A."
+    ]
+  },
+  {
+    "course_id": "EMA100",
+    "name": "ELEMENTOS DE MAQUINAS II",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Alexandre S. S."
+    ]
+  },
+  {
+    "course_id": "EMA103",
+    "name": "LABORATORIO DE TERMICA",
+    "availabilityCode": "PD1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Matheus P. P.",
+      "Daniel D. A.",
+      "Jose G. C. B."
+    ]
+  },
+  {
+    "course_id": "EMA103",
+    "name": "LABORATORIO DE TERMICA",
+    "availabilityCode": "PD2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Matheus P. P.",
+      "Daniel D. A.",
+      "Jose G. C. B."
+    ]
+  },
+  {
+    "course_id": "EMA103",
+    "name": "LABORATORIO DE TERMICA",
+    "availabilityCode": "PD3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Matheus P. P.",
+      "Daniel D. A.",
+      "Jose G. C. B."
+    ]
+  },
+  {
+    "course_id": "EMA103",
+    "name": "LABORATORIO DE TERMICA",
+    "availabilityCode": "PN1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Matheus P. P.",
+      "Jose G. C. B.",
+      "Daniel D. A."
+    ]
+  },
+  {
+    "course_id": "EMA103",
+    "name": "LABORATORIO DE TERMICA",
+    "availabilityCode": "PN2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Jose G. C. B.",
+      "Daniel D. A.",
+      "Matheus P. P."
+    ]
+  },
+  {
+    "course_id": "EMA103",
+    "name": "LABORATORIO DE TERMICA",
+    "availabilityCode": "PN3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Jose G. C. B.",
+      "Daniel D. A.",
+      "Matheus P. P."
+    ]
+  },
+  {
+    "course_id": "EMA104",
+    "name": "AUTOMACAO APLICADA A ENGENHARIA MECANICA",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "17:25"
+      }
+    ],
+    "teachers": [
+      "Eduardo J. L. I."
+    ]
+  },
+  {
+    "course_id": "EMA104",
+    "name": "AUTOMACAO APLICADA A ENGENHARIA MECANICA",
+    "availabilityCode": "TN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "21:45"
+      }
+    ],
+    "teachers": [
+      "Eduardo J. L. I."
+    ]
+  },
+  {
+    "course_id": "EMA105",
+    "name": "LABORATORIO DE AUTOMACAO E CONTROLE",
+    "availabilityCode": "PD1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Felipe A. R. S."
+    ]
+  },
+  {
+    "course_id": "EMA105",
+    "name": "LABORATORIO DE AUTOMACAO E CONTROLE",
+    "availabilityCode": "PD2",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Lazaro V. D."
+    ]
+  },
+  {
+    "course_id": "EMA105",
+    "name": "LABORATORIO DE AUTOMACAO E CONTROLE",
+    "availabilityCode": "PD3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Antonio A. T. M."
+    ]
+  },
+  {
+    "course_id": "EMA105",
+    "name": "LABORATORIO DE AUTOMACAO E CONTROLE",
+    "availabilityCode": "PN1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Lazaro V. D."
+    ]
+  },
+  {
+    "course_id": "EMA105",
+    "name": "LABORATORIO DE AUTOMACAO E CONTROLE",
+    "availabilityCode": "PN2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Lazaro V. D."
+    ]
+  },
+  {
+    "course_id": "EMA105",
+    "name": "LABORATORIO DE AUTOMACAO E CONTROLE",
+    "availabilityCode": "PN3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Diego H. S. C."
+    ]
+  },
+  {
+    "course_id": "EMA105",
+    "name": "LABORATORIO DE AUTOMACAO E CONTROLE",
+    "availabilityCode": "PN4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Willian M. D."
+    ]
+  },
+  {
+    "course_id": "EMA106",
+    "name": "MANUTENCAO MECANICA",
+    "availabilityCode": "TD",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "15:45"
+      }
+    ],
+    "teachers": [
+      "Fabricio J. P. P."
+    ]
+  },
+  {
+    "course_id": "EMA106",
+    "name": "MANUTENCAO MECANICA",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "21:45"
+      }
+    ],
+    "teachers": [
+      "Fabricio J. P. P."
+    ]
+  },
+  {
+    "course_id": "EMA107",
+    "name": "TRABALHO DE GRADUACAO I",
+    "availabilityCode": "TD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "17:50"
+      }
+    ],
+    "teachers": [
+      "Raphael N. O.",
+      "Rafael A. M. F."
+    ]
+  },
+  {
+    "course_id": "EMA107",
+    "name": "TRABALHO DE GRADUACAO I",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:00",
+        "end": "18:50"
+      }
+    ],
+    "teachers": [
+      "Rafael A. M. F.",
+      "Raphael N. O."
+    ]
+  },
+  {
+    "course_id": "EMA108",
+    "name": "TRABALHO DE GRADUACAO II",
+    "availabilityCode": "TDN",
+    "spots": 100,
+    "times": [],
+    "teachers": [
+      "Horacio V. D."
+    ]
+  },
+  {
+    "course_id": "EMA131",
+    "name": "ESTAMPAGEM",
+    "availabilityCode": "TDN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:10",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Frederico C. M."
+    ]
+  },
+  {
+    "course_id": "EMA183",
+    "name": "TERMODINAMICA FUNDAMENTAL",
+    "availabilityCode": "TD",
+    "spots": 58,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Raphael N. O."
+    ]
+  },
+  {
+    "course_id": "EMA183",
+    "name": "TERMODINAMICA FUNDAMENTAL",
+    "availabilityCode": "TN",
+    "spots": 58,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Paulo V. T."
+    ]
+  },
+  {
+    "course_id": "EMA184",
+    "name": "FUNDAMENTOS DA TEORIA DE CONTROLE",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Felipe A. R. S."
+    ]
+  },
+  {
+    "course_id": "EMA184",
+    "name": "FUNDAMENTOS DA TEORIA DE CONTROLE",
+    "availabilityCode": "TN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Diego H. S. C."
+    ]
+  },
+  {
+    "course_id": "EMA185",
+    "name": "PROJETO DE SISTEMAS DE CONTROLE",
+    "availabilityCode": "TD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Antonio A. T. M."
+    ]
+  },
+  {
+    "course_id": "EMA185",
+    "name": "PROJETO DE SISTEMAS DE CONTROLE",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Lazaro V. D."
+    ]
+  },
+  {
+    "course_id": "EMA186",
+    "name": "TERMODINAMICA APLICADA",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Jose G. C. B."
+    ]
+  },
+  {
+    "course_id": "EMA186",
+    "name": "TERMODINAMICA APLICADA",
+    "availabilityCode": "TN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Thiago A. R. L."
+    ]
+  },
+  {
+    "course_id": "EMA187",
+    "name": "PROJETOS MECANICOS",
+    "availabilityCode": "TD_D1",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Marco T. C. F."
+    ]
+  },
+  {
+    "course_id": "EMA187",
+    "name": "PROJETOS MECANICOS",
+    "availabilityCode": "TN_N1",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:10",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marco T. C. F."
+    ]
+  },
+  {
+    "course_id": "EMA188",
+    "name": "ESTAGIO SUPERVISIONADO",
+    "availabilityCode": "TD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:45",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Roberta S. S.",
+      "Juan C. H. G."
+    ]
+  },
+  {
+    "course_id": "EMA188",
+    "name": "ESTAGIO SUPERVISIONADO",
+    "availabilityCode": "TD1",
+    "spots": 20,
+    "times": [],
+    "teachers": [
+      "Roberta S. S.",
+      "Juan C. H. G."
+    ]
+  },
+  {
+    "course_id": "EMA188",
+    "name": "ESTAGIO SUPERVISIONADO",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Juan C. H. G.",
+      "Roberta S. S."
+    ]
+  },
+  {
+    "course_id": "EMA190",
+    "name": "INTRODUCAO A TECNOLOGIA AUTOMOTIVA",
+    "availabilityCode": "TDN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Fabricio J. P. P."
+    ]
+  },
+  {
+    "course_id": "EMA217",
+    "name": "INTRODUCAO A MECATRONICA",
+    "availabilityCode": "TDN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Felipe A. R. S."
+    ]
+  },
+  {
+    "course_id": "EMA222",
+    "name": "COMANDO NUMERICO DE MAQUINAS FERRAMENTAS",
+    "availabilityCode": "TDN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:10",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Juan C. C. R."
+    ]
+  },
+  {
+    "course_id": "EMC028",
+    "name": "CIENCIAS DOS MATERIAIS",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Cicero M. D. S."
+    ]
+  },
+  {
+    "course_id": "EMC028",
+    "name": "CIENCIAS DOS MATERIAIS",
+    "availabilityCode": "TN",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Cicero M. D. S."
+    ]
+  },
+  {
+    "course_id": "EMC029",
+    "name": "SELEÇÃO DE MATERIAIS",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Marys L. B. A."
+    ]
+  },
+  {
+    "course_id": "EMC029",
+    "name": "SELEÇÃO DE MATERIAIS",
+    "availabilityCode": "TTNN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:05",
+        "end": "19:45"
+      }
+    ],
+    "teachers": [
+      "Maria T. P. A."
+    ]
+  },
+  {
+    "course_id": "EMC030",
+    "name": "LABORATORIO DE MATERIAIS",
+    "availabilityCode": "PD1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:45",
+        "end": "15:25"
+      }
+    ],
+    "teachers": [
+      "Alisson D. S."
+    ]
+  },
+  {
+    "course_id": "EMC030",
+    "name": "LABORATORIO DE MATERIAIS",
+    "availabilityCode": "PD2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:30",
+        "end": "17:05"
+      }
+    ],
+    "teachers": [
+      "Alisson D. S."
+    ]
+  },
+  {
+    "course_id": "EMC030",
+    "name": "LABORATORIO DE MATERIAIS",
+    "availabilityCode": "PN1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:15",
+        "end": "18:55"
+      }
+    ],
+    "teachers": [
+      "Alisson D. S."
+    ]
+  },
+  {
+    "course_id": "EMC030",
+    "name": "LABORATORIO DE MATERIAIS",
+    "availabilityCode": "PN2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Alisson D. S."
+    ]
+  },
+  {
+    "course_id": "EMT060",
+    "name": "TRATAMENTOS TERMICOS",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Augusta C. I. N."
+    ]
+  },
+  {
+    "course_id": "EMT060",
+    "name": "TRATAMENTOS TERMICOS",
+    "availabilityCode": "TN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Augusta C. I. N."
+    ]
+  },
+  {
+    "course_id": "ENG031",
+    "name": "TOPICOS EM ENGENHARIA MECANICA A - Usinagem Não Convencional",
+    "availabilityCode": "TDN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Alexandre M. A."
+    ]
+  },
+  {
+    "course_id": "ENG031",
+    "name": "TOPICOS EM ENGENHARIA MECANICA A - Tribologia",
+    "availabilityCode": "TDN2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Marcelo A. C."
+    ]
+  },
+  {
+    "course_id": "ENG031",
+    "name": "TOPICOS EM ENGENHARIA MECANICA A - MANCAIS DE ROLAMENTO",
+    "availabilityCode": "TDN3",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Alexandre S. S."
+    ]
+  },
+  {
+    "course_id": "ENG031",
+    "name": "TOPICOS EM ENGENHARIA MECANICA A - História da Mecânica",
+    "availabilityCode": "TDN4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Danilo A."
+    ]
+  },
+  {
+    "course_id": "ENG031",
+    "name": "TOPICOS EM ENGENHARIA MECANICA A - Ensaios de resistência",
+    "availabilityCode": "TDN8",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA805 - Mecânica do Fluídos",
+    "availabilityCode": "T805",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA817 - Refrigeração Avançada",
+    "availabilityCode": "T817",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:50",
+        "end": "12:20"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA834 - Transferência de Calor de Mecânica dos Fluidos Computacional",
+    "availabilityCode": "T834",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "21:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA841 - Modelamento de Sistemas Dinâmicos",
+    "availabilityCode": "T841",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "15:50",
+        "end": "18:20"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA845 - Mecânica da Fratura e Fadiga",
+    "availabilityCode": "T845",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA859 - Métodos Matemáticos em Engenharia Mecânica",
+    "availabilityCode": "T859",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "21:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA867 - Tecnologias para Redução de Emissões Atmosféricas na Mobilidade e na Matriz Energética",
+    "availabilityCode": "T867A",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "21:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA867 - Análise de Sustentabilidade Ambiental de Processos",
+    "availabilityCode": "T867B",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA867C - Instrumentação Científica Aplicada à Energia e Sustentabilidade",
+    "availabilityCode": "T867C",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA867D - Mecânica da Fratura e Fadiga",
+    "availabilityCode": "T867D",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA885 - Dinâmica de Rotores",
+    "availabilityCode": "T885",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:00",
+        "end": "09:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA887 - Introdução à Engenharia de Precisão",
+    "availabilityCode": "T887",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA891 - Motores de Combustão Interna",
+    "availabilityCode": "T891",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:50",
+        "end": "18:20"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA908 - Engenharia de Superfície e Desgaste de Ferramentas",
+    "availabilityCode": "T908",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "15:50",
+        "end": "18:20"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA910 - Tratamentos Térmicos",
+    "availabilityCode": "T910",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "21:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA911 - Engenharia de Reabilitação e Tecnologia Assistiva",
+    "availabilityCode": "T911",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:50",
+        "end": "18:20"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA913 - Neurociências da visão (Neurovisão)",
+    "availabilityCode": "T913",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "15:50",
+        "end": "18:20"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - PPGMEC - EMA915 - Termografia: Fundamentos e Aplicações",
+    "availabilityCode": "T915",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - Resistência dos Materiais Avançada",
+    "availabilityCode": "TDN1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "19:45"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG032",
+    "name": "TOPICOS EM ENGENHARIA MECANICA B - Introdução à Otimização Topológica",
+    "availabilityCode": "TM",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:55"
+      }
+    ],
+    "teachers": [
+      "Luiz F. B. C."
+    ]
+  },
+  {
+    "course_id": "ENG033",
+    "name": "TÓPICOS EM ENGENHARIA MECANICA C - Automação de Relatórios e Tarefas de Engenharia",
+    "availabilityCode": "TDN1",
+    "spots": 90,
+    "times": [],
+    "teachers": [
+      "Willian M. D."
+    ]
+  },
+  {
+    "course_id": "ENG033",
+    "name": "TÓPICOS EM ENGENHARIA MECANICA C - Instrumentação e Monitoramento Inteligente",
+    "availabilityCode": "TDN10",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Oscar R. S. R."
+    ]
+  },
+  {
+    "course_id": "ENG033",
+    "name": "TÓPICOS EM ENGENHARIA MECANICA C - Iniciação à pesquisa em engenharia mecânica",
+    "availabilityCode": "TDN11",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Adriana S. F."
+    ]
+  },
+  {
+    "course_id": "ENG033",
+    "name": "TÓPICOS EM ENGENHARIA MECANICA C - Secagem Industrial",
+    "availabilityCode": "TDN2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Leandro S. O."
+    ]
+  },
+  {
+    "course_id": "ENG033",
+    "name": "TÓPICOS EM ENGENHARIA MECANICA C - Projetos de Sistemas Térmicos",
+    "availabilityCode": "TDN3",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Paulo V. T."
+    ]
+  },
+  {
+    "course_id": "ENG033",
+    "name": "TÓPICOS EM ENGENHARIA MECANICA C - INTRODUÇÃO À DINÂMICA DE ROTORES",
+    "availabilityCode": "TDN4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marco T. C. F."
+    ]
+  },
+  {
+    "course_id": "ENG033",
+    "name": "TÓPICOS EM ENGENHARIA MECANICA C - Introdução à Inteligência Artificial",
+    "availabilityCode": "TDN5",
+    "spots": 30,
+    "times": [],
+    "teachers": [
+      "Ricardo P. M. F."
+    ]
+  },
+  {
+    "course_id": "ENG033",
+    "name": "TÓPICOS EM ENGENHARIA MECANICA C - Dinâmica Veicular II",
+    "availabilityCode": "TDN6",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Juan C. H. G."
+    ]
+  },
+  {
+    "course_id": "ENG033",
+    "name": "TÓPICOS EM ENGENHARIA MECANICA C - Programação de Computadores",
+    "availabilityCode": "TDN7",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Antonio A. T. M."
+    ]
+  },
+  {
+    "course_id": "ENG033",
+    "name": "TÓPICOS EM ENGENHARIA MECANICA C - Sistemas a Eventos Discretos",
+    "availabilityCode": "TDN8",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Eduardo J. L. I."
+    ]
+  },
+  {
+    "course_id": "ENG033",
+    "name": "TÓPICOS EM ENGENHARIA MECANICA C - Introdução à Engenharia de Mecânica Compósitos",
+    "availabilityCode": "TDN9",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Antonio F. A."
+    ]
+  },
+  {
+    "course_id": "EPD036",
+    "name": "ORGANIZACAO INDUSTRIAL",
+    "availabilityCode": "PD",
+    "spots": 45,
+    "times": [],
+    "teachers": [
+      "Michael D. S. D."
+    ]
+  },
+  {
+    "course_id": "EPD036",
+    "name": "ORGANIZACAO INDUSTRIAL",
+    "availabilityCode": "PN",
+    "spots": 45,
+    "times": [],
+    "teachers": [
+      "Michael D. S. D."
+    ]
+  },
+  {
+    "course_id": "ESA109",
+    "name": "PROTECAO AMBIENTAL",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ESA109",
+    "name": "PROTECAO AMBIENTAL",
+    "availabilityCode": "TN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EST031",
+    "name": "ESTATISTICA E PROBABILIDADES",
+    "availabilityCode": "TB1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": [
+      "Fabio N. D."
+    ]
+  },
+  {
+    "course_id": "EST031",
+    "name": "ESTATISTICA E PROBABILIDADES",
+    "availabilityCode": "TB2",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": [
+      "Uriel M. S."
+    ]
+  },
+  {
+    "course_id": "EST031",
+    "name": "ESTATISTICA E PROBABILIDADES",
+    "availabilityCode": "TE1",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Frederico R. B. C."
+    ]
+  },
+  {
+    "course_id": "EST031",
+    "name": "ESTATISTICA E PROBABILIDADES",
+    "availabilityCode": "TE2",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Adrian P. H. L."
+    ]
+  },
+  {
+    "course_id": "FIS031",
+    "name": "MECANICA FUNDAMENTAL",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS031",
+    "name": "MECANICA FUNDAMENTAL",
+    "availabilityCode": "TE",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TE1",
+    "spots": 125,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TE2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TF1",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TF2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TN1",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TN2",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TN3",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TOL1",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TOL2",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TOL3",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TOL4",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TE1",
+    "spots": 100,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TE2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TM4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TOL1",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TOL2",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TOL3",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TOL4",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS087",
+    "name": "FUNDAMENTOS DE OSCILACOES E ONDAS",
+    "availabilityCode": "TF",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS087",
+    "name": "FUNDAMENTOS DE OSCILACOES E ONDAS",
+    "availabilityCode": "TP",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS151",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: MECÂNICA",
+    "availabilityCode": "PU3",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS151",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: MECÂNICA",
+    "availabilityCode": "PU4",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS151",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: MECÂNICA",
+    "availabilityCode": "PX8A",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS151",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: MECÂNICA",
+    "availabilityCode": "PX8B",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS152",
+    "name": "FUNDAMENTOS DE MECÂNICA DOS FLUIDOS E TERMODINÂMICA",
+    "availabilityCode": "TOL4",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS153",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: ELETROMAGNETISMO",
+    "availabilityCode": "PT9A",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS153",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: ELETROMAGNETISMO",
+    "availabilityCode": "PT9B",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS153",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: ELETROMAGNETISMO",
+    "availabilityCode": "PU7A",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS153",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: ELETROMAGNETISMO",
+    "availabilityCode": "PU7B",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TB2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TD1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TD2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TE1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TE2",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TF1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TF2",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TOL1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TOL2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TZ1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT002",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL III",
+    "availabilityCode": "TD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT002",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL III",
+    "availabilityCode": "TE",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT002",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL III",
+    "availabilityCode": "TF",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT002",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL III",
+    "availabilityCode": "TOL",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT002",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL III",
+    "availabilityCode": "TZ",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT015",
+    "name": "EQUAÇÕES DIFERENCIAIS A",
+    "availabilityCode": "TD1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT015",
+    "name": "EQUAÇÕES DIFERENCIAIS A",
+    "availabilityCode": "TD2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT015",
+    "name": "EQUAÇÕES DIFERENCIAIS A",
+    "availabilityCode": "TE",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT015",
+    "name": "EQUAÇÕES DIFERENCIAIS A",
+    "availabilityCode": "TF",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT015",
+    "name": "EQUAÇÕES DIFERENCIAIS A",
+    "availabilityCode": "TOL",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT015",
+    "name": "EQUAÇÕES DIFERENCIAIS A",
+    "availabilityCode": "TZ2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT016",
+    "name": "EQUAÇÕES DIFERENCIAIS B",
+    "availabilityCode": "TE",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT016",
+    "name": "EQUAÇÕES DIFERENCIAIS B",
+    "availabilityCode": "TF",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT016",
+    "name": "EQUAÇÕES DIFERENCIAIS B",
+    "availabilityCode": "TZ",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TA2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TD1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TD2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TE1",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TE2",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TF1",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TF2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TOL1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TOL2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TZ3",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TB1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TB2",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TD1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TD2",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TE1",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TE2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TF1",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TF2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TOL",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TZ2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI003",
+    "name": "QUIMICA GERAL B",
+    "availabilityCode": "TE",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI003",
+    "name": "QUIMICA GERAL B",
+    "availabilityCode": "TM3",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  }
+]

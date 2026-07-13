@@ -111,7 +111,7 @@ import type {
   Course,
   CurriculumData,
 } from "@/lib/types/curriculum"
-import { formatShiftLabel, getShift, type Shift } from "@/lib/shift"
+import { compareShifts, formatShiftLabel, getShift, type Shift } from "@/lib/shift"
 
 const curriculumByCourseId: Record<string, CurriculumData> = {
 ${curriculumMap}
@@ -139,7 +139,7 @@ export function getCourseGroups(): CourseGroup[] {
     if (existing) {
       if (!existing.shifts.includes(shift)) {
         existing.shifts.push(shift)
-        existing.shifts.sort((a, b) => a.localeCompare(b))
+        existing.shifts.sort(compareShifts)
       }
       continue
     }
@@ -155,7 +155,7 @@ export function getProgramVariants(offerId: string): ProgramVariant[] {
       courseId: course.id,
       shift: getShift(course) ?? "diurno",
     }))
-    .sort((a, b) => a.shift.localeCompare(b.shift))
+    .sort((a, b) => compareShifts(a.shift, b.shift))
 }
 
 export function resolveCourseId(offerId: string, shift: Shift): string | undefined {

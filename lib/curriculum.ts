@@ -1,7 +1,20 @@
 import coursesIndexData from "@/data/curriculum/index.json"
+import cienciaComputacaoDiurno from "@/data/curriculum/ciencia-computacao-diurno.json"
+import cienciaComputacaoVespertino from "@/data/curriculum/ciencia-computacao-vespertino.json"
 import controleAutomacaoDiurno from "@/data/curriculum/controle-automacao-diurno.json"
 import controleAutomacaoNoturno from "@/data/curriculum/controle-automacao-noturno.json"
+import engAeroespacialDiurno from "@/data/curriculum/eng-aeroespacial-diurno.json"
+import engCivilDiurno from "@/data/curriculum/eng-civil-diurno.json"
+import engComputacaoVespertino from "@/data/curriculum/eng-computacao-vespertino.json"
+import engEletricaDiurno from "@/data/curriculum/eng-eletrica-diurno.json"
+import engMecanicaDiurno from "@/data/curriculum/eng-mecanica-diurno.json"
+import engMecanicaNoturno from "@/data/curriculum/eng-mecanica-noturno.json"
+import engMetalurgicaDiurno from "@/data/curriculum/eng-metalurgica-diurno.json"
+import engMinasDiurno from "@/data/curriculum/eng-minas-diurno.json"
 import engProducaoDiurno from "@/data/curriculum/eng-producao-diurno.json"
+import engQuimicaDiurno from "@/data/curriculum/eng-quimica-diurno.json"
+import engSistemasNoturno from "@/data/curriculum/eng-sistemas-noturno.json"
+import estatisticaDiurno from "@/data/curriculum/estatistica-diurno.json"
 import type {
   Class,
   ClassPrerequisite,
@@ -9,12 +22,25 @@ import type {
   Course,
   CurriculumData,
 } from "@/lib/types/curriculum"
-import { formatShiftLabel, getShift, type Shift } from "@/lib/shift"
+import { compareShifts, formatShiftLabel, getShift, type Shift } from "@/lib/shift"
 
 const curriculumByCourseId: Record<string, CurriculumData> = {
+  "ciencia-computacao-diurno": cienciaComputacaoDiurno,
+  "ciencia-computacao-vespertino": cienciaComputacaoVespertino,
   "controle-automacao-diurno": controleAutomacaoDiurno,
   "controle-automacao-noturno": controleAutomacaoNoturno,
+  "eng-aeroespacial-diurno": engAeroespacialDiurno,
+  "eng-civil-diurno": engCivilDiurno,
+  "eng-computacao-vespertino": engComputacaoVespertino,
+  "eng-eletrica-diurno": engEletricaDiurno,
+  "eng-mecanica-diurno": engMecanicaDiurno,
+  "eng-mecanica-noturno": engMecanicaNoturno,
+  "eng-metalurgica-diurno": engMetalurgicaDiurno,
+  "eng-minas-diurno": engMinasDiurno,
   "eng-producao-diurno": engProducaoDiurno,
+  "eng-quimica-diurno": engQuimicaDiurno,
+  "eng-sistemas-noturno": engSistemasNoturno,
+  "estatistica-diurno": estatisticaDiurno,
 }
 
 const coursesIndex = coursesIndexData as Course[]
@@ -39,7 +65,7 @@ export function getCourseGroups(): CourseGroup[] {
     if (existing) {
       if (!existing.shifts.includes(shift)) {
         existing.shifts.push(shift)
-        existing.shifts.sort((a, b) => a.localeCompare(b))
+        existing.shifts.sort(compareShifts)
       }
       continue
     }
@@ -55,7 +81,7 @@ export function getProgramVariants(offerId: string): ProgramVariant[] {
       courseId: course.id,
       shift: getShift(course) ?? "diurno",
     }))
-    .sort((a, b) => a.shift.localeCompare(b.shift))
+    .sort((a, b) => compareShifts(a.shift, b.shift))
 }
 
 export function resolveCourseId(offerId: string, shift: Shift): string | undefined {

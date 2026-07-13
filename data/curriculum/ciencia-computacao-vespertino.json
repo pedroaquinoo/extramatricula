@@ -1,0 +1,342 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "DCC096",
+      "name": "Introdução À Computação",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DCC203",
+      "name": "Programação e Desenvolvimento de Software I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DCC638",
+      "name": "Introdução À Lógica Computacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ECN140",
+      "name": "Introdução À Economia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "CAD103",
+      "name": "Administração Tga",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC114",
+      "name": "Introdução Aos Sistemas Lógicos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC216",
+      "name": "Matemática Discreta",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC219",
+      "name": "Programação e Desenvolvimento de Software II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCC221",
+      "name": "Estruturas de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCC222",
+      "name": "Introdução a Bancos de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCC639",
+      "name": "Álgebra Linear Computacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EST032",
+      "name": "Probabilidade",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT039",
+      "name": "Cálculo Diferencial e Integral II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DCC006",
+      "name": "Organização de Computadores I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DCC051",
+      "name": "Introdução À Ciência dos Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DCC129",
+      "name": "Fundamentos da Teoria da Computação",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DCC206",
+      "name": "Algoritmos I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "MAT034",
+      "name": "Álgebra a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DCC024",
+      "name": "Linguagens de Programacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DCC035",
+      "name": "Pesquisa Operacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DCC207",
+      "name": "Algoritmos II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "MAT040",
+      "name": "Equacoes Diferenciais C",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DCC053",
+      "name": "Compiladores I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DCC094",
+      "name": "Engenharia de Software",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DCC605",
+      "name": "Sistemas Operacionais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DCC095",
+      "name": "Redes de Computadores",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DCC636",
+      "name": "Ética na Computação",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DCC641",
+      "name": "Fundamentos de Sistemas Paralelos e Distribuídos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DCC642",
+      "name": "Introdução À Inteligência Artificial",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DCC637",
+      "name": "Computação e Sociedade",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "DCC604",
+      "name": "Projeto Orientado em Computacao I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "DCC009",
+      "name": "Projeto Orientado em Computacao II",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "DCC114",
+      "prerequisite_code": "DCC638"
+    },
+    {
+      "code": "DCC216",
+      "prerequisite_code": "DCC638"
+    },
+    {
+      "code": "DCC219",
+      "prerequisite_code": "DCC203"
+    },
+    {
+      "code": "DCC221",
+      "prerequisite_code": "DCC219"
+    },
+    {
+      "code": "MAT039",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "DCC006",
+      "prerequisite_code": "DCC114"
+    },
+    {
+      "code": "DCC051",
+      "prerequisite_code": "EST032"
+    },
+    {
+      "code": "DCC129",
+      "prerequisite_code": "DCC638"
+    },
+    {
+      "code": "DCC024",
+      "prerequisite_code": "DCC221"
+    },
+    {
+      "code": "DCC207",
+      "prerequisite_code": "DCC206"
+    },
+    {
+      "code": "MAT040",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "DCC053",
+      "prerequisite_code": "DCC129"
+    },
+    {
+      "code": "DCC094",
+      "prerequisite_code": "DCC222"
+    },
+    {
+      "code": "DCC605",
+      "prerequisite_code": "DCC221"
+    },
+    {
+      "code": "DCC642",
+      "prerequisite_code": "DCC221"
+    },
+    {
+      "code": "DCC009",
+      "prerequisite_code": "DCC604"
+    }
+  ]
+}

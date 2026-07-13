@@ -1,0 +1,686 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "DCC001",
+      "name": "Programacao de Computadores",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "EMC013",
+      "name": "Desenho Projetivo Para Engenharia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ENG011",
+      "name": "Introducao a Engenharia Civil",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI003",
+      "name": "Quimica Geral B",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI019",
+      "name": "Quimica Geral Experimental",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "CRT604",
+      "name": "Topografia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC034",
+      "name": "Calculo Numerico",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EMC014",
+      "name": "Desenho Auxiliado Por Computador",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS065",
+      "name": "Fundamentos de Mecanica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS151",
+      "name": "Física Experimental Básica: Mecânica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT039",
+      "name": "Cálculo Diferencial e Integral II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "CRT005",
+      "name": "Topografia II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ESA008",
+      "name": "Introducao As Ciencias do Ambiente",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS069",
+      "name": "Fundamentos de Eletromagnetismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT002",
+      "name": "Calculo Diferencial e Integral III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT015",
+      "name": "Equações Diferenciais a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EES043",
+      "name": "Mecanica Para Engenheiros",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ESA009",
+      "name": "Controle Ambiental",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EST027",
+      "name": "Estatistica Para Engenharia Civil",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIS087",
+      "name": "Fundamentos de Oscilacoes e Ondas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIS152",
+      "name": "Fundamentos de Mecânica dos Fluidos e Termodinâmica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "GEL603",
+      "name": "Introducao a Geologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EES023",
+      "name": "Analise Estrutural I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EES145",
+      "name": "Resistencia dos Materiais I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EHR004",
+      "name": "Mecanica dos Fluidos C",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EMC015",
+      "name": "Materiais de Construcao I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ESA010",
+      "name": "Gerenciamento Residuos Solidos Urbanos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ETG012",
+      "name": "Mecanica dos Solos I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "TAU016",
+      "name": "Nocoes de Arquitetura e Urbanismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EES024",
+      "name": "Analise Estrutural II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EES146",
+      "name": "Resistencia dos Materiais II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EHR016",
+      "name": "Hidraulica I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMC016",
+      "name": "Materiais de Construcao II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ENG082",
+      "name": "Trabalho Integralizador Multidiscip I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ETG011",
+      "name": "Analise de Sistemas de Transporte",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ETG016",
+      "name": "Mecanica dos Solos II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EES018",
+      "name": "Estruturas de Aco I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EES150",
+      "name": "Concreto Armado I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EHR017",
+      "name": "Hidraulica II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ELE619",
+      "name": "Instalac. Eletricas-eletrotecnica Geral",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMC017",
+      "name": "Tecnologia das Edificacoes I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ESA011",
+      "name": "Sistema de Abastecimento de Agua",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ETG051",
+      "name": "Planejamento de Transportes Urbano e Regional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EES032",
+      "name": "Estruturas de Aco II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EES151",
+      "name": "Concreto Armado II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EHR007",
+      "name": "Hidrologia Aplicada",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMC018",
+      "name": "Tecnologia das Edificacoes II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ENG083",
+      "name": "Trabalho Integralizador Multidis. II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ESA012",
+      "name": "Sistemas Esgotamento Sanitario e Pluvial",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ETG030",
+      "name": "Geotecnia Ambiental",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ETG052",
+      "name": "Projetos de Estradas e Vias Urbanas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EES044",
+      "name": "Estruturas Usuais de Madeira",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EMC019",
+      "name": "Tecnologia das Edificacoes III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ETG032",
+      "name": "Fundacoes e Estruturas de Contencao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ETG033",
+      "name": "Construcao de Estradas e Vias Urbanas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "DIT001",
+      "name": "Direito e Legislacao",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ECN075",
+      "name": "Economia Para Engenharia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENG014",
+      "name": "Trabalho Integralizador Multidiscip. III",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EPD001",
+      "name": "Organizacao Industrial Para Engenharia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "CRT604",
+      "prerequisite_code": "EMC013"
+    },
+    {
+      "code": "EMC014",
+      "prerequisite_code": "EMC013"
+    },
+    {
+      "code": "CRT005",
+      "prerequisite_code": "CRT604"
+    },
+    {
+      "code": "ESA008",
+      "prerequisite_code": "QUI003"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "MAT002",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "MAT015",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "EES043",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "ESA009",
+      "prerequisite_code": "ESA008"
+    },
+    {
+      "code": "FIS087",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "FIS152",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS152",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "EES023",
+      "prerequisite_code": "EES043"
+    },
+    {
+      "code": "EES145",
+      "prerequisite_code": "EES043"
+    },
+    {
+      "code": "EHR004",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "EMC015",
+      "prerequisite_code": "GEL603"
+    },
+    {
+      "code": "EMC015",
+      "prerequisite_code": "EST027"
+    },
+    {
+      "code": "ESA010",
+      "prerequisite_code": "ESA009"
+    },
+    {
+      "code": "ETG012",
+      "prerequisite_code": "GEL603"
+    },
+    {
+      "code": "TAU016",
+      "prerequisite_code": "EMC014"
+    },
+    {
+      "code": "EES024",
+      "prerequisite_code": "EES023"
+    },
+    {
+      "code": "EES024",
+      "prerequisite_code": "EES145"
+    },
+    {
+      "code": "EES146",
+      "prerequisite_code": "EES023"
+    },
+    {
+      "code": "EES146",
+      "prerequisite_code": "EES145"
+    },
+    {
+      "code": "EHR016",
+      "prerequisite_code": "EHR004"
+    },
+    {
+      "code": "EMC016",
+      "prerequisite_code": "EMC015"
+    },
+    {
+      "code": "ETG011",
+      "prerequisite_code": "TAU016"
+    },
+    {
+      "code": "ETG016",
+      "prerequisite_code": "ETG012"
+    },
+    {
+      "code": "EES018",
+      "prerequisite_code": "EES024"
+    },
+    {
+      "code": "EES018",
+      "prerequisite_code": "EES146"
+    },
+    {
+      "code": "EES150",
+      "prerequisite_code": "EES024"
+    },
+    {
+      "code": "EES150",
+      "prerequisite_code": "EES146"
+    },
+    {
+      "code": "EHR017",
+      "prerequisite_code": "EHR016"
+    },
+    {
+      "code": "ESA011",
+      "prerequisite_code": "EHR016"
+    },
+    {
+      "code": "ETG051",
+      "prerequisite_code": "ETG011"
+    },
+    {
+      "code": "EES032",
+      "prerequisite_code": "EES018"
+    },
+    {
+      "code": "EES151",
+      "prerequisite_code": "EES150"
+    },
+    {
+      "code": "EHR007",
+      "prerequisite_code": "EHR017"
+    },
+    {
+      "code": "EMC018",
+      "prerequisite_code": "EMC017"
+    },
+    {
+      "code": "ENG083",
+      "prerequisite_code": "EES150"
+    },
+    {
+      "code": "ESA012",
+      "prerequisite_code": "ESA011"
+    },
+    {
+      "code": "ETG030",
+      "prerequisite_code": "ETG016"
+    },
+    {
+      "code": "ETG052",
+      "prerequisite_code": "ETG051"
+    },
+    {
+      "code": "EMC019",
+      "prerequisite_code": "EMC018"
+    },
+    {
+      "code": "ETG032",
+      "prerequisite_code": "ETG016"
+    },
+    {
+      "code": "ETG033",
+      "prerequisite_code": "ETG052"
+    },
+    {
+      "code": "ENG014",
+      "prerequisite_code": "ETG033"
+    }
+  ]
+}

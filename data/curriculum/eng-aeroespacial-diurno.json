@@ -1,0 +1,606 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "ECN075",
+      "name": "Economia Para Engenharia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "EMA083",
+      "name": "Desenho Mecânico",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI003",
+      "name": "Quimica Geral B",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "UNI007",
+      "name": "Introd. a Engenharia Aeroespacial",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "CAD103",
+      "name": "Administração Tga",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC001",
+      "name": "Programacao de Computadores",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EMA257",
+      "name": "Metrologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EST031",
+      "name": "Estatistica e Probabilidades",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS065",
+      "name": "Fundamentos de Mecanica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS151",
+      "name": "Física Experimental Básica: Mecânica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT039",
+      "name": "Cálculo Diferencial e Integral II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EMA247",
+      "name": "Mecanica dos Materiais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIL029",
+      "name": "Intr. a Filosofia:fil da Cien e Epistem.",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS069",
+      "name": "Fundamentos de Eletromagnetismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS087",
+      "name": "Fundamentos de Oscilacoes e Ondas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS153",
+      "name": "Física Experimental Básica: Eletromagnetismo",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT002",
+      "name": "Calculo Diferencial e Integral III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT015",
+      "name": "Equações Diferenciais a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DCC033",
+      "name": "Analise Numerica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EES022",
+      "name": "Introducao a Mecanica dos Solidos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ELE064",
+      "name": "Analise de Circuitos Eletricos I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EMA089",
+      "name": "Modelagem de Sistemas Dinamicos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EMA091",
+      "name": "Mecanica dos Fluidos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "MAT016",
+      "name": "Equações Diferenciais B",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DIT104",
+      "name": "Direito e Legislacao",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EES003",
+      "name": "Resistencia dos Materiais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ELE065",
+      "name": "Analise de Circuitos Eletricos II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EMA028",
+      "name": "Teoria de Controle",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EMA087",
+      "name": "Termodinamica Fundamental",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EMA098",
+      "name": "Laboratorio de Fluidos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EMA248",
+      "name": "Eletronica Industrial",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EMA252",
+      "name": "Dinamica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMA094",
+      "name": "Transmissao de Calor",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMA100",
+      "name": "Elementos de Maquinas II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMA103",
+      "name": "Laboratorio de Termica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMA105",
+      "name": "Laboratorio de Automacao e Controle",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMA249",
+      "name": "Processos de Fabricacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMA250",
+      "name": "Mecanica do Voo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMA254",
+      "name": "Aerodinamica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ELE156",
+      "name": "Lab.de Circuitos Eletricos Eletronica C",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMA032",
+      "name": "Desempenho de Aeronaves",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMA057",
+      "name": "Estabilidade e Controle do Aviao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMA062",
+      "name": "Manutenção de Aeronaves I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMA233",
+      "name": "Teoria das Estruturas Aplic.aos Avioes I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMA251",
+      "name": "Mecânica Orbital",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMA052",
+      "name": "Projeto de Aeronaves I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMA058",
+      "name": "Manutenção de Aeronaves II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMA234",
+      "name": "Teoria das Estruturas Aplic Avioes II",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMA237",
+      "name": "Propulsao I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMA238",
+      "name": "Laboratorio de Estruturas Aeroespaciais",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EMA109",
+      "name": "Estagio Supervisionado",
+      "description": null,
+      "credits": 11,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EMA239",
+      "name": "Trabalho de Conclusao de Curso I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EMA240",
+      "name": "Materiais Compostos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMA053",
+      "name": "Projeto de Aeronaves II",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMA242",
+      "name": "Trabalho de Conclusao de Curso II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "FIS065",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "MAT039",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS087",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS087",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "FIS153",
+      "prerequisite_code": "FIS151"
+    },
+    {
+      "code": "FIS153",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "MAT002",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "MAT015",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "DCC033",
+      "prerequisite_code": "DCC001"
+    },
+    {
+      "code": "EES022",
+      "prerequisite_code": "MAT015"
+    },
+    {
+      "code": "ELE064",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "EMA089",
+      "prerequisite_code": "MAT015"
+    },
+    {
+      "code": "EMA091",
+      "prerequisite_code": "MAT015"
+    },
+    {
+      "code": "MAT016",
+      "prerequisite_code": "MAT015"
+    },
+    {
+      "code": "EES003",
+      "prerequisite_code": "EES022"
+    },
+    {
+      "code": "ELE065",
+      "prerequisite_code": "ELE064"
+    },
+    {
+      "code": "EMA028",
+      "prerequisite_code": "EMA089"
+    },
+    {
+      "code": "EMA087",
+      "prerequisite_code": "EMA091"
+    },
+    {
+      "code": "EMA098",
+      "prerequisite_code": "EMA091"
+    },
+    {
+      "code": "EMA252",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "EMA094",
+      "prerequisite_code": "EMA087"
+    },
+    {
+      "code": "EMA100",
+      "prerequisite_code": "EES003"
+    },
+    {
+      "code": "EMA103",
+      "prerequisite_code": "EMA087"
+    },
+    {
+      "code": "EMA105",
+      "prerequisite_code": "EMA028"
+    },
+    {
+      "code": "EMA250",
+      "prerequisite_code": "EMA252"
+    },
+    {
+      "code": "ELE156",
+      "prerequisite_code": "ELE065"
+    },
+    {
+      "code": "EMA062",
+      "prerequisite_code": "UNI007"
+    },
+    {
+      "code": "EMA233",
+      "prerequisite_code": "EES003"
+    },
+    {
+      "code": "EMA251",
+      "prerequisite_code": "EMA250"
+    },
+    {
+      "code": "EMA251",
+      "prerequisite_code": "UNI007"
+    },
+    {
+      "code": "EMA058",
+      "prerequisite_code": "EMA062"
+    },
+    {
+      "code": "EMA234",
+      "prerequisite_code": "EMA233"
+    },
+    {
+      "code": "EMA238",
+      "prerequisite_code": "EMA233"
+    },
+    {
+      "code": "EMA240",
+      "prerequisite_code": "EES003"
+    },
+    {
+      "code": "EMA053",
+      "prerequisite_code": "EMA052"
+    }
+  ]
+}

@@ -1,0 +1,690 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "EMN084",
+      "name": "Introdução À Engenharia de Minas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "GEL198",
+      "name": "Geologia Geral",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI003",
+      "name": "Quimica Geral B",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI019",
+      "name": "Quimica Geral Experimental",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC208",
+      "name": "Introdução À Programação de Computadores",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS065",
+      "name": "Fundamentos de Mecanica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS151",
+      "name": "Física Experimental Básica: Mecânica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "GEL199",
+      "name": "Mineralogia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "GEL200",
+      "name": "Geologia Estrutural",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT039",
+      "name": "Cálculo Diferencial e Integral II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "CRT015",
+      "name": "Topografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EPD118",
+      "name": "Organização Industrial",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS152",
+      "name": "Fundamentos de Mecânica dos Fluidos e Termodinâmica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS154",
+      "name": "Física Experimental Básica: Termodinâmica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "GEL201",
+      "name": "Petrografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT002",
+      "name": "Calculo Diferencial e Integral III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT015",
+      "name": "Equações Diferenciais a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EMC033",
+      "name": "Desenho Técnico",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EST773",
+      "name": "Fundamentos de Estatística e Ciência de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIS069",
+      "name": "Fundamentos de Eletromagnetismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIS153",
+      "name": "Física Experimental Básica: Eletromagnetismo",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "GEL202",
+      "name": "Geologia Econômica",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EES074",
+      "name": "Fundamentos de Mecânica dos Sólidos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ELE063",
+      "name": "Eletrotecnica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EMN085",
+      "name": "Caracterização de Minérios",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EMN086",
+      "name": "Prospecção de Depósitos Minerais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ETG056",
+      "name": "Mecânica dos Solos I Para Engenharia de Minas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FIS086",
+      "name": "Fundamentos de Oscilações,ondas e Óptica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FIS155",
+      "name": "Física Experimental Básica - Ondas e Óptica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMA256",
+      "name": "Elementos de Máquinas Para Engenharia de Minas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMN028",
+      "name": "Processamento Mineral",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMN087",
+      "name": "Mecânica das Rochas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMN088",
+      "name": "Processamento Mineral: Laboratório",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMN089",
+      "name": "Exploração de Depósitos Minerais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "GEL203",
+      "name": "Hidrogeologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMN020",
+      "name": "Geoestatística",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMN034",
+      "name": "Flotação",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMN090",
+      "name": "Separação Sólido-líquido",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMN091",
+      "name": "Métodos de Lavra a Céu Aberto",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMN092",
+      "name": "Métodos de Lavra Subterrânea",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMN093",
+      "name": "Flotação: Laboratório",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMN094",
+      "name": "Aspectos Socioambientais na Mineração",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMN040",
+      "name": "Projeto de Usina",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMN042",
+      "name": "Pesquisa Operacional",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMN095",
+      "name": "Carregamento e Transporte",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMN096",
+      "name": "Perfuração e Desmonte",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMN097",
+      "name": "Avaliação Econômica de Projetos de Mineração",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMN098",
+      "name": "Condicionamento de Mina Subterrânea",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMN099",
+      "name": "Desenvolvimento de Processos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EMN100",
+      "name": "Trabalho de Conclusão de Curso I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EMN135",
+      "name": "Planejamento de Lavra Subterrânea",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EMN136",
+      "name": "Planejamento de Lavra a Céu Aberto",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EMN137",
+      "name": "Fechamento de Mina e Direito Minerário",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EMN138",
+      "name": "Modelagem e Simulação de Processos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EMT087",
+      "name": "Processos Metalúrgicos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMN139",
+      "name": "Trabalho de Conclusão de Curso II",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMN140",
+      "name": "Geometalurgia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMN141",
+      "name": "Segurança e Gestão de Riscos na Mineração",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMN142",
+      "name": "Estágio Supervisionado em Engenharia de Minas",
+      "description": null,
+      "credits": 11,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EQM078",
+      "name": "Instrumentação e Controle de Processos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "FIS065",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "GEL199",
+      "prerequisite_code": "QUI003"
+    },
+    {
+      "code": "GEL200",
+      "prerequisite_code": "GEL198"
+    },
+    {
+      "code": "FIS152",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS152",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "FIS154",
+      "prerequisite_code": "FIS151"
+    },
+    {
+      "code": "GEL201",
+      "prerequisite_code": "GEL199"
+    },
+    {
+      "code": "MAT002",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "MAT015",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "EMC033",
+      "prerequisite_code": "CRT015"
+    },
+    {
+      "code": "EST773",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "FIS153",
+      "prerequisite_code": "FIS151"
+    },
+    {
+      "code": "FIS153",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "GEL202",
+      "prerequisite_code": "GEL200"
+    },
+    {
+      "code": "GEL202",
+      "prerequisite_code": "GEL201"
+    },
+    {
+      "code": "EES074",
+      "prerequisite_code": "MAT015"
+    },
+    {
+      "code": "EMN085",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "EMN086",
+      "prerequisite_code": "GEL202"
+    },
+    {
+      "code": "ETG056",
+      "prerequisite_code": "GEL200"
+    },
+    {
+      "code": "ETG056",
+      "prerequisite_code": "GEL201"
+    },
+    {
+      "code": "FIS086",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "FIS155",
+      "prerequisite_code": "FIS153"
+    },
+    {
+      "code": "FIS155",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "EMA256",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "EMN028",
+      "prerequisite_code": "FIS086"
+    },
+    {
+      "code": "EMN028",
+      "prerequisite_code": "EMN085"
+    },
+    {
+      "code": "EMN087",
+      "prerequisite_code": "EES074"
+    },
+    {
+      "code": "EMN088",
+      "prerequisite_code": "FIS086"
+    },
+    {
+      "code": "EMN088",
+      "prerequisite_code": "EMN085"
+    },
+    {
+      "code": "EMN089",
+      "prerequisite_code": "EMN086"
+    },
+    {
+      "code": "GEL203",
+      "prerequisite_code": "ETG056"
+    },
+    {
+      "code": "EMN090",
+      "prerequisite_code": "EMN085"
+    },
+    {
+      "code": "EMN091",
+      "prerequisite_code": "ETG056"
+    },
+    {
+      "code": "EMN092",
+      "prerequisite_code": "EMN087"
+    },
+    {
+      "code": "EMN095",
+      "prerequisite_code": "EMN091"
+    },
+    {
+      "code": "EMN096",
+      "prerequisite_code": "EMN091"
+    },
+    {
+      "code": "EMN097",
+      "prerequisite_code": "EMN089"
+    },
+    {
+      "code": "EMN098",
+      "prerequisite_code": "EMN092"
+    },
+    {
+      "code": "EMN099",
+      "prerequisite_code": "EMN034"
+    },
+    {
+      "code": "EMN138",
+      "prerequisite_code": "EMN099"
+    },
+    {
+      "code": "EMT087",
+      "prerequisite_code": "EMN099"
+    },
+    {
+      "code": "EMN139",
+      "prerequisite_code": "EMN100"
+    },
+    {
+      "code": "EMN140",
+      "prerequisite_code": "EMN097"
+    },
+    {
+      "code": "EMN141",
+      "prerequisite_code": "EMN094"
+    },
+    {
+      "code": "EMN142",
+      "prerequisite_code": "EMN100"
+    }
+  ]
+}

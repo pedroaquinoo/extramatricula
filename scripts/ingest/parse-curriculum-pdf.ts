@@ -1,4 +1,5 @@
 import { readFile } from "fs/promises"
+import type { Shift } from "@/lib/shift"
 import {
   extractContentStreams,
   extractFragments,
@@ -25,7 +26,7 @@ export interface ParsedCurriculum {
   classes: ParsedCurriculumClass[]
   prerequisites: ParsedCurriculumPrerequisite[]
   courseName: string
-  shift: "diurno" | "noturno"
+  shift: Shift
 }
 
 const COLUMNS: Array<[number, number, string]> = [
@@ -161,7 +162,14 @@ function mergeMultilineRows(rows: ParsedRow[]): ParsedRow[] {
   return merged
 }
 
-function extractMetadata(frags: Fragment[]): { courseName: string; shift: "diurno" | "noturno" } {
+function parseShiftFromText(text: string): Shift {
+  const upper = text.toUpperCase()
+  if (upper.includes("NOTURNO")) return "noturno"
+  if (upper.includes("VESPERTINO")) return "vespertino"
+  return "diurno"
+}
+
+function extractMetadata(frags: Fragment[]): { courseName: string; shift: Shift } {
   let courseName = ""
   for (const f of frags) {
     if (f.x > 90 && f.x < 320 && f.y > 450 && f.y < 470 && f.text.trim()) {
@@ -169,10 +177,10 @@ function extractMetadata(frags: Fragment[]): { courseName: string; shift: "diurn
     }
   }
 
-  let shift: "diurno" | "noturno" = "diurno"
+  let shift: Shift = "diurno"
   for (const f of frags) {
-    if (/\/(DIURNO|NOTURNO)\b/i.test(f.text)) {
-      shift = f.text.toUpperCase().includes("NOTURNO") ? "noturno" : "diurno"
+    if (/(DIURNO|NOTURNO|VESPERTINO)/i.test(f.text)) {
+      shift = parseShiftFromText(f.text)
       break
     }
   }

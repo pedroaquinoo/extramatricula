@@ -1,5 +1,6 @@
 import { mkdir, readFile, writeFile } from "fs/promises"
 import path from "path"
+import type { Shift } from "@/lib/shift"
 import { parseCurriculumPdfFile } from "./parse-curriculum-pdf"
 import { syncCurriculumLib } from "./update-lib-imports"
 
@@ -11,7 +12,7 @@ interface CourseIndexEntry {
   id: string
   name: string
   offerId?: string
-  shift?: "diurno" | "noturno"
+  shift?: Shift
 }
 
 function parseArgs(argv: string[]) {
@@ -69,7 +70,7 @@ async function main() {
   const parsed = await parseCurriculumPdfFile(resolved)
 
   const courseName = nameOverride ?? parsed.courseName
-  const resolvedOfferId = offerId ?? courseId.replace(/-(diurno|noturno)$/, "")
+  const resolvedOfferId = offerId ?? courseId.replace(/-(diurno|vespertino|noturno)$/, "")
 
   const target = path.join(CURRICULUM_DIR, `${courseId}.json`)
   const payload = {

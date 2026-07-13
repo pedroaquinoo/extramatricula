@@ -1,0 +1,366 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "EST185",
+      "name": "Seminários I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "EST199",
+      "name": "Introdução À Probabilidade",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "EST200",
+      "name": "Introdução À Ciência de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC203",
+      "name": "Programação e Desenvolvimento de Software I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EST206",
+      "name": "Probabilidade I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EST207",
+      "name": "Métodos Computacionais Para Ciência de Dados I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT039",
+      "name": "Cálculo Diferencial e Integral II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT048",
+      "name": "Álgebra Linear I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCC204",
+      "name": "Programação e Desenvolvimento de Software II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EST028",
+      "name": "Probabilidade II",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EST208",
+      "name": "Introdução À Inferência Estatística",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT002",
+      "name": "Calculo Diferencial e Integral III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DCC034",
+      "name": "Calculo Numerico",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EST035",
+      "name": "Análise de Regressão",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EST039",
+      "name": "Processos Estocásticos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EST209",
+      "name": "Inferência I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DCC011",
+      "name": "Introdução a Banco de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EST036",
+      "name": "Planejamento de Experimentos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EST080",
+      "name": "Estatística Não Paramétrica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EST088",
+      "name": "Inferência Estatística Com Abordagem Bayesiana",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EST210",
+      "name": "Inferência II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EST011",
+      "name": "Estatística Multivariada",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EST038",
+      "name": "Métodos Estatísticos de Previsão",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EST079",
+      "name": "Modelos Lineares Generalizados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EST211",
+      "name": "Métodos Computacionais Para Ciência de Dados II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EST037",
+      "name": "Amostragem",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EST090",
+      "name": "Análise de Sobrevivência",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EST212",
+      "name": "Laboratório de Estatística I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EST059",
+      "name": "Monografia",
+      "description": null,
+      "credits": 14,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "EST206",
+      "prerequisite_code": "EST199"
+    },
+    {
+      "code": "EST206",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "MAT039",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "DCC204",
+      "prerequisite_code": "DCC203"
+    },
+    {
+      "code": "EST028",
+      "prerequisite_code": "EST206"
+    },
+    {
+      "code": "EST028",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "EST208",
+      "prerequisite_code": "EST206"
+    },
+    {
+      "code": "MAT002",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "EST039",
+      "prerequisite_code": "EST028"
+    },
+    {
+      "code": "EST209",
+      "prerequisite_code": "EST028"
+    },
+    {
+      "code": "EST209",
+      "prerequisite_code": "EST208"
+    },
+    {
+      "code": "DCC011",
+      "prerequisite_code": "DCC204"
+    },
+    {
+      "code": "EST036",
+      "prerequisite_code": "EST035"
+    },
+    {
+      "code": "EST080",
+      "prerequisite_code": "EST208"
+    },
+    {
+      "code": "EST088",
+      "prerequisite_code": "EST028"
+    },
+    {
+      "code": "EST088",
+      "prerequisite_code": "EST208"
+    },
+    {
+      "code": "EST210",
+      "prerequisite_code": "EST209"
+    },
+    {
+      "code": "EST011",
+      "prerequisite_code": "EST035"
+    },
+    {
+      "code": "EST011",
+      "prerequisite_code": "MAT048"
+    },
+    {
+      "code": "EST038",
+      "prerequisite_code": "EST210"
+    },
+    {
+      "code": "EST079",
+      "prerequisite_code": "EST210"
+    },
+    {
+      "code": "EST079",
+      "prerequisite_code": "EST035"
+    },
+    {
+      "code": "EST211",
+      "prerequisite_code": "EST210"
+    },
+    {
+      "code": "EST037",
+      "prerequisite_code": "EST208"
+    },
+    {
+      "code": "EST090",
+      "prerequisite_code": "EST210"
+    },
+    {
+      "code": "EST090",
+      "prerequisite_code": "EST035"
+    },
+    {
+      "code": "EST212",
+      "prerequisite_code": "EST079"
+    },
+    {
+      "code": "EST059",
+      "prerequisite_code": "EST212"
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "DCC203",
+      "name": "Programação e Desenvolvimento de Software I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ELE630",
+      "name": "Introdução a Engenharia de Sistemas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI628",
+      "name": "Química Geral e",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC204",
+      "name": "Programação e Desenvolvimento de Software II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC217",
+      "name": "Matemática Discreta Para Engenharia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ELT124",
+      "name": "Sistemas Digitais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS065",
+      "name": "Fundamentos de Mecanica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT039",
+      "name": "Cálculo Diferencial e Integral II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCC205",
+      "name": "Estruturas de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ELE064",
+      "name": "Analise de Circuitos Eletricos I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ELT029",
+      "name": "Laboratorio de Sistemas Digitais",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EST773",
+      "name": "Fundamentos de Estatística e Ciência de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS069",
+      "name": "Fundamentos de Eletromagnetismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT040",
+      "name": "Equacoes Diferenciais C",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ELE065",
+      "name": "Analise de Circuitos Eletricos II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ELE631",
+      "name": "Análise, Proj. e Program. Orientados a Objetos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ELE632",
+      "name": "Processos e Métodos em Engenharia de Sistemas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ESA019",
+      "name": "Ciências do Ambiente",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIS086",
+      "name": "Fundamentos de Oscilações,ondas e Óptica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "MAT002",
+      "name": "Calculo Diferencial e Integral III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EEE048",
+      "name": "Fundamentos de Inteligência Artificial",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ELE028",
+      "name": "Laboratorio de Circuitos Eletricos I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ELE082",
+      "name": "Pesquisa Operacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ELT136",
+      "name": "Fundamentos de Sistemas Dinâmicos e Controle",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EMT122",
+      "name": "Introdução À Ciência dos Materiais",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DCC011",
+      "name": "Introdução a Banco de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ELE077",
+      "name": "Otimizacao Nao Linear",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ELT084",
+      "name": "Dispositivos e Circ. Eletronicos Basicos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ELT123",
+      "name": "Arquitetura e Organização de Computadores",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FIS152",
+      "name": "Fundamentos de Mecânica dos Fluidos e Termodinâmica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EEE046",
+      "name": "Sistemas a Eventos Discretos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EEE049",
+      "name": "Aprendizado de Máquina",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EEE050",
+      "name": "Modelagem e Simulação Multifísica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ELE088",
+      "name": "Teoria da Decisao",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ELE633",
+      "name": "Laboratorio de Sistemas I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ELT080",
+      "name": "Lab.de Circuitos Eletronicos e Projetos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DCC218",
+      "name": "Introdução a Sistemas Computacionais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EEE017",
+      "name": "Confiabilidade de Sistemas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ELE634",
+      "name": "Laboratorio de Sistemas II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EEE051",
+      "name": "Laboratorio de Gerenciamento de Sistemas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ELE635",
+      "name": "Laboratorio de Sistemas III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EEE052",
+      "name": "Trabalho de Conclusao de Curso I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 11,
+      "code": "EEE053",
+      "name": "Trabalho de Conclusao de Curso II",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "EEE054",
+      "name": "Estagio Supervisionado em Engenharia de",
+      "description": null,
+      "credits": 11,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "DCC204",
+      "prerequisite_code": "DCC203"
+    },
+    {
+      "code": "DCC205",
+      "prerequisite_code": "DCC204"
+    },
+    {
+      "code": "ELE064",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "ELT029",
+      "prerequisite_code": "ELT124"
+    },
+    {
+      "code": "EST773",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "MAT040",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "ELE065",
+      "prerequisite_code": "MAT040"
+    },
+    {
+      "code": "ELE065",
+      "prerequisite_code": "ELE064"
+    },
+    {
+      "code": "ELE631",
+      "prerequisite_code": "DCC204"
+    },
+    {
+      "code": "FIS086",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "MAT002",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "ELE028",
+      "prerequisite_code": "ELE064"
+    },
+    {
+      "code": "ELE028",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "ELE082",
+      "prerequisite_code": "MAT040"
+    },
+    {
+      "code": "ELT136",
+      "prerequisite_code": "MAT040"
+    },
+    {
+      "code": "DCC011",
+      "prerequisite_code": "DCC204"
+    },
+    {
+      "code": "ELE077",
+      "prerequisite_code": "MAT040"
+    },
+    {
+      "code": "ELT084",
+      "prerequisite_code": "ELE065"
+    },
+    {
+      "code": "ELT123",
+      "prerequisite_code": "ELT124"
+    },
+    {
+      "code": "FIS152",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS152",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "EEE046",
+      "prerequisite_code": "ELT124"
+    },
+    {
+      "code": "ELE633",
+      "prerequisite_code": "ELE631"
+    },
+    {
+      "code": "ELT080",
+      "prerequisite_code": "ELT084"
+    },
+    {
+      "code": "DCC218",
+      "prerequisite_code": "DCC204"
+    },
+    {
+      "code": "EEE017",
+      "prerequisite_code": "EST773"
+    },
+    {
+      "code": "ELE634",
+      "prerequisite_code": "ELE633"
+    },
+    {
+      "code": "ELE635",
+      "prerequisite_code": "ELE634"
+    },
+    {
+      "code": "ELE635",
+      "prerequisite_code": "ELT029"
+    },
+    {
+      "code": "EEE053",
+      "prerequisite_code": "EEE052"
+    }
+  ]
+}

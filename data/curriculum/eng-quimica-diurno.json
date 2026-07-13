@@ -1,0 +1,530 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "DCC001",
+      "name": "Programacao de Computadores",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "EQM009",
+      "name": "Introducao a Engenharia Quimica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FIS151",
+      "name": "Física Experimental Básica: Mecânica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI003",
+      "name": "Quimica Geral B",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI019",
+      "name": "Quimica Geral Experimental",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC034",
+      "name": "Calculo Numerico",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EST031",
+      "name": "Estatistica e Probabilidades",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS065",
+      "name": "Fundamentos de Mecanica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT039",
+      "name": "Cálculo Diferencial e Integral II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "QUI601",
+      "name": "Quimica Inorganica I",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS069",
+      "name": "Fundamentos de Eletromagnetismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT002",
+      "name": "Calculo Diferencial e Integral III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT015",
+      "name": "Equações Diferenciais a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "QUI602",
+      "name": "Fisico-quimica I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "QUI603",
+      "name": "Quimica Organica I",
+      "description": null,
+      "credits": 7,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "SOA138",
+      "name": "Introducao a Sociologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIS153",
+      "name": "Física Experimental Básica: Eletromagnetismo",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "MAT016",
+      "name": "Equações Diferenciais B",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "QUI604",
+      "name": "Físico-química II",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "QUI605",
+      "name": "Quimica Organica II",
+      "description": null,
+      "credits": 7,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "QUI606",
+      "name": "Química Analítica I",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ELE012",
+      "name": "Eletrotecnica Geral C",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EQM013",
+      "name": "Analise Instrumental",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EQM051",
+      "name": "Fenomenos de Transporte I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EQM052",
+      "name": "Quimica de Processos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EQM053",
+      "name": "Termodinamica Fisica",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ECN075",
+      "name": "Economia Para Engenharia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EQM031",
+      "name": "Termodinamica Quimica",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EQM035",
+      "name": "Fenomenos de Transporte II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EQM057",
+      "name": "Ciencias dos Materiais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EQM077",
+      "name": "Planejamento e Análise de Experimentos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EPD001",
+      "name": "Organizacao Industrial Para Engenharia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EQM034",
+      "name": "Desenho Tecnico F",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EQM036",
+      "name": "Transferencia de Massa",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EQM043",
+      "name": "Operacoes Unitarias a",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EQM055",
+      "name": "Cinetica e Calculo de Reatores I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EQM129",
+      "name": "Engenharia de Corrosão",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EQM039",
+      "name": "Cinetica e Calculo de Reatores II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EQM040",
+      "name": "Operacoes Unitarias B",
+      "description": null,
+      "credits": 7,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EQM054",
+      "name": "Laboratorio de Fenomenos e Operacoes",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EQM056",
+      "name": "Processos Industriais I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "UNI003",
+      "name": "Oficina de Língua Portuguesa: Leitura e Produção de Textos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EQM041",
+      "name": "Laboratorio de Operacoes e Processos",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EQM042",
+      "name": "Otimizacao e Analise de Processos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EQM049",
+      "name": "Projeto de Processos",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "DIT001",
+      "name": "Direito e Legislacao",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EQM050",
+      "name": "Avaliacao Economica de Projetos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EQM058",
+      "name": "Processos Para Protecao Ambiental",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EQM059",
+      "name": "Instrumentacao e Eng de Controle e Proc",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EQM063",
+      "name": "Estagio Supervisionado",
+      "description": null,
+      "credits": 11,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "DCC034",
+      "prerequisite_code": "DCC001"
+    },
+    {
+      "code": "MAT039",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "QUI601",
+      "prerequisite_code": "QUI003"
+    },
+    {
+      "code": "QUI601",
+      "prerequisite_code": "QUI019"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "MAT002",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "MAT015",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "QUI602",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "FIS153",
+      "prerequisite_code": "FIS151"
+    },
+    {
+      "code": "FIS153",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "MAT016",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "QUI604",
+      "prerequisite_code": "QUI602"
+    },
+    {
+      "code": "QUI605",
+      "prerequisite_code": "QUI603"
+    },
+    {
+      "code": "EQM013",
+      "prerequisite_code": "QUI606"
+    },
+    {
+      "code": "EQM051",
+      "prerequisite_code": "QUI604"
+    },
+    {
+      "code": "EQM052",
+      "prerequisite_code": "QUI605"
+    },
+    {
+      "code": "EQM053",
+      "prerequisite_code": "QUI604"
+    },
+    {
+      "code": "EQM031",
+      "prerequisite_code": "EQM053"
+    },
+    {
+      "code": "EQM036",
+      "prerequisite_code": "EQM051"
+    },
+    {
+      "code": "EQM055",
+      "prerequisite_code": "EQM031"
+    },
+    {
+      "code": "EQM129",
+      "prerequisite_code": "EQM057"
+    },
+    {
+      "code": "EQM039",
+      "prerequisite_code": "EQM055"
+    },
+    {
+      "code": "EQM054",
+      "prerequisite_code": "EQM043"
+    },
+    {
+      "code": "EQM056",
+      "prerequisite_code": "EQM043"
+    },
+    {
+      "code": "EQM042",
+      "prerequisite_code": "EQM056"
+    },
+    {
+      "code": "EQM049",
+      "prerequisite_code": "EQM056"
+    }
+  ]
+}

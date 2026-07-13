@@ -117,7 +117,7 @@ export default function LandingPage() {
               <p className="mt-3 text-pretty text-muted-foreground">
                 Abra qualquer disciplina e veja a ementa, os créditos, o período de
                 referência, os pré-requisitos que ela exige e as disciplinas que ela
-                desbloqueia mais à frente. Tudo direto do SigaUFMG.
+                desbloqueia mais à frente. 
               </p>
             </div>
             <ClassDetailPreview />

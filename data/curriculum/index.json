@@ -16,5 +16,83 @@
     "name": "Engenharia de Produção",
     "offerId": "eng-producao",
     "shift": "diurno"
+  },
+  {
+    "id": "ciencia-computacao-diurno",
+    "name": "Ciência da Computação",
+    "offerId": "ciencia-computacao",
+    "shift": "diurno"
+  },
+  {
+    "id": "ciencia-computacao-vespertino",
+    "name": "Ciência da Computação",
+    "offerId": "ciencia-computacao",
+    "shift": "vespertino"
+  },
+  {
+    "id": "eng-aeroespacial-diurno",
+    "name": "Engenharia Aeroespacial",
+    "offerId": "eng-aeroespacial",
+    "shift": "diurno"
+  },
+  {
+    "id": "eng-eletrica-diurno",
+    "name": "Engenharia Elétrica",
+    "offerId": "eng-eletrica",
+    "shift": "diurno"
+  },
+  {
+    "id": "eng-mecanica-diurno",
+    "name": "Engenharia Mecânica",
+    "offerId": "eng-mecanica",
+    "shift": "diurno"
+  },
+  {
+    "id": "eng-mecanica-noturno",
+    "name": "Engenharia Mecânica",
+    "offerId": "eng-mecanica",
+    "shift": "noturno"
+  },
+  {
+    "id": "eng-minas-diurno",
+    "name": "Engenharia de Minas",
+    "offerId": "eng-minas",
+    "shift": "diurno"
+  },
+  {
+    "id": "eng-quimica-diurno",
+    "name": "Engenharia Química",
+    "offerId": "eng-quimica",
+    "shift": "diurno"
+  },
+  {
+    "id": "eng-sistemas-noturno",
+    "name": "Engenharia de Sistemas",
+    "offerId": "eng-sistemas",
+    "shift": "noturno"
+  },
+  {
+    "id": "estatistica-diurno",
+    "name": "Estatística",
+    "offerId": "estatistica",
+    "shift": "diurno"
+  },
+  {
+    "id": "eng-civil-diurno",
+    "name": "Engenharia Civil",
+    "offerId": "eng-civil",
+    "shift": "diurno"
+  },
+  {
+    "id": "eng-computacao-vespertino",
+    "name": "Engenharia de Computação",
+    "offerId": "eng-computacao",
+    "shift": "vespertino"
+  },
+  {
+    "id": "eng-metalurgica-diurno",
+    "name": "Engenharia Metalúrgica",
+    "offerId": "eng-metalurgica",
+    "shift": "diurno"
   }
 ]
