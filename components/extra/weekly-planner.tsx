@@ -3,7 +3,10 @@
 import { Button } from "@/components/ui/button"
 import { CalendarDays } from "lucide-react"
 import { PlannedClass } from "@/hooks/use-weekly-planner"
+import { getCreditsByCode } from "@/lib/curriculum"
 import WeeklyCalendar from "./weekly-calendar"
+
+const HOURS_PER_CREDIT = 15
 
 interface WeeklyPlannerProps {
   plannedClasses: PlannedClass[]
@@ -16,6 +19,14 @@ export function WeeklyPlanner({
   onRemoveClass,
   onClearPlanner,
 }: WeeklyPlannerProps) {
+  // A course can appear as two sections (lecture + lab), so credits are counted once
+  // per unique discipline. Each credit maps to 15h of class time in the semester.
+  const totalHours =
+    Array.from(new Set(plannedClasses.map((cls) => cls.course_id))).reduce(
+      (sum, code) => sum + getCreditsByCode(code),
+      0,
+    ) * HOURS_PER_CREDIT
+
   return (
     <div className="flex w-full min-w-0 flex-col gap-3">
       <div className="flex items-center justify-between gap-3">
@@ -25,6 +36,7 @@ export function WeeklyPlanner({
             <span className="ml-1.5 tabular-nums text-muted-foreground">
               · {plannedClasses.length}{" "}
               {plannedClasses.length === 1 ? "disciplina" : "disciplinas"}
+              {totalHours > 0 && <> · {totalHours}h no semestre</>}
             </span>
           )}
         </h2>

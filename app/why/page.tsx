@@ -57,7 +57,7 @@ export default function PorquePage() {
           <p>
             <strong>Evite dor de cabeça com o site caindo.</strong> Você faz todo o
             planejamento aqui. Quando o sistema da UFMG travar, você já sabe exatamente o
-            que clicar — e não perde a vaga por causa de um carregamento eterno.
+            que clicar e não perde a vaga por causa de um carregamento eterno.
           </p>
           <p>
             <strong>Chega de grade com conflito.</strong> Sua semana aparece num
@@ -74,7 +74,7 @@ export default function PorquePage() {
             Gratuito e open-source
           </h2>
           <p>
-            O uso é 100% gratuito e não precisa de login. O código é aberto no GitHub — se
+            O uso é 100% gratuito e não precisa de login. O código é aberto no GitHub, se
             você quiser sugerir uma função, corrigir um dado ou trazer a grade do seu
             curso, é só{" "}
             <a

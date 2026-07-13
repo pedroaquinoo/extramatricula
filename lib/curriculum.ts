@@ -106,6 +106,11 @@ export function getCourseById(courseId: string): Course | undefined {
   return coursesIndex.find((course) => course.id === courseId)
 }
 
+export function getDegreeTitle(courseId: string): string {
+  const course = getCourseById(courseId)
+  return course ? formatCourseDisplay(course) : courseId
+}
+
 export function getOfferId(courseId: string): string {
   const course = getCourseById(courseId)
   return course?.offerId ?? courseId
@@ -113,6 +118,25 @@ export function getOfferId(courseId: string): string {
 
 export function getClasses(courseId: string): Class[] {
   return curriculumByCourseId[courseId]?.classes ?? []
+}
+
+let creditsByCode: Map<string, number> | undefined
+
+// Credits belong to a discipline (its code), not to a specific program, so we index
+// every curriculum once. This lets us price classes — including optatives from other
+// programs — that aren't part of the user's own curriculum.
+export function getCreditsByCode(code: string): number {
+  if (!creditsByCode) {
+    creditsByCode = new Map()
+    for (const curriculum of Object.values(curriculumByCourseId)) {
+      for (const cls of curriculum.classes) {
+        if (!creditsByCode.has(cls.code)) {
+          creditsByCode.set(cls.code, cls.credits)
+        }
+      }
+    }
+  }
+  return creditsByCode.get(code) ?? 0
 }
 
 export function getPrerequisites(courseId: string): ClassPrerequisite[] {
