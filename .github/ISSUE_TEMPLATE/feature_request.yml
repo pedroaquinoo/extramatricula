@@ -1,0 +1,34 @@
+name: 💡 Sugerir uma funcionalidade
+description: Uma ideia para melhorar o Extramatrícula
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Boas ideias vêm de dores reais. Conte primeiro **o problema** que você tem,
+        essa é a parte mais valiosa, mais até do que a solução que você imaginou.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Qual problema você está tentando resolver?
+      description: O que é difícil ou chato hoje? Em que momento do seu planejamento isso te trava?
+      placeholder: "Toda vez que eu quero comparar duas grades possíveis, eu preciso..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Como você imagina a solução?
+      description: Se você já tem uma ideia de como resolver, descreva. Se não tem, pode pular, o problema já basta.
+    validations:
+      required: false
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Como você contorna isso hoje?
+      description: Planilha, papel, print do Siga? Saber o workaround atual ajuda a entender a dor.
+    validations:
+      required: false

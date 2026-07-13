@@ -1,0 +1,418 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "DCC203",
+      "name": "Programação e Desenvolvimento de Software I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "EPD037",
+      "name": "Introducao a Engenharia de Producao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI003",
+      "name": "Quimica Geral B",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC204",
+      "name": "Programação e Desenvolvimento de Software II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EPD001",
+      "name": "Organizacao Industrial Para Engenharia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EST031",
+      "name": "Estatistica e Probabilidades",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS065",
+      "name": "Fundamentos de Mecanica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS151",
+      "name": "Física Experimental Básica: Mecânica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT039",
+      "name": "Cálculo Diferencial e Integral II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EPD042",
+      "name": "Projeto de Arquit. Organiz. da Producao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EPD069",
+      "name": "Introdução À Tecnologia da Qualidade",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS069",
+      "name": "Fundamentos de Eletromagnetismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT002",
+      "name": "Calculo Diferencial e Integral III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT040",
+      "name": "Equacoes Diferenciais C",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EPD071",
+      "name": "Ergonomia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EPD072",
+      "name": "Pesquisa Operacional I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EPD113",
+      "name": "Implementação Matemático-comp. de Mod. de Pesq. Operacional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIS031",
+      "name": "Mecanica Fundamental",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIS087",
+      "name": "Fundamentos de Oscilacoes e Ondas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIS152",
+      "name": "Fundamentos de Mecânica dos Fluidos e Termodinâmica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EPD035",
+      "name": "Planejamento da Producao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EPD039",
+      "name": "Ergonomia: Estudos de Situacoes Reais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EPD067",
+      "name": "Controle Estatistico de Qualidade",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EQM044",
+      "name": "Fenomenos de Transporte",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EPD034",
+      "name": "Sistema de Desenvolvimento do Produto",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EPD065",
+      "name": "Modelagem de Sistemas de Producao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EPD068",
+      "name": "Organizacao do Trabalho",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EPD066",
+      "name": "Logistica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EPD073",
+      "name": "Projeto do Produto",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ECN075",
+      "name": "Economia Para Engenharia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EPD043",
+      "name": "Met. Técnicas de Desenvolv. do Produto",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EPD064",
+      "name": "Tecnologia e Sociedade",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EPD076",
+      "name": "Trabalho de Graduacao I (monografia)",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EPD096",
+      "name": "Estagio Curricular I",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EPD077",
+      "name": "Trabalho de Graduacao II (monografia)",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EPD097",
+      "name": "Estagio Curricular II",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "DCC204",
+      "prerequisite_code": "DCC203"
+    },
+    {
+      "code": "EPD001",
+      "prerequisite_code": "EPD037"
+    },
+    {
+      "code": "MAT039",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "EPD042",
+      "prerequisite_code": "EPD001"
+    },
+    {
+      "code": "EPD069",
+      "prerequisite_code": "EPD001"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "MAT002",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "MAT040",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "EPD071",
+      "prerequisite_code": "EPD001"
+    },
+    {
+      "code": "EPD072",
+      "prerequisite_code": "MAT038"
+    },
+    {
+      "code": "EPD113",
+      "prerequisite_code": "MAT038"
+    },
+    {
+      "code": "FIS087",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "EPD035",
+      "prerequisite_code": "EPD072"
+    },
+    {
+      "code": "EPD039",
+      "prerequisite_code": "EPD071"
+    },
+    {
+      "code": "EPD067",
+      "prerequisite_code": "EPD069"
+    },
+    {
+      "code": "EQM044",
+      "prerequisite_code": "FIS152"
+    },
+    {
+      "code": "EQM044",
+      "prerequisite_code": "FIS031"
+    },
+    {
+      "code": "EPD034",
+      "prerequisite_code": "EPD069"
+    },
+    {
+      "code": "EPD068",
+      "prerequisite_code": "EPD071"
+    },
+    {
+      "code": "EPD066",
+      "prerequisite_code": "EPD035"
+    },
+    {
+      "code": "EPD073",
+      "prerequisite_code": "EPD034"
+    },
+    {
+      "code": "EPD043",
+      "prerequisite_code": "EPD034"
+    },
+    {
+      "code": "EPD064",
+      "prerequisite_code": "EPD068"
+    },
+    {
+      "code": "EPD076",
+      "prerequisite_code": "EPD001"
+    },
+    {
+      "code": "EPD077",
+      "prerequisite_code": "EPD076"
+    },
+    {
+      "code": "EPD097",
+      "prerequisite_code": "EPD096"
+    }
+  ]
+}

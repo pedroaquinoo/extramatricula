@@ -1,0 +1,86 @@
+name: 🐛 Reportar um bug
+description: Algo não está funcionando como deveria
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por reportar. Quanto mais específico, mais rápido a gente conserta.
+
+        ⚠️ **Encontrou uma vulnerabilidade de segurança?** Não abra uma issue.
+        Reporte de forma privada por um [security advisory](https://github.com/pedroaquinoo/matricula/security/advisories/new).
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: O que aconteceu?
+      description: Descreva o bug. O que você esperava que acontecesse, e o que aconteceu de fato?
+      placeholder: "Ao arrastar uma disciplina para o 5º semestre, a validação de pré-requisito não dispara e..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Como reproduzir
+      description: Os passos para chegar no problema.
+      placeholder: |
+        1. Ir em "Meu Curso"
+        2. Ativar a visão por semestres
+        3. Arrastar a disciplina X para o semestre Y
+        4. Ver o erro
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Print ou GIF
+      description: |
+        Se for visual, uma imagem vale muito.
+
+        ⚠️ **Cuidado:** borre qualquer dado pessoal (seu nome, matrícula, notas) antes de subir.
+    validations:
+      required: false
+
+  - type: input
+    id: page
+    attributes:
+      label: Em qual página?
+      placeholder: "/course, /simulation, /flow, /overview..."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Navegador
+      multiple: true
+      options:
+        - Chrome
+        - Firefox
+        - Safari
+        - Edge
+        - Outro
+    validations:
+      required: false
+
+  - type: dropdown
+    id: device
+    attributes:
+      label: Dispositivo
+      options:
+        - Desktop
+        - Celular
+        - Tablet
+    validations:
+      required: false
+
+  - type: textarea
+    id: console
+    attributes:
+      label: Erros no console
+      description: Se souber abrir o console do navegador (F12), cole aqui qualquer erro em vermelho. Se não souber, tudo bem, pode deixar em branco.
+      render: shell
+    validations:
+      required: false

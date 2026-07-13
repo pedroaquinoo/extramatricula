@@ -1,0 +1,20 @@
+[
+  {
+    "id": "controle-automacao-diurno",
+    "name": "Engenharia de Controle e Automação",
+    "offerId": "controle-automacao",
+    "shift": "diurno"
+  },
+  {
+    "id": "controle-automacao-noturno",
+    "name": "Engenharia de Controle e Automação",
+    "offerId": "controle-automacao",
+    "shift": "noturno"
+  },
+  {
+    "id": "eng-producao-diurno",
+    "name": "Engenharia de Produção",
+    "offerId": "eng-producao",
+    "shift": "diurno"
+  }
+]

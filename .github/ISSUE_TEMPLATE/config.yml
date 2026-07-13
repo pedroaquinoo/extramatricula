@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🔒 Reportar uma vulnerabilidade de segurança
+    url: https://github.com/pedroaquinoo/matricula/security/advisories/new
+    about: NÃO abra uma issue pública para vulnerabilidades. Use um security advisory privado, ou envie e-mail para extragabarito@gmail.com.
+  - name: 💬 Dúvida ou discussão
+    url: https://github.com/pedroaquinoo/matricula/discussions
+    about: Perguntas sobre uso, setup ou ideias ainda não formadas o suficiente para virar uma issue.

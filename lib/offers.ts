@@ -1,0 +1,45 @@
+import offersIndex from "@/data/offers/index.json"
+import offer20261ControleAutomacao from "@/data/offers/2026-1/controle-automacao.json"
+import offer20262ControleAutomacao from "@/data/offers/2026-2/controle-automacao.json"
+import { getOfferId } from "@/lib/curriculum"
+import type { AvailableClass } from "@/hooks/use-available-classes"
+
+const offersByTermAndOfferId: Record<string, Record<string, AvailableClass[]>> = {
+  "2026/1": {
+    "controle-automacao": offer20261ControleAutomacao as AvailableClass[],
+  },
+  "2026/2": {
+    "controle-automacao": offer20262ControleAutomacao as AvailableClass[],
+  },
+}
+
+export function getCurrentOfferTerm(): string {
+  return offersIndex.current
+}
+
+export function getOfferTerms(): string[] {
+  return offersIndex.terms
+}
+
+export function getOfferForProgram(term: string, courseId: string): AvailableClass[] {
+  if (!courseId) return []
+  const offerId = getOfferId(courseId)
+  return offersByTermAndOfferId[term]?.[offerId] ?? []
+}
+
+export function getCurrentOfferForProgram(courseId: string): AvailableClass[] {
+  return getOfferForProgram(getCurrentOfferTerm(), courseId)
+}
+
+export function findTurma(
+  term: string,
+  courseId: string,
+  disciplineCode: string,
+  availabilityCode: string,
+): AvailableClass | undefined {
+  return getOfferForProgram(term, courseId).find(
+    (cls) =>
+      cls.course_id === disciplineCode && cls.availabilityCode === availabilityCode,
+  )
+}
+

@@ -1,0 +1,5464 @@
+[
+  {
+    "course_id": "CAD089",
+    "name": "GESTAO DE CUSTOS E INVESTIMENTOS",
+    "availabilityCode": "TN",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Francisco V. B."
+    ]
+  },
+  {
+    "course_id": "COM089",
+    "name": "COMUNICACAO E MOVIMENTOS SOCIAIS",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Braulio B. N."
+    ]
+  },
+  {
+    "course_id": "COM090",
+    "name": "O DISCURSO MIDIATICO E A VIDA SOCIAL",
+    "availabilityCode": "TU",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Angela C. S. M."
+    ]
+  },
+  {
+    "course_id": "DCC011",
+    "name": "INTRODUÇÃO A BANCO DE DADOS",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": [
+      "Rodrygo L. T. S."
+    ]
+  },
+  {
+    "course_id": "DCC011",
+    "name": "INTRODUÇÃO A BANCO DE DADOS",
+    "availabilityCode": "TE",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Clodoveu A. D. J."
+    ]
+  },
+  {
+    "course_id": "DCC023",
+    "name": "REDES DE COMPUTADORES",
+    "availabilityCode": "TE",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Aldri L. S."
+    ]
+  },
+  {
+    "course_id": "DCC023",
+    "name": "REDES DE COMPUTADORES",
+    "availabilityCode": "TM",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Luiz F. M. V."
+    ]
+  },
+  {
+    "course_id": "DCC033",
+    "name": "ANALISE NUMERICA",
+    "availabilityCode": "TE",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Pedro H. S. S. B."
+    ]
+  },
+  {
+    "course_id": "DCC033",
+    "name": "ANALISE NUMERICA",
+    "availabilityCode": "TN",
+    "spots": 68,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Cristiano A. V."
+    ]
+  },
+  {
+    "course_id": "DCC033",
+    "name": "ANALISE NUMERICA",
+    "availabilityCode": "TN1",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DCC203",
+    "name": "PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE I",
+    "availabilityCode": "TF",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DCC203",
+    "name": "PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE I",
+    "availabilityCode": "TM1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Pedro O. S. V. M."
+    ]
+  },
+  {
+    "course_id": "DCC203",
+    "name": "PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE I",
+    "availabilityCode": "TM2",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Raquel C. M. M."
+    ]
+  },
+  {
+    "course_id": "DCC204",
+    "name": "PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE II",
+    "availabilityCode": "TF",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Alexandre A. R."
+    ]
+  },
+  {
+    "course_id": "DCC204",
+    "name": "PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE II",
+    "availabilityCode": "TM1",
+    "spots": 54,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Paulo A. F. R."
+    ]
+  },
+  {
+    "course_id": "DCC204",
+    "name": "PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE II",
+    "availabilityCode": "TM2",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Thiago F. N."
+    ]
+  },
+  {
+    "course_id": "DCC205",
+    "name": "ESTRUTURAS DE DADOS",
+    "availabilityCode": "TF",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Pedro H. S. S. B."
+    ]
+  },
+  {
+    "course_id": "DCC603",
+    "name": "ENGENHARIA DE SOFTWARE",
+    "availabilityCode": "TN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Marco T. O. V."
+    ]
+  },
+  {
+    "course_id": "DCC605",
+    "name": "SISTEMAS OPERACIONAIS",
+    "availabilityCode": "TM",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "George L. M. T."
+    ]
+  },
+  {
+    "course_id": "DCC605",
+    "name": "SISTEMAS OPERACIONAIS",
+    "availabilityCode": "TZ",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Italo F. S. C."
+    ]
+  },
+  {
+    "course_id": "DCP021",
+    "name": "INTRODUÇÃO A TEORIA DEMOCRÁTICA",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Magna M. I."
+    ]
+  },
+  {
+    "course_id": "DCP021",
+    "name": "INTRODUÇÃO A TEORIA DEMOCRÁTICA",
+    "availabilityCode": "TR",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcus A. G. P."
+    ]
+  },
+  {
+    "course_id": "DCP023",
+    "name": "ESTADO MODERNO E CAPITALISMO",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Juarez R. G."
+    ]
+  },
+  {
+    "course_id": "DCP023",
+    "name": "ESTADO MODERNO E CAPITALISMO",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Eduardo M. Z."
+    ]
+  },
+  {
+    "course_id": "DCP023",
+    "name": "ESTADO MODERNO E CAPITALISMO",
+    "availabilityCode": "TT",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Eduardo M. Z."
+    ]
+  },
+  {
+    "course_id": "DIT001",
+    "name": "DIREITO E LEGISLACAO",
+    "availabilityCode": "TTLX",
+    "spots": 75,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Lorena M. F."
+    ]
+  },
+  {
+    "course_id": "ECN075",
+    "name": "ECONOMIA PARA ENGENHARIA",
+    "availabilityCode": "TE3",
+    "spots": 100,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Ronaldo N."
+    ]
+  },
+  {
+    "course_id": "ECN075",
+    "name": "ECONOMIA PARA ENGENHARIA",
+    "availabilityCode": "TE4",
+    "spots": 100,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Sibelle C. D. C."
+    ]
+  },
+  {
+    "course_id": "EEE011",
+    "name": "PROJETO FINAL DE CURSO I",
+    "availabilityCode": "TN1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Luciano C. A. P."
+    ]
+  },
+  {
+    "course_id": "EEE011",
+    "name": "PROJETO FINAL DE CURSO I",
+    "availabilityCode": "TTD",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "15:45",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Luciano C. A. P."
+    ]
+  },
+  {
+    "course_id": "EEE012",
+    "name": "ESTAGIO SUPERVISIONADO EM ENGENHARIA DE CONTROLE E AUTOMACAO",
+    "availabilityCode": "TTOL1",
+    "spots": 45,
+    "times": [],
+    "teachers": [
+      "Walmir M. C."
+    ]
+  },
+  {
+    "course_id": "EEE013",
+    "name": "PROJETO FINAL DE CURSO II",
+    "availabilityCode": "TECA",
+    "spots": 68,
+    "times": [],
+    "teachers": [
+      "Walmir M. C."
+    ]
+  },
+  {
+    "course_id": "EEE014",
+    "name": "SEMINARIO DE AVALIACAO DO CURSO - -",
+    "availabilityCode": "TAV1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Alexandre R. M."
+    ]
+  },
+  {
+    "course_id": "EEE017",
+    "name": "CONFIABILIDADE DE SISTEMAS",
+    "availabilityCode": "TTTS",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Michel B."
+    ]
+  },
+  {
+    "course_id": "EEE025",
+    "name": "INSTRUMENTAÇÃO BIOMÉDICA",
+    "availabilityCode": "TTA",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Renan F. K."
+    ]
+  },
+  {
+    "course_id": "EEE026",
+    "name": "PROJETO DE SISTEMAS EMBUTIDOS",
+    "availabilityCode": "TTTA",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Diogenes C. S. J."
+    ]
+  },
+  {
+    "course_id": "EEE045",
+    "name": "INTRODUÇÂO À ENGENHARIA DE CONTROLE E AUTOMAÇÃO",
+    "availabilityCode": "TD",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Victor C. S. C.",
+      "Vinicius M. G."
+    ]
+  },
+  {
+    "course_id": "EEE045",
+    "name": "INTRODUÇÂO À ENGENHARIA DE CONTROLE E AUTOMAÇÃO",
+    "availabilityCode": "TN1",
+    "spots": 37,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Victor C. S. C.",
+      "Vinicius M. G."
+    ]
+  },
+  {
+    "course_id": "EEE046",
+    "name": "SISTEMAS A EVENTOS DISCRETOS",
+    "availabilityCode": "TD",
+    "spots": 54,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:50",
+        "end": "18:30"
+      },
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Carlos A. M.",
+      "Leandro F. A."
+    ]
+  },
+  {
+    "course_id": "EEE046",
+    "name": "SISTEMAS A EVENTOS DISCRETOS",
+    "availabilityCode": "TN",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Carlos A. M.",
+      "Leandro F. A."
+    ]
+  },
+  {
+    "course_id": "EEE047",
+    "name": "GESTÃO DE PROJETOS EM CONTROLE E AUTOMAÇÃO",
+    "availabilityCode": "TD1",
+    "spots": 41,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Fabio J. F. G."
+    ]
+  },
+  {
+    "course_id": "EEE047",
+    "name": "GESTÃO DE PROJETOS EM CONTROLE E AUTOMAÇÃO",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Carmela M. P. B."
+    ]
+  },
+  {
+    "course_id": "ELE039",
+    "name": "ACIONAMENTOS ELETRICOS",
+    "availabilityCode": "TTA",
+    "spots": 33,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Sidelmo M. S."
+    ]
+  },
+  {
+    "course_id": "ELE041",
+    "name": "MANIPULADORES ROBÓTICOS",
+    "availabilityCode": "TECAD",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:50",
+        "end": "18:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Gustavo M. F."
+    ]
+  },
+  {
+    "course_id": "ELE041",
+    "name": "MANIPULADORES ROBÓTICOS",
+    "availabilityCode": "TECAN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Vinicius M. G."
+    ]
+  },
+  {
+    "course_id": "ELE054",
+    "name": "INSTALACOES ELETRICAS RESIDENCIAIS E PREDIAIS",
+    "availabilityCode": "PPL1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Flavio H."
+    ]
+  },
+  {
+    "course_id": "ELE054",
+    "name": "INSTALACOES ELETRICAS RESIDENCIAIS E PREDIAIS",
+    "availabilityCode": "PPL2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Flavio H."
+    ]
+  },
+  {
+    "course_id": "ELE054",
+    "name": "INSTALACOES ELETRICAS RESIDENCIAIS E PREDIAIS",
+    "availabilityCode": "TTEC",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": [
+      "Flavio H."
+    ]
+  },
+  {
+    "course_id": "ELE064",
+    "name": "ANALISE DE CIRCUITOS ELETRICOS I",
+    "availabilityCode": "TECAD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Fabio J. F. G."
+    ]
+  },
+  {
+    "course_id": "ELE064",
+    "name": "ANALISE DE CIRCUITOS ELETRICOS I",
+    "availabilityCode": "TECAN",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Gabriela N. L."
+    ]
+  },
+  {
+    "course_id": "ELE065",
+    "name": "ANALISE DE CIRCUITOS ELETRICOS II",
+    "availabilityCode": "TECAD",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Wadaed U. C."
+    ]
+  },
+  {
+    "course_id": "ELE065",
+    "name": "ANALISE DE CIRCUITOS ELETRICOS II",
+    "availabilityCode": "TTEC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Geraldo P. S."
+    ]
+  },
+  {
+    "course_id": "ELE078",
+    "name": "PROGRAMACAO ORIENTADA A OBJETOS",
+    "availabilityCode": "TECAD",
+    "spots": 57,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:00",
+        "end": "16:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Luiza B. R. F."
+    ]
+  },
+  {
+    "course_id": "ELE078",
+    "name": "PROGRAMACAO ORIENTADA A OBJETOS",
+    "availabilityCode": "TECAN",
+    "spots": 31,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Gabriela N. L."
+    ]
+  },
+  {
+    "course_id": "ELE085",
+    "name": "CONVERSORES ELETROMECANICOS",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:50",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Rodrigo R. B."
+    ]
+  },
+  {
+    "course_id": "ELE085",
+    "name": "CONVERSORES ELETROMECANICOS",
+    "availabilityCode": "TN",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Rodrigo R. B."
+    ]
+  },
+  {
+    "course_id": "ELE088",
+    "name": "TEORIA DA DECISAO",
+    "availabilityCode": "TTS",
+    "spots": 49,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Luiza B. R. F."
+    ]
+  },
+  {
+    "course_id": "ELE156",
+    "name": "LABORATORIO DE CIRCUITOS ELETRICOS E ELETRONICA C",
+    "availabilityCode": "PA1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:50",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Diogo B. O."
+    ]
+  },
+  {
+    "course_id": "ELE156",
+    "name": "LABORATORIO DE CIRCUITOS ELETRICOS E ELETRONICA C",
+    "availabilityCode": "PA2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:50",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Wallace C. B."
+    ]
+  },
+  {
+    "course_id": "ELE156",
+    "name": "LABORATORIO DE CIRCUITOS ELETRICOS E ELETRONICA C",
+    "availabilityCode": "PA3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Diogenes C. S. J.",
+      "Barbara P. S."
+    ]
+  },
+  {
+    "course_id": "ELE156",
+    "name": "LABORATORIO DE CIRCUITOS ELETRICOS E ELETRONICA C",
+    "availabilityCode": "PA4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:50",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Geraldo P. S."
+    ]
+  },
+  {
+    "course_id": "ELE156",
+    "name": "LABORATORIO DE CIRCUITOS ELETRICOS E ELETRONICA C",
+    "availabilityCode": "PN1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Wallace C. B."
+    ]
+  },
+  {
+    "course_id": "ELE156",
+    "name": "LABORATORIO DE CIRCUITOS ELETRICOS E ELETRONICA C",
+    "availabilityCode": "PN2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Geraldo P. S."
+    ]
+  },
+  {
+    "course_id": "ELE164",
+    "name": "FUNDAMENTOS E APLICAÇÕES DE SISTEMAS ÓPTICOS",
+    "availabilityCode": "TTECA",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "15:00",
+        "end": "16:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "15:00",
+        "end": "16:40"
+      }
+    ],
+    "teachers": [
+      "Luciana P. S."
+    ]
+  },
+  {
+    "course_id": "ELT008",
+    "name": "INFORMÁTICA INDUSTRIAL",
+    "availabilityCode": "PA1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Emerson A. S."
+    ]
+  },
+  {
+    "course_id": "ELT008",
+    "name": "INFORMÁTICA INDUSTRIAL",
+    "availabilityCode": "PA2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Marco A. S. B."
+    ]
+  },
+  {
+    "course_id": "ELT008",
+    "name": "INFORMÁTICA INDUSTRIAL",
+    "availabilityCode": "PA3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:50",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Emerson A. S."
+    ]
+  },
+  {
+    "course_id": "ELT008",
+    "name": "INFORMÁTICA INDUSTRIAL",
+    "availabilityCode": "PA5",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:50",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Stefani B. S. V."
+    ]
+  },
+  {
+    "course_id": "ELT008",
+    "name": "INFORMÁTICA INDUSTRIAL",
+    "availabilityCode": "PNA",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Victor C. S. C."
+    ]
+  },
+  {
+    "course_id": "ELT008",
+    "name": "INFORMÁTICA INDUSTRIAL",
+    "availabilityCode": "PNC",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marco A. S. B."
+    ]
+  },
+  {
+    "course_id": "ELT008",
+    "name": "INFORMÁTICA INDUSTRIAL",
+    "availabilityCode": "TECAD",
+    "spots": 53,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Luiz T. S. M."
+    ]
+  },
+  {
+    "course_id": "ELT008",
+    "name": "INFORMÁTICA INDUSTRIAL",
+    "availabilityCode": "TECAN",
+    "spots": 43,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Emerson A. S."
+    ]
+  },
+  {
+    "course_id": "ELT011",
+    "name": "SISTEMAS DISTRIBUíDOS PARA AUTOMAÇÃO",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Armando A. N."
+    ]
+  },
+  {
+    "course_id": "ELT011",
+    "name": "SISTEMAS DISTRIBUíDOS PARA AUTOMAÇÃO",
+    "availabilityCode": "TTD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Luiz T. S. M."
+    ]
+  },
+  {
+    "course_id": "ELT013",
+    "name": "CONTROLE DIGITAL",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Luis A. A."
+    ]
+  },
+  {
+    "course_id": "ELT013",
+    "name": "CONTROLE DIGITAL",
+    "availabilityCode": "TX",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Terca",
+        "start": "16:50",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Leonardo A. M."
+    ]
+  },
+  {
+    "course_id": "ELT014",
+    "name": "LABORATÓRIO DE CONTROLE E AUTOMAÇÃO I",
+    "availabilityCode": "PA3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Marco A. S. B."
+    ]
+  },
+  {
+    "course_id": "ELT014",
+    "name": "LABORATÓRIO DE CONTROLE E AUTOMAÇÃO I",
+    "availabilityCode": "PA4",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Victor C. S. C.",
+      "Leonardo A. B. T."
+    ]
+  },
+  {
+    "course_id": "ELT014",
+    "name": "LABORATÓRIO DE CONTROLE E AUTOMAÇÃO I",
+    "availabilityCode": "PN1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Rosely M. V. C."
+    ]
+  },
+  {
+    "course_id": "ELT014",
+    "name": "LABORATÓRIO DE CONTROLE E AUTOMAÇÃO I",
+    "availabilityCode": "PN2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Marco A. S. B."
+    ]
+  },
+  {
+    "course_id": "ELT015",
+    "name": "LABORATORIO DE CONTROLE E AUTOMACAO II",
+    "availabilityCode": "PA1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Armando A. N."
+    ]
+  },
+  {
+    "course_id": "ELT015",
+    "name": "LABORATORIO DE CONTROLE E AUTOMACAO II",
+    "availabilityCode": "PA2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre R. M."
+    ]
+  },
+  {
+    "course_id": "ELT015",
+    "name": "LABORATORIO DE CONTROLE E AUTOMACAO II",
+    "availabilityCode": "PN1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Claudio D. C."
+    ]
+  },
+  {
+    "course_id": "ELT015",
+    "name": "LABORATORIO DE CONTROLE E AUTOMACAO II",
+    "availabilityCode": "PN2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Claudio D. C."
+    ]
+  },
+  {
+    "course_id": "ELT016",
+    "name": "TÉCNICAS DE MODELAGEM DE SISTEMAS DINÂMICOS",
+    "availabilityCode": "TTAES",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Luis A. A."
+    ]
+  },
+  {
+    "course_id": "ELT029",
+    "name": "LABORATORIO DE SISTEMAS DIGITAIS",
+    "availabilityCode": "PA1",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Janier A. G."
+    ]
+  },
+  {
+    "course_id": "ELT029",
+    "name": "LABORATORIO DE SISTEMAS DIGITAIS",
+    "availabilityCode": "PA2",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Jhonattan C. R."
+    ]
+  },
+  {
+    "course_id": "ELT029",
+    "name": "LABORATORIO DE SISTEMAS DIGITAIS",
+    "availabilityCode": "PA3",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Lucas G. N."
+    ]
+  },
+  {
+    "course_id": "ELT029",
+    "name": "LABORATORIO DE SISTEMAS DIGITAIS",
+    "availabilityCode": "PN0",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Jhonattan C. R."
+    ]
+  },
+  {
+    "course_id": "ELT029",
+    "name": "LABORATORIO DE SISTEMAS DIGITAIS",
+    "availabilityCode": "PN1",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Hermes A. M."
+    ]
+  },
+  {
+    "course_id": "ELT056",
+    "name": "CONTROLE EM TEMPO REAL USANDO DSPS",
+    "availabilityCode": "TECA",
+    "spots": 4,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "10:50"
+      }
+    ],
+    "teachers": [
+      "Gabriel A. F."
+    ]
+  },
+  {
+    "course_id": "ELT065",
+    "name": "LABORATÓRIO DE INSTRUMENTAÇÃO",
+    "availabilityCode": "PA1",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:50",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Stefani B. S. V."
+    ]
+  },
+  {
+    "course_id": "ELT065",
+    "name": "LABORATÓRIO DE INSTRUMENTAÇÃO",
+    "availabilityCode": "PA4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Emerson A. S."
+    ]
+  },
+  {
+    "course_id": "ELT065",
+    "name": "LABORATÓRIO DE INSTRUMENTAÇÃO",
+    "availabilityCode": "PN1",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Stefani B. S. V."
+    ]
+  },
+  {
+    "course_id": "ELT065",
+    "name": "LABORATÓRIO DE INSTRUMENTAÇÃO",
+    "availabilityCode": "PN2",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Stefani B. S. V."
+    ]
+  },
+  {
+    "course_id": "ELT073",
+    "name": "INTRODUCAO AO CONTROLE DE SISTEMAS NO ESPACO DE ESTADOS",
+    "availabilityCode": "TECAD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Leonardo A. M."
+    ]
+  },
+  {
+    "course_id": "ELT084",
+    "name": "DISPOSITIVOS E CIRCUITOS ELETRONICOS BASICOS",
+    "availabilityCode": "TECAD",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:50",
+        "end": "18:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Gabriel A. F."
+    ]
+  },
+  {
+    "course_id": "ELT084",
+    "name": "DISPOSITIVOS E CIRCUITOS ELETRONICOS BASICOS",
+    "availabilityCode": "TECAN",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Joao M. S. C."
+    ]
+  },
+  {
+    "course_id": "ELT089",
+    "name": "LABORATORIO DE CIRCUITOS ELETRONICOS I",
+    "availabilityCode": "PA1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S. M."
+    ]
+  },
+  {
+    "course_id": "ELT089",
+    "name": "LABORATORIO DE CIRCUITOS ELETRONICOS I",
+    "availabilityCode": "PA2",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Dener A. L. B."
+    ]
+  },
+  {
+    "course_id": "ELT089",
+    "name": "LABORATORIO DE CIRCUITOS ELETRONICOS I",
+    "availabilityCode": "PA3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Dener A. L. B."
+    ]
+  },
+  {
+    "course_id": "ELT089",
+    "name": "LABORATORIO DE CIRCUITOS ELETRONICOS I",
+    "availabilityCode": "PN2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Dener A. L. B."
+    ]
+  },
+  {
+    "course_id": "ELT095",
+    "name": "PROJETOS COM AMPLIFICADORES OPERACIONAIS E CIRCUITOS ELETRONICOS ANALOGICOS",
+    "availabilityCode": "TTAB",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S. M."
+    ]
+  },
+  {
+    "course_id": "ELT123",
+    "name": "ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES",
+    "availabilityCode": "TECAD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:50",
+        "end": "18:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Tiago C. M."
+    ]
+  },
+  {
+    "course_id": "ELT123",
+    "name": "ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES",
+    "availabilityCode": "TECAN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Janier A. G."
+    ]
+  },
+  {
+    "course_id": "ELT124",
+    "name": "SISTEMAS DIGITAIS",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:50",
+        "end": "18:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "16:50",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Lucas G. N."
+    ]
+  },
+  {
+    "course_id": "ELT124",
+    "name": "SISTEMAS DIGITAIS",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Lucas G. N."
+    ]
+  },
+  {
+    "course_id": "ELT125",
+    "name": "ANÁLISE DE SISTEMAS DINÂMICOS LINEARES",
+    "availabilityCode": "TECAD",
+    "spots": 54,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:50",
+        "end": "18:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Luciano C. A. P."
+    ]
+  },
+  {
+    "course_id": "ELT125",
+    "name": "ANÁLISE DE SISTEMAS DINÂMICOS LINEARES",
+    "availabilityCode": "TECAN",
+    "spots": 41,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Luciano C. A. P."
+    ]
+  },
+  {
+    "course_id": "ELT126",
+    "name": "ENGENHARIA DE CONTROLE",
+    "availabilityCode": "TECAD",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:50",
+        "end": "18:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Fernando O. S."
+    ]
+  },
+  {
+    "course_id": "ELT126",
+    "name": "ENGENHARIA DE CONTROLE",
+    "availabilityCode": "TECAN",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Fernando O. S."
+    ]
+  },
+  {
+    "course_id": "ELT127",
+    "name": "AUTOMAÇÃO EM TEMPO REAL",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:50",
+        "end": "18:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Luiz T. S. M."
+    ]
+  },
+  {
+    "course_id": "ELT127",
+    "name": "AUTOMAÇÃO EM TEMPO REAL",
+    "availabilityCode": "TN",
+    "spots": 43,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Leandro F. A."
+    ]
+  },
+  {
+    "course_id": "ELT128",
+    "name": "INSTRUMENTAÇÃO INDUSTRIAL",
+    "availabilityCode": "TECAD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:50",
+        "end": "18:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Carmela M. P. B."
+    ]
+  },
+  {
+    "course_id": "ELT128",
+    "name": "INSTRUMENTAÇÃO INDUSTRIAL",
+    "availabilityCode": "TECAN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Alexandre R. M."
+    ]
+  },
+  {
+    "course_id": "ELT129",
+    "name": "OFICINA DE MODELAGEM E SIMULAÇÃO",
+    "availabilityCode": "PA1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Eduardo M. A. M. M."
+    ]
+  },
+  {
+    "course_id": "ELT129",
+    "name": "OFICINA DE MODELAGEM E SIMULAÇÃO",
+    "availabilityCode": "PA2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:50",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Eduardo M. A. M. M."
+    ]
+  },
+  {
+    "course_id": "ELT129",
+    "name": "OFICINA DE MODELAGEM E SIMULAÇÃO",
+    "availabilityCode": "PN",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Emerson A. S."
+    ]
+  },
+  {
+    "course_id": "ELT130",
+    "name": "TÉCNICAS DE CONTROLE DE PROCESSOS INDUSTRIAIS",
+    "availabilityCode": "TD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "16:50",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Rosely M. V. C."
+    ]
+  },
+  {
+    "course_id": "ELT130",
+    "name": "TÉCNICAS DE CONTROLE DE PROCESSOS INDUSTRIAIS",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Guilherme V. R."
+    ]
+  },
+  {
+    "course_id": "ELT131",
+    "name": "REDES NEURAIS ARTIFICIAIS",
+    "availabilityCode": "TECA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": [
+      "Antonio P. B."
+    ]
+  },
+  {
+    "course_id": "ELT132",
+    "name": "PROGRAMAÇÃO AVANÇADA DE CLP",
+    "availabilityCode": "TECA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:50",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Luiz T. S. M."
+    ]
+  },
+  {
+    "course_id": "ELT135",
+    "name": "INTRODUÇÃO AO RECONHECIMENTO DE PADRÕES",
+    "availabilityCode": "TTABI",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:55",
+        "end": "18:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "16:55",
+        "end": "18:35"
+      }
+    ],
+    "teachers": [
+      "Frederico G. F. C.",
+      "Antonio P. B."
+    ]
+  },
+  {
+    "course_id": "ENG008",
+    "name": "SISTEMAS NEBULOSOS",
+    "availabilityCode": "TA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Walmir M. C."
+    ]
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - Fundamentos de Redes de Comunicação",
+    "availabilityCode": "T036",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - OTIMIZACAO",
+    "availabilityCode": "T037",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Rodney R. S."
+    ]
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - Comunicações Móveis",
+    "availabilityCode": "T048",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - Supervisão e Controle de Sistemas de Energia Elétrica",
+    "availabilityCode": "T057",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:55"
+      }
+    ],
+    "teachers": [
+      "Maria H. M. V."
+    ]
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - Fundamentos e Aplicações de Sistemas Ópticos",
+    "availabilityCode": "TASO",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "15:00",
+        "end": "16:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "15:00",
+        "end": "16:40"
+      }
+    ],
+    "teachers": [
+      "Luciana P. S."
+    ]
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - Fundamentos de Veículos Autônomos",
+    "availabilityCode": "TFVA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Leonardo A. M.",
+      "Armando A. N."
+    ]
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - MULTIMÍDIA SOBRE IP",
+    "availabilityCode": "TMIP",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - OPEI - Oficina de Projetos, Empreendedorismo e Inovação",
+    "availabilityCode": "TOGP",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Hermes A. M."
+    ]
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - Processamento Digital de Imagens",
+    "availabilityCode": "TPDI",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": [
+      "Danilo B. M."
+    ]
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Conv Trif Baixa Tensão",
+    "availabilityCode": "TPG01",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Análise de Redes Elétricas no Domínio da Frequência",
+    "availabilityCode": "TPG04",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Otimização em Engenharia Elétrica",
+    "availabilityCode": "TPG06",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Tóp. Esp. Eng. Comp. Telecom. - System- on-Chip (Processadores e Lógica Programável)",
+    "availabilityCode": "TPG17",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "18:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Introdução à Inteligência Computacional",
+    "availabilityCode": "TPG30",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Introdução aos Processos Estocásticos",
+    "availabilityCode": "TPG35",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "16:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Modelagem Eletromagnética para Sistemas Elétricos de Potência",
+    "availabilityCode": "TPG36",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Robótica Probabilística",
+    "availabilityCode": "TPG39",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Introduction to Generative AI",
+    "availabilityCode": "TPG40",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:50",
+        "end": "18:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "16:50",
+        "end": "18:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Simulação de Sistemas Dinâmicos a Eventos Discretos",
+    "availabilityCode": "TPG42",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "18:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Métodos de Elementos Finitos",
+    "availabilityCode": "TPG43",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Otimização Multiobjetivo",
+    "availabilityCode": "TPG44",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "20:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Tóp. Esp. em Eng. de Comp. e Telecom. - Planejamento e Análise de Experimentos",
+    "availabilityCode": "TPG45",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Sistemas Óticos para telecomunicações",
+    "availabilityCode": "TPG46",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:00",
+        "end": "18:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Caracterização de Canais de Rádio",
+    "availabilityCode": "TPG47",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Fundamentos do Controle Robusto via Otimização",
+    "availabilityCode": "TPG48",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Análise de Antenas",
+    "availabilityCode": "TPG49",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - Técnicas de Controle Não- Linear",
+    "availabilityCode": "TPG50",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:40",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Sinais de microondas em campo próximo: imagens, sensores e aplicações inovadoras",
+    "availabilityCode": "TPG51",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Dinâmica e Controle de Robôs",
+    "availabilityCode": "TPG52",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - Sistemas de Energia Ininterrupta",
+    "availabilityCode": "TPG53",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Tecnologia de Fontes de Alimentação",
+    "availabilityCode": "TPG54",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:20",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Redes Neurais Artificiais: Teoria e Aplicações",
+    "availabilityCode": "TPG55",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Segurança de Hardware",
+    "availabilityCode": "TPG56",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - [PPGEE] Identificação de Sistemas e Estimação de Parâmetros",
+    "availabilityCode": "TPG57",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "15:00",
+        "end": "18:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG075",
+    "name": "TOPICOS EM ENGENHARIA DE CONTROLE E AUTOMACAO IV - Veículos Elétricos e Híbridos",
+    "availabilityCode": "TVEH",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Fabricio J. P. P.",
+      "Braz J. C. F."
+    ]
+  },
+  {
+    "course_id": "ENG157",
+    "name": "FENÔMENOS DE TRANSPORTE",
+    "availabilityCode": "TECA",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENG157",
+    "name": "FENÔMENOS DE TRANSPORTE",
+    "availabilityCode": "TECAN",
+    "spots": 41,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:55"
+      }
+    ],
+    "teachers": [
+      "Paulo V. T."
+    ]
+  },
+  {
+    "course_id": "EPD034",
+    "name": "SISTEMA DE DESENVOLVIMENTO DO PRODUTO",
+    "availabilityCode": "TTTTP",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Rafael A. S. R. P."
+    ]
+  },
+  {
+    "course_id": "EPD035",
+    "name": "PLANEJAMENTO DA PRODUCAO",
+    "availabilityCode": "TTTTP",
+    "spots": 57,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Joao F. F. A."
+    ]
+  },
+  {
+    "course_id": "EPD043",
+    "name": "MÉTODOS E TÉCNICAS DE DESENVOLVIMENTO DO PRODUTO",
+    "availabilityCode": "TTTTP",
+    "spots": 57,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": [
+      "Raoni B. B."
+    ]
+  },
+  {
+    "course_id": "EPD064",
+    "name": "TECNOLOGIA E SOCIEDADE",
+    "availabilityCode": "TTTTP",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Rodrigo M. R."
+    ]
+  },
+  {
+    "course_id": "EPD065",
+    "name": "MODELAGEM DE SISTEMAS DE PRODUCAO",
+    "availabilityCode": "TTTTP",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": [
+      "Carlos R. V. C."
+    ]
+  },
+  {
+    "course_id": "EPD068",
+    "name": "ORGANIZACAO DO TRABALHO",
+    "availabilityCode": "TTTTP",
+    "spots": 53,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Ana V. C. D."
+    ]
+  },
+  {
+    "course_id": "EPD069",
+    "name": "INTRODUÇÃO À TECNOLOGIA DA QUALIDADE",
+    "availabilityCode": "TTTTP",
+    "spots": 53,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Noel T. J."
+    ]
+  },
+  {
+    "course_id": "EPD071",
+    "name": "ERGONOMIA I",
+    "availabilityCode": "TTTTP",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "William A. V.",
+      "Marcelo A. S."
+    ]
+  },
+  {
+    "course_id": "EPD116",
+    "name": "FUNDAMENTOS DE ENGENHARIA DE PRODUÇÃO",
+    "availabilityCode": "TTTTP",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Paulo E. F."
+    ]
+  },
+  {
+    "course_id": "ESA109",
+    "name": "PROTECAO AMBIENTAL",
+    "availabilityCode": "TAP",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ESA109",
+    "name": "PROTECAO AMBIENTAL",
+    "availabilityCode": "TNA",
+    "spots": 41,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EST031",
+    "name": "ESTATISTICA E PROBABILIDADES",
+    "availabilityCode": "TE1",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Frederico R. B. C."
+    ]
+  },
+  {
+    "course_id": "EST031",
+    "name": "ESTATISTICA E PROBABILIDADES",
+    "availabilityCode": "TE2",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Adrian P. H. L."
+    ]
+  },
+  {
+    "course_id": "EST031",
+    "name": "ESTATISTICA E PROBABILIDADES",
+    "availabilityCode": "TM",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Denise D."
+    ]
+  },
+  {
+    "course_id": "EST198",
+    "name": "FUNDAMENTOS DE ESTATÍSTICA E CIÊNCIA DOS DADOS",
+    "availabilityCode": "TE",
+    "spots": 28,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:40",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Sokol N."
+    ]
+  },
+  {
+    "course_id": "EST198",
+    "name": "FUNDAMENTOS DE ESTATÍSTICA E CIÊNCIA DOS DADOS",
+    "availabilityCode": "TM",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Adrian P. H. L."
+    ]
+  },
+  {
+    "course_id": "FIL028",
+    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Tadeu M. V."
+    ]
+  },
+  {
+    "course_id": "FIL028",
+    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Eduardo S. N. S."
+    ]
+  },
+  {
+    "course_id": "FIL028",
+    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+    "availabilityCode": "TR",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Tadeu M. V."
+    ]
+  },
+  {
+    "course_id": "FIL029",
+    "name": "INTRODUÇÃO A FILOSOFIA: FILOSOFIA DA CIÊNCIA E EPISTEMOLOGIA",
+    "availabilityCode": "TI",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Alberto E. F. C."
+    ]
+  },
+  {
+    "course_id": "FIL029",
+    "name": "INTRODUÇÃO A FILOSOFIA: FILOSOFIA DA CIÊNCIA E EPISTEMOLOGIA",
+    "availabilityCode": "TT",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Tulio R. X. A."
+    ]
+  },
+  {
+    "course_id": "FIL030",
+    "name": "INTRODUÇÃO A FILOSOFIA: ESTÉTICA",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Daniel O. P."
+    ]
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TE1",
+    "spots": 125,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TE2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TF1",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TF2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TN1",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TN2",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TN3",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TOL1",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TOL2",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TOL3",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TOL4",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TE1",
+    "spots": 100,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TE2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TF",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TN1",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TN2",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TOL1",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TOL2",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TOL3",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TOL4",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS086",
+    "name": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E ÓPTICA",
+    "availabilityCode": "TE",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS086",
+    "name": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E ÓPTICA",
+    "availabilityCode": "TF1",
+    "spots": 100,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS086",
+    "name": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E ÓPTICA",
+    "availabilityCode": "TF2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS086",
+    "name": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E ÓPTICA",
+    "availabilityCode": "TN1",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS086",
+    "name": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E ÓPTICA",
+    "availabilityCode": "TN2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS086",
+    "name": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E ÓPTICA",
+    "availabilityCode": "TOL1",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS086",
+    "name": "FUNDAMENTOS DE OSCILAÇÕES, ONDAS E ÓPTICA",
+    "availabilityCode": "TOL2",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS088",
+    "name": "FUNDAMENTOS DE FÍSICA QUÂNTICA",
+    "availabilityCode": "TN",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS151",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: MECÂNICA",
+    "availabilityCode": "PR7A",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS151",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: MECÂNICA",
+    "availabilityCode": "PR7B",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS151",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: MECÂNICA",
+    "availabilityCode": "PS8A",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS152",
+    "name": "FUNDAMENTOS DE MECÂNICA DOS FLUIDOS E TERMODINÂMICA",
+    "availabilityCode": "TE",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS152",
+    "name": "FUNDAMENTOS DE MECÂNICA DOS FLUIDOS E TERMODINÂMICA",
+    "availabilityCode": "TF",
+    "spots": 90,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS152",
+    "name": "FUNDAMENTOS DE MECÂNICA DOS FLUIDOS E TERMODINÂMICA",
+    "availabilityCode": "TF1",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS152",
+    "name": "FUNDAMENTOS DE MECÂNICA DOS FLUIDOS E TERMODINÂMICA",
+    "availabilityCode": "TF2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS152",
+    "name": "FUNDAMENTOS DE MECÂNICA DOS FLUIDOS E TERMODINÂMICA",
+    "availabilityCode": "TOL1",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS152",
+    "name": "FUNDAMENTOS DE MECÂNICA DOS FLUIDOS E TERMODINÂMICA",
+    "availabilityCode": "TOL2",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS152",
+    "name": "FUNDAMENTOS DE MECÂNICA DOS FLUIDOS E TERMODINÂMICA",
+    "availabilityCode": "TOL3",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS152",
+    "name": "FUNDAMENTOS DE MECÂNICA DOS FLUIDOS E TERMODINÂMICA",
+    "availabilityCode": "TOL4",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS152",
+    "name": "FUNDAMENTOS DE MECÂNICA DOS FLUIDOS E TERMODINÂMICA",
+    "availabilityCode": "TZ",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS153",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: ELETROMAGNETISMO",
+    "availabilityCode": "PS9A",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS153",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: ELETROMAGNETISMO",
+    "availabilityCode": "PT7A",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS153",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: ELETROMAGNETISMO",
+    "availabilityCode": "PT7B",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS154",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: TERMODINÂMICA",
+    "availabilityCode": "PS7A",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS154",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: TERMODINÂMICA",
+    "availabilityCode": "PS7B",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS154",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: TERMODINÂMICA",
+    "availabilityCode": "PX9A",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS154",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: TERMODINÂMICA",
+    "availabilityCode": "PX9B",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "HIS039",
+    "name": "INTRODUÇÃO A HISTÓRIA DA CULTURA",
+    "availabilityCode": "TZ",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Adriana R."
+    ]
+  },
+  {
+    "course_id": "HIS040",
+    "name": "TOPICOS EM HISTORIA DO BRASIL - História, Urbanização e a Busca da Cidadania no Brasil no Período de Longa Duração (1945-2000)",
+    "availabilityCode": "TX",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Marilda S. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TD1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TD2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TE1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TE2",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TF1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TF2",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TM1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TM2",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TM3",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TM4",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TM5",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TOL1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TOL2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT002",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL III",
+    "availabilityCode": "TD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT002",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL III",
+    "availabilityCode": "TE",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT002",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL III",
+    "availabilityCode": "TF",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT002",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL III",
+    "availabilityCode": "TM1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT002",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL III",
+    "availabilityCode": "TM2",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT002",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL III",
+    "availabilityCode": "TOL",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT015",
+    "name": "EQUAÇÕES DIFERENCIAIS A",
+    "availabilityCode": "TD1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT015",
+    "name": "EQUAÇÕES DIFERENCIAIS A",
+    "availabilityCode": "TD2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT015",
+    "name": "EQUAÇÕES DIFERENCIAIS A",
+    "availabilityCode": "TE",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT015",
+    "name": "EQUAÇÕES DIFERENCIAIS A",
+    "availabilityCode": "TF",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT015",
+    "name": "EQUAÇÕES DIFERENCIAIS A",
+    "availabilityCode": "TM1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT015",
+    "name": "EQUAÇÕES DIFERENCIAIS A",
+    "availabilityCode": "TOL",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT016",
+    "name": "EQUAÇÕES DIFERENCIAIS B",
+    "availabilityCode": "TE",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT016",
+    "name": "EQUAÇÕES DIFERENCIAIS B",
+    "availabilityCode": "TF",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT016",
+    "name": "EQUAÇÕES DIFERENCIAIS B",
+    "availabilityCode": "TM1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT016",
+    "name": "EQUAÇÕES DIFERENCIAIS B",
+    "availabilityCode": "TM2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TD1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TD2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TE1",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TE2",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TF1",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TF2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TN1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TN2",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TN3",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TN4",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TOL1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TOL2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TD1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TD2",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TE1",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TE2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TF1",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TF2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TM1",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TM2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TOL",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI628",
+    "name": "QUÍMICA GERAL E",
+    "availabilityCode": "PR6A",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI628",
+    "name": "QUÍMICA GERAL E",
+    "availabilityCode": "PR6B",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI628",
+    "name": "QUÍMICA GERAL E",
+    "availabilityCode": "PR6C",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI628",
+    "name": "QUÍMICA GERAL E",
+    "availabilityCode": "PT4A",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "15:45"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI628",
+    "name": "QUÍMICA GERAL E",
+    "availabilityCode": "PT4B",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "15:45"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI628",
+    "name": "QUÍMICA GERAL E",
+    "availabilityCode": "PT4C",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "15:45"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI628",
+    "name": "QUÍMICA GERAL E",
+    "availabilityCode": "PT4D",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "15:45"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI628",
+    "name": "QUÍMICA GERAL E",
+    "availabilityCode": "PT6A",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI628",
+    "name": "QUÍMICA GERAL E",
+    "availabilityCode": "PT6B",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI628",
+    "name": "QUÍMICA GERAL E",
+    "availabilityCode": "PT6C",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI628",
+    "name": "QUÍMICA GERAL E",
+    "availabilityCode": "PZ",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI628",
+    "name": "QUÍMICA GERAL E",
+    "availabilityCode": "TE",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:50",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI628",
+    "name": "QUÍMICA GERAL E",
+    "availabilityCode": "TN",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "15:45",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "SOA050",
+    "name": "MODERNIDADE E MUDANCA SOCIAL",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Elaine M. V."
+    ]
+  },
+  {
+    "course_id": "SOA050",
+    "name": "MODERNIDADE E MUDANCA SOCIAL",
+    "availabilityCode": "TH",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Claudio S. D. J."
+    ]
+  },
+  {
+    "course_id": "SOA050",
+    "name": "MODERNIDADE E MUDANCA SOCIAL",
+    "availabilityCode": "TR",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Luana H. C."
+    ]
+  },
+  {
+    "course_id": "SOA050",
+    "name": "MODERNIDADE E MUDANCA SOCIAL",
+    "availabilityCode": "TT",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Eugenia D. V. C.",
+      "Luana H. C."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  }
+]

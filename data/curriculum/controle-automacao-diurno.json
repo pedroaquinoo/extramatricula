@@ -1,0 +1,626 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "DCC203",
+      "name": "Programação e desenvolvimento de software I",
+      "description": "Introdução ao funcionamento de um computador e ao desenvolvimento de programas. Desenvolvimento de programas em uma linguagem de alto nível. Tipos de dados simples, apontadores, variáveis compostas homogêneas e heterogêneas. Entrada e saída. Estruturas de controle e repetição. Funções e ferramentas de modularização.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "EEE045",
+      "name": "Introdução à Engenharia de Controle e Automação",
+      "description": "Estrutura organizacional da Universidade. Legislação que rege a vida acadêmica do estudante.  O curso de graduação e a profissão de Engenheiro de Controle e Automação. Efeitos sociais e ambientais da automação. Questões étnico-raciais e de direitos humanos no exercício da profissão. Os desafios da inclusão e dos direitos humanos a condições  de trabalho melhores e mais seguras e as possibilidades de contribuição da profissão para este fim. Palestras de ex-alunos e de organizações estudantis da Escola de Engenharia.",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI628",
+      "name": "Química Geral",
+      "description": "Reações em solução aquosa e estequiometria, termoquímica, cinética química, equilíbrio químico, fundamentos de eletroquímica, ligação iônica, ligação covalente, interações intermoleculares, química aplicada a engenharia e geologia.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analítica e Álgebra Linear",
+      "description": "Matrizes. Sistemas de equações lineares. Álgebra vetorial. Plano-equação. A reta no R2 e Rn.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT001",
+      "name": "Cálculo Diferencial e Integral I",
+      "description": "Funções de R em R. Derivadas. Integrais. Aplicações.",
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC033",
+      "name": "Análise Numerica",
+      "description": "Números aproximados: erro, estabilidade e convergência. Sistemas lineares; inversão de matrizes. Zeros de funções; interseção de curvas. Interpolação. Métodos de integração. Resolução numérica de equações diferenciais ordinárias de primeira ordem. Autovalores e autovetores.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS065",
+      "name": "Fundamentos de Mecânica",
+      "description": "Cinemática e dinâmica da partícula. Sistemas de partículas. Cinemática e dinâmica de rotação. Leis de Conservação da Energia e dos Momentos Linear e Angular.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS151",
+      "name": "Física Experimental Básica: Mecânica",
+      "description": "Obtenção, tratamento e análise de dados obtidos em experimentos de mecânica (Física). Utilização de aparelhos de medida. Apresentação de resultados.",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ELT124",
+      "name": "Sistemas Digitais",
+      "description": "Sistemas de numeração. Álgebra Booleana. Portas lógicas. Circuitos combinacionais: análise, síntese e técnicas de minimização. Circuitos sequenciais síncronos e assíncronos. Análise, síntese e técnicas de minimização de circuitos sequenciais. Famílias de circuitos lógicos. Dispositivos lógicos programáveis. “Gate arrays”. Análise e projeto de sistemas digitais. Fundamentos de Linguagem de Descrição de Hardware e sua aplicação no projeto de Sistemas Digitais.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC204",
+      "name": "Programação e desenvolvimento de software II",
+      "description": "Programação estruturada e linguagem de programação modular. Metodologias de desenvolvimento de software. Compreensão, corretude e depuração de programas. Resolução de problemas de forma modular e eficiente.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT039",
+      "name": "Cálculo Diferencial e Integral II",
+      "description": "Integrais impróprias: seqüências séries numéricas. Séries de potência. Fórmula de Taylor. Cônicas e coordenadas polares. Diferenciabilidade de funções de várias variáveis.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS154",
+      "name": "Física Experimental Básica: Termodinâmica",
+      "description": "Obtenção, tratamento e análise de dados obtidos em experimentos de calor e termodinâmica (Física). Elaboração de relatórios científicos completos.",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS153",
+      "name": "Física Experimental Básica: Eletromagnetismo",
+      "description": "Obtenção, tratamento e análise de dados obtidos em experimentos de eletromagnetismo (Física). Elaboração de relatórios científicos completos",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ELE064",
+      "name": "Análise de Circuitos Elétricos I",
+      "description": "Fontes de tensão e corrente dependentes e independentes. Leis fundamentais de circuitos.Circuitos resistivos. Métodos de análise de circuitos. Teoremas de rede. Circuitos com amplificador operacional ideal.",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ELE078",
+      "name": "Programação Orientada a Objetos",
+      "description": "Gerenciamento da Complexidade. Modelagem Orientada a Objetos. Classes e Objetos. Métodos: encapsulamento, interface e implementação. Herança e Composição. Polimorfismo. Tratamento de exceções. Parametrização de classes.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT002",
+      "name": "Cálculo Diferencial e Integral III",
+      "description": "Integração de funções de duas ou mais variáveis. Integrais de linha e de superfície. Teorema de Gauss e de Stokes.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT015",
+      "name": "Equações Diferenciais A",
+      "description": "Equações diferenciais de 1a e 2a ordens. Sistemas lineares de equações diferenciais lineares. Solução em série de potência. Transformada de Laplace.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS069",
+      "name": "Fundamentos de Eletromagnetismo",
+      "description": "Eletrostática. Forças proporcionais ao inverso do quadrado da distância. Corrente elétrica. Campo Magnético. Eletrodinâmica clássica.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS152",
+      "name": "Fundamentos de Mecânica dos Fluidos e Termodinâmica",
+      "description": "Temperatura e dilatação. Modelo cinético do gás ideal. Calor e a primeira lei da termodinâmica. Entropia e a segunda lei da termodinâmica. Estática e dinâmica de fluidos. Equação de Bernoulli.",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ELT029",
+      "name": "Laboratório de Sistemas Digitais",
+      "description": "Aulas práticas envolvendo circuitos combinacionais, circuitos sequenciais síncronos e assíncronos e dispositivos lógicos programáveis. Gate Arrays. Análise e projeto de sistemas digitais.",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EEE046",
+      "name": "Sistemas a Eventos Discretos",
+      "description": "Fundamentos de Sistemas a Eventos Discretos. Modelagem e análise utilizando autômatos e redes de Petri. Síntese e implementação de controladores. Abordagem temporizada.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ELE065",
+      "name": "Análise de Circuitos Elétricos II",
+      "description": "Indutância, capacitância e indutância mútua. Circuitos de primeira ordem (RC, RL e outros circuitos). Circuitos de segunda ordem (RLC série, RLC paralelo e outros circuitos). Excitação senoidal e fasores. Análise em Regime permanente senoidal. Potência em regime permanente senoidal.",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ELE156",
+      "name": "Lab. de Circuitos Elétricos Eletrônica C",
+      "description": "Componentes passivos: resistores, capacitores e indutores. Circuitos RL e RC excitados por degrau. Análise de circuitos com excitação senoidal. Conceito de impedância. Definição e medidas de: valor eficaz, valor médio, potência, distorção harmônica, fator de forma, fator de potência. Análise transitória de circuitos RC, RL e RLC. Resposta em freqüência de circuitos RC, RL e RLC. Circuitos com amplificadores operacionais. Circuitos trifásicos.",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "MAT016",
+      "name": "Equações Diferenciais B",
+      "description": "Séries e integrais de Fourier. Equações diferenciais parciais.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ELT125",
+      "name": "Análise de Sistemas Dinâmicos Lineares",
+      "description": "Sistemas lineares invariantes no tempo. Convolução em sistemas de tempo contínuo e discreto. Análise de Fourier para sinais e sistemas de tempo contínuo e discreto. A transformada de Laplace. A transformada Z. Amostragem de Sinais. Modulação AM e PAM. Resposta em Freqüência – Diagrama de Bode.",
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIS086",
+      "name": "Fundamentos de Ondas, Oscilações e Optica",
+      "description": "Oscilações e Ondas Mecânicas e Eletromagnéticas. Som. Óptica Física.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ELT123",
+      "name": "Arquitetura e Organização de Computadores",
+      "description": "Arquitetura de microprocessadores: unidade de controle, memória, entrada e saída. Programação de microprocessadores: tipos e formatos de instruções, modos de endereçamento, linguagens Assembly e C. Dispositivos periféricos, interrupção, acesso direto à memória. Barramentos-padrão. Ferramentas para análise, desenvolvimento e depuração. Microprocessadores comerciais. Projetos de aplicações com microprocessadores e interfaces de E/S. Multiprocessamento.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ELT129",
+      "name": "Oficina de Modelagem e Simulação",
+      "description": "Conceitos de análise de sistemas de controle. Modelagem e modelos. Métodos de linearização. Modelagem em computador. Sistematização e modelagem de sistemas eletromecânicos, hidráulicos, pneumáticos e térmicos. Analogias. Modelos híbridos. Técnicas de representação de sistemas físicos. Respostas transitória e permanente de sistemas. Análise de sistemas de controle no domínio do tempo e da frequência. Simulação de resposta de sistemas mecânicos, hidráulicos, pneumáticos e térmicos. Introdução à análise de sinais e sistemas em tempo discreto.",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ELT084",
+      "name": "Dispositivos e Circuitos Eletrônicos Básicos",
+      "description": "Introdução à Eletrônica. Circuitos Eletrônicos com Amplificadores Operacionais ideais e reais. Junção PN. Diodos Retificadores e Zener: característica, circuitos com diodos e aplicações. Transistores de Efeito de Campo (FET) e Transistores bipolares (BJT): características, modelos, polarização, análises em pequenos sinais, resposta em freqüência. Funcionamento dos transistores como chaves. Conversores A/D e D/A: conceitos básicos. Representação gráfica de circuitos eletrônicos e simulação.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EST198",
+      "name": "Fundamentos de Estatística e Ciência de Dados",
+      "description": "Introdução à Estatística e Ciência de Dados. Visualização de dados: tipos de variáveis, gráficos e tabelas, medidas de posição e variabilidade. Fundamentos de probabilidade e modelos probabilísticos: tipos de eventos, probabilidade condicional e independência de eventos, variáveis aleatórias discretas e contínuas. Tomada de decisão com base em evidências: estimação pontual e intervalar, conceitos de testes de hipóteses, testes para amostras dependentes e independentes. Prática computacional.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ELT126",
+      "name": "Engenharia de Controle",
+      "description": "Representação de sistemas dinâmicos lineares no tempo e na freqüência. Análise e projeto de sistemas de controle: lugar das raízes e resposta em frequência. Projeto de controladores.",
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ELT008",
+      "name": "Informática Industrial",
+      "description": "Introdução aos sistemas de automação: Histórico e tendências. Arquiteturas típicas de sistemas de automação. Controle sequencial. Controladores Lógico-programáveis (CLP). Linguagens de programação de CLPs. Sistemas SCADA. Sistemas Digitais de Controle Distribuído (SDCD). Controle em batelada. Projeto e uso de remotas. Ferramentas e produtividade. Otimização de processos. Projeto de automação utilizando CLPs e sistemas supervisórios. Representação gráfica.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DCC023",
+      "name": "Redes de Computadores",
+      "description": "Conceitos de sistemas distribuídos, redes de computadores, protocolos e serviços de comunicação. Arquitetura de redes de computadores. Camadas inferiores do modelo de referência de ISO: física, enlace e redes. Redes locais, interligação de redes; especificação de protocolos.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ELE085",
+      "name": "Conversores Eletromecânicos",
+      "description": "Circuitos magnéticos. Princípios da Conversão Eletromecânica. Características construtivas e operação em regime permanente de motores CC, motores de indução e motores síncronos.",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ELT013",
+      "name": "Controle Digital",
+      "description": "Sistemas de tempo discreto. Transformada Z modificada. Resposta temporal de sistemas discretos. Estabilidade de sistemas discretos. Projeto de controladores digitais. Critérios de desempenho,  caracterização e sintonia de controladores. Estabilidade de sistemas discretos. Projeto de controladores digitais. Critérios de desempenho.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ELT128",
+      "name": "Instrumentação Industrial",
+      "description": "Análise funcional de instrumentos. Modos de operação de instrumentos. Métodos de minimização de efeitos de grandezas de influência. Introdução à Metrologia: incerteza padrão, incerteza expandida e incerteza combinada. Expressão do resultado da medição. Caracterização estática de instrumentos. Caracterização dinâmica de instrumentos. Documentação de projeto e leitura e interpretação de diagramas de processo e instrumentação. Medição de posição e deformação. Medição de velocidade. Medição de Aceleração. Medição de Torque. Medição de Pressão. Medição de Vazão. Medição de Temperatura. Medição de Nível. Circuitos eletrônicos para instrumentação.  Válvulas de controle.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ENG157",
+      "name": "Fenômenos de Transporte",
+      "description": "Conceitos básicos. Balanços globais: massa, energia e quantidade de movimento, Escoamento: laminar e turbulento. Perda de carga. Transferência de calor: condução e convecção. Trocadores de calor. Transferência de massa: difusão e convecção.",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ELT089",
+      "name": "Laboratório de Circuitos Eletrônicos I",
+      "description": "Princípio de operação e utilização de Instrumentos de Laboratório; Análise e Projetos com Amplificadores Operacionais; Análise e Projeto de circuitos com Diodos retificadores e com Diodos Zener; Análise e Projeto de circuitos com Transistores bipolares: como amplificador e com interruptor estático; Análise e Projeto de circuitos com Transistores MOSFET: como amplificador e com interruptor estático.",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EPD116",
+      "name": "Fundamentos da Engenharia de Produção",
+      "description": "Tecnologia e sociedade. Mecanização, automação e informatização. Ações humanas e comportamentos. Inteligência artificial. Automação e trabalho: desemprego e qualificação. Acidentes em sistemas automatizados. Fundamentos de organização do trabalho: escola clássica, escola de relações humanas, trabalhos em grupos enriquecidos e semi-autônomos. Sistema de gestão da qualidade: programas empresariais e normativas de qualidade. Sistema de desenvolvimento de produto. Programas empresariais e projetos de desenvolvimento de produtos. Modelagem de otimização e simulação. Princípios de planejamento e controle de produção. Sistemas de informação, sistemas de suporte à decisão e sistemas de planejamento e administração da produção. Modelagem para desenvolvimento de sistemas de suporte à decisão.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ELT127",
+      "name": "Automação em Tempo Real",
+      "description": "Sistemas de controle e supervisão de processos industriais. Execução concorrente entre processos. Comunicação entre processos. Memória distribuída. Memória transacional. Estudo de casos usando sistema operacional multitarefas. Exclusão mútua em ambiente distribuído. Programação em tempo real. Simulação de eventos discretos. Projetos de interfaces gráficas. Término de processos e gerenciamento de exceções. Controle em ambiente distribuído. Princípios de programação paralela. Sistemas de controle paralelos.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ECN075",
+      "name": "Economia para Engenharia",
+      "description": "Matemática financeira e estatística econômica. Elementos de microeconomia. Elementos de macroeconomia. Engenharia econômica. Análise econômica de projetos.",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ELT065",
+      "name": "Laboratório de Instrumentação",
+      "description": "Instalação, testes e calibração de diversos transdutores industriais, meteorológicos, domóticos, etc. Condicionamento, aquisição e tratamento de sinais provenientes de instrumentos. Válvulas de controle. Instrumentação digital.",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ELT011",
+      "name": "Sistemas Distribuídos para Automação",
+      "description": "Redes de chão de fábrica. Entrada e saída distribuídas. Redundância de redes e tolerância a falhas. Arquiteturas “hot stand-by”. Conectividade de sistemas de automação.",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ELT014",
+      "name": "Laboratório de Controle e Automação I",
+      "description": "Implementação de sistemas de controle automático completos (sensor, atuador, condicionador de sinais e controlador) de forma a integrar conhecimentos de controle e instrumentação.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ELT015",
+      "name": "Laboratório de Controle e Automação II",
+      "description": "Implementação de controladores digitais. Controladores lógico-programáveis. Sistemas digitais de controle distribuído. Técnicas de controle em tempo real. Sistemas de Comando Numérico.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ELT130",
+      "name": "Técnicas de Controle de Processos Industriais",
+      "description": "Normas e padrões de instrumentação e de sistemas de controle. Estratégias de controle avançado. Sintonia de controladores. Noções de controle de processos multivariáveis. Controle preditivo. Estudo de casos.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EEE047",
+      "name": "Gestão de Projetos em Controle e Automação",
+      "description": "Pesquisa bibliográfica em engenharia. Elaboração de projetos de pesquisa. Produção e normalização de relatórios técnico-científicos. Etapas típicas de um projeto de engenharia em controle e automação: estudo de viabilidade, projeto básico, projeto detalhado, testes de plataforma, posta-em-marcha. Documentos típicos: diagrama P&I, folhas de instrumentos, PDAI. Normas aplicáveis. Fundamentos da gestão de projetos: histórico e conceitos básicos. PMBOK (Project Management Body of Knowledge): os cinco grupos de processos de projetos e as nove áreas de conhecimento, analisando questões étnico-raciais e de direitos humanos envolvidas nas áreas de Recursos Humanos e Comunicações. Ferramentas de software para gestão de projetos. Elaboração de Proposta de Projeto de Final de Curso, considerando possíveis impactos ambientais e sócio-econômicos.",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ELE041",
+      "name": "Manipuladores Robóticos",
+      "description": "Características básicas de manipuladores robóticos. Mecânica de manipuladores robóticos. Problema da cinemática inversa. Estrutura de sistemas de controles de manipuladores industriais. Estratégias de controle não-linear de posicionamento. Planejamento e programação de ações de robôs.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EEE011",
+      "name": "Projeto Final de Curso I",
+      "description": "Elaboração de um projeto completo de engenharia envolvendo as etapas de estudo do problema, concepção, simulação e implementação. Análise de possíveis impactos ambientais, sócio-econômicos e de direitos humanos. Elaboração e apresentação de documentação técnica preliminar.",
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ESA109",
+      "name": "Proteção Ambiental",
+      "description": "Ecologia: Princípios. Recursos naturais. Poluição das águas, ar e solo. Legislação ambiental. Ecodesenvolvimento",
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "CAD089",
+      "name": "Gestão de Custos e Investimentos",
+      "description": "Contabilidade e custos. Controle de investimentos. Uso de índices para avaliação financeira. Tomada de decisão. Retorno para a empresa. Decisões em condições probabilísticas e de risco. Controle de projetos e de investimentos. Avaliação sócio-econômica de projetos.",
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EEE012",
+      "name": "Estágio Superv. em Eng. Controle e Automação",
+      "description": "Atividades de treinamento, supervisionadas por um docente do Curso, na área de atuação profissional do engenheiro de controle e automação. Análise de impactos ambientais, socio-econômicos e de direitos humanos nos projetos e obras das quais participa.",
+      "credits": 12,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EEE013",
+      "name": "Projeto Final de Curso II",
+      "description": "Finalização do projeto elaborado no Projeto Final de Curso I e apresentação de Monografia. Defesa do trabalho perante banca examinadora.",
+      "credits": 8,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "DCC033",
+      "prerequisite_code": "MAT038"
+    },
+    {
+      "code": "DCC204",
+      "prerequisite_code": "DCC203"
+    },
+    {
+      "code": "MAT039",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "FIS154",
+      "prerequisite_code": "FIS151"
+    },
+    {
+      "code": "FIS154",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS153",
+      "prerequisite_code": "FIS151"
+    },
+    {
+      "code": "FIS153",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "ELE064",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "ELE078",
+      "prerequisite_code": "DCC204"
+    },
+    {
+      "code": "MAT002",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "MAT015",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "FIS152",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS152",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "ELT029",
+      "prerequisite_code": "ELT124"
+    },
+    {
+      "code": "ELE065",
+      "prerequisite_code": "ELE064"
+    },
+    {
+      "code": "ELE065",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "ELE156",
+      "prerequisite_code": "ELE064"
+    },
+    {
+      "code": "ELE156",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "MAT016",
+      "prerequisite_code": "MAT015"
+    },
+    {
+      "code": "ELT125",
+      "prerequisite_code": "MAT015"
+    },
+    {
+      "code": "FIS086",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "ELT129",
+      "prerequisite_code": "MAT015"
+    },
+    {
+      "code": "ELT084",
+      "prerequisite_code": "ELE065"
+    },
+    {
+      "code": "EST198",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "ELT126",
+      "prerequisite_code": "ELT125"
+    },
+    {
+      "code": "ELT008",
+      "prerequisite_code": "ELT124"
+    },
+    {
+      "code": "DCC023",
+      "prerequisite_code": "DCC204"
+    },
+    {
+      "code": "ELE085",
+      "prerequisite_code": "ELE065"
+    },
+    {
+      "code": "ELE085",
+      "prerequisite_code": "ELT125"
+    },
+    {
+      "code": "ELT013",
+      "prerequisite_code": "ELT126"
+    },
+    {
+      "code": "ELT128",
+      "prerequisite_code": "ELT125"
+    },
+    {
+      "code": "ENG157",
+      "prerequisite_code": "FIS152"
+    },
+    {
+      "code": "ELT089",
+      "prerequisite_code": "ELT084"
+    },
+    {
+      "code": "ELT127",
+      "prerequisite_code": "ELE078"
+    },
+    {
+      "code": "ELT065",
+      "prerequisite_code": "ELT128"
+    },
+    {
+      "code": "ELT011",
+      "prerequisite_code": "ELT127"
+    },
+    {
+      "code": "ELT014",
+      "prerequisite_code": "ELT126"
+    },
+    {
+      "code": "ELT015",
+      "prerequisite_code": "ELT011"
+    },
+    {
+      "code": "ELT015",
+      "prerequisite_code": "ELT013"
+    },
+    {
+      "code": "ELT130",
+      "prerequisite_code": "ELT126"
+    },
+    {
+      "code": "EEE047",
+      "prerequisite_code": "ELT126"
+    },
+    {
+      "code": "EEE047",
+      "prerequisite_code": "ELT127"
+    },
+    {
+      "code": "EEE047",
+      "prerequisite_code": "ELT128"
+    },
+    {
+      "code": "ELE041",
+      "prerequisite_code": "ELT126"
+    },
+    {
+      "code": "EEE011",
+      "prerequisite_code": "ELT011"
+    },
+    {
+      "code": "EEE011",
+      "prerequisite_code": "ELT013"
+    },
+    {
+      "code": "EEE013",
+      "prerequisite_code": "EEE011"
+    }
+  ]
+}
