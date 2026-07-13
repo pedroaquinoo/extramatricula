@@ -106,8 +106,8 @@ export function AvailableClassList({
               </div>
               <div className="flex shrink-0 items-center gap-2">
                 {selectedSection && (
-                  <Badge variant="secondary" className="text-xs">
-                    Seção selecionada
+                  <Badge variant="secondary" className="text-xs p-1">
+                    <Check className="h-4 w-4 text-primary" />
                   </Badge>
                 )}
                 {isClickable && onSelectClass && (
