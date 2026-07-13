@@ -25,6 +25,7 @@ import {
   getClasses,
   getCourseById,
   getCourseGroups,
+  getDegreeTitle,
   getOfferId,
   getProgramVariants,
   resolveCourseId,
@@ -219,8 +220,7 @@ function SetupBody({ onDone }: { onDone: () => void }) {
     ])
     registerAnalyticsContext(draftCourse, draftSemester)
     captureEvent(AnalyticsEvents.SETUP_COMPLETED, {
-      offer_id: draftOfferId,
-      shift: draftShift,
+      course_title: getDegreeTitle(draftCourse),
       semester: draftSemester,
     })
     onDone()

@@ -13,6 +13,7 @@ import offer20262EngProducao from "@/data/offers/2026-2/eng-producao.json"
 import offer20262EngQuimica from "@/data/offers/2026-2/eng-quimica.json"
 import offer20262EngSistemas from "@/data/offers/2026-2/eng-sistemas.json"
 import offer20262Estatistica from "@/data/offers/2026-2/estatistica.json"
+import offer20262SistemasInformacao from "@/data/offers/2026-2/sistemas-informacao.json"
 import { getOfferId } from "@/lib/curriculum"
 import type { AvailableClass } from "@/hooks/use-available-classes"
 
@@ -34,6 +35,7 @@ const offersByTermAndOfferId: Record<string, Record<string, AvailableClass[]>> =
     "eng-quimica": offer20262EngQuimica as AvailableClass[],
     "eng-sistemas": offer20262EngSistemas as AvailableClass[],
     "estatistica": offer20262Estatistica as AvailableClass[],
+    "sistemas-informacao": offer20262SistemasInformacao as AvailableClass[],
   },
 }
 

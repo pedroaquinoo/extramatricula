@@ -1,0 +1,342 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "CAD103",
+      "name": "Administração Tga",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DCC044",
+      "name": "Fundamentos de Sistemas de Informacao",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DCC203",
+      "name": "Programação e Desenvolvimento de Software I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DCC638",
+      "name": "Introdução À Lógica Computacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC204",
+      "name": "Programação e Desenvolvimento de Software II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC216",
+      "name": "Matemática Discreta",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC639",
+      "name": "Álgebra Linear Computacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECN101",
+      "name": "Economia a I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCC011",
+      "name": "Introdução a Banco de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCC114",
+      "name": "Introdução Aos Sistemas Lógicos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCC205",
+      "name": "Estruturas de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EST031",
+      "name": "Estatistica e Probabilidades",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT039",
+      "name": "Cálculo Diferencial e Integral II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CAD163",
+      "name": "Administração de Recursos Humanos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DCC006",
+      "name": "Organização de Computadores I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DCC206",
+      "name": "Algoritmos I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "TGI004",
+      "name": "Usuários da Informação",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CAD004",
+      "name": "Administração da Produção",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CIC010",
+      "name": "Introdução À Contabilidade",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DCC024",
+      "name": "Linguagens de Programacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DCC194",
+      "name": "Interação Humano-computador",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "OTI071",
+      "name": "Organização e Tratamento da Informação",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CAD153",
+      "name": "Administração de Custos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DCC603",
+      "name": "Engenharia de Software",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DCC605",
+      "name": "Sistemas Operacionais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CAD167",
+      "name": "Administração Financeira",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DCC023",
+      "name": "Redes de Computadores",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DCC072",
+      "name": "Engenharia de Software II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DCC636",
+      "name": "Ética na Computação",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "CAD164",
+      "name": "Administração Mercadológica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DCC046",
+      "name": "Monografia em Sistemas de Informação I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DCC637",
+      "name": "Computação e Sociedade",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "DCC073",
+      "name": "Monografia em Sistemas de Informação II",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "DCC204",
+      "prerequisite_code": "DCC203"
+    },
+    {
+      "code": "DCC639",
+      "prerequisite_code": "MAT038"
+    },
+    {
+      "code": "DCC114",
+      "prerequisite_code": "DCC216"
+    },
+    {
+      "code": "DCC205",
+      "prerequisite_code": "DCC204"
+    },
+    {
+      "code": "MAT039",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "CAD163",
+      "prerequisite_code": "CAD103"
+    },
+    {
+      "code": "DCC006",
+      "prerequisite_code": "DCC114"
+    },
+    {
+      "code": "CAD004",
+      "prerequisite_code": "CAD103"
+    },
+    {
+      "code": "CIC010",
+      "prerequisite_code": "CAD103"
+    },
+    {
+      "code": "CAD153",
+      "prerequisite_code": "CIC010"
+    },
+    {
+      "code": "CAD167",
+      "prerequisite_code": "CAD153"
+    },
+    {
+      "code": "DCC072",
+      "prerequisite_code": "DCC603"
+    },
+    {
+      "code": "CAD164",
+      "prerequisite_code": "CAD103"
+    },
+    {
+      "code": "DCC073",
+      "prerequisite_code": "DCC046"
+    }
+  ]
+}

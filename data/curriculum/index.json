@@ -94,5 +94,17 @@
     "name": "Engenharia Metalúrgica",
     "offerId": "eng-metalurgica",
     "shift": "diurno"
+  },
+  {
+    "id": "sistemas-informacao-noturno",
+    "name": "Sistemas de Informação",
+    "offerId": "sistemas-informacao",
+    "shift": "noturno"
+  },
+  {
+    "id": "sistemas-informacao-vespertino",
+    "name": "Sistemas de Informação",
+    "offerId": "sistemas-informacao",
+    "shift": "vespertino"
   }
 ]

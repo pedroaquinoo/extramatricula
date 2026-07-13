@@ -15,6 +15,8 @@ import engProducaoDiurno from "@/data/curriculum/eng-producao-diurno.json"
 import engQuimicaDiurno from "@/data/curriculum/eng-quimica-diurno.json"
 import engSistemasNoturno from "@/data/curriculum/eng-sistemas-noturno.json"
 import estatisticaDiurno from "@/data/curriculum/estatistica-diurno.json"
+import sistemasInformacaoNoturno from "@/data/curriculum/sistemas-informacao-noturno.json"
+import sistemasInformacaoVespertino from "@/data/curriculum/sistemas-informacao-vespertino.json"
 import type {
   Class,
   ClassPrerequisite,
@@ -41,6 +43,8 @@ const curriculumByCourseId: Record<string, CurriculumData> = {
   "eng-quimica-diurno": engQuimicaDiurno,
   "eng-sistemas-noturno": engSistemasNoturno,
   "estatistica-diurno": estatisticaDiurno,
+  "sistemas-informacao-noturno": sistemasInformacaoNoturno,
+  "sistemas-informacao-vespertino": sistemasInformacaoVespertino,
 }
 
 const coursesIndex = coursesIndexData as Course[]

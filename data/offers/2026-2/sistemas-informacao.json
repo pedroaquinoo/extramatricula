@@ -1,0 +1,2197 @@
+[
+  {
+    "course_id": "CAD004",
+    "name": "ADMINISTRAÇÃO DA PRODUÇÃO",
+    "availabilityCode": "TZ",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Leydiana S. P."
+    ]
+  },
+  {
+    "course_id": "CAD153",
+    "name": "ADMINISTRAÇÃO DE CUSTOS",
+    "availabilityCode": "TZ",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Flavio D. R."
+    ]
+  },
+  {
+    "course_id": "CAD163",
+    "name": "ADMINISTRAÇÃO DE RECURSOS HUMANOS",
+    "availabilityCode": "TZ",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Victor N. S. S."
+    ]
+  },
+  {
+    "course_id": "CAD164",
+    "name": "ADMINISTRAÇÃO MERCADOLÓGICA",
+    "availabilityCode": "TZ",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Plinio R. R. M."
+    ]
+  },
+  {
+    "course_id": "CAD167",
+    "name": "ADMINISTRAÇÃO FINANCEIRA",
+    "availabilityCode": "TZ",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Bruno P. F."
+    ]
+  },
+  {
+    "course_id": "CIC010",
+    "name": "INTRODUÇÃO À CONTABILIDADE",
+    "availabilityCode": "TE",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Lua S. Z. S."
+    ]
+  },
+  {
+    "course_id": "DCC006",
+    "name": "ORGANIZAÇÃO DE COMPUTADORES I",
+    "availabilityCode": "TL",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Michele N. L."
+    ]
+  },
+  {
+    "course_id": "DCC006",
+    "name": "ORGANIZAÇÃO DE COMPUTADORES I",
+    "availabilityCode": "TL1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DCC011",
+    "name": "INTRODUÇÃO A BANCO DE DADOS",
+    "availabilityCode": "TE",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Clodoveu A. D. J."
+    ]
+  },
+  {
+    "course_id": "DCC023",
+    "name": "REDES DE COMPUTADORES",
+    "availabilityCode": "TE",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Aldri L. S."
+    ]
+  },
+  {
+    "course_id": "DCC023",
+    "name": "REDES DE COMPUTADORES",
+    "availabilityCode": "TM",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Luiz F. M. V."
+    ]
+  },
+  {
+    "course_id": "DCC024",
+    "name": "LINGUAGENS DE PROGRAMACAO",
+    "availabilityCode": "TE",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Joao E. M. A. F."
+    ]
+  },
+  {
+    "course_id": "DCC024",
+    "name": "LINGUAGENS DE PROGRAMACAO",
+    "availabilityCode": "TM",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Fernando M. Q. P."
+    ]
+  },
+  {
+    "course_id": "DCC035",
+    "name": "PESQUISA OPERACIONAL",
+    "availabilityCode": "TZ",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Cristiano A. V."
+    ]
+  },
+  {
+    "course_id": "DCC042",
+    "name": "ROBÓTICA MÓVEL",
+    "availabilityCode": "TL2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Douglas G. M."
+    ]
+  },
+  {
+    "course_id": "DCC046",
+    "name": "MONOGRAFIA EM SISTEMAS DE INFORMAÇÃO I",
+    "availabilityCode": "TA",
+    "spots": 90,
+    "times": [],
+    "teachers": [
+      "Adriano C. M. P."
+    ]
+  },
+  {
+    "course_id": "DCC046",
+    "name": "MONOGRAFIA EM SISTEMAS DE INFORMAÇÃO I",
+    "availabilityCode": "TB",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DCC046",
+    "name": "MONOGRAFIA EM SISTEMAS DE INFORMAÇÃO I",
+    "availabilityCode": "TC",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DCC046",
+    "name": "MONOGRAFIA EM SISTEMAS DE INFORMAÇÃO I",
+    "availabilityCode": "TD",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DCC046",
+    "name": "MONOGRAFIA EM SISTEMAS DE INFORMAÇÃO I",
+    "availabilityCode": "TE",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DCC046",
+    "name": "MONOGRAFIA EM SISTEMAS DE INFORMAÇÃO I",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DCC053",
+    "name": "COMPILADORES I",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Renato A. C. F."
+    ]
+  },
+  {
+    "course_id": "DCC055",
+    "name": "EMPREENDIMENTOS EM INFORMÁTICA",
+    "availabilityCode": "TL3",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Adriano C. M. P."
+    ]
+  },
+  {
+    "course_id": "DCC069",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA II - Seminários Avançados em Grafos e Algoritmos",
+    "availabilityCode": "TLM2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Guilherme C. M. G."
+    ]
+  },
+  {
+    "course_id": "DCC069",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA II - Modelos Generativos para Imagens",
+    "availabilityCode": "TLN1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Erickson R. N."
+    ]
+  },
+  {
+    "course_id": "DCC069",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA II - Inclusão e acessibilidade",
+    "availabilityCode": "TM",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Pedro H. S. S. B."
+    ]
+  },
+  {
+    "course_id": "DCC071",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV - Manutenção e Evolução de Software",
+    "availabilityCode": "TL10",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Marco T. O. V."
+    ]
+  },
+  {
+    "course_id": "DCC071",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV - Sistemas Operacionais Avançados",
+    "availabilityCode": "TL11",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Marcos A. M. V."
+    ]
+  },
+  {
+    "course_id": "DCC071",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV - Quantitative Information Flow",
+    "availabilityCode": "TL12",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Mario S. F. A. J."
+    ]
+  },
+  {
+    "course_id": "DCC071",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV - Nanocomputação e Nanotecnologia Computacional",
+    "availabilityCode": "TL13",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Omar P. V. N."
+    ]
+  },
+  {
+    "course_id": "DCC071",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV - Ambientes em Computação",
+    "availabilityCode": "TL14",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Raquel C. M. M."
+    ]
+  },
+  {
+    "course_id": "DCC071",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV - Computação Social",
+    "availabilityCode": "TL15",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Ana P. C. S."
+    ]
+  },
+  {
+    "course_id": "DCC071",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV - Programação e Arquitetura de Computadores Paralelos",
+    "availabilityCode": "TL16",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "George L. M. T."
+    ]
+  },
+  {
+    "course_id": "DCC071",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV - Projeto de Sistemas Robóticos",
+    "availabilityCode": "TL19",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Paulo A. F. R."
+    ]
+  },
+  {
+    "course_id": "DCC071",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV - Criação de startups: abordagem ágil de problemas de empresas",
+    "availabilityCode": "TL2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Daniel F. M."
+    ]
+  },
+  {
+    "course_id": "DCC071",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV - Introdução à Computação Visual",
+    "availabilityCode": "TL20",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "William R. S."
+    ]
+  },
+  {
+    "course_id": "DCC071",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV - Otimização Linear Robusta",
+    "availabilityCode": "TL3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Marcio C. S."
+    ]
+  },
+  {
+    "course_id": "DCC071",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV - Bancos de Dados Geográficos e Ciência de Dados Geoespaciais",
+    "availabilityCode": "TL4",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Clodoveu A. D. J."
+    ]
+  },
+  {
+    "course_id": "DCC071",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV - Grandes Modelos de Linguagem",
+    "availabilityCode": "TL5",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Anisio M. L."
+    ]
+  },
+  {
+    "course_id": "DCC071",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV - Theory and Practice of SMT Solving",
+    "availabilityCode": "TL6",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Haniel M. B."
+    ]
+  },
+  {
+    "course_id": "DCC071",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV - Cryptography - Theory and Applications",
+    "availabilityCode": "TL7",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Jeroen A. M. V. G."
+    ]
+  },
+  {
+    "course_id": "DCC071",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV - IA Generativa para Música",
+    "availabilityCode": "TL8",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Lucas N. F."
+    ]
+  },
+  {
+    "course_id": "DCC071",
+    "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA IV - Aprendizado por Reforço",
+    "availabilityCode": "TL9",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Luiz C."
+    ]
+  },
+  {
+    "course_id": "DCC072",
+    "name": "ENGENHARIA DE SOFTWARE II",
+    "availabilityCode": "TL1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Andre C. H."
+    ]
+  },
+  {
+    "course_id": "DCC073",
+    "name": "MONOGRAFIA EM SISTEMAS DE INFORMAÇÃO II",
+    "availabilityCode": "TA",
+    "spots": 90,
+    "times": [],
+    "teachers": [
+      "Aldri L. S."
+    ]
+  },
+  {
+    "course_id": "DCC073",
+    "name": "MONOGRAFIA EM SISTEMAS DE INFORMAÇÃO II",
+    "availabilityCode": "TB",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DCC073",
+    "name": "MONOGRAFIA EM SISTEMAS DE INFORMAÇÃO II",
+    "availabilityCode": "TC",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DCC073",
+    "name": "MONOGRAFIA EM SISTEMAS DE INFORMAÇÃO II",
+    "availabilityCode": "TD",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DCC073",
+    "name": "MONOGRAFIA EM SISTEMAS DE INFORMAÇÃO II",
+    "availabilityCode": "TE",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DCC073",
+    "name": "MONOGRAFIA EM SISTEMAS DE INFORMAÇÃO II",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DCC080",
+    "name": "CIBERSEGURANÇA",
+    "availabilityCode": "TL3",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Michele N. L."
+    ]
+  },
+  {
+    "course_id": "DCC089",
+    "name": "TESTE DE SOFTWARE",
+    "availabilityCode": "TL3",
+    "spots": 28,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Andre C. H."
+    ]
+  },
+  {
+    "course_id": "DCC094",
+    "name": "ENGENHARIA DE SOFTWARE",
+    "availabilityCode": "TL1",
+    "spots": 75,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Marco T. O. V."
+    ]
+  },
+  {
+    "course_id": "DCC094",
+    "name": "ENGENHARIA DE SOFTWARE",
+    "availabilityCode": "TL2",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Eduardo M. L. F."
+    ]
+  },
+  {
+    "course_id": "DCC095",
+    "name": "REDES DE COMPUTADORES",
+    "availabilityCode": "TL2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Marcos A. M. V."
+    ]
+  },
+  {
+    "course_id": "DCC095",
+    "name": "REDES DE COMPUTADORES",
+    "availabilityCode": "TL3",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Dorgival O. G. N."
+    ]
+  },
+  {
+    "course_id": "DCC114",
+    "name": "INTRODUÇÃO AOS SISTEMAS LÓGICOS",
+    "availabilityCode": "TZ1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Omar P. V. N."
+    ]
+  },
+  {
+    "course_id": "DCC114",
+    "name": "INTRODUÇÃO AOS SISTEMAS LÓGICOS",
+    "availabilityCode": "TZ2",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Luiz F. M. V."
+    ]
+  },
+  {
+    "course_id": "DCC129",
+    "name": "FUNDAMENTOS DA TEORIA DA COMPUTAÇÃO",
+    "availabilityCode": "TZ",
+    "spots": 75,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Mario S. F. A. J."
+    ]
+  },
+  {
+    "course_id": "DCC191",
+    "name": "COMPUTAÇÃO NATURAL",
+    "availabilityCode": "TL4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Gisele L. P."
+    ]
+  },
+  {
+    "course_id": "DCC194",
+    "name": "INTERAÇÃO HUMANO- COMPUTADOR",
+    "availabilityCode": "TL1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Raquel O. P."
+    ]
+  },
+  {
+    "course_id": "DCC199",
+    "name": "TEORIA DOS GRAFOS",
+    "availabilityCode": "TL4",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Gabriel M. C."
+    ]
+  },
+  {
+    "course_id": "DCC203",
+    "name": "PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE I",
+    "availabilityCode": "TN1",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Michele A. B."
+    ]
+  },
+  {
+    "course_id": "DCC203",
+    "name": "PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE I",
+    "availabilityCode": "TN2",
+    "spots": 63,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "DCC203",
+    "name": "PROGRAMAÇÃO E DESENVOLVIMENTO DE SOFTWARE I",
+    "availabilityCode": "TW",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Joao G. M. M."
+    ]
+  },
+  {
+    "course_id": "DCC205",
+    "name": "ESTRUTURAS DE DADOS",
+    "availabilityCode": "TF",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Pedro H. S. S. B."
+    ]
+  },
+  {
+    "course_id": "DCC206",
+    "name": "ALGORITMOS I",
+    "availabilityCode": "TL1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Guilherme C. M. G."
+    ]
+  },
+  {
+    "course_id": "DCC206",
+    "name": "ALGORITMOS I",
+    "availabilityCode": "TL2",
+    "spots": 53,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Jussara M. A. G."
+    ]
+  },
+  {
+    "course_id": "DCC207",
+    "name": "ALGORITMOS II",
+    "availabilityCode": "TL3",
+    "spots": 56,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Renato V."
+    ]
+  },
+  {
+    "course_id": "DCC212",
+    "name": "INTRODUÇÃO À CIÊNCIA DOS DADOS",
+    "availabilityCode": "TM",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Rodrygo L. T. S."
+    ]
+  },
+  {
+    "course_id": "DCC212",
+    "name": "INTRODUÇÃO À CIÊNCIA DOS DADOS",
+    "availabilityCode": "TZ",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Heitor S. R. F."
+    ]
+  },
+  {
+    "course_id": "DCC215",
+    "name": "HEURÍSTICAS E METAHEURÍSTICAS",
+    "availabilityCode": "TN",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Thiago F. N."
+    ]
+  },
+  {
+    "course_id": "DCC216",
+    "name": "MATEMÁTICA DISCRETA",
+    "availabilityCode": "TM1",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Loic P. G. C."
+    ]
+  },
+  {
+    "course_id": "DCC216",
+    "name": "MATEMÁTICA DISCRETA",
+    "availabilityCode": "TW",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Renato V."
+    ]
+  },
+  {
+    "course_id": "DCC216",
+    "name": "MATEMÁTICA DISCRETA",
+    "availabilityCode": "TZ1",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Jeroen A. M. V. G."
+    ]
+  },
+  {
+    "course_id": "DCC603",
+    "name": "ENGENHARIA DE SOFTWARE",
+    "availabilityCode": "TN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Marco T. O. V."
+    ]
+  },
+  {
+    "course_id": "DCC605",
+    "name": "SISTEMAS OPERACIONAIS",
+    "availabilityCode": "TM",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "George L. M. T."
+    ]
+  },
+  {
+    "course_id": "DCC605",
+    "name": "SISTEMAS OPERACIONAIS",
+    "availabilityCode": "TZ",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Italo F. S. C."
+    ]
+  },
+  {
+    "course_id": "DCC636",
+    "name": "ÉTICA NA COMPUTAÇÃO",
+    "availabilityCode": "TL2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Fabricio B. S."
+    ]
+  },
+  {
+    "course_id": "DCC636",
+    "name": "ÉTICA NA COMPUTAÇÃO",
+    "availabilityCode": "TL3",
+    "spots": 56,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Fabricio B. S."
+    ]
+  },
+  {
+    "course_id": "DCC637",
+    "name": "COMPUTAÇÃO E SOCIEDADE",
+    "availabilityCode": "TL2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Antonio A. F. L."
+    ]
+  },
+  {
+    "course_id": "DCC637",
+    "name": "COMPUTAÇÃO E SOCIEDADE",
+    "availabilityCode": "TL3",
+    "spots": 67,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Antonio A. F. L."
+    ]
+  },
+  {
+    "course_id": "DCC641",
+    "name": "FUNDAMENTOS DE SISTEMAS PARALELOS E DISTRIBUÍDOS",
+    "availabilityCode": "TM1",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Dorgival O. G. N."
+    ]
+  },
+  {
+    "course_id": "DCC641",
+    "name": "FUNDAMENTOS DE SISTEMAS PARALELOS E DISTRIBUÍDOS",
+    "availabilityCode": "TM2",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Dorgival O. G. N."
+    ]
+  },
+  {
+    "course_id": "DCC642",
+    "name": "INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL",
+    "availabilityCode": "TL4",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Lucas N. F."
+    ]
+  },
+  {
+    "course_id": "EST032",
+    "name": "PROBABILIDADE",
+    "availabilityCode": "TN",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Adrian P. H. L."
+    ]
+  },
+  {
+    "course_id": "EST032",
+    "name": "PROBABILIDADE",
+    "availabilityCode": "TZ",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Luiz H. D."
+    ]
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TOL3",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TD1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TD2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TN5",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TOL1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TOL2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TZ2",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT034",
+    "name": "ÁLGEBRA A",
+    "availabilityCode": "TM",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT034",
+    "name": "ÁLGEBRA A",
+    "availabilityCode": "TN",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TD1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TD2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TZ1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TZ2",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TD1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TD2",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TOL",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TW",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TZ1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "UNI187",
+    "name": "TÓPICOS EM EMPREENDEDORISMO E INOVAÇÃO C - Altas Habilidades e Gestão Inclusiva: Empreendedorismo e Inovação",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Ana C. N. R. V."
+    ]
+  }
+]

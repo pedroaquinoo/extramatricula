@@ -1,8 +1,7 @@
 import posthog from "posthog-js"
 
-import { getCourseById, getOfferId } from "@/lib/curriculum"
+import { getDegreeTitle } from "@/lib/curriculum"
 import { getCurrentOfferTerm } from "@/lib/offers"
-import { getShift } from "@/lib/shift"
 import { AnalyticsEvents } from "@/lib/analytics-events"
 
 const analyticsEnabled = Boolean("phc_B9FEPkwx4CT2kf6dCyNfEwgUIdVCVg7J8unhgqyuwsR")
@@ -19,11 +18,8 @@ export function captureEvent(
 
 export function registerAnalyticsContext(courseId: string, semester: number) {
   if (!analyticsEnabled) return
-  const course = getCourseById(courseId)
-  const shift = getShift(course)
   posthog.register({
-    offer_id: getOfferId(courseId),
-    shift: shift ?? undefined,
+    course_title: getDegreeTitle(courseId),
     semester,
     offer_term: getCurrentOfferTerm(),
   })
