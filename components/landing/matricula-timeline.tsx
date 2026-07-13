@@ -1,9 +1,27 @@
 "use client"
 
 import { useEffect, useState } from "react"
-import { Smartphone, Globe, Flag } from "lucide-react"
+import { Smartphone, Globe, Flag, CalendarClock } from "lucide-react"
 
 import { cn } from "@/lib/utils"
+import { Button } from "@/components/ui/button"
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+} from "@/components/ui/dialog"
+import {
+  Drawer,
+  DrawerContent,
+  DrawerDescription,
+  DrawerHeader,
+  DrawerTitle,
+  DrawerTrigger,
+} from "@/components/ui/drawer"
+import { useIsDesktop } from "@/hooks/use-media-query"
 
 /**
  * Cronograma da matrícula. Datas no fuso de Brasília (UTC−3), tratadas a nível
@@ -83,8 +101,45 @@ function countdownLabel(days: number) {
   return `em ${days} dias`
 }
 
+function TimelineList({ today, next }: { today: string | null; next: Step | null }) {
+  return (
+    <ol className="grid gap-2">
+      {steps.map((step) => {
+        const days = today === null ? null : daysUntil(step.date, today)
+        const isPast = days !== null && days < 0
+        const isNext = next?.date === step.date
+
+        return (
+          <li
+            key={step.date}
+            className={cn(
+              "flex items-start gap-3 rounded-lg border bg-card p-3",
+              isPast && "opacity-50",
+              isNext && !isPast && "border-primary/50 bg-primary/5",
+            )}
+          >
+            <span className="mt-0.5 inline-flex size-8 shrink-0 items-center justify-center rounded-md bg-primary/10 text-primary">
+              <step.icon className="size-4" />
+            </span>
+            <div className="min-w-0">
+              <p className="text-xs font-medium tabular-nums text-muted-foreground">
+                {formatDay(step.date)}
+                {isNext && !isPast && " · a seguir"}
+              </p>
+              <p className="mt-0.5 text-sm font-medium text-balance">{step.title}</p>
+            </div>
+          </li>
+        )
+      })}
+    </ol>
+  )
+}
+
 export default function MatriculaTimeline() {
-  // Renderiza só após montar para evitar divergência de hidratação com a data.
+  const [open, setOpen] = useState(false)
+  const isDesktop = useIsDesktop()
+
+  // Renderiza a data só após montar para evitar divergência de hidratação.
   const [today, setToday] = useState<string | null>(null)
   useEffect(() => setToday(saoPauloToday()), [])
 
@@ -93,46 +148,51 @@ export default function MatriculaTimeline() {
   const next =
     today === null ? null : steps.find((s) => daysUntil(s.date, today) >= 0) ?? null
 
+  const status =
+    today === null
+      ? "Cronograma do requerimento"
+      : isOver
+        ? "Requerimento encerrado"
+        : next
+          ? `${next.short} · ${countdownLabel(daysUntil(next.date, today))}`
+          : "Cronograma do requerimento"
+
+  const title = `Matrícula · ${TERM}`
+
+  const trigger = (
+    <Button variant="outline" size="sm" aria-label="Cronograma da matrícula">
+      <CalendarClock className="size-4" />
+      <span className="hidden sm:inline">Matrícula</span>
+    </Button>
+  )
+
+  if (isDesktop) {
+    return (
+      <Dialog open={open} onOpenChange={setOpen}>
+        <DialogTrigger asChild>{trigger}</DialogTrigger>
+        <DialogContent className="sm:max-w-md">
+          <DialogHeader>
+            <DialogTitle>{title}</DialogTitle>
+            <DialogDescription>{status}</DialogDescription>
+          </DialogHeader>
+          <TimelineList today={today} next={next} />
+        </DialogContent>
+      </Dialog>
+    )
+  }
+
   return (
-    <div>
-      <div className="flex items-baseline justify-between gap-4">
-        <p className="text-lg font-semibold tracking-wide uppercase">
-          Matrícula · {TERM}
-        </p>
-        {today !== null && (
-          <p className="text-sm font-medium text-right text-balance">
-            {isOver
-              ? "Requerimento encerrado"
-              : next
-                ? `${next.short} · ${countdownLabel(daysUntil(next.date, today))}`
-                : null}
-          </p>
-        )}
-      </div>
-
-      <ol className="mt-5 grid gap-x-6 gap-y-4 sm:grid-cols-3">
-        {steps.map((step) => {
-          const days = today === null ? null : daysUntil(step.date, today)
-          const isPast = days !== null && days < 0
-          const isNext = next?.date === step.date
-
-          return (
-            <li
-              key={step.date}
-              className={cn("flex items-start bg-background gap-2.5 text-black p-4 rounded-lg", isPast && "opacity-45")}
-            >
-              <step.icon className="mt-0.5 size-4 shrink-0" />
-              <div className="min-w-0">
-                <p className="text-xs font-medium tabular-nums opacity-70">
-                  {formatDay(step.date)}
-                  {isNext && !isPast && " · a seguir"}
-                </p>
-                <p className="mt-0.5 text-sm font-medium text-balance">{step.title}</p>
-              </div>
-            </li>
-          )
-        })}
-      </ol>
-    </div>
+    <Drawer open={open} onOpenChange={setOpen}>
+      <DrawerTrigger asChild>{trigger}</DrawerTrigger>
+      <DrawerContent>
+        <DrawerHeader className="text-left">
+          <DrawerTitle>{title}</DrawerTitle>
+          <DrawerDescription>{status}</DrawerDescription>
+        </DrawerHeader>
+        <div className="px-4 pb-6">
+          <TimelineList today={today} next={next} />
+        </div>
+      </DrawerContent>
+    </Drawer>
   )
 }

@@ -3,22 +3,23 @@ import type { Metadata } from "next"
 import { Button } from "@/components/ui/button"
 import {
   ArrowRight,
-  Check,
   Upload as UploadIcon,
   Star,
   Sun,
   Workflow,
+  ListChecks,
+  CalendarClock,
+  Share2,
 } from "lucide-react"
 import LandingFooter from "@/components/landing/landing-footer"
 import SchedulePreview from "@/components/landing/schedule-preview"
-import MatriculaTimeline from "@/components/landing/matricula-timeline"
 import ClassDetailPreview from "@/components/landing/class-detail-preview"
 import GithubIcon from "@/components/landing/github-icon"
 import { GITHUB_REPO, GITHUB_URL } from "@/components/landing/constants"
 import { GithubStarCount, STAR_URL } from "@/components/landing/github-stars"
 import { ShareAppButton } from "@/components/landing/share-app-button"
 import { getCourseGroups } from "@/lib/curriculum"
-import { formatShiftLabel } from "@/lib/shift"
+import CoursesList from "@/components/landing/courses-list"
 
 export const metadata: Metadata = {
   title: "Extramatrícula: monte sua grade antes de se matricular",
@@ -41,6 +42,24 @@ const features = [
     icon: Sun,
     title: "Disciplinas já cursadas",
     text: "Marque o que você já passou na grade curricular. O fluxograma usa isso para mostrar o que você pode cursar em seguida. Tudo fica salvo neste navegador.",
+  },
+]
+
+const steps = [
+  {
+    icon: ListChecks,
+    title: "Marque o que já cursou",
+    text: "Selecione na grade curricular as disciplinas que você já passou. Fica tudo salvo neste navegador.",
+  },
+  {
+    icon: CalendarClock,
+    title: "Simule a oferta do semestre",
+    text: "Veja as turmas realmente em oferta e monte sua semana sem conflitos de horário.",
+  },
+  {
+    icon: Share2,
+    title: "Compartilhe sua grade",
+    text: "Gere um link público da sua semana e mande para quem quiser — sem precisar de conta.",
   },
 ]
 
@@ -97,10 +116,49 @@ export default function LandingPage() {
           </div>
         </section>
 
-        {/* Cronograma da matrícula */}
-        <section className="text-primary-foreground">
-          <div className="mx-auto max-w-3xl rounded-lg bg-primary p-6 mb-4">
-            <MatriculaTimeline />
+        {/* Como funciona · passo a passo */}
+        <section className="border-t bg-muted/30">
+          <div className="mx-auto max-w-5xl px-4 py-14 sm:py-20">
+            <div className="mx-auto max-w-xl text-center">
+              <p className="text-xs font-medium tracking-wide text-primary uppercase">
+                Como funciona
+              </p>
+              <h2 className="mt-2 text-2xl font-semibold tracking-tight text-balance sm:text-3xl">
+                Do zero à grade em três passos
+              </h2>
+            </div>
+
+            <ol className="mt-10 grid gap-4 sm:grid-cols-3">
+              {steps.map((step, i) => (
+                <li
+                  key={step.title}
+                  className="flex flex-col rounded-xl border bg-card p-5"
+                >
+                  <div className="flex items-center justify-between">
+                    <span className="inline-flex size-11 items-center justify-center rounded-lg bg-primary/10 text-primary">
+                      <step.icon className="size-5" />
+                    </span>
+                    <span className="text-sm font-semibold tabular-nums text-muted-foreground/60">
+                      {String(i + 1).padStart(2, "0")}
+                    </span>
+                  </div>
+
+                  <h3 className="mt-4 font-medium">{step.title}</h3>
+                  <p className="mt-1.5 text-sm text-pretty text-muted-foreground">
+                    {step.text}
+                  </p>
+                </li>
+              ))}
+            </ol>
+
+            <div className="mt-10 flex justify-center">
+              <Button size="lg" asChild>
+                <Link href="/simulation">
+                  Começar agora
+                  <ArrowRight className="size-4" />
+                </Link>
+              </Button>
+            </div>
           </div>
         </section>
 
@@ -149,28 +207,21 @@ export default function LandingPage() {
               <h2 className="mt-2 text-2xl font-semibold tracking-tight text-balance sm:text-3xl">
                 Disponível hoje
               </h2>
+              <p className="mt-4 flex items-baseline gap-2">
+                <span className="text-4xl font-semibold tracking-tight tabular-nums text-primary sm:text-5xl">
+                  {courses.length}
+                </span>
+                <span className="text-sm text-muted-foreground">
+                  {courses.length === 1 ? "curso disponível" : "cursos disponíveis"}
+                </span>
+              </p>
               <p className="mt-3 text-muted-foreground">
                 Começamos pelo curso onde tudo nasceu. Cada curso novo é uma grade a mais
                 no app, e a próxima pode ser a sua.
               </p>
             </div>
 
-            <ul className="mt-8 grid gap-3 sm:grid-cols-2">
-              {courses.map((course) => (
-                <li
-                  key={course.offerId}
-                  className="flex items-center gap-3 rounded-xl border bg-card p-4"
-                >
-                  <div className="min-w-0">
-                    <p className="text-sm font-medium text-balance">{course.name}</p>
-                    <p className="text-xs text-muted-foreground">
-                      {course.shifts.map(formatShiftLabel).join(" · ")}
-                    </p>
-                  </div>
-                  <Check className="ml-auto size-4 shrink-0 text-primary" />
-                </li>
-              ))}
-            </ul>
+            <CoursesList courses={courses} />
 
             <p className="mt-4 text-sm text-muted-foreground">
               Estuda outro curso?{" "}

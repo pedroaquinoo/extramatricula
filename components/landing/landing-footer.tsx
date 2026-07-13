@@ -39,10 +39,10 @@ export default function LandingFooter() {
             {GITHUB_REPO}
             <GithubStarCount className="rounded-full border px-1.5 text-xs" />
           </a>
-          <p className="text-muted-foreground">
+          {/* <p className="text-muted-foreground">
             Um projeto de{" "}
             <span className="font-medium text-foreground">Pedro Aquino</span>
-          </p>
+          </p> */}
         </div>
       </div>
 

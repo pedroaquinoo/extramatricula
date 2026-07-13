@@ -9,6 +9,7 @@ import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
 import GithubIcon from "@/components/landing/github-icon"
 import { GithubStarCount, STAR_URL } from "@/components/landing/github-stars"
+import MatriculaTimeline from "@/components/landing/matricula-timeline"
 import Logo from "./logo"
 
 const navigation = [
@@ -67,6 +68,7 @@ function TopBar({ pathname }: { pathname: string }) {
         </nav>
 
         <div className="ml-auto flex min-w-0 items-center gap-2">
+          <MatriculaTimeline />
           <Button
             variant="outline"
             size="sm"
