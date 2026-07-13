@@ -28,10 +28,13 @@ type ClassSearchProps = {
 export function ClassSearch({ onSelectClass, selectedClasses }: ClassSearchProps) {
   const [open, setOpen] = useState(false)
   const [searchValue, setSearchValue] = useState("")
-  const { availableClasses: classes } = useAvailableClasses()
-  const { course } = useCourseData()
+  const { availableClasses } = useAvailableClasses()
+  const { course, passedSet } = useCourseData()
   const shift = getShift(course)
   const term = getCurrentOfferTerm()
+
+  // Hide classes the user has already taken, based on their stored curriculum.
+  const classes = availableClasses.filter((cls) => !passedSet.has(cls.course_id))
 
   const sectionCounts = classes.reduce<Record<string, number>>((acc, cls) => {
     acc[cls.course_id] = (acc[cls.course_id] ?? 0) + 1
