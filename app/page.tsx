@@ -10,6 +10,10 @@ import {
   ListChecks,
   CalendarClock,
   Share2,
+  Clock,
+  CloudOff,
+  CalendarX2,
+  Lock,
 } from "lucide-react"
 import LandingFooter from "@/components/landing/landing-footer"
 import SchedulePreview from "@/components/landing/schedule-preview"
@@ -43,6 +47,29 @@ const features = [
     icon: Sun,
     title: "Disciplinas já cursadas",
     text: "Marque o que você já passou na grade curricular. O fluxograma usa isso para mostrar o que você pode cursar em seguida. Tudo fica salvo neste navegador.",
+  },
+]
+
+const problems = [
+  {
+    icon: Clock,
+    title: "Economize tempo",
+    text: "Monte a grade inteira com calma antes da matrícula abrir. Na hora, é só confirmar as turmas que você já escolheu.",
+  },
+  {
+    icon: CloudOff,
+    title: "Evite dor de cabeça com o site caindo",
+    text: "O sistema da UFMG trava quando mais precisa dele. Planeje tudo aqui e chegue na matrícula sabendo exatamente o que clicar.",
+  },
+  {
+    icon: CalendarX2,
+    title: "Nunca mais monte grade com conflito",
+    text: "Veja sua semana num calendário visual e descubra na hora quando duas turmas batem — sem planilha, sem tentativa e erro.",
+  },
+  {
+    icon: Lock,
+    title: "Sem surpresa com pré-requisitos",
+    text: "Saiba de antemão o que está bloqueado e o que falta liberar, antes de descobrir na tela de matrícula que não pode cursar.",
   },
 ]
 
@@ -119,8 +146,8 @@ export default function LandingPage() {
           </div>
         </section>
 
-        {/* Como funciona · passo a passo */}
-        <section className="border-t bg-muted/30">
+                {/* Como funciona · passo a passo */}
+                <section className="border-t bg-muted/30">
           <div className="mx-auto max-w-5xl px-4 py-14 sm:py-20">
             <div className="mx-auto max-w-xl text-center">
               <p className="text-xs font-medium tracking-wide text-primary uppercase">
@@ -161,6 +188,40 @@ export default function LandingPage() {
                   <ArrowRight className="size-4" />
                 </Link>
               </Button>
+            </div>
+          </div>
+        </section>
+
+        {/* Problemas que resolve · proposta de valor */}
+        <section className="border-t">
+          <div className="mx-auto max-w-5xl px-4 py-14 sm:py-20">
+            <div className="mx-auto max-w-xl text-center">
+              <p className="text-xs font-medium tracking-wide text-primary uppercase">
+                Por que usar
+              </p>
+              <h2 className="mt-2 text-2xl font-semibold tracking-tight text-balance sm:text-3xl">
+                Matrícula na UFMG é um porre. 
+              </h2>
+              <p className="mt-3 text-pretty text-muted-foreground">
+                Interface antiga, site que cai o tempo todo e grade cheia de lacunas. O
+                Extramatrícula tira o sufoco antes da matrícula abrir.
+              </p>
+            </div>
+
+            <div className="mt-10 grid gap-4 sm:grid-cols-2">
+              {problems.map((p) => (
+                <div key={p.title} className="flex gap-4 rounded-xl border bg-card p-5">
+                  <span className="inline-flex size-11 shrink-0 items-center justify-center rounded-lg bg-primary/10 text-primary">
+                    <p.icon className="size-5" />
+                  </span>
+                  <div>
+                    <h3 className="font-medium">{p.title}</h3>
+                    <p className="mt-1.5 text-sm text-pretty text-muted-foreground">
+                      {p.text}
+                    </p>
+                  </div>
+                </div>
+              ))}
             </div>
           </div>
         </section>

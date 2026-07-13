@@ -2,7 +2,7 @@
 
 import Link from "next/link"
 import { usePathname } from "next/navigation"
-import { Home, LibraryBig, Network, NotebookPen } from "lucide-react"
+import { Home, LibraryBig, Network, NotebookPen, HelpCircle } from "lucide-react"
 import React, { useEffect } from "react"
 
 import { registerAnalyticsContext } from "@/lib/analytics"
@@ -38,6 +38,12 @@ const navigation = [
     shortTitle: "Simulação",
     icon: NotebookPen,
     href: "/simulation",
+  },
+  {
+    title: "Por quê?",
+    shortTitle: "Por quê?",
+    icon: HelpCircle,
+    href: "/why",
   },
 ]
 
