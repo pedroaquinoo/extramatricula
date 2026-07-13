@@ -12,6 +12,7 @@ const geist = Geist({
 })
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://extramatricula.pedroaquinoo.com"),
   title: "Extramatricula",
   description: "Planeje seus semestres",
 }
