@@ -3,9 +3,13 @@ import offer20261ControleAutomacao from "@/data/offers/2026-1/controle-automacao
 import offer20262CienciaComputacao from "@/data/offers/2026-2/ciencia-computacao.json"
 import offer20262ControleAutomacao from "@/data/offers/2026-2/controle-automacao.json"
 import offer20262EngAeroespacial from "@/data/offers/2026-2/eng-aeroespacial.json"
+import offer20262EngAgricolaAmbiental from "@/data/offers/2026-2/eng-agricola-ambiental.json"
+import offer20262EngAlimentos from "@/data/offers/2026-2/eng-alimentos.json"
+import offer20262EngAmbiental from "@/data/offers/2026-2/eng-ambiental.json"
 import offer20262EngCivil from "@/data/offers/2026-2/eng-civil.json"
 import offer20262EngComputacao from "@/data/offers/2026-2/eng-computacao.json"
 import offer20262EngEletrica from "@/data/offers/2026-2/eng-eletrica.json"
+import offer20262EngMateriais from "@/data/offers/2026-2/eng-materiais.json"
 import offer20262EngMecanica from "@/data/offers/2026-2/eng-mecanica.json"
 import offer20262EngMetalurgica from "@/data/offers/2026-2/eng-metalurgica.json"
 import offer20262EngMinas from "@/data/offers/2026-2/eng-minas.json"
@@ -25,9 +29,13 @@ const offersByTermAndOfferId: Record<string, Record<string, AvailableClass[]>> =
     "ciencia-computacao": offer20262CienciaComputacao as AvailableClass[],
     "controle-automacao": offer20262ControleAutomacao as AvailableClass[],
     "eng-aeroespacial": offer20262EngAeroespacial as AvailableClass[],
+    "eng-agricola-ambiental": offer20262EngAgricolaAmbiental as AvailableClass[],
+    "eng-alimentos": offer20262EngAlimentos as AvailableClass[],
+    "eng-ambiental": offer20262EngAmbiental as AvailableClass[],
     "eng-civil": offer20262EngCivil as AvailableClass[],
     "eng-computacao": offer20262EngComputacao as AvailableClass[],
     "eng-eletrica": offer20262EngEletrica as AvailableClass[],
+    "eng-materiais": offer20262EngMateriais as AvailableClass[],
     "eng-mecanica": offer20262EngMecanica as AvailableClass[],
     "eng-metalurgica": offer20262EngMetalurgica as AvailableClass[],
     "eng-minas": offer20262EngMinas as AvailableClass[],
@@ -67,5 +75,30 @@ export function findTurma(
     (cls) =>
       cls.course_id === disciplineCode && cls.availabilityCode === availabilityCode,
   )
+}
+
+export type TurmaAcrossOffers = AvailableClass & { offerIds: string[] }
+
+// Collects every turma of a discipline across all program offers in a term,
+// deduplicating by availability code and tracking which offers list each one.
+export function findTurmasAcrossOffers(
+  term: string,
+  disciplineCode: string,
+): TurmaAcrossOffers[] {
+  const byAvailabilityCode = new Map<string, TurmaAcrossOffers>()
+
+  for (const [offerId, classes] of Object.entries(offersByTermAndOfferId[term] ?? {})) {
+    for (const cls of classes) {
+      if (cls.course_id !== disciplineCode) continue
+      const existing = byAvailabilityCode.get(cls.availabilityCode)
+      if (existing) {
+        if (!existing.offerIds.includes(offerId)) existing.offerIds.push(offerId)
+      } else {
+        byAvailabilityCode.set(cls.availabilityCode, { ...cls, offerIds: [offerId] })
+      }
+    }
+  }
+
+  return Array.from(byAvailabilityCode.values())
 }
 

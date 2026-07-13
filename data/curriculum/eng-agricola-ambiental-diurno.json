@@ -1,0 +1,622 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "ICA002",
+      "name": "Introducao a Eng.agricola e Ambiental",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICA219",
+      "name": "Ecologia Geral",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICA220",
+      "name": "Fundamentos de Quimica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICA221",
+      "name": "Desenho Tecnico",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICA653",
+      "name": "Fundamentos de Matemática",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICA654",
+      "name": "Biologia Vegetal",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICA714",
+      "name": "Relações Étnico - Raciais",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA001",
+      "name": "Calculo I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA009",
+      "name": "Desenho Mecanico",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA201",
+      "name": "Estatistica Basica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA223",
+      "name": "Quimica Analitica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA227",
+      "name": "Pedologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA618",
+      "name": "Geometria Analítica e Álgebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA656",
+      "name": "Modelagem Computacional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA657",
+      "name": "Zootecnia Geral",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA003",
+      "name": "Calculo II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA005",
+      "name": "Fisica I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA013",
+      "name": "Poluicao Ambiental",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA203",
+      "name": "Estatistica Experimental",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA224",
+      "name": "Microbiologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA225",
+      "name": "Bioquimica Geral",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA658",
+      "name": "Metodologia Científica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICA006",
+      "name": "Calculo Aplicado a Engenharia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICA008",
+      "name": "Fisica II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICA011",
+      "name": "Termodinamica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICA205",
+      "name": "Economia Rural",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICA659",
+      "name": "Mecânica e Resistência dos Materiais I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICA660",
+      "name": "Geomática I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA007",
+      "name": "Agricultura Geral",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA010",
+      "name": "Fisica III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA014",
+      "name": "Mecanica dos Solos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA017",
+      "name": "Propriedades Fisicas de Prod.agricolas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA230",
+      "name": "Agrometeorologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA661",
+      "name": "Mecânica e Resistência dos Materiais II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA662",
+      "name": "Mecânica dos Fluidos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA228",
+      "name": "Hidrologia Aplicada a Agricultura",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA229",
+      "name": "Construcoes Rurais",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA655",
+      "name": "Eletrotécnica e Instalações Elétricas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA663",
+      "name": "Hidráulica Agrícola",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA664",
+      "name": "Tratores e Motores",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA665",
+      "name": "Armazenamento e Secagem de Produtos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA666",
+      "name": "Projetos de Máquinas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA667",
+      "name": "Saneamento I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA020",
+      "name": "Maquinas Agricolas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA024",
+      "name": "Avaliacao de Impactos Ambientais",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA035",
+      "name": "Sistema de Informacao Geografica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA668",
+      "name": "Irrigação",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA669",
+      "name": "Instrumentação Básica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA670",
+      "name": "Saneamento Ambiental II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA023",
+      "name": "Planej.e Gestao de Recursos Hidricos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA671",
+      "name": "Engenharia de Sistemas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA672",
+      "name": "Estruturas Hidráulicas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA673",
+      "name": "Sensoriamento Remoto e Geoprocessamento",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA674",
+      "name": "Automação e Controle I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA676",
+      "name": "Drenagem",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA677",
+      "name": "Gestão Ambiental",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICA030",
+      "name": "Manejo de Bacias Hidrograficas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICA216",
+      "name": "Elab. Aval.projetos Agropecuarios",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICA678",
+      "name": "Sistemas de Tratamento e Abastecimento de Água",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICA679",
+      "name": "Manejo e Conservação do Solo e da Água",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICA680",
+      "name": "Trabalho de Conclusão de Curso I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA681",
+      "name": "Trabalho de Conclusão de Curso II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA682",
+      "name": "Estágio",
+      "description": null,
+      "credits": 13,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "ICA001",
+      "prerequisite_code": "ICA653"
+    },
+    {
+      "code": "ICA009",
+      "prerequisite_code": "ICA221"
+    },
+    {
+      "code": "ICA223",
+      "prerequisite_code": "ICA220"
+    },
+    {
+      "code": "ICA003",
+      "prerequisite_code": "ICA001"
+    },
+    {
+      "code": "ICA005",
+      "prerequisite_code": "ICA001"
+    },
+    {
+      "code": "ICA203",
+      "prerequisite_code": "ICA201"
+    },
+    {
+      "code": "ICA006",
+      "prerequisite_code": "ICA003"
+    },
+    {
+      "code": "ICA008",
+      "prerequisite_code": "ICA005"
+    },
+    {
+      "code": "ICA659",
+      "prerequisite_code": "ICA005"
+    },
+    {
+      "code": "ICA660",
+      "prerequisite_code": "ICA221"
+    },
+    {
+      "code": "ICA010",
+      "prerequisite_code": "ICA008"
+    },
+    {
+      "code": "ICA661",
+      "prerequisite_code": "ICA659"
+    },
+    {
+      "code": "ICA229",
+      "prerequisite_code": "ICA221"
+    },
+    {
+      "code": "ICA663",
+      "prerequisite_code": "ICA662"
+    },
+    {
+      "code": "ICA663",
+      "prerequisite_code": "ICA005"
+    },
+    {
+      "code": "ICA665",
+      "prerequisite_code": "ICA017"
+    },
+    {
+      "code": "ICA666",
+      "prerequisite_code": "ICA661"
+    },
+    {
+      "code": "ICA020",
+      "prerequisite_code": "ICA664"
+    },
+    {
+      "code": "ICA024",
+      "prerequisite_code": "ICA013"
+    },
+    {
+      "code": "ICA668",
+      "prerequisite_code": "ICA663"
+    },
+    {
+      "code": "ICA670",
+      "prerequisite_code": "ICA667"
+    },
+    {
+      "code": "ICA023",
+      "prerequisite_code": "ICA663"
+    },
+    {
+      "code": "ICA672",
+      "prerequisite_code": "ICA663"
+    },
+    {
+      "code": "ICA674",
+      "prerequisite_code": "ICA669"
+    },
+    {
+      "code": "ICA676",
+      "prerequisite_code": "ICA663"
+    },
+    {
+      "code": "ICA676",
+      "prerequisite_code": "ICA228"
+    },
+    {
+      "code": "ICA030",
+      "prerequisite_code": "ICA013"
+    },
+    {
+      "code": "ICA679",
+      "prerequisite_code": "ICA024"
+    }
+  ]
+}

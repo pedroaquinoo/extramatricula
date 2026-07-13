@@ -1,0 +1,1132 @@
+[
+  {
+    "course_id": "ICA001",
+    "name": "CALCULO I",
+    "availabilityCode": "TG",
+    "spots": 92,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:10",
+        "end": "15:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Mario D. H. B."
+    ]
+  },
+  {
+    "course_id": "ICA006",
+    "name": "CALCULO APLICADO A ENGENHARIA",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Mario D. H. B."
+    ]
+  },
+  {
+    "course_id": "ICA008",
+    "name": "FISICA II",
+    "availabilityCode": "P1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Theles O. C."
+    ]
+  },
+  {
+    "course_id": "ICA008",
+    "name": "FISICA II",
+    "availabilityCode": "P2",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Theles O. C."
+    ]
+  },
+  {
+    "course_id": "ICA008",
+    "name": "FISICA II",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Theles O. C."
+    ]
+  },
+  {
+    "course_id": "ICA009",
+    "name": "DESENHO MECANICO",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Rodolpho C. R. T."
+    ]
+  },
+  {
+    "course_id": "ICA011",
+    "name": "TERMODINAMICA",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:10",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:10",
+        "end": "09:00"
+      }
+    ],
+    "teachers": [
+      "Bruna M. A. C. M."
+    ]
+  },
+  {
+    "course_id": "ICA022",
+    "name": "SISTEMAS DE TRATAMENTO E ABASTECIMENTO DE AGUA",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Fernando C."
+    ]
+  },
+  {
+    "course_id": "ICA023",
+    "name": "PLANEJAMENTO E GESTAO DE RECURSOS HIDRICOS",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:10",
+        "end": "09:00"
+      }
+    ],
+    "teachers": [
+      "Edson O. V."
+    ]
+  },
+  {
+    "course_id": "ICA026",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO I",
+    "availabilityCode": "TG",
+    "spots": 92,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Maria A. P. F."
+    ]
+  },
+  {
+    "course_id": "ICA050",
+    "name": "CONSERVACAO E MANEJO DA FAUNA",
+    "availabilityCode": "T3",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Delcio C. C. R."
+    ]
+  },
+  {
+    "course_id": "ICA056",
+    "name": "TOPICOS EM ENGENHARIA AGRICOLA E AMBIENTAL A - Uso Racional de Água na Agricultura Irrigada.",
+    "availabilityCode": "TP",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Flavio G. O."
+    ]
+  },
+  {
+    "course_id": "ICA201",
+    "name": "ESTATISTICA BASICA",
+    "availabilityCode": "TG",
+    "spots": 92,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:10",
+        "end": "15:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Renato D. M."
+    ]
+  },
+  {
+    "course_id": "ICA205",
+    "name": "ECONOMIA RURAL",
+    "availabilityCode": "TP",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Frederico A. M. L.",
+      "Luiz P. F. R."
+    ]
+  },
+  {
+    "course_id": "ICA216",
+    "name": "ELABORACAO E AVALIACAO DE PROJETOS AGROPECUARIOS",
+    "availabilityCode": "TG",
+    "spots": 138,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Maria F. L. A.",
+      "Fausto M."
+    ]
+  },
+  {
+    "course_id": "ICA223",
+    "name": "QUIMICA ANALITICA",
+    "availabilityCode": "P3",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Charles M. A."
+    ]
+  },
+  {
+    "course_id": "ICA223",
+    "name": "QUIMICA ANALITICA",
+    "availabilityCode": "P4",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Charles M. A."
+    ]
+  },
+  {
+    "course_id": "ICA223",
+    "name": "QUIMICA ANALITICA",
+    "availabilityCode": "T2",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "15:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Charles M. A."
+    ]
+  },
+  {
+    "course_id": "ICA227",
+    "name": "PEDOLOGIA",
+    "availabilityCode": "P1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Rodrigo C. T."
+    ]
+  },
+  {
+    "course_id": "ICA227",
+    "name": "PEDOLOGIA",
+    "availabilityCode": "P2",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Rodrigo C. T."
+    ]
+  },
+  {
+    "course_id": "ICA227",
+    "name": "PEDOLOGIA",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Rodrigo C. T."
+    ]
+  },
+  {
+    "course_id": "ICA228",
+    "name": "HIDROLOGIA APLICADA A AGRICULTURA",
+    "availabilityCode": "P5",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Flavio P. F."
+    ]
+  },
+  {
+    "course_id": "ICA228",
+    "name": "HIDROLOGIA APLICADA A AGRICULTURA",
+    "availabilityCode": "P6",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Flavio P. F."
+    ]
+  },
+  {
+    "course_id": "ICA228",
+    "name": "HIDROLOGIA APLICADA A AGRICULTURA",
+    "availabilityCode": "T3",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Flavio P. F."
+    ]
+  },
+  {
+    "course_id": "ICA229",
+    "name": "CONSTRUCOES RURAIS",
+    "availabilityCode": "P5",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Irene M."
+    ]
+  },
+  {
+    "course_id": "ICA229",
+    "name": "CONSTRUCOES RURAIS",
+    "availabilityCode": "TG1",
+    "spots": 92,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Irene M."
+    ]
+  },
+  {
+    "course_id": "ICA233",
+    "name": "IRRIGACAO E DRENAGEM",
+    "availabilityCode": "P3",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:10",
+        "end": "09:00"
+      }
+    ],
+    "teachers": [
+      "Flavio G. O."
+    ]
+  },
+  {
+    "course_id": "ICA233",
+    "name": "IRRIGACAO E DRENAGEM",
+    "availabilityCode": "P4",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Flavio G. O."
+    ]
+  },
+  {
+    "course_id": "ICA233",
+    "name": "IRRIGACAO E DRENAGEM",
+    "availabilityCode": "T2",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Flavio G. O."
+    ]
+  },
+  {
+    "course_id": "ICA235",
+    "name": "FONTES ALTERNATIVAS DE ENERGIA",
+    "availabilityCode": "T1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Flavio P. F."
+    ]
+  },
+  {
+    "course_id": "ICA236",
+    "name": "AGROECOLOGIA",
+    "availabilityCode": "TG",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Marcia M."
+    ]
+  },
+  {
+    "course_id": "ICA242",
+    "name": "AVALIACAO E MANEJO DE IRRIGACAO",
+    "availabilityCode": "T1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Flavio P. F."
+    ]
+  },
+  {
+    "course_id": "ICA618",
+    "name": "GEOMETRIA ANALÍTICA E ÁLGEBRA LINEAR",
+    "availabilityCode": "TG",
+    "spots": 92,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:10",
+        "end": "17:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "15:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Mario D. H. B."
+    ]
+  },
+  {
+    "course_id": "ICA655",
+    "name": "ELETROTÉCNICA E INSTALAÇÕES ELÉTRICAS",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:10",
+        "end": "18:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Sidney P."
+    ]
+  },
+  {
+    "course_id": "ICA656",
+    "name": "MODELAGEM COMPUTACIONAL",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:10",
+        "end": "09:00"
+      }
+    ],
+    "teachers": [
+      "Rodolpho C. R. T."
+    ]
+  },
+  {
+    "course_id": "ICA657",
+    "name": "ZOOTECNIA GERAL",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Delcio C. C. R."
+    ]
+  },
+  {
+    "course_id": "ICA659",
+    "name": "MECÂNICA E RESISTÊNCIA DOS MATERIAIS I",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Maria F. L. A."
+    ]
+  },
+  {
+    "course_id": "ICA660",
+    "name": "GEOMÁTICA I",
+    "availabilityCode": "P1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Flavia M. R. S."
+    ]
+  },
+  {
+    "course_id": "ICA660",
+    "name": "GEOMÁTICA I",
+    "availabilityCode": "P2",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Flavia M. R. S."
+    ]
+  },
+  {
+    "course_id": "ICA660",
+    "name": "GEOMÁTICA I",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:10",
+        "end": "08:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:10",
+        "end": "08:00"
+      }
+    ],
+    "teachers": [
+      "Flavia M. R. S."
+    ]
+  },
+  {
+    "course_id": "ICA663",
+    "name": "HIDRÁULICA AGRÍCOLA",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Flavio G. O."
+    ]
+  },
+  {
+    "course_id": "ICA664",
+    "name": "TRATORES E MOTORES",
+    "availabilityCode": "P1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Luiz H. S."
+    ]
+  },
+  {
+    "course_id": "ICA664",
+    "name": "TRATORES E MOTORES",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Luiz H. S."
+    ]
+  },
+  {
+    "course_id": "ICA665",
+    "name": "ARMAZENAMENTO E SECAGEM DE PRODUTOS AGRÍCOLAS",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Rodolpho C. R. T."
+    ]
+  },
+  {
+    "course_id": "ICA666",
+    "name": "PROJETOS DE MÁQUINAS",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Maria F. L. A."
+    ]
+  },
+  {
+    "course_id": "ICA667",
+    "name": "SANEAMENTO I",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:10",
+        "end": "16:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Julia F. S."
+    ]
+  },
+  {
+    "course_id": "ICA671",
+    "name": "ENGENHARIA DE SISTEMAS",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Rodolpho C. R. T."
+    ]
+  },
+  {
+    "course_id": "ICA672",
+    "name": "ESTRUTURAS HIDRÁULICAS",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Flavio G. O."
+    ]
+  },
+  {
+    "course_id": "ICA673",
+    "name": "SENSORIAMENTO REMOTO E GEOPROCESSAMENTO",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Rodinei F. P."
+    ]
+  },
+  {
+    "course_id": "ICA674",
+    "name": "AUTOMAÇÃO E CONTROLE I",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Sidney P."
+    ]
+  },
+  {
+    "course_id": "ICA676",
+    "name": "DRENAGEM",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:10",
+        "end": "09:00"
+      }
+    ],
+    "teachers": [
+      "Flavio P. F."
+    ]
+  },
+  {
+    "course_id": "ICA677",
+    "name": "GESTÃO AMBIENTAL",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Julia F. S."
+    ]
+  },
+  {
+    "course_id": "ICA681",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Rodolpho C. R. T."
+    ]
+  },
+  {
+    "course_id": "ICA682",
+    "name": "ESTÁGIO",
+    "availabilityCode": "P1",
+    "spots": 46,
+    "times": [],
+    "teachers": [
+      "Flavio G. O."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "UNI010",
+    "name": "TOPICOS EM CIENCIAS AGRARIAS - Inglês Técnico para Ciências Agrárias - Módulo 03",
+    "availabilityCode": "TG1",
+    "spots": 73,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Gustavo L. T."
+    ]
+  },
+  {
+    "course_id": "UNI010",
+    "name": "TOPICOS EM CIENCIAS AGRARIAS - Espeleoturismo",
+    "availabilityCode": "TG2",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Marilda T. M."
+    ]
+  },
+  {
+    "course_id": "UNI010",
+    "name": "TOPICOS EM CIENCIAS AGRARIAS - Gestão em Turismo e Meio Ambiente",
+    "availabilityCode": "TG3",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Marilda T. M."
+    ]
+  },
+  {
+    "course_id": "UNI284",
+    "name": "AGROECOSSISTEMAS ALIMENTARES",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Ana P. G. M.",
+      "Maria S. C."
+    ]
+  }
+]

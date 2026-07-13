@@ -4,9 +4,14 @@ import cienciaComputacaoVespertino from "@/data/curriculum/ciencia-computacao-ve
 import controleAutomacaoDiurno from "@/data/curriculum/controle-automacao-diurno.json"
 import controleAutomacaoNoturno from "@/data/curriculum/controle-automacao-noturno.json"
 import engAeroespacialDiurno from "@/data/curriculum/eng-aeroespacial-diurno.json"
+import engAgricolaAmbientalDiurno from "@/data/curriculum/eng-agricola-ambiental-diurno.json"
+import engAlimentosDiurno from "@/data/curriculum/eng-alimentos-diurno.json"
+import engAlimentosNoturno from "@/data/curriculum/eng-alimentos-noturno.json"
+import engAmbientalDiurno from "@/data/curriculum/eng-ambiental-diurno.json"
 import engCivilDiurno from "@/data/curriculum/eng-civil-diurno.json"
 import engComputacaoVespertino from "@/data/curriculum/eng-computacao-vespertino.json"
 import engEletricaDiurno from "@/data/curriculum/eng-eletrica-diurno.json"
+import engMateriaisDiurno from "@/data/curriculum/eng-materiais-diurno.json"
 import engMecanicaDiurno from "@/data/curriculum/eng-mecanica-diurno.json"
 import engMecanicaNoturno from "@/data/curriculum/eng-mecanica-noturno.json"
 import engMetalurgicaDiurno from "@/data/curriculum/eng-metalurgica-diurno.json"
@@ -32,9 +37,14 @@ const curriculumByCourseId: Record<string, CurriculumData> = {
   "controle-automacao-diurno": controleAutomacaoDiurno,
   "controle-automacao-noturno": controleAutomacaoNoturno,
   "eng-aeroespacial-diurno": engAeroespacialDiurno,
+  "eng-agricola-ambiental-diurno": engAgricolaAmbientalDiurno,
+  "eng-alimentos-diurno": engAlimentosDiurno,
+  "eng-alimentos-noturno": engAlimentosNoturno,
+  "eng-ambiental-diurno": engAmbientalDiurno,
   "eng-civil-diurno": engCivilDiurno,
   "eng-computacao-vespertino": engComputacaoVespertino,
   "eng-eletrica-diurno": engEletricaDiurno,
+  "eng-materiais-diurno": engMateriaisDiurno,
   "eng-mecanica-diurno": engMecanicaDiurno,
   "eng-mecanica-noturno": engMecanicaNoturno,
   "eng-metalurgica-diurno": engMetalurgicaDiurno,
@@ -107,8 +117,7 @@ export function getCourseById(courseId: string): Course | undefined {
 }
 
 export function getDegreeTitle(courseId: string): string {
-  const course = getCourseById(courseId)
-  return course ? formatCourseDisplay(course) : courseId
+  return getCourseById(courseId)?.name ?? courseId
 }
 
 export function getOfferId(courseId: string): string {
@@ -120,22 +129,16 @@ export function getClasses(courseId: string): Class[] {
   return curriculumByCourseId[courseId]?.classes ?? []
 }
 
-let creditsByCode: Map<string, number> | undefined
-
-// Credits belong to a discipline (its code), not to a specific program, so we index
-// every curriculum once. This lets us price classes — including optatives from other
-// programs — that aren't part of the user's own curriculum.
-export function getCreditsByCode(code: string): number {
-  if (!creditsByCode) {
-    creditsByCode = new Map()
-    for (const curriculum of Object.values(curriculumByCourseId)) {
-      for (const cls of curriculum.classes) {
-        if (!creditsByCode.has(cls.code)) {
-          creditsByCode.set(cls.code, cls.credits)
-        }
-      }
-    }
+// A discipline code can appear in many programs; credits are the same wherever it
+// shows up, so a single global lookup built from every curriculum is enough.
+const creditsByCode = new Map<string, number>()
+for (const data of Object.values(curriculumByCourseId)) {
+  for (const cls of data.classes) {
+    if (!creditsByCode.has(cls.code)) creditsByCode.set(cls.code, cls.credits)
   }
+}
+
+export function getCreditsByCode(code: string): number {
   return creditsByCode.get(code) ?? 0
 }
 

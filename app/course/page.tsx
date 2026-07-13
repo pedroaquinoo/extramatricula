@@ -128,7 +128,7 @@ export default function CoursePage() {
                     <span className="text-sm font-medium">{group.semester}° período</span>
                     <span className="text-xs tabular-nums text-muted-foreground">
                       {group.passedCount}/{group.classes.length} · {group.credits}{" "}
-                      créditos
+                      créditos · {group.credits * 15} horas
                     </span>
                   </span>
                 </div>

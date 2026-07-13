@@ -6,7 +6,7 @@ import { LoadingScreen } from "@/components/extra/loading-screen"
 import { captureEvent } from "@/lib/analytics"
 import { AnalyticsEvents } from "@/lib/analytics-events"
 import { decodeSharePayload, resolveShareCourseId } from "@/lib/share"
-import { findTurma, getCurrentOfferTerm } from "@/lib/offers"
+import { findTurma, findTurmasAcrossOffers, getCurrentOfferTerm } from "@/lib/offers"
 import type { PlannedClass } from "@/hooks/use-weekly-planner"
 
 export default function SharedSchedulePage() {
@@ -27,12 +27,13 @@ export default function SharedSchedulePage() {
     const programId = resolveShareCourseId(decoded)
     return decoded.picks
       .map((pick) => {
-        const turma = findTurma(
-          decoded.term,
-          programId,
-          pick.course_id,
-          pick.availabilityCode,
-        )
+        // Prefer the sharer's own program offer, but fall back to any program that lists
+        // this turma — the sharer may have picked a turma from another course's offer.
+        const turma =
+          findTurma(decoded.term, programId, pick.course_id, pick.availabilityCode) ??
+          findTurmasAcrossOffers(decoded.term, pick.course_id).find(
+            (t) => t.availabilityCode === pick.availabilityCode,
+          )
         if (!turma) return null
         return {
           ...turma,

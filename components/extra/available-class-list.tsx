@@ -7,6 +7,7 @@ import { AvailableClass } from "@/hooks/use-available-classes"
 import { useCourseData } from "@/hooks/use-course-data"
 import { getShift, isOffShift } from "@/lib/shift"
 import { OffShiftBadge } from "@/components/extra/off-shift-badge"
+import { OtherOfferingsDialog } from "@/components/extra/other-offerings-dialog"
 import { Button } from "../ui/button"
 
 interface AvailableClassListProps {
@@ -103,11 +104,23 @@ export function AvailableClassList({
                   {sections[0].name}
                 </p>
               </div>
-              {selectedSection && (
-                <Badge variant="secondary" className="text-xs">
-                  Seção selecionada
-                </Badge>
-              )}
+              <div className="flex shrink-0 items-center gap-2">
+                {selectedSection && (
+                  <Badge variant="secondary" className="text-xs">
+                    Seção selecionada
+                  </Badge>
+                )}
+                {isClickable && onSelectClass && (
+                  <OtherOfferingsDialog
+                    disciplineCode={courseId}
+                    disciplineName={sections[0].name}
+                    ownCodes={new Set(sections.map((s) => s.availabilityCode))}
+                    selectedClasses={selectedClasses}
+                    onSelectClass={onSelectClass}
+                    shift={shift}
+                  />
+                )}
+              </div>
             </CardHeader>
             <CardContent className="space-y-1">
               {sections.map((cls) => {

@@ -1,0 +1,538 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "DCC001",
+      "name": "Programacao de Computadores",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "EMT100",
+      "name": "Introdução À Engenharia Metalúrgica e de Materiais",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI003",
+      "name": "Quimica Geral B",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI019",
+      "name": "Quimica Geral Experimental",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC034",
+      "name": "Calculo Numerico",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS065",
+      "name": "Fundamentos de Mecanica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS151",
+      "name": "Física Experimental Básica: Mecânica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT039",
+      "name": "Cálculo Diferencial e Integral II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "QUI601",
+      "name": "Quimica Inorganica I",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "SOA138",
+      "name": "Introducao a Sociologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EMT074",
+      "name": "Ciência dos Materiais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EMT101",
+      "name": "Introdução À Metalurgia Extrativa",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EST773",
+      "name": "Fundamentos de Estatística e Ciência de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT002",
+      "name": "Calculo Diferencial e Integral III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT015",
+      "name": "Equações Diferenciais a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "QUI602",
+      "name": "Fisico-quimica I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ECN075",
+      "name": "Economia Para Engenharia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ELE625",
+      "name": "Eletrotécnica Aplicada I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EMT020",
+      "name": "Mecânica dos Materiais",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EMT088",
+      "name": "Fenômenos de Transporte I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EMT102",
+      "name": "Termodinâmica dos Sólidos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EMT103",
+      "name": "Seminários de Metalurgia e Materiais",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EQM079",
+      "name": "Desenho Técnico e Universal",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EMT041",
+      "name": "Introdução À Cerâmica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EMT061",
+      "name": "Metalurgia Física",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EMT104",
+      "name": "Caracterização de Materiais I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EMT105",
+      "name": "Introdução Aos Polímeros",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "QUI095",
+      "name": "Introdução À Química Orgânica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "QUI266",
+      "name": "Segurança e Técnicas Básicas de Laboratório",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMT057",
+      "name": "Materiais Opto-eletrônicos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMT062",
+      "name": "Metalurgia Mecânica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMT090",
+      "name": "Fenômenos de Transporte II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMT106",
+      "name": "Cerâmica Física",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMT107",
+      "name": "Física dos Polímeros",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMT056",
+      "name": "Processamento de Polímeros",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMT065",
+      "name": "Processos Metalúrgicos de Fabricação",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMT108",
+      "name": "Processamento de Cerâmicas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMT109",
+      "name": "Caracterização de Materiais II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMT064",
+      "name": "Conformação Mecânica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMT078",
+      "name": "Nanomateriais e Nanotecnologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMT110",
+      "name": "Fratura dos Materiais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMT111",
+      "name": "Laboratório de Processamento de Cerâmicas e Polímeros",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMT112",
+      "name": "Degradação de Materiais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "DIT121",
+      "name": "Direitos Humanos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EMT094",
+      "name": "Seleção de Materiais",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EMT096",
+      "name": "Trabalho de Conclusão de Curso I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ESA019",
+      "name": "Ciências do Ambiente",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "UNI051",
+      "name": "Produção e Apresentação do Trabalho Científico",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMT113",
+      "name": "Trabalho de Conclusão de Curso II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENG122",
+      "name": "Estágio Curricular",
+      "description": null,
+      "credits": 11,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "MAT039",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "QUI601",
+      "prerequisite_code": "QUI003"
+    },
+    {
+      "code": "QUI601",
+      "prerequisite_code": "QUI019"
+    },
+    {
+      "code": "EMT074",
+      "prerequisite_code": "EMT100"
+    },
+    {
+      "code": "EMT101",
+      "prerequisite_code": "EMT100"
+    },
+    {
+      "code": "EST773",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "MAT002",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "MAT015",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "QUI602",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "EMT020",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "EMT088",
+      "prerequisite_code": "MAT015"
+    },
+    {
+      "code": "EMT102",
+      "prerequisite_code": "QUI602"
+    },
+    {
+      "code": "EMT041",
+      "prerequisite_code": "EMT074"
+    },
+    {
+      "code": "EMT061",
+      "prerequisite_code": "EMT074"
+    },
+    {
+      "code": "EMT104",
+      "prerequisite_code": "EMT074"
+    },
+    {
+      "code": "EMT105",
+      "prerequisite_code": "EMT074"
+    },
+    {
+      "code": "QUI095",
+      "prerequisite_code": "QUI601"
+    },
+    {
+      "code": "QUI266",
+      "prerequisite_code": "QUI003"
+    },
+    {
+      "code": "QUI266",
+      "prerequisite_code": "QUI019"
+    },
+    {
+      "code": "EMT057",
+      "prerequisite_code": "EMT041"
+    },
+    {
+      "code": "EMT090",
+      "prerequisite_code": "EMT088"
+    },
+    {
+      "code": "EMT106",
+      "prerequisite_code": "EMT041"
+    },
+    {
+      "code": "EMT107",
+      "prerequisite_code": "EMT105"
+    },
+    {
+      "code": "EMT056",
+      "prerequisite_code": "EMT105"
+    },
+    {
+      "code": "EMT065",
+      "prerequisite_code": "EMT062"
+    },
+    {
+      "code": "EMT108",
+      "prerequisite_code": "EMT041"
+    },
+    {
+      "code": "EMT109",
+      "prerequisite_code": "EMT104"
+    },
+    {
+      "code": "EMT064",
+      "prerequisite_code": "EMT062"
+    },
+    {
+      "code": "EMT113",
+      "prerequisite_code": "EMT096"
+    }
+  ]
+}

@@ -1,0 +1,1361 @@
+[
+  {
+    "course_id": "ICA001",
+    "name": "CALCULO I",
+    "availabilityCode": "TG",
+    "spots": 92,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:10",
+        "end": "15:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Mario D. H. B."
+    ]
+  },
+  {
+    "course_id": "ICA005",
+    "name": "FISICA I",
+    "availabilityCode": "P3",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo V. M. P."
+    ]
+  },
+  {
+    "course_id": "ICA005",
+    "name": "FISICA I",
+    "availabilityCode": "P4",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo V. M. P."
+    ]
+  },
+  {
+    "course_id": "ICA005",
+    "name": "FISICA I",
+    "availabilityCode": "T2",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "15:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo V. M. P."
+    ]
+  },
+  {
+    "course_id": "ICA104",
+    "name": "FISICO-QUIMICA",
+    "availabilityCode": "P1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Charles M. A."
+    ]
+  },
+  {
+    "course_id": "ICA104",
+    "name": "FISICO-QUIMICA",
+    "availabilityCode": "P2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Charles M. A."
+    ]
+  },
+  {
+    "course_id": "ICA104",
+    "name": "FISICO-QUIMICA",
+    "availabilityCode": "T1",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Charles M. A."
+    ]
+  },
+  {
+    "course_id": "ICA105",
+    "name": "MICROBIOLOGIA DE ALIMENTOS",
+    "availabilityCode": "P1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Roberta T. C."
+    ]
+  },
+  {
+    "course_id": "ICA105",
+    "name": "MICROBIOLOGIA DE ALIMENTOS",
+    "availabilityCode": "P2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Roberta T. C."
+    ]
+  },
+  {
+    "course_id": "ICA105",
+    "name": "MICROBIOLOGIA DE ALIMENTOS",
+    "availabilityCode": "T1",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Roberta T. C."
+    ]
+  },
+  {
+    "course_id": "ICA113",
+    "name": "NUTRICAO BASICA",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Sergio H. S. S."
+    ]
+  },
+  {
+    "course_id": "ICA118",
+    "name": "FUNDAMENTOS ECONOMICOS E SOCIAIS",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Aureo E. M. R."
+    ]
+  },
+  {
+    "course_id": "ICA127",
+    "name": "ESTAGIO CURRICULAR I",
+    "availabilityCode": "P1",
+    "spots": 46,
+    "times": [],
+    "teachers": [
+      "Milton N. C. C."
+    ]
+  },
+  {
+    "course_id": "ICA128",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO (TCC)",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:10",
+        "end": "23:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Maximiliano S. P."
+    ]
+  },
+  {
+    "course_id": "ICA129",
+    "name": "ESTAGIO CURRICULAR II",
+    "availabilityCode": "P1",
+    "spots": 46,
+    "times": [],
+    "teachers": [
+      "Milton N. C. C."
+    ]
+  },
+  {
+    "course_id": "ICA139",
+    "name": "TOPICOS EM TECNOLOGIA DE ALIMENTOS I - Processos de purificação",
+    "availabilityCode": "T1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Bruna M. A. C. M."
+    ]
+  },
+  {
+    "course_id": "ICA139",
+    "name": "TOPICOS EM TECNOLOGIA DE ALIMENTOS I - Microbiologia Industrial",
+    "availabilityCode": "T2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Junio C. S."
+    ]
+  },
+  {
+    "course_id": "ICA140",
+    "name": "TOPICOS EM TECNOLOGIA DE ALIMENTOS II - Vida de Prateleira de Produtos Alimentícios",
+    "availabilityCode": "T1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Caroline L. P."
+    ]
+  },
+  {
+    "course_id": "ICA140",
+    "name": "TOPICOS EM TECNOLOGIA DE ALIMENTOS II - Preparação para o ENADE II",
+    "availabilityCode": "T2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Claudia R. V.",
+      "Bruna M. A. C. M.",
+      "Juliana P. L."
+    ]
+  },
+  {
+    "course_id": "ICA140",
+    "name": "TOPICOS EM TECNOLOGIA DE ALIMENTOS II - Fisiologia e Tecnologia Pós-colheita de frutas e hortaliças",
+    "availabilityCode": "T3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Juliana P. L."
+    ]
+  },
+  {
+    "course_id": "ICA140",
+    "name": "TOPICOS EM TECNOLOGIA DE ALIMENTOS II - Tecnologia Cervejeira",
+    "availabilityCode": "T4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Gustavo L. T."
+    ]
+  },
+  {
+    "course_id": "ICA140",
+    "name": "TOPICOS EM TECNOLOGIA DE ALIMENTOS II - Tecnologia de processamento de cana- de-açúcar",
+    "availabilityCode": "T5",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Juliana P. L."
+    ]
+  },
+  {
+    "course_id": "ICA140",
+    "name": "TOPICOS EM TECNOLOGIA DE ALIMENTOS II - Emulsões alimentícias",
+    "availabilityCode": "T6",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:10",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Janaina T. F."
+    ]
+  },
+  {
+    "course_id": "ICA140",
+    "name": "TOPICOS EM TECNOLOGIA DE ALIMENTOS II - Processo de Produtos do Cerrado",
+    "availabilityCode": "T7",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Claudia R. V."
+    ]
+  },
+  {
+    "course_id": "ICA201",
+    "name": "ESTATISTICA BASICA",
+    "availabilityCode": "TG",
+    "spots": 92,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:10",
+        "end": "15:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Renato D. M."
+    ]
+  },
+  {
+    "course_id": "ICA223",
+    "name": "QUIMICA ANALITICA",
+    "availabilityCode": "P5",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Ulisses A. P."
+    ]
+  },
+  {
+    "course_id": "ICA223",
+    "name": "QUIMICA ANALITICA",
+    "availabilityCode": "P6",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Ulisses A. P."
+    ]
+  },
+  {
+    "course_id": "ICA223",
+    "name": "QUIMICA ANALITICA",
+    "availabilityCode": "T3",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:10",
+        "end": "14:00"
+      }
+    ],
+    "teachers": [
+      "Ulisses A. P."
+    ]
+  },
+  {
+    "course_id": "ICA245",
+    "name": "METODOS E TECNICAS DE TRABALHOS ACADEMICOS",
+    "availabilityCode": "T1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Claudia R. V."
+    ]
+  },
+  {
+    "course_id": "ICA376",
+    "name": "Cinética de Processamentos Químicos e Bioquímicos",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:10",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Caroline L. P."
+    ]
+  },
+  {
+    "course_id": "ICA390",
+    "name": "OPERAÇÕES UNITÁRIAS II",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "16:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Janaina T. F."
+    ]
+  },
+  {
+    "course_id": "ICA573",
+    "name": "MECÂNICA E RESISTÊNCIA DE MATERIAIS I",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Maria F. L. A."
+    ]
+  },
+  {
+    "course_id": "ICA574",
+    "name": "MECÂNICA DOS FLUIDOS",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "16:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "William J. N. L."
+    ]
+  },
+  {
+    "course_id": "ICA578",
+    "name": "TECNOLOGIA DE PROCESSAMENTO DE CANA-DE-AÇÚCAR",
+    "availabilityCode": "P1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Juliana P. L."
+    ]
+  },
+  {
+    "course_id": "ICA578",
+    "name": "TECNOLOGIA DE PROCESSAMENTO DE CANA-DE-AÇÚCAR",
+    "availabilityCode": "P2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Juliana P. L."
+    ]
+  },
+  {
+    "course_id": "ICA578",
+    "name": "TECNOLOGIA DE PROCESSAMENTO DE CANA-DE-AÇÚCAR",
+    "availabilityCode": "T1",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Juliana P. L."
+    ]
+  },
+  {
+    "course_id": "ICA579",
+    "name": "PROCESSAMENTO DE FRUTOS E HORTALIÇAS",
+    "availabilityCode": "P1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Milton N. C. C."
+    ]
+  },
+  {
+    "course_id": "ICA579",
+    "name": "PROCESSAMENTO DE FRUTOS E HORTALIÇAS",
+    "availabilityCode": "P2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Milton N. C. C."
+    ]
+  },
+  {
+    "course_id": "ICA579",
+    "name": "PROCESSAMENTO DE FRUTOS E HORTALIÇAS",
+    "availabilityCode": "T1",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Milton N. C. C."
+    ]
+  },
+  {
+    "course_id": "ICA580",
+    "name": "ENGENHARIA BIOQUÍMICA",
+    "availabilityCode": "P1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Igor V. B."
+    ]
+  },
+  {
+    "course_id": "ICA580",
+    "name": "ENGENHARIA BIOQUÍMICA",
+    "availabilityCode": "T1",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Igor V. B."
+    ]
+  },
+  {
+    "course_id": "ICA581",
+    "name": "TECNOLOGIA DE PANIFICAÇÃO",
+    "availabilityCode": "P1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Claudia R. V."
+    ]
+  },
+  {
+    "course_id": "ICA581",
+    "name": "TECNOLOGIA DE PANIFICAÇÃO",
+    "availabilityCode": "P2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Claudia R. V."
+    ]
+  },
+  {
+    "course_id": "ICA581",
+    "name": "TECNOLOGIA DE PANIFICAÇÃO",
+    "availabilityCode": "T1",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Claudia R. V."
+    ]
+  },
+  {
+    "course_id": "ICA582",
+    "name": "PROJETOS NA INDÚSTRIA DE ALIMENTOS",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Fausto M."
+    ]
+  },
+  {
+    "course_id": "ICA590",
+    "name": "EMULSÕES ALIMENTÍCIAS",
+    "availabilityCode": "T1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:10",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Janaina T. F."
+    ]
+  },
+  {
+    "course_id": "ICA594",
+    "name": "FISIOLOGIA E TECNOLOGIA PÓS- COLHEITA DE FRUTAS E HORTALIÇAS",
+    "availabilityCode": "T1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Juliana P. L."
+    ]
+  },
+  {
+    "course_id": "ICA612",
+    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS I - Preparação para o ENADE II",
+    "availabilityCode": "T1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Juliana P. L.",
+      "Claudia R. V.",
+      "Bruna M. A. C. M."
+    ]
+  },
+  {
+    "course_id": "ICA612",
+    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS I - Tecnologia Cervejeira",
+    "availabilityCode": "T2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Gustavo L. T."
+    ]
+  },
+  {
+    "course_id": "ICA614",
+    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS III - Processos de purificação",
+    "availabilityCode": "T1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Bruna M. A. C. M."
+    ]
+  },
+  {
+    "course_id": "ICA614",
+    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS III - Microbiologia Industrial",
+    "availabilityCode": "T2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Junio C. S."
+    ]
+  },
+  {
+    "course_id": "ICA615",
+    "name": "TÓPICOS EM ENGENHARIA DE ALIMENTOS IV - Inglês Técnico para Ciências Agrárias - Módulo 03",
+    "availabilityCode": "T1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Gustavo L. T."
+    ]
+  },
+  {
+    "course_id": "ICA617",
+    "name": "VIDA DE PRATELEIRA DE PRODUTOS ALIMENTÍCIOS",
+    "availabilityCode": "T1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Caroline L. P."
+    ]
+  },
+  {
+    "course_id": "ICA618",
+    "name": "GEOMETRIA ANALÍTICA E ÁLGEBRA LINEAR",
+    "availabilityCode": "TG",
+    "spots": 92,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:10",
+        "end": "17:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "15:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Mario D. H. B."
+    ]
+  },
+  {
+    "course_id": "ICA619",
+    "name": "FUNDAMENTOS DO TRABALHO CIENTÍFICO",
+    "availabilityCode": "P1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Claudia R. V."
+    ]
+  },
+  {
+    "course_id": "ICA620",
+    "name": "INTRODUÇÃO ÀS EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Luiz C. G. F."
+    ]
+  },
+  {
+    "course_id": "ICA621",
+    "name": "QUIMÍCA DE ALIMENTOS I",
+    "availabilityCode": "P1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Sergio H. S. S."
+    ]
+  },
+  {
+    "course_id": "ICA621",
+    "name": "QUIMÍCA DE ALIMENTOS I",
+    "availabilityCode": "T1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Sergio H. S. S."
+    ]
+  },
+  {
+    "course_id": "ICA624",
+    "name": "INTRODUÇÃO À PROGRAMAÇÃO",
+    "availabilityCode": "P1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:10",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Renato D. M."
+    ]
+  },
+  {
+    "course_id": "ICA625",
+    "name": "HIGIENE EM INDÚSTRIA DE ALIMENTOS",
+    "availabilityCode": "P1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Roberta T. C."
+    ]
+  },
+  {
+    "course_id": "ICA625",
+    "name": "HIGIENE EM INDÚSTRIA DE ALIMENTOS",
+    "availabilityCode": "P2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Roberta T. C."
+    ]
+  },
+  {
+    "course_id": "ICA625",
+    "name": "HIGIENE EM INDÚSTRIA DE ALIMENTOS",
+    "availabilityCode": "T1",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Roberta T. C."
+    ]
+  },
+  {
+    "course_id": "ICA632",
+    "name": "LABORATÓRIO DE OPERAÇÕES UNITÁRIAS E FENÔMENOS DE TRANSPORTE",
+    "availabilityCode": "P1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "William J. N. L."
+    ]
+  },
+  {
+    "course_id": "ICA633",
+    "name": "REFRIGERAÇÃO",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:10",
+        "end": "12:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Janaina T. F."
+    ]
+  },
+  {
+    "course_id": "ICA634",
+    "name": "ANÁLISE SENSORIAL DE ALIMENTOS",
+    "availabilityCode": "P1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Erika E. A."
+    ]
+  },
+  {
+    "course_id": "ICA634",
+    "name": "ANÁLISE SENSORIAL DE ALIMENTOS",
+    "availabilityCode": "P2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Erika E. A."
+    ]
+  },
+  {
+    "course_id": "ICA634",
+    "name": "ANÁLISE SENSORIAL DE ALIMENTOS",
+    "availabilityCode": "T1",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:10",
+        "end": "08:00"
+      }
+    ],
+    "teachers": [
+      "Erika E. A."
+    ]
+  },
+  {
+    "course_id": "ICA638",
+    "name": "ESTÁGIO CURRICULAR I",
+    "availabilityCode": "P1",
+    "spots": 46,
+    "times": [],
+    "teachers": [
+      "Milton N. C. C."
+    ]
+  },
+  {
+    "course_id": "ICA639",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Maximiliano S. P."
+    ]
+  },
+  {
+    "course_id": "ICA641",
+    "name": "PROCESSAMENTO DE PRODUTOS DO CERRADO",
+    "availabilityCode": "T1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Claudia R. V."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "UNI010",
+    "name": "TOPICOS EM CIENCIAS AGRARIAS - Inglês Técnico para Ciências Agrárias - Módulo 03",
+    "availabilityCode": "TG1",
+    "spots": 73,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Gustavo L. T."
+    ]
+  },
+  {
+    "course_id": "UNI010",
+    "name": "TOPICOS EM CIENCIAS AGRARIAS - Espeleoturismo",
+    "availabilityCode": "TG2",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Marilda T. M."
+    ]
+  },
+  {
+    "course_id": "UNI010",
+    "name": "TOPICOS EM CIENCIAS AGRARIAS - Gestão em Turismo e Meio Ambiente",
+    "availabilityCode": "TG3",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Marilda T. M."
+    ]
+  }
+]

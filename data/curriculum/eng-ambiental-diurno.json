@@ -1,0 +1,638 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "CRT003",
+      "name": "Cartografia e Topografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "EMC608",
+      "name": "Desenho Projetivo Para Engenharia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ENG152",
+      "name": "Introdução À Engenharia Ambiental",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FIS151",
+      "name": "Física Experimental Básica: Mecânica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "UNI008",
+      "name": "Saude Ambiental",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "BIG048",
+      "name": "Ecologia Geral",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EHR021",
+      "name": "Trabalho Tematico I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EMC014",
+      "name": "Desenho Auxiliado Por Computador",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ETG048",
+      "name": "Introdução Ao Urbanismo",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS065",
+      "name": "Fundamentos de Mecanica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "GEL056",
+      "name": "Introducao a Geologia e Hidrogeologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT039",
+      "name": "Cálculo Diferencial e Integral II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "QUI003",
+      "name": "Quimica Geral B",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "BIG049",
+      "name": "Genetica Aplicada a Eng. Ambiental",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCC001",
+      "name": "Programacao de Computadores",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECN075",
+      "name": "Economia Para Engenharia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS152",
+      "name": "Fundamentos de Mecânica dos Fluidos e Termodinâmica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT002",
+      "name": "Calculo Diferencial e Integral III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT040",
+      "name": "Equacoes Diferenciais C",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "QUI260",
+      "name": "Quimica Analitica I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "QUI625",
+      "name": "Química Analítica Experimental",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DCC034",
+      "name": "Calculo Numerico",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EHR022",
+      "name": "Fenom. de Transporte Para Eng. Ambiental",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ESA117",
+      "name": "Trabalho Tematico II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EST031",
+      "name": "Estatistica e Probabilidades",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "GEO608",
+      "name": "Climatologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "MIC119",
+      "name": "Microbiologia Aplicada a Eng.ambiental",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "QUI261",
+      "name": "Química Orgânica I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EES153",
+      "name": "Fund. de Mecanica dos Solidos a",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EHR035",
+      "name": "Hidráulica Ambiental I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ELE063",
+      "name": "Eletrotecnica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EQM060",
+      "name": "Laboratorio de Instrumentacao",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EQM061",
+      "name": "Cinetica Quimica e Bioquimica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ESA119",
+      "name": "Gerenciamento Residuos Solidos Urbanos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ESA610",
+      "name": "Avaliação de Impactos Ambientais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ETG049",
+      "name": "Fundamentos de Geotecnia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EHR024",
+      "name": "Hidrologia Ambiental",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EHR026",
+      "name": "Trabalho Tematico III",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EHR036",
+      "name": "Hidráulica Ambiental II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EMC609",
+      "name": "Noções de Materiais de Construção",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ESA011",
+      "name": "Sistema de Abastecimento de Agua",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ESA120",
+      "name": "Diag.aval. Poluicao Aguas Superficiais",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ETG050",
+      "name": "Fundamentos de Geotecnia II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EHR025",
+      "name": "Hidrogeologia Ambiental",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EHR027",
+      "name": "Sistemas de Drenagem Pluvial",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EQM062",
+      "name": "Oper.unit.e Processos Para Eng.ambiental",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ESA121",
+      "name": "Diag.aval. Poluicao Solo e Aguas Subter",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ESA122",
+      "name": "Tratamento de Residuos Solidos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ESA123",
+      "name": "Diag. e Aval. da Poluicao Atmosferica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ESA611",
+      "name": "Sistemas de Esgotamento Sanitário",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ESA014",
+      "name": "Tratamento de Aguas de Abastecimento",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ESA125",
+      "name": "Controle Poluicao Solo e das Aguas Subte",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ESA126",
+      "name": "Controle da Poluicao Atmosferica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ESA127",
+      "name": "Trabalho Tematico IV",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ESA612",
+      "name": "Tratamento de Esgotos Sanitários",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EHR029",
+      "name": "Gestao de Recursos Hidricos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ENG087",
+      "name": "Estagio Supervisionado",
+      "description": null,
+      "credits": 11,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ESA128",
+      "name": "Legisl. Gestao de Saneam.e Meio Ambiente",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ESA613",
+      "name": "Tratamento de Efluentes Industriais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENG088",
+      "name": "Trabalho de Conclusao de Curso",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "EHR021",
+      "prerequisite_code": "ENG152"
+    },
+    {
+      "code": "EMC014",
+      "prerequisite_code": "EMC608"
+    },
+    {
+      "code": "FIS065",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "FIS152",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "MAT002",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "MAT040",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "QUI260",
+      "prerequisite_code": "QUI003"
+    },
+    {
+      "code": "DCC034",
+      "prerequisite_code": "DCC001"
+    },
+    {
+      "code": "EHR022",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "ESA117",
+      "prerequisite_code": "EHR021"
+    },
+    {
+      "code": "QUI261",
+      "prerequisite_code": "QUI003"
+    },
+    {
+      "code": "EES153",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "EHR035",
+      "prerequisite_code": "EHR022"
+    },
+    {
+      "code": "ELE063",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "ELE063",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "EQM060",
+      "prerequisite_code": "QUI260"
+    },
+    {
+      "code": "ETG049",
+      "prerequisite_code": "GEL056"
+    },
+    {
+      "code": "EHR024",
+      "prerequisite_code": "EHR035"
+    },
+    {
+      "code": "EHR026",
+      "prerequisite_code": "ESA117"
+    },
+    {
+      "code": "EHR036",
+      "prerequisite_code": "EHR035"
+    },
+    {
+      "code": "ESA011",
+      "prerequisite_code": "EHR035"
+    },
+    {
+      "code": "ESA120",
+      "prerequisite_code": "EHR035"
+    },
+    {
+      "code": "ETG050",
+      "prerequisite_code": "ETG049"
+    },
+    {
+      "code": "EHR025",
+      "prerequisite_code": "GEL056"
+    },
+    {
+      "code": "EHR027",
+      "prerequisite_code": "EHR036"
+    },
+    {
+      "code": "EQM062",
+      "prerequisite_code": "EQM061"
+    },
+    {
+      "code": "ESA121",
+      "prerequisite_code": "GEL056"
+    },
+    {
+      "code": "ESA122",
+      "prerequisite_code": "ESA119"
+    },
+    {
+      "code": "ESA611",
+      "prerequisite_code": "EHR036"
+    },
+    {
+      "code": "ESA014",
+      "prerequisite_code": "ESA011"
+    },
+    {
+      "code": "ESA125",
+      "prerequisite_code": "ESA121"
+    },
+    {
+      "code": "ESA126",
+      "prerequisite_code": "ESA123"
+    },
+    {
+      "code": "ESA612",
+      "prerequisite_code": "ESA611"
+    },
+    {
+      "code": "ESA613",
+      "prerequisite_code": "EQM062"
+    }
+  ]
+}

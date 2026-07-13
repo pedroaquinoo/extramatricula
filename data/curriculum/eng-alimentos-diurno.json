@@ -1,0 +1,922 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "ICA091",
+      "name": "Quimica Organica Aplicada",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICA100",
+      "name": "Biologia Celular e de Tecidos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICA220",
+      "name": "Fundamentos de Quimica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICA221",
+      "name": "Desenho Tecnico",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICA571",
+      "name": "Introdução À Engenharia de Alimentos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICA572",
+      "name": "Fundamentos da Matemática",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA001",
+      "name": "Calculo I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA005",
+      "name": "Fisica I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA118",
+      "name": "Fundamentos Economicos e Sociais",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA201",
+      "name": "Estatistica Basica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA223",
+      "name": "Quimica Analitica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA618",
+      "name": "Geometria Analítica e Álgebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA003",
+      "name": "Calculo II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA008",
+      "name": "Fisica II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA106",
+      "name": "Materias-primas Para Alimentos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA203",
+      "name": "Estatistica Experimental",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA224",
+      "name": "Microbiologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA225",
+      "name": "Bioquimica Geral",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICA104",
+      "name": "Fisico-quimica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICA105",
+      "name": "Microbiologia de Alimentos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICA573",
+      "name": "Mecânica e Resistência de Materiais I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICA574",
+      "name": "Mecânica dos Fluidos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICA620",
+      "name": "Introdução Às Equações Diferenciais Ordinárias",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICA621",
+      "name": "Quimíca de Alimentos I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA011",
+      "name": "Termodinamica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA114",
+      "name": "Tecnologia de Graos e Farinhas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA575",
+      "name": "Tecnologia de Produtos Lácteos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA576",
+      "name": "Química de Alimentos II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA577",
+      "name": "Transferência de Calor e Massa",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA622",
+      "name": "Operações Unitárias I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA623",
+      "name": "Conservação de Alimentos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA113",
+      "name": "Nutricao Basica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA390",
+      "name": "Operações Unitárias II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA578",
+      "name": "Tecnologia de Processamento de Cana-de-açúcar",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA579",
+      "name": "Processamento de Frutos e Hortaliças",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA624",
+      "name": "Introdução À Programação",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA625",
+      "name": "Higiene em Indústria de Alimentos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA021",
+      "name": "Eletrotecnica e Instalacoes Eletricas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA393",
+      "name": "Operações Unitárias III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA627",
+      "name": "Administração da Produção",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA628",
+      "name": "Análise de Alimentos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA629",
+      "name": "Legislação Para Alimentos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA630",
+      "name": "Tecnologia de Carne, Pescado e Produtos Derivados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA631",
+      "name": "Embalagens de Alimentos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA580",
+      "name": "Engenharia Bioquímica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA581",
+      "name": "Tecnologia de Panificação",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA582",
+      "name": "Projetos na Indústria de Alimentos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA632",
+      "name": "Laboratório de Operações Unitárias e Fenômenos de Transporte",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA633",
+      "name": "Refrigeração",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA634",
+      "name": "Análise Sensorial de Alimentos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICA635",
+      "name": "Tecnologia de Produção de Bebidas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICA636",
+      "name": "Gestão da Qualidade na Indústria de Alimentos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICA637",
+      "name": "Instalações na Indústria de Alimentios",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA151",
+      "name": "Fundamentos de Analise Sociologica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA196",
+      "name": "Gestao de Organizacoes do Terceiro Setor",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA252",
+      "name": "Sociologia Rural",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA359",
+      "name": "Empreendedorismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA364",
+      "name": "Etica e Responsabilidade Social",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA371",
+      "name": "Estudos Antropologicos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA583",
+      "name": "Aditivos Alimentares e Coadjuvantes Tecnológicos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA584",
+      "name": "Alimentos Funcionais",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA585",
+      "name": "Auditoria e Certificação Sist. Gestão Qualid. Seg. Alimentos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA586",
+      "name": "Bioética",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA587",
+      "name": "Comportamento Alimentar",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA588",
+      "name": "Desenvolvimento de Novos Produtos Alimentícios",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA589",
+      "name": "Embalagens Ativas e Inteligentes Para Alimentos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA590",
+      "name": "Emulsões Alimentícias",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA591",
+      "name": "Espanhol Instrumental",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA592",
+      "name": "Estudos Complementares em Análise Sensorial de Alimentos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA593",
+      "name": "Excel Aplicado À Engenharia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA594",
+      "name": "Fisiologia e Tecnologia Pós-colheita de Frutas e Hortaliças",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA595",
+      "name": "Princípios de Administração e Organização",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA596",
+      "name": "Fundamentos de Cálculos em Processos Alimentícios",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA597",
+      "name": "Instrumentação e Controle de Processos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA598",
+      "name": "Mecânica e Resistência dos Materiais II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA599",
+      "name": "Modelagem e Simulação de Processos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA601",
+      "name": "Princípios de Farmacologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA602",
+      "name": "Purificação de Produtos Biotecnológicos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA603",
+      "name": "Relações Étnico-raciais",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA604",
+      "name": "Relações Humanas no Trabalho",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA605",
+      "name": "Reologia de Produtos Alimentícios",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA606",
+      "name": "Secagem de Alimentos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA607",
+      "name": "Tecnologia de Óleos e Gorduras",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA612",
+      "name": "Tópicos em Engenharia de Alimentos I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA613",
+      "name": "Tópicos em Engenharia de Alimentos II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA614",
+      "name": "Tópicos em Engenharia de Alimentos III",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA615",
+      "name": "Tópicos em Engenharia de Alimentos IV",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA616",
+      "name": "Turismo e Gastronomia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA617",
+      "name": "Vida de Prateleira de Produtos Alimentícios",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA619",
+      "name": "Fundamentos do Trabalho Científico",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA626",
+      "name": "Tratamento de Resíduos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA638",
+      "name": "Estágio Curricular I",
+      "description": null,
+      "credits": 11,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA639",
+      "name": "Trabalho de Conclusão de Curso",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA640",
+      "name": "Estágio Curricular II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA641",
+      "name": "Processamento de Produtos do Cerrado",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA642",
+      "name": "Microbiologia Ambiental",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA643",
+      "name": "Microbiologia Industrial",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA644",
+      "name": "Tecnologia de Ovos e Mel",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA645",
+      "name": "Toxicologia de Alimentos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA646",
+      "name": "Iniciação À Docência",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA647",
+      "name": "Iniciação À Extensão",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA648",
+      "name": "Iniciação À Pesquisa",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA649",
+      "name": "Grupos de Estudos",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA650",
+      "name": "Particpação em Eventos",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA651",
+      "name": "Participação em Representações Estudantis",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "LET223",
+      "name": "Fundamentos de Libras",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "ICA001",
+      "prerequisite_code": "ICA572"
+    },
+    {
+      "code": "ICA003",
+      "prerequisite_code": "ICA001"
+    },
+    {
+      "code": "ICA008",
+      "prerequisite_code": "ICA005"
+    },
+    {
+      "code": "ICA203",
+      "prerequisite_code": "ICA201"
+    },
+    {
+      "code": "ICA105",
+      "prerequisite_code": "ICA224"
+    },
+    {
+      "code": "ICA574",
+      "prerequisite_code": "ICA003"
+    },
+    {
+      "code": "ICA620",
+      "prerequisite_code": "ICA003"
+    },
+    {
+      "code": "ICA011",
+      "prerequisite_code": "ICA104"
+    },
+    {
+      "code": "ICA577",
+      "prerequisite_code": "ICA574"
+    },
+    {
+      "code": "ICA622",
+      "prerequisite_code": "ICA574"
+    },
+    {
+      "code": "ICA390",
+      "prerequisite_code": "ICA577"
+    },
+    {
+      "code": "ICA390",
+      "prerequisite_code": "ICA622"
+    },
+    {
+      "code": "ICA625",
+      "prerequisite_code": "ICA105"
+    },
+    {
+      "code": "ICA021",
+      "prerequisite_code": "ICA001"
+    },
+    {
+      "code": "ICA393",
+      "prerequisite_code": "ICA577"
+    },
+    {
+      "code": "ICA633",
+      "prerequisite_code": "ICA390"
+    },
+    {
+      "code": "ICA598",
+      "prerequisite_code": "ICA573"
+    }
+  ]
+}

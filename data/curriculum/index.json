@@ -106,5 +106,35 @@
     "name": "Sistemas de Informação",
     "offerId": "sistemas-informacao",
     "shift": "vespertino"
+  },
+  {
+    "id": "eng-agricola-ambiental-diurno",
+    "name": "Engenharia Agrícola e Ambiental",
+    "offerId": "eng-agricola-ambiental",
+    "shift": "diurno"
+  },
+  {
+    "id": "eng-alimentos-diurno",
+    "name": "Engenharia de Alimentos",
+    "offerId": "eng-alimentos",
+    "shift": "diurno"
+  },
+  {
+    "id": "eng-alimentos-noturno",
+    "name": "Engenharia de Alimentos",
+    "offerId": "eng-alimentos",
+    "shift": "noturno"
+  },
+  {
+    "id": "eng-ambiental-diurno",
+    "name": "Engenharia Ambiental",
+    "offerId": "eng-ambiental",
+    "shift": "diurno"
+  },
+  {
+    "id": "eng-materiais-diurno",
+    "name": "Engenharia de Materiais",
+    "offerId": "eng-materiais",
+    "shift": "diurno"
   }
 ]

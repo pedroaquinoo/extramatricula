@@ -24,6 +24,7 @@ import { ShareSimulationButton } from "@/components/extra/share-simulation-butto
 import { ClassSearch } from "@/components/extra/class-search"
 import { CourseChip } from "@/components/extra/course-chip"
 import { SetupPrompt } from "@/components/extra/setup-dialog"
+import { SubmissionWarning } from "@/components/extra/submission-warning"
 import { LoadingScreen } from "@/components/extra/loading-screen"
 import { AvailableClass } from "@/hooks/use-available-classes"
 import { useAppStore } from "@/lib/store"
@@ -122,6 +123,21 @@ export default function SimulationPage() {
     return grouped
   }, [optionalCourses])
 
+  // SIGA refuses requests that mix disciplines from 3 consecutive periods, so we only
+  // surface the warning once the planned turmas actually hit that pattern.
+  const hasThreeConsecutivePeriods = useMemo(() => {
+    if (!classes) return false
+    const periodByCode = new Map(classes.map((cls) => [cls.code, cls.ref_period]))
+    const periods = new Set<number>()
+    for (const cls of planner.state.plannedClasses) {
+      const period = periodByCode.get(cls.course_id)
+      if (period !== undefined) periods.add(period)
+    }
+    return [...periods].some(
+      (period) => periods.has(period + 1) && periods.has(period + 2),
+    )
+  }, [classes, planner.state.plannedClasses])
+
   const handleClassSelect = useCallback(
     (classData: AvailableClass, source: "list" | "search" = "list") => {
       const isOptional = !userProgramCodes.has(classData.course_id)
@@ -215,6 +231,7 @@ export default function SimulationPage() {
                 ainda faltam na sua grade.
               </TooltipContent>
             </Tooltip>
+            {hasThreeConsecutivePeriods && <SubmissionWarning />}
             <ShareSimulationButton
               simulationState={planner.state}
               semester={semester}
