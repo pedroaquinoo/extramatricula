@@ -10,7 +10,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Button } from "@/components/ui/button"
 import { Checkbox } from "@/components/ui/checkbox"
 import { Tooltip, TooltipContent, TooltipTrigger } from "@/components/ui/tooltip"
-import { ChevronDown, Sparkles } from "lucide-react"
+import { ArrowLeft, BookOpen, ChevronDown, Sparkles } from "lucide-react"
 
 import { useCourseData } from "@/hooks/use-course-data"
 import { useAvailableClasses } from "@/hooks/use-available-classes"
@@ -228,15 +228,24 @@ export default function SimulationPage() {
           <div className="flex flex-col sm:flex-row shrink-0 sm:items-center gap-2">
             <Button
               size="sm"
+              variant={leftView === "magic" ? "outline" : "default"}
               onClick={() =>
-                setLeftView((prev) => (prev === "magic" ? "classes" : "magic"))
+                setLeftView((prev) => {
+                  const next = prev === "magic" ? "classes" : "magic"
+                  if (next === "magic") {
+                    captureEvent(AnalyticsEvents.MAGIC_MODE_OPENED, {
+                      source: "simulation_header",
+                    })
+                  }
+                  return next
+                })
               }
               aria-pressed={leftView === "magic"}
               className="gap-2"
             >
-              <Sparkles className="size-4 shrink-0" />
-              <span className="whitespace-nowrap">Modo mágico</span>
-            </Button>
+              {leftView === "magic" ? <ArrowLeft className="size-4 shrink-0" /> : <Sparkles className="size-4 shrink-0" />}
+              <span className="whitespace-nowrap">{leftView === "magic" ? "Voltar ao modo normal" : "Modo mágico"}</span>
+            </Button> 
             <Tooltip>
               <TooltipTrigger asChild>
                 <label

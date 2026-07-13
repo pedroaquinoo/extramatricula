@@ -8,7 +8,9 @@ export const AnalyticsEvents = {
   COURSE_PROGRESS_UPDATED: "course_progress_updated",
   OTHER_TURMAS_VIEWED: "other_turmas_viewed",
   SUBMISSION_WARNING_VIEWED: "submission_warning_viewed",
+  MAGIC_MODE_OPENED: "magic_mode_opened",
   MAGIC_MODE_RUN: "magic_mode_run",
+  MAGIC_MODE_RUN_COMPLETED: "magic_mode_run_completed",
   MAGIC_MODE_APPLIED: "magic_mode_applied",
   PREREQS_IGNORED: "prereqs_ignored",
 } as const

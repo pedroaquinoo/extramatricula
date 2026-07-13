@@ -194,12 +194,36 @@ export function MagicModePanel({
         })
         if ("error" in result) {
           setError(result.error)
+          captureEvent(AnalyticsEvents.MAGIC_MODE_RUN_COMPLETED, {
+            scope,
+            strategy,
+            target_hours: targetHours,
+            outcome: "error",
+            result_count: 0,
+            truncated: false,
+          })
         } else {
           setResults(result.schedules)
           setTruncated(result.truncated)
+          captureEvent(AnalyticsEvents.MAGIC_MODE_RUN_COMPLETED, {
+            scope,
+            strategy,
+            target_hours: targetHours,
+            outcome: result.schedules.length === 0 ? "empty" : "success",
+            result_count: result.schedules.length,
+            truncated: result.truncated,
+          })
         }
       } catch {
         setError("Não foi possível calcular as grades. Tente novamente.")
+        captureEvent(AnalyticsEvents.MAGIC_MODE_RUN_COMPLETED, {
+          scope,
+          strategy,
+          target_hours: targetHours,
+          outcome: "error",
+          result_count: 0,
+          truncated: false,
+        })
       } finally {
         setRunning(false)
       }
@@ -212,12 +236,14 @@ export function MagicModePanel({
       .sort()
       .join("|")
 
-  const applySchedule = (schedule: MagicSchedule) => {
+  const applySchedule = (schedule: MagicSchedule, optionIndex: number) => {
     captureEvent(AnalyticsEvents.MAGIC_MODE_APPLIED, {
       strategy,
+      scope,
       days: schedule.days,
       hours: schedule.hours,
       discipline_count: schedule.disciplineCount,
+      option_index: optionIndex,
     })
     setAppliedSignature(signatureOf(schedule))
     onApply(schedule)
@@ -514,7 +540,7 @@ export function MagicModePanel({
                     <button
                       key={index}
                       type="button"
-                      onClick={() => applySchedule(schedule)}
+                      onClick={() => applySchedule(schedule, index)}
                       className={cn(
                         "group flex flex-col gap-2 rounded-lg border p-3 text-left transition-colors focus-visible:border-ring focus-visible:ring-[3px] focus-visible:ring-ring/50 focus-visible:outline-none",
                         applied
