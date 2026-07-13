@@ -176,7 +176,7 @@ function SemesterStep({
 }
 
 function SetupBody({ onDone }: { onDone: () => void }) {
-  const { courseId, semester, completeSetup } = useAppStore()
+  const { courseId, semester, passed, completeSetup } = useAppStore()
   const initial = useMemo(() => parseSelection(courseId), [courseId])
   const [step, setStep] = useState<Step>(courseId ? "semester" : "course")
   const [draftOfferId, setDraftOfferId] = useState(initial.offerId)
@@ -198,11 +198,23 @@ function SetupBody({ onDone }: { onDone: () => void }) {
 
   const confirm = () => {
     if (!draftCourse || !draftSemester) return
-    completeSetup(
-      draftCourse,
-      draftSemester,
-      predicted.map((cls) => cls.code),
+    // Keep existing selections that still belong to a period before the chosen
+    // semester (electives, manual exceptions), but drop anything at or after it —
+    // otherwise switching to an earlier semester leaves later classes marked.
+    const periodByCode = new Map(
+      getClasses(draftCourse).map((cls) => [cls.code, cls.ref_period]),
     )
+    const kept =
+      draftCourse === courseId
+        ? passed.filter((code) => {
+            const period = periodByCode.get(code)
+            return period !== undefined && period < draftSemester
+          })
+        : []
+    completeSetup(draftCourse, draftSemester, [
+      ...kept,
+      ...predicted.map((cls) => cls.code),
+    ])
     onDone()
   }
 

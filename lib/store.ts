@@ -73,18 +73,18 @@ export function subscribe(listener: () => void) {
 }
 
 /**
- * Course, period and the predicted history are always written in one shot, by the setup
- * dialog: splitting them would clear `passed` again the moment the course landed.
+ * Course, period and the history are always written in one shot, by the setup dialog:
+ * splitting them would clear `passed` again the moment the course landed. The dialog
+ * passes the full, already-reconciled `passed` set (it knows the curriculum), so we
+ * write it verbatim instead of merging — merging would keep classes from periods the
+ * user just moved *below*, e.g. when switching to an earlier semester.
  */
 export function completeSetup(courseId: string, semester: number, passed: string[]) {
   setState((current) => ({
     ...current,
     courseId,
     semester,
-    passed:
-      current.courseId === courseId
-        ? Array.from(new Set([...current.passed, ...passed]))
-        : Array.from(new Set(passed)),
+    passed: Array.from(new Set(passed)),
   }))
 }
 
