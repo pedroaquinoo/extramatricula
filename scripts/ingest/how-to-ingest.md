@@ -1,20 +1,20 @@
 # Como importar a oferta do semestre
 
-Guia rápido para atualizar `data/offers/` com a oferta do SigaUFMG.
+Guia rápido para atualizar `data/offers/` com a oferta do semestre.
 
 ## O que você precisa
 
 - Node.js 20+ e `pnpm install` já rodado no repo
 - O `offerId` do curso registrado em [`data/curriculum/index.json`](../../data/curriculum/index.json) (veja abaixo se o curso ainda não existir)
 - A oferta do semestre, em um destes formatos:
-  - **PDF** — relatório *Mapa de oferta por curso* exportado do SIGA (recomendado)
+  - **PDF** — relatório *Mapa de oferta por curso* (recomendado)
   - **JSON** — snapshot já no formato do app
 
 Diurno e noturno do mesmo curso compartilham um `offerId` (ex.: `controle-automacao`). A grade curricular continua separada por turno.
 
-## Grade curricular a partir do PDF do SIGA
+## Grade curricular a partir do PDF
 
-No SIGA, exporte o *Relatório de percurso curricular* do turno desejado. Cada PDF cobre um único turno (diurno ou noturno).
+Exporte o *Relatório de percurso curricular* do turno desejado. Cada PDF cobre um único turno (diurno ou noturno).
 
 ```bash
 pnpm ingest-curriculum eng-producao-diurno ./curriculum.pdf --offer-id eng-producao
@@ -26,9 +26,9 @@ O comando grava `data/curriculum/<courseId>.json`, atualiza [`data/curriculum/in
 
 Só então o `pnpm ingest` de ofertas passa a aceitar o `offerId` correspondente.
 
-## Opção A: a partir do PDF do SIGA
+## Opção A: a partir do PDF
 
-No SIGA, exporte o *Mapa de oferta por curso* do curso desejado. Depois rode:
+Exporte o *Mapa de oferta por curso* do curso desejado. Depois rode:
 
 ```bash
 pnpm ingest 2026/2 controle-automacao ./mapa.pdf
@@ -79,7 +79,7 @@ pnpm build
 pnpm dev
 ```
 
-Abra `/simulation` e confira algumas turmas contra o SIGA.
+Abra `/simulation` e confira algumas turmas contra o PDF original.
 
 ## Formato de cada turma
 
@@ -96,7 +96,7 @@ Abra `/simulation` e confira algumas turmas contra o SIGA.
 }
 ```
 
-Nomes de professores são gravados como primeiro nome + iniciais (ex.: `Francisco V. B.`). Matrículas numéricas do SIGA são descartadas automaticamente.
+Nomes de professores são gravados como primeiro nome + iniciais (ex.: `Francisco V. B.`). Matrículas numéricas são descartadas automaticamente.
 
 `course_id` aqui é o **código da disciplina** (DCC011), não o id do curso no app.
 
@@ -107,6 +107,6 @@ Nomes de professores são gravados como primeiro nome + iniciais (ex.: `Francisc
 | `offerId desconhecido` | Registre o curso em `data/curriculum/index.json` primeiro |
 | `Fonte inválida` | Passou `.json` e `.pdf` juntos, ou extensão errada |
 | App sem oferta nova | `current` desatualizado em `data/offers/index.json` |
-| Dados estranhos no PDF | Confirme que o relatório é o *Mapa de oferta por curso*, não outro do SIGA |
+| Dados estranhos no PDF | Confirme que o relatório é o *Mapa de oferta por curso*, não outro relatório |
 
-Os parsers vivem em [`parse-siga-pdf.ts`](./parse-siga-pdf.ts) (oferta) e [`parse-curriculum-pdf.ts`](./parse-curriculum-pdf.ts) (grade). São determinísticos (sem LLM) e compartilham utilitários em [`pdf-utils.ts`](./pdf-utils.ts).
+Os parsers vivem em [`parse-offer-pdf.ts`](./parse-offer-pdf.ts) (oferta) e [`parse-curriculum-pdf.ts`](./parse-curriculum-pdf.ts) (grade). São determinísticos (sem LLM) e compartilham utilitários em [`pdf-utils.ts`](./pdf-utils.ts).

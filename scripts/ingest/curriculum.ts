@@ -61,7 +61,7 @@ async function main() {
   }
 
   if (!source.toLowerCase().endsWith(".pdf")) {
-    console.error("A fonte precisa ser um PDF de percurso curricular exportado do SIGA.")
+    console.error("A fonte precisa ser um PDF de percurso curricular.")
     process.exit(1)
   }
 

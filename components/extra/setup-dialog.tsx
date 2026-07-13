@@ -30,6 +30,8 @@ import {
   resolveCourseId,
 } from "@/lib/curriculum"
 import { formatShiftLabel, getShift, type Shift } from "@/lib/shift"
+import { captureEvent, registerAnalyticsContext } from "@/lib/analytics"
+import { AnalyticsEvents } from "@/lib/analytics-events"
 import { useAppStore } from "@/lib/store"
 import { cn } from "@/lib/utils"
 
@@ -215,6 +217,12 @@ function SetupBody({ onDone }: { onDone: () => void }) {
       ...kept,
       ...predicted.map((cls) => cls.code),
     ])
+    registerAnalyticsContext(draftCourse, draftSemester)
+    captureEvent(AnalyticsEvents.SETUP_COMPLETED, {
+      offer_id: draftOfferId,
+      shift: draftShift,
+      semester: draftSemester,
+    })
     onDone()
   }
 

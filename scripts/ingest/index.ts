@@ -1,6 +1,6 @@
 import { mkdir, readFile, writeFile } from "fs/promises"
 import path from "path"
-import { dedupeClasses, parseSigaPdfFile, type AvailableClass } from "./parse-siga-pdf"
+import { dedupeClasses, parseOfferPdfFile, type AvailableClass } from "./parse-offer-pdf"
 import { anonymizeTeachers } from "./teacher-names"
 import { syncOffersLib } from "./update-lib-imports"
 
@@ -73,9 +73,9 @@ function anonymizeOffer(classes: AvailableClass[]): AvailableClass[] {
 }
 
 async function parsePdfSources(sources: string[]) {
-  let all: Awaited<ReturnType<typeof parseSigaPdfFile>> = []
+  let all: Awaited<ReturnType<typeof parseOfferPdfFile>> = []
   for (const source of sources) {
-    const classes = await parseSigaPdfFile(source)
+    const classes = await parseOfferPdfFile(source)
     console.log(`  ${path.basename(source)}: ${classes.length} turmas`)
     all = all.concat(classes)
   }
@@ -112,7 +112,7 @@ async function main() {
   let offer: AvailableClass[]
 
   if (resolved.every(isPdf)) {
-    console.log(`Parseando ${resolved.length} PDF(s) do SIGA para ${offerId}...`)
+    console.log(`Parseando ${resolved.length} PDF(s) de oferta para ${offerId}...`)
     offer = anonymizeOffer(await parsePdfSources(resolved))
   } else if (resolved.length === 1 && isJson(resolved[0])) {
     const raw = await readFile(resolved[0], "utf8")

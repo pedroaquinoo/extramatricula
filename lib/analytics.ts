@@ -1,10 +1,13 @@
 import posthog from "posthog-js"
 
-// Analytics are owner-only: events are captured only when PostHog was
-// initialized with NEXT_PUBLIC_POSTHOG_KEY (set exclusively in the owner's
-// deployment). Without a key — the default for forks and clones — this is a
-// no-op and nothing is ever sent.
+import { getCourseById, getOfferId } from "@/lib/curriculum"
+import { getCurrentOfferTerm } from "@/lib/offers"
+import { getShift } from "@/lib/shift"
+import { AnalyticsEvents } from "@/lib/analytics-events"
+
 const analyticsEnabled = Boolean("phc_B9FEPkwx4CT2kf6dCyNfEwgUIdVCVg7J8unhgqyuwsR")
+
+let progressTimer: ReturnType<typeof setTimeout> | undefined
 
 export function captureEvent(
   event: string,
@@ -12,4 +15,27 @@ export function captureEvent(
 ) {
   if (!analyticsEnabled) return
   posthog.capture(event, properties)
+}
+
+export function registerAnalyticsContext(courseId: string, semester: number) {
+  if (!analyticsEnabled) return
+  const course = getCourseById(courseId)
+  const shift = getShift(course)
+  posthog.register({
+    offer_id: getOfferId(courseId),
+    shift: shift ?? undefined,
+    semester,
+    offer_term: getCurrentOfferTerm(),
+  })
+}
+
+export function trackCourseProgressUpdated(passedCount: number, totalCount: number) {
+  if (!analyticsEnabled) return
+  if (progressTimer) clearTimeout(progressTimer)
+  progressTimer = setTimeout(() => {
+    captureEvent(AnalyticsEvents.COURSE_PROGRESS_UPDATED, {
+      passed_count: passedCount,
+      total_count: totalCount,
+    })
+  }, 30_000)
 }

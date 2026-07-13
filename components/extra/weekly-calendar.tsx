@@ -244,7 +244,7 @@ export default function WeeklyCalendar({ classes = [], onRemoveClass }: Calendar
                         {minutesToTime(event.startMinutes)}–
                         {minutesToTime(event.endMinutes)}
                       </div>
-                      <div className="hidden truncate text-xs opacity-75 sm:block">
+                      <div className="text-[10px] leading-tight opacity-75 [overflow-wrap:anywhere] sm:text-xs">
                         {event.class.name}
                       </div>
                     </div>

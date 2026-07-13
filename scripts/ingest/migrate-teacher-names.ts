@@ -1,7 +1,7 @@
 import { readdir, readFile, writeFile } from "fs/promises"
 import path from "path"
 import { anonymizeTeachers } from "./teacher-names"
-import type { AvailableClass } from "./parse-siga-pdf"
+import type { AvailableClass } from "./parse-offer-pdf"
 
 const ROOT = process.cwd()
 const OFFERS_DIR = path.join(ROOT, "data", "offers")

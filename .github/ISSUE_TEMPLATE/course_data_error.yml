@@ -5,10 +5,10 @@ body:
   - type: markdown
     attributes:
       value: |
-        Os dados vêm do SigaUFMG, mas a extração pode ter erros, e a oferta do
-        semestre é um snapshot estático, então pode estar desatualizada.
+        Os dados podem ter erros de extração, e a oferta do semestre é um
+        snapshot estático, então pode estar desatualizada.
 
-        **Inclua a fonte no Siga sempre que possível.** Isso torna a correção trivial.
+        **Inclua a fonte oficial sempre que possível.** Isso torna a correção trivial.
 
   - type: dropdown
     id: kind
@@ -43,10 +43,10 @@ body:
   - type: textarea
     id: expected
     attributes:
-      label: O que o Siga diz, e o que o app mostra?
-      description: Descreva a divergência. Se puder, cole o print da tela do Siga (borrando seus dados pessoais).
+      label: O que a fonte oficial diz, e o que o app mostra?
+      description: Descreva a divergência. Se puder, cole o print da fonte oficial (borrando seus dados pessoais).
       placeholder: |
         O app mostra: DCC001 sem pré-requisitos
-        O Siga diz: DCC001 exige MAT001
+        A fonte oficial diz: DCC001 exige MAT001
     validations:
       required: true

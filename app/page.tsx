@@ -18,6 +18,7 @@ import GithubIcon from "@/components/landing/github-icon"
 import { GITHUB_REPO, GITHUB_URL } from "@/components/landing/constants"
 import { GithubStarCount, STAR_URL } from "@/components/landing/github-stars"
 import { ShareAppButton } from "@/components/landing/share-app-button"
+import { TrackedCtaLink } from "@/components/landing/tracked-cta-link"
 import { getCourseGroups } from "@/lib/curriculum"
 import CoursesList from "@/components/landing/courses-list"
 
@@ -96,13 +97,15 @@ export default function LandingPage() {
 
             <div className="mt-7 flex flex-col items-center justify-center gap-2 sm:flex-row">
               <Button size="lg" className="w-full sm:w-auto" asChild>
-                <Link href="/simulation">
+                <TrackedCtaLink href="/simulation" cta="simulate">
                   Simular meu semestre
                   <ArrowRight className="size-4" />
-                </Link>
+                </TrackedCtaLink>
               </Button>
               <Button size="lg" variant="outline" className="w-full sm:w-auto" asChild>
-                <Link href="/flow">Ver fluxograma</Link>
+                <TrackedCtaLink href="/flow" cta="flow">
+                  Ver fluxograma
+                </TrackedCtaLink>
               </Button>
             </div>
           </div>

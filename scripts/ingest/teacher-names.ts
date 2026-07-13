@@ -2,7 +2,7 @@ const PARTICLES = new Set(["de", "da", "do", "dos", "das", "e"])
 
 const ALREADY_ANONYMIZED = /^[A-ZÀ-Ú][a-zà-ú]+( [A-Z]\.)+$/
 
-const SIGA_ID = /^\d+[A-Z]?$/i
+const NUMERIC_ID = /^\d+[A-Z]?$/i
 
 function titleCase(word: string): string {
   if (!word) return word
@@ -11,7 +11,7 @@ function titleCase(word: string): string {
 
 export function anonymizeTeacherName(raw: string): string | null {
   const name = raw.trim()
-  if (!name || name === "-" || SIGA_ID.test(name)) return null
+  if (!name || name === "-" || NUMERIC_ID.test(name)) return null
   if (ALREADY_ANONYMIZED.test(name)) return name
 
   const parts = name.split(/\s+/).filter(Boolean)

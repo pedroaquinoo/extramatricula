@@ -28,6 +28,7 @@ import { LoadingScreen } from "@/components/extra/loading-screen"
 import { AvailableClass } from "@/hooks/use-available-classes"
 import { useAppStore } from "@/lib/store"
 import { captureEvent } from "@/lib/analytics"
+import { AnalyticsEvents } from "@/lib/analytics-events"
 import { cn } from "@/lib/utils"
 
 type Pane = "classes" | "schedule"
@@ -122,11 +123,13 @@ export default function SimulationPage() {
   }, [optionalCourses])
 
   const handleClassSelect = useCallback(
-    (classData: AvailableClass) => {
-      captureEvent("class_selected", {
-        class_name: classData.name,
-      })
+    (classData: AvailableClass, source: "list" | "search" = "list") => {
+      const isOptional = !userProgramCodes.has(classData.course_id)
       if (planner.isClassSelected(classData)) {
+        captureEvent(AnalyticsEvents.CLASS_REMOVED, {
+          course_code: classData.course_id,
+          source,
+        })
         const classToRemove = planner.state.plannedClasses.find(
           (cls) =>
             cls.course_id === classData.course_id &&
@@ -136,8 +139,27 @@ export default function SimulationPage() {
           planner.removeClass(classToRemove.id)
         }
       } else {
+        captureEvent(AnalyticsEvents.CLASS_ADDED, {
+          course_code: classData.course_id,
+          is_optional: isOptional,
+          source,
+        })
         planner.addClass(classData)
       }
+    },
+    [planner, userProgramCodes],
+  )
+
+  const handleClassRemove = useCallback(
+    (classId: string) => {
+      const classData = planner.state.plannedClasses.find((cls) => cls.id === classId)
+      if (classData) {
+        captureEvent(AnalyticsEvents.CLASS_REMOVED, {
+          course_code: classData.course_id,
+          source: "schedule",
+        })
+      }
+      planner.removeClass(classId)
     },
     [planner],
   )
@@ -215,7 +237,7 @@ export default function SimulationPage() {
           className="mt-0 w-full flex-col gap-4 data-[state=active]:flex data-[state=inactive]:hidden lg:w-2/5 lg:shrink-0 lg:flex-none lg:data-[state=inactive]:flex"
         >
           <ClassSearch
-            onSelectClass={handleClassSelect}
+            onSelectClass={(classData) => handleClassSelect(classData, "search")}
             selectedClasses={planner.state.plannedClasses}
           />
 
@@ -317,7 +339,7 @@ export default function SimulationPage() {
         >
           <WeeklyPlanner
             plannedClasses={planner.state.plannedClasses}
-            onRemoveClass={planner.removeClass}
+            onRemoveClass={handleClassRemove}
             onClearPlanner={planner.clearPlanner}
           />
         </TabsContent>

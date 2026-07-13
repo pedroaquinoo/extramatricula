@@ -1,6 +1,6 @@
 # Contribuindo
 
-Contribuições de estudantes da UFMG são especialmente bem-vindas, inclusive as primeiras contribuições em open source de alguém. Se você travar, abra a PR mesmo assim e a gente revisa junto.
+Contribuições de estudantes são especialmente bem-vindas, inclusive as primeiras contribuições em open source de alguém. Se você travar, abra a PR mesmo assim e a gente revisa junto.
 
 Para mudanças grandes, abra uma issue antes de codar. Vale alinhar a abordagem antes de você gastar um fim de semana nela.
 
@@ -20,20 +20,20 @@ O passo a passo está no [README](README.md#rodando-localmente). Duas armadilhas
 
 A manutenção recorrente mais importante do projeto, e um ótimo primeiro PR.
 
-1. Extraia a oferta do SigaUFMG (manual ou via `scripts/ingest/`).
+1. Faça a ingestão do PDF da oferta (manual ou via `scripts/ingest/`).
 2. Rode `pnpm ingest 2026/1 controle-automacao ./caminho/para/oferta.json` (veja [`scripts/ingest/how-to-ingest.md`](scripts/ingest/how-to-ingest.md)).
 3. Adicione o import do novo arquivo ao mapa `offersByTermAndOfferId` em [lib/offers.ts](lib/offers.ts).
 4. Atualize `current` em [`data/offers/index.json`](data/offers/index.json) se este for o semestre ativo.
 5. Confira o formato contra o snapshot anterior: mesmas chaves, mesmos tipos, mesma convenção de horário. Turmas com código prefixado por `P` são práticas/laboratórios.
 6. Rode `pnpm build` e teste a simulação no app.
 
-Se você automatizar a extração do Siga, seria uma contribuição excelente.
+Se você automatizar a ingestão da oferta, seria uma contribuição excelente.
 
 ## Adicionando um novo curso
 
 Hoje o app cobre apenas Eng. de Controle e Automação (diurno e noturno). Adicionar outros cursos é a maior expansão possível do projeto.
 
-<!-- TODO: documentar o processo: de onde sai a grade no Siga, formato esperado do JSON
+<!-- TODO: documentar o processo: de onde sai a grade, formato esperado do JSON
      em data/curriculum/, como registrar o curso em index.json, e como as cadeias de
      pré-requisitos são representadas. -->
 

@@ -2,6 +2,9 @@
 
 import { useCallback, useSyncExternalStore } from "react"
 
+import { trackCourseProgressUpdated } from "@/lib/analytics"
+import { getClasses } from "@/lib/curriculum"
+
 const STORAGE_KEY = "extramatricula:v1"
 
 export interface AppState {
@@ -72,6 +75,11 @@ export function subscribe(listener: () => void) {
   return () => listeners.delete(listener)
 }
 
+function emitCourseProgressUpdated(courseId: string, passedCount: number) {
+  if (!courseId) return
+  trackCourseProgressUpdated(passedCount, getClasses(courseId).length)
+}
+
 /**
  * Course, period and the history are always written in one shot, by the setup dialog:
  * splitting them would clear `passed` again the moment the course landed. The dialog
@@ -96,7 +104,9 @@ export function togglePassed(code: string) {
     } else {
       passed.add(code)
     }
-    return { ...current, passed: Array.from(passed) }
+    const next = { ...current, passed: Array.from(passed) }
+    emitCourseProgressUpdated(next.courseId, next.passed.length)
+    return next
   })
 }
 
@@ -107,7 +117,9 @@ export function setManyPassed(codes: string[], value: boolean) {
       if (value) passed.add(code)
       else passed.delete(code)
     }
-    return { ...current, passed: Array.from(passed) }
+    const next = { ...current, passed: Array.from(passed) }
+    emitCourseProgressUpdated(next.courseId, next.passed.length)
+    return next
   })
 }
 

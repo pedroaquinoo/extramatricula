@@ -127,6 +127,17 @@
   }
 }
 
+/* iOS zooms the viewport when a focused field is under 16px. Force form controls to
+   16px on mobile so tapping an input never triggers that jump; the md:text-sm-style
+   sizing still applies from the breakpoint up. */
+@media (max-width: 767px) {
+  input,
+  textarea,
+  select {
+    font-size: 16px;
+  }
+}
+
 [data-slot="tabs-list"] {
   position: relative;
   overflow: hidden;

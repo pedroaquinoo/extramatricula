@@ -2,9 +2,9 @@
 
 Planeje sua matrícula na UFMG e veja como sua semana ficaria antes de se comprometer.
 
-O SigaUFMG tem todos os fatos: a grade curricular, as cadeias de pré-requisitos e as turmas ofertadas com horários e professores. Mas entrega tudo como listas separadas, então planejar a matrícula vira um trabalho manual em que um choque de horário só aparece depois que a matrícula já está aberta.
+Os dados oficiais existem: a grade curricular, as cadeias de pré-requisitos e as turmas ofertadas com horários e professores. Mas vêm como listas separadas, então planejar a matrícula vira um trabalho manual em que um choque de horário só aparece depois que a matrícula já está aberta.
 
-O Extramatrícula não substitui o Siga. Ele adiciona a interface que falta: uma oferta que você coloca num calendário, e pré-requisitos que você enxerga.
+O Extramatrícula não substitui o sistema oficial. Ele adiciona a interface que falta: uma oferta que você coloca num calendário, e pré-requisitos que você enxerga.
 
 ## Funcionalidades
 
@@ -19,7 +19,7 @@ Sem conta, sem servidor, sem banco de dados. O app é um bundle estático: o que
 
 ## Dados
 
-Tudo vem do SigaUFMG. Nada é *crowdsourced*.
+Tudo vem de fontes oficiais. Nada é *crowdsourced*.
 
 - **Grade curricular**: JSON estático em [`data/curriculum/`](data/curriculum/), um arquivo por curso, listados em `index.json`.
 - **Oferta do semestre**: JSON estático em [`data/offers/`](data/offers/), um arquivo por curso e semestre (`<termo>/<offerId>.json`). `index.json` aponta o semestre atual.
@@ -68,4 +68,4 @@ Encontrou uma vulnerabilidade? Não abra uma issue pública. Reporte por [securi
 
 ## Aviso
 
-Projeto independente, **sem vínculo oficial com a UFMG**. Os dados derivam do SigaUFMG e podem estar desatualizados. **Sempre confirme sua matrícula no Siga.**
+Projeto independente, **sem vínculo oficial com a UFMG**. Os dados podem estar desatualizados. **Sempre confirme sua matrícula no sistema oficial.**

@@ -3,8 +3,10 @@
 import Link from "next/link"
 import { usePathname } from "next/navigation"
 import { Home, LibraryBig, Network, NotebookPen } from "lucide-react"
-import React from "react"
+import React, { useEffect } from "react"
 
+import { registerAnalyticsContext } from "@/lib/analytics"
+import { useAppStore } from "@/lib/store"
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
 import GithubIcon from "@/components/landing/github-icon"
@@ -89,7 +91,7 @@ function TopBar({ pathname }: { pathname: string }) {
 
 function BottomTabBar({ pathname }: { pathname: string }) {
   return (
-    <nav className="shrink-0 border-t bg-background/95 pb-[env(safe-area-inset-bottom)] backdrop-blur md:hidden">
+    <nav className="shrink-0 border-t bg-background/95 pb-[max(0px,calc(env(safe-area-inset-bottom)-0.5rem))] backdrop-blur md:hidden">
       <div className="flex h-16 items-stretch">
         {navigation.map((item) => {
           const active = pathname === item.href
@@ -115,6 +117,13 @@ function BottomTabBar({ pathname }: { pathname: string }) {
 
 export function AppNav({ children }: { children: React.ReactNode }) {
   const pathname = usePathname()
+  const { courseId, semester } = useAppStore()
+
+  useEffect(() => {
+    if (courseId && semester) {
+      registerAnalyticsContext(courseId, semester)
+    }
+  }, [courseId, semester])
 
   return (
     <div className="flex h-dvh flex-col overflow-hidden">

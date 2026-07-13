@@ -29,6 +29,6 @@ body:
     id: alternatives
     attributes:
       label: Como você contorna isso hoje?
-      description: Planilha, papel, print do Siga? Saber o workaround atual ajuda a entender a dor.
+      description: Planilha, papel, print de outro sistema? Saber o workaround atual ajuda a entender a dor.
     validations:
       required: false

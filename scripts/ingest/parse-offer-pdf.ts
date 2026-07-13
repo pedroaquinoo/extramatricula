@@ -8,9 +8,9 @@ import {
 } from "./pdf-utils"
 
 /**
- * Parser da "Mapa de oferta por curso" exportada do SIGA (UFMG).
+ * Parser da "Mapa de oferta por curso" (PDF da oferta do semestre).
  *
- * O PDF é uma tabela com bordas geradas pelo relatório do SIGA. Cada página
+ * O PDF é uma tabela com bordas gerada pelo relatório de oferta. Cada página
  * repete o cabeçalho e lista as turmas ofertadas para um percurso curricular.
  * A extração é 100% determinística (sem LLM):
  *
@@ -138,8 +138,8 @@ function buildRows(frags: Fragment[], separators: number[]): AvailableClass[] {
   return rows
 }
 
-/** Faz o parse de um único PDF do SIGA e devolve as turmas encontradas. */
-export function parseSigaPdfBuffer(buffer: Buffer): AvailableClass[] {
+/** Faz o parse de um único PDF de oferta e devolve as turmas encontradas. */
+export function parseOfferPdfBuffer(buffer: Buffer): AvailableClass[] {
   const rows: AvailableClass[] = []
   for (const content of extractContentStreams(buffer)) {
     const frags = extractFragments(content)
@@ -149,9 +149,9 @@ export function parseSigaPdfBuffer(buffer: Buffer): AvailableClass[] {
   return rows
 }
 
-export async function parseSigaPdfFile(filePath: string): Promise<AvailableClass[]> {
+export async function parseOfferPdfFile(filePath: string): Promise<AvailableClass[]> {
   const buffer = await readFile(filePath)
-  return parseSigaPdfBuffer(buffer)
+  return parseOfferPdfBuffer(buffer)
 }
 
 /** Deduplica turmas por (course_id, availabilityCode), preservando a ordem. */

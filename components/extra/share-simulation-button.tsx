@@ -4,6 +4,8 @@ import { useState } from "react"
 import { Button } from "@/components/ui/button"
 import { Upload as UploadIcon, Check } from "lucide-react"
 import { WeeklyPlannerState } from "@/hooks/use-weekly-planner"
+import { captureEvent } from "@/lib/analytics"
+import { AnalyticsEvents } from "@/lib/analytics-events"
 import { buildSharePayload, encodeSharePayload } from "@/lib/share"
 import { useAppStore } from "@/lib/store"
 import { cn } from "@/lib/utils"
@@ -26,11 +28,21 @@ export function ShareSimulationButton({
 
   const handleShare = async () => {
     if (simulationState.plannedClasses.length === 0) {
+      captureEvent(AnalyticsEvents.SIMULATION_SHARED, {
+        planned_count: 0,
+        success: false,
+        reason: "empty",
+      })
       toast.error("Adicione disciplinas antes de compartilhar com amigos")
       return
     }
 
     if (!courseId) {
+      captureEvent(AnalyticsEvents.SIMULATION_SHARED, {
+        planned_count: simulationState.plannedClasses.length,
+        success: false,
+        reason: "no_course",
+      })
       toast.error("Selecione um curso antes de compartilhar")
       return
     }
@@ -50,11 +62,20 @@ export function ShareSimulationButton({
 
       await navigator.clipboard.writeText(shareUrl)
       setIsCopied(true)
+      captureEvent(AnalyticsEvents.SIMULATION_SHARED, {
+        planned_count: simulationState.plannedClasses.length,
+        success: true,
+      })
       toast.success("Link copiado para a área de transferência!")
 
       setTimeout(() => setIsCopied(false), 2000)
     } catch (error) {
       console.error("Error sharing simulation:", error)
+      captureEvent(AnalyticsEvents.SIMULATION_SHARED, {
+        planned_count: simulationState.plannedClasses.length,
+        success: false,
+        reason: "error",
+      })
       toast.error("Erro ao compartilhar simulação")
     } finally {
       setIsSharing(false)
