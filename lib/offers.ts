@@ -17,6 +17,8 @@ const offerLoaders: Record<string, () => Promise<{ default: AvailableClass[] }>>
     import("@/data/offers/2026-2/arquitetura.json"),
   "2026/2:ciencia-computacao": () =>
     import("@/data/offers/2026-2/ciencia-computacao.json"),
+  "2026/2:ciencia-de-dados": () =>
+    import("@/data/offers/2026-2/ciencia-de-dados.json"),
   "2026/2:ciencias-atuariais": () =>
     import("@/data/offers/2026-2/ciencias-atuariais.json"),
   "2026/2:ciencias-contabeis": () =>
@@ -69,12 +71,22 @@ const offerLoaders: Record<string, () => Promise<{ default: AvailableClass[] }>>
     import("@/data/offers/2026-2/fisica.json"),
   "2026/2:geologia": () =>
     import("@/data/offers/2026-2/geologia.json"),
+  "2026/2:jornalismo": () =>
+    import("@/data/offers/2026-2/jornalismo.json"),
+  "2026/2:matematica": () =>
+    import("@/data/offers/2026-2/matematica.json"),
+  "2026/2:matematica-computacional": () =>
+    import("@/data/offers/2026-2/matematica-computacional.json"),
   "2026/2:medicina": () =>
     import("@/data/offers/2026-2/medicina.json"),
+  "2026/2:nutricao": () =>
+    import("@/data/offers/2026-2/nutricao.json"),
   "2026/2:odontologia": () =>
     import("@/data/offers/2026-2/odontologia.json"),
   "2026/2:psicologia": () =>
     import("@/data/offers/2026-2/psicologia.json"),
+  "2026/2:publicidade-propaganda": () =>
+    import("@/data/offers/2026-2/publicidade-propaganda.json"),
   "2026/2:relacoes-economicas-internacionais": () =>
     import("@/data/offers/2026-2/relacoes-economicas-internacionais.json"),
   "2026/2:sistemas-informacao": () =>

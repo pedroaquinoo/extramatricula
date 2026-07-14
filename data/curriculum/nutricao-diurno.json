@@ -1,0 +1,397 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "GEE015",
+      "name": "Ecologia Humana",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "GEO501",
+      "name": "Geoeconomia em Nutrição",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "NUT002",
+      "name": "Atividades Práticas Integradoras a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "NUT003",
+      "name": "Atividade Prática Monitorada a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "NUT098",
+      "name": "Composição dos Alimentos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "NUT110",
+      "name": "Introdução À Nutrição",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "NUT149",
+      "name": "Ética e Cultura",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "NUT150",
+      "name": "Alimentação e Cultura",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI099",
+      "name": "Quimica Fundamental I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EST083",
+      "name": "Bioestatistica Basica F",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "GEE029",
+      "name": "Genética e Nutrição",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF622",
+      "name": "Anatomia Humana Aplicada À Nutrição",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF623",
+      "name": "Citologia e Histologia Aplicada À Nutrição",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MPS014",
+      "name": "Alimentacao e Sociedade",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "NUT097",
+      "name": "Atividades Práticas Integradoras B",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "NUT111",
+      "name": "Atividde Prática Monitorada B",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "QUI100",
+      "name": "Quimica Fundamental II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ALM017",
+      "name": "Higiene e Microbiologia de Alimentos",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ALM018",
+      "name": "Quimica e Bioquimica de Alimentos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "BIQ611",
+      "name": "Bioquímica Nutricional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIB617",
+      "name": "Fisiologia Aplicada À Nutrição",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "NUT007",
+      "name": "Atividade Prática Monitorada C",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "NUT008",
+      "name": "Atividades Práticas Integradoras C",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "NUT105",
+      "name": "Imunologia Aplicada À Nutrição",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ALM023",
+      "name": "Analise de Alimentos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "NUT009",
+      "name": "Avaliação Nutricional",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "NUT011",
+      "name": "Atividade Prática Monitorada D",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "NUT106",
+      "name": "Educação Alimentar e Nutricional",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "NUT112",
+      "name": "Ciclos da Vida",
+      "description": null,
+      "credits": 9,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ALM024",
+      "name": "Processamento de Alimentos",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EMI609",
+      "name": "Epidemiologia e Saúde Coletiva",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "NUT014",
+      "name": "Atividades Práticas Monitoradas e",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "NUT016",
+      "name": "Planejamento de Cardápio",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "NUT071",
+      "name": "Gestão em Produção de Refeições I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "NUT072",
+      "name": "Técnica Dietética",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "NUT107",
+      "name": "Epidemiologia Nutricional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "NUT017",
+      "name": "Terapia Nutricional I",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "NUT018",
+      "name": "Nutrição em Saúde Pública",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "NUT096",
+      "name": "Gestão em Produção de Refeições II",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "NUT108",
+      "name": "Marketing em Nutrição",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "NUT109",
+      "name": "Nutrição Esportiva",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ALM026",
+      "name": "Introducao a Toxicologia dos Alimentos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "NUT113",
+      "name": "Estágio Supervisionado em Nutrição em Saúde Pública",
+      "description": null,
+      "credits": 12,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "NUT117",
+      "name": "Terapia Nutricional II",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "NUT151",
+      "name": "Bioética",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "NUT114",
+      "name": "Estágio Supervisionado em Unidades Produtoras de Refeições",
+      "description": null,
+      "credits": 12,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "NUT116",
+      "name": "Estágio Supervisionado em Nutrição Clínica",
+      "description": null,
+      "credits": 12,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "NUT100",
+      "name": "Trabalho de Conclusão de Curso",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "NUT115",
+      "name": "Estágio Supervisionado em Internato Rural",
+      "description": null,
+      "credits": 11,
+      "elective": false
+    }
+  ],
+  "prerequisites": []
+}

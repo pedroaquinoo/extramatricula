@@ -274,5 +274,47 @@
     "name": "Geologia",
     "offerId": "geologia",
     "shift": "diurno"
+  },
+  {
+    "id": "ciencia-de-dados-vespertino",
+    "name": "Ciência de Dados",
+    "offerId": "ciencia-de-dados",
+    "shift": "vespertino"
+  },
+  {
+    "id": "jornalismo-diurno",
+    "name": "Jornalismo",
+    "offerId": "jornalismo",
+    "shift": "diurno"
+  },
+  {
+    "id": "jornalismo-noturno",
+    "name": "Jornalismo",
+    "offerId": "jornalismo",
+    "shift": "noturno"
+  },
+  {
+    "id": "matematica-computacional-vespertino",
+    "name": "Matemática Computacional",
+    "offerId": "matematica-computacional",
+    "shift": "vespertino"
+  },
+  {
+    "id": "matematica-diurno",
+    "name": "Matemática",
+    "offerId": "matematica",
+    "shift": "diurno"
+  },
+  {
+    "id": "nutricao-diurno",
+    "name": "Nutrição",
+    "offerId": "nutricao",
+    "shift": "diurno"
+  },
+  {
+    "id": "publicidade-propaganda-diurno",
+    "name": "Publicidade e Propaganda",
+    "offerId": "publicidade-propaganda",
+    "shift": "diurno"
   }
 ]

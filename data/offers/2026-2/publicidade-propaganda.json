@@ -1,0 +1,974 @@
+[
+  {
+    "course_id": "CAD610",
+    "name": "MERCADOLOGIA",
+    "availabilityCode": "TMEPP",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Fabio R. F. B."
+    ]
+  },
+  {
+    "course_id": "COM055",
+    "name": "COMUNICACAO E POLITICA",
+    "availabilityCode": "T2",
+    "spots": 33,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Camilo O. A."
+    ]
+  },
+  {
+    "course_id": "COM056",
+    "name": "TEORIAS DA IMAGEM",
+    "availabilityCode": "T1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Erico O. A. L."
+    ]
+  },
+  {
+    "course_id": "COM085",
+    "name": "TECNICAS, PROCESSOS E LINGUAGEM DA PUBLICIDADE",
+    "availabilityCode": "TTPPP",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Ana K. C. O."
+    ]
+  },
+  {
+    "course_id": "COM086",
+    "name": "TEORIAS DA OPINIAO PUBLICA",
+    "availabilityCode": "T1",
+    "spots": 42,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Rousiley C. M. M."
+    ]
+  },
+  {
+    "course_id": "COM087",
+    "name": "TOPICOS EM COMUNICACAO SOCIAL - Comissão de Estágio não obrigatório",
+    "availabilityCode": "TCEST",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Ettore S. M."
+    ]
+  },
+  {
+    "course_id": "COM088",
+    "name": "TOPICOS EM COMUNICACAO SOCIAL - Cinema e arte contemporânea",
+    "availabilityCode": "T1",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Eduardo A. J."
+    ]
+  },
+  {
+    "course_id": "COM088",
+    "name": "TOPICOS EM COMUNICACAO SOCIAL - -",
+    "availabilityCode": "T18",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Leandro A. B. L."
+    ]
+  },
+  {
+    "course_id": "COM088",
+    "name": "TOPICOS EM COMUNICACAO SOCIAL - Cinema e Feminismo",
+    "availabilityCode": "T2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Roberta O. V."
+    ]
+  },
+  {
+    "course_id": "COM088",
+    "name": "TOPICOS EM COMUNICACAO SOCIAL - mídia, democracia e golpes na América Latina",
+    "availabilityCode": "T4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Angela M. C. D."
+    ]
+  },
+  {
+    "course_id": "COM088",
+    "name": "TOPICOS EM COMUNICACAO SOCIAL - Cultura Pop nos séculos XX e XXI",
+    "availabilityCode": "T6",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Andre M. M."
+    ]
+  },
+  {
+    "course_id": "COM088",
+    "name": "TOPICOS EM COMUNICACAO SOCIAL - Startups de jornalismo",
+    "availabilityCode": "T7",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Carlos F. B. D. A."
+    ]
+  },
+  {
+    "course_id": "COM088",
+    "name": "TOPICOS EM COMUNICACAO SOCIAL - Comunicação, Arte e Tecnologia. Movimentos artísticos e uso de Inteligência Artificial. Arte generativa e computacional.",
+    "availabilityCode": "TCATP",
+    "spots": 40,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "COM088",
+    "name": "TOPICOS EM COMUNICACAO SOCIAL - Ainda não definido",
+    "availabilityCode": "TTCPP",
+    "spots": 25,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "COM309",
+    "name": "OFICINA DE NARRATIVAS AUDIOVISUAIS",
+    "availabilityCode": "PONA3",
+    "spots": 28,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Eduardo A. J."
+    ]
+  },
+  {
+    "course_id": "COM309",
+    "name": "OFICINA DE NARRATIVAS AUDIOVISUAIS",
+    "availabilityCode": "PONA5",
+    "spots": 28,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Claudia C. M."
+    ]
+  },
+  {
+    "course_id": "COM310",
+    "name": "PROJETOS A I",
+    "availabilityCode": "TAIPP",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Luciana O."
+    ]
+  },
+  {
+    "course_id": "COM314",
+    "name": "PROCESSOS DE CRIACAO EM MIDIAS DIGITAIS",
+    "availabilityCode": "T3",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Andre G. M."
+    ]
+  },
+  {
+    "course_id": "COM317",
+    "name": "PROJETOS B I - PUBLICIDADE",
+    "availabilityCode": "TB1PP",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Tiago B. P. S."
+    ]
+  },
+  {
+    "course_id": "COM325",
+    "name": "PROJETOS C - PUBLICIDADE",
+    "availabilityCode": "TPCPP",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Ettore S. M."
+    ]
+  },
+  {
+    "course_id": "COM330",
+    "name": "NOVAS ESTETICAS DA IMAGEM",
+    "availabilityCode": "T1",
+    "spots": 43,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Roberta O. V."
+    ]
+  },
+  {
+    "course_id": "COM332",
+    "name": "ESTUDOS EM COMUNICACAO",
+    "availabilityCode": "T1",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Paula G. S."
+    ]
+  },
+  {
+    "course_id": "COM348",
+    "name": "LABORATORIO DE CRIACAO PUBLICITARIA",
+    "availabilityCode": "PCPPP",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Tiago B. P. S."
+    ]
+  },
+  {
+    "course_id": "COM350",
+    "name": "LABORATORIO DE PLANEJAMENTO DE CAMPANHA",
+    "availabilityCode": "P1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Ettore S. M."
+    ]
+  },
+  {
+    "course_id": "COM353",
+    "name": "REDACAO PUBLICITARIA",
+    "availabilityCode": "TRPPP",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Vanessa C. B."
+    ]
+  },
+  {
+    "course_id": "COM354",
+    "name": "TOPICOS EM LABORATORIO DE COMUNICACAO SOCIAL - Gerenciamento de crise",
+    "availabilityCode": "P10",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Daniel R. S."
+    ]
+  },
+  {
+    "course_id": "COM354",
+    "name": "TOPICOS EM LABORATORIO DE COMUNICACAO SOCIAL - Laboratório de Jornalismo Audiovisual",
+    "availabilityCode": "P19",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Fernanda M. S."
+    ]
+  },
+  {
+    "course_id": "COM354",
+    "name": "TOPICOS EM LABORATORIO DE COMUNICACAO SOCIAL - Laboratório de produção de podcast",
+    "availabilityCode": "P23",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Phellipy P. J."
+    ]
+  },
+  {
+    "course_id": "COM354",
+    "name": "TOPICOS EM LABORATORIO DE COMUNICACAO SOCIAL - Educação Midiática",
+    "availabilityCode": "P25",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Braulio B. N."
+    ]
+  },
+  {
+    "course_id": "COM354",
+    "name": "TOPICOS EM LABORATORIO DE COMUNICACAO SOCIAL - Análise crítica de dados",
+    "availabilityCode": "P3",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Carlos F. B. D. A."
+    ]
+  },
+  {
+    "course_id": "COM354",
+    "name": "TOPICOS EM LABORATORIO DE COMUNICACAO SOCIAL - Retratos Audiovisuais de Mestras e Mestres dos Saberes Tradicionais",
+    "availabilityCode": "P32",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Cesar G. G."
+    ]
+  },
+  {
+    "course_id": "COM354",
+    "name": "TOPICOS EM LABORATORIO DE COMUNICACAO SOCIAL - -",
+    "availabilityCode": "P34",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ricardo A. F. L."
+    ]
+  },
+  {
+    "course_id": "COM354",
+    "name": "TOPICOS EM LABORATORIO DE COMUNICACAO SOCIAL - O que são os estudos culturais?",
+    "availabilityCode": "P4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Laura G. C."
+    ]
+  },
+  {
+    "course_id": "COM354",
+    "name": "TOPICOS EM LABORATORIO DE COMUNICACAO SOCIAL - Produtos Comunicacionais em Educação Inclusiva",
+    "availabilityCode": "P7",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Regiane L. O. G."
+    ]
+  },
+  {
+    "course_id": "COM663",
+    "name": "TEORIAS DA COMUNICACAO",
+    "availabilityCode": "TTCPP",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Paula G. S."
+    ]
+  },
+  {
+    "course_id": "COM680",
+    "name": "PESQUISA NA ÁREA DE COMUNICAÇÃO",
+    "availabilityCode": "TPQC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Mariana A. F."
+    ]
+  },
+  {
+    "course_id": "COM707",
+    "name": "SEMINÁRIO DE PROJETO EXPERIMENTAL - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "TPEPP",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Thales V. L."
+    ]
+  },
+  {
+    "course_id": "COM708",
+    "name": "PROJETO EXPERIMENTAL I - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE1BM",
+    "spots": 20,
+    "times": [],
+    "teachers": [
+      "Bruno G. M."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PC",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Daniel R. S."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE2AK",
+    "spots": 10,
+    "times": [],
+    "teachers": [
+      "Ana K. C. O."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE2AM",
+    "spots": 6,
+    "times": [],
+    "teachers": [
+      "Andre M. M."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE2AV",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Ana C. S. C. V."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE2BM",
+    "spots": 10,
+    "times": [],
+    "teachers": [
+      "Bruno G. M."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE2CC",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Claudia C. M."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE2DA",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Douglas A. F."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE2EO",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Erico O. A. L."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE2FM",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Fernanda M. S."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE2GA",
+    "spots": 4,
+    "times": [],
+    "teachers": [
+      "Geane C. A."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE2JM",
+    "spots": 4,
+    "times": [],
+    "teachers": [
+      "Juliana M. M. C."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE2LA",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Leandro A. B. L."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE2LG",
+    "spots": 4,
+    "times": [],
+    "teachers": [
+      "Laura G. C."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE2PG",
+    "spots": 4,
+    "times": [],
+    "teachers": [
+      "Paula G. S."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE2RM",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Rousiley C. M. M."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE2SM",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Simone M. R."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE2VC",
+    "spots": 4,
+    "times": [],
+    "teachers": [
+      "Vanessa C. B."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PE2VV",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Vanessa V. O."
+    ]
+  },
+  {
+    "course_id": "COM709",
+    "name": "PROJETO EXPERIMENTAL II - PUBLICIDADE E PROPAGANDA",
+    "availabilityCode": "PPE2B",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Bruno G. M."
+    ]
+  },
+  {
+    "course_id": "FTC051",
+    "name": "OFICINA DE FOTOGRAFIA",
+    "availabilityCode": "PMXPP",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Patricia G. A."
+    ]
+  },
+  {
+    "course_id": "FTC051",
+    "name": "OFICINA DE FOTOGRAFIA",
+    "availabilityCode": "PMYPP",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Adolfo E. C. P."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  }
+]

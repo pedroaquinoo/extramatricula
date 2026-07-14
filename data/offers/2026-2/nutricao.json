@@ -1,0 +1,2550 @@
+[
+  {
+    "course_id": "ALM017",
+    "name": "HIGIENE E MICROBIOLOGIA DE ALIMENTOS",
+    "availabilityCode": "PA1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Roseane B. P. O."
+    ]
+  },
+  {
+    "course_id": "ALM017",
+    "name": "HIGIENE E MICROBIOLOGIA DE ALIMENTOS",
+    "availabilityCode": "PA2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Roseane B. P. O."
+    ]
+  },
+  {
+    "course_id": "ALM017",
+    "name": "HIGIENE E MICROBIOLOGIA DE ALIMENTOS",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Roseane B. P. O."
+    ]
+  },
+  {
+    "course_id": "ALM018",
+    "name": "QUIMICA E BIOQUIMICA DE ALIMENTOS",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Bruno M. D. P."
+    ]
+  },
+  {
+    "course_id": "ALM020",
+    "name": "ANALISE SENSORIAL DE ALIMENTOS",
+    "availabilityCode": "TA",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Camila A. F."
+    ]
+  },
+  {
+    "course_id": "ALM021",
+    "name": "ALIMENTOS FUNCIONAIS",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Ana P. C. S.",
+      "Lucilene R. A."
+    ]
+  },
+  {
+    "course_id": "ALM023",
+    "name": "ANALISE DE ALIMENTOS",
+    "availabilityCode": "PA1",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ALM023",
+    "name": "ANALISE DE ALIMENTOS",
+    "availabilityCode": "PB1",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ALM023",
+    "name": "ANALISE DE ALIMENTOS",
+    "availabilityCode": "TA",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "14:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ALM023",
+    "name": "ANALISE DE ALIMENTOS",
+    "availabilityCode": "TB",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "14:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ALM024",
+    "name": "PROCESSAMENTO DE ALIMENTOS",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:00",
+        "end": "11:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:00",
+        "end": "11:30"
+      }
+    ],
+    "teachers": [
+      "Maria A. V. T. G."
+    ]
+  },
+  {
+    "course_id": "ALM026",
+    "name": "INTRODUCAO A TOXICOLOGIA DOS ALIMENTOS",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": [
+      "Flavia B. C."
+    ]
+  },
+  {
+    "course_id": "BIQ611",
+    "name": "BIOQUÍMICA NUTRICIONAL",
+    "availabilityCode": "TN",
+    "spots": 44,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EFI040",
+    "name": "FISIOLOGIA DO EXERCICIO E NUTRICAO",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:50"
+      }
+    ],
+    "teachers": [
+      "Danusa D. S."
+    ]
+  },
+  {
+    "course_id": "EFM044",
+    "name": "TOPICOS EM NUTRICAO II - Terapia Nutricional em Pediatria",
+    "availabilityCode": "TA1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EFM044",
+    "name": "TOPICOS EM NUTRICAO II - Antropologia da Nutrição",
+    "availabilityCode": "TA2",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": [
+      "Vanessa A. F."
+    ]
+  },
+  {
+    "course_id": "EFM044",
+    "name": "TOPICOS EM NUTRICAO II - Alimentos para fins especiais",
+    "availabilityCode": "TA3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:10",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Ana P. C. S."
+    ]
+  },
+  {
+    "course_id": "EFM045",
+    "name": "TOPICOS EM NUTRICAO III - Prática de Processamento de Alimentos",
+    "availabilityCode": "TA1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Silvana M."
+    ]
+  },
+  {
+    "course_id": "EFM045",
+    "name": "TOPICOS EM NUTRICAO III - Rotulagem de Alimentos",
+    "availabilityCode": "TA2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:10",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Ana P. C. S."
+    ]
+  },
+  {
+    "course_id": "EMI609",
+    "name": "EPIDEMIOLOGIA E SAÚDE COLETIVA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EST083",
+    "name": "BIOESTATISTICA BASICA F",
+    "availabilityCode": "TM",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Magda C. P."
+    ]
+  },
+  {
+    "course_id": "FIB617",
+    "name": "FISIOLOGIA APLICADA À NUTRIÇÃO",
+    "availabilityCode": "TN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Juliana C. T."
+    ]
+  },
+  {
+    "course_id": "GEE015",
+    "name": "ECOLOGIA HUMANA",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "GEE029",
+    "name": "GENÉTICA E NUTRIÇÃO",
+    "availabilityCode": "TN",
+    "spots": 38,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "GEO501",
+    "name": "GEOECONOMIA EM NUTRIÇÃO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Ricardo A. G."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MOF622",
+    "name": "ANATOMIA HUMANA APLICADA À NUTRIÇÃO",
+    "availabilityCode": "TN1",
+    "spots": 42,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Paula R. M."
+    ]
+  },
+  {
+    "course_id": "MOF623",
+    "name": "CITOLOGIA E HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "availabilityCode": "TN",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Juliana A. S. G. E."
+    ]
+  },
+  {
+    "course_id": "MPS014",
+    "name": "ALIMENTACAO E SOCIEDADE",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "NUT002",
+    "name": "ATIVIDADES PRÁTICAS INTEGRADORAS A",
+    "availabilityCode": "PA1",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Larissa L. M."
+    ]
+  },
+  {
+    "course_id": "NUT002",
+    "name": "ATIVIDADES PRÁTICAS INTEGRADORAS A",
+    "availabilityCode": "PA2",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Larissa L. M."
+    ]
+  },
+  {
+    "course_id": "NUT009",
+    "name": "AVALIAÇÃO NUTRICIONAL",
+    "availabilityCode": "TA",
+    "spots": 38,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Luana C. S.",
+      "Ana L. M. S."
+    ]
+  },
+  {
+    "course_id": "NUT011",
+    "name": "ATIVIDADE PRÁTICA MONITORADA D",
+    "availabilityCode": "PA1",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ann K. J."
+    ]
+  },
+  {
+    "course_id": "NUT011",
+    "name": "ATIVIDADE PRÁTICA MONITORADA D",
+    "availabilityCode": "PA2",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ann K. J."
+    ]
+  },
+  {
+    "course_id": "NUT011",
+    "name": "ATIVIDADE PRÁTICA MONITORADA D",
+    "availabilityCode": "PA3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ann K. J."
+    ]
+  },
+  {
+    "course_id": "NUT014",
+    "name": "ATIVIDADES PRÁTICAS MONITORADAS E",
+    "availabilityCode": "PA1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Nathalia S. G."
+    ]
+  },
+  {
+    "course_id": "NUT014",
+    "name": "ATIVIDADES PRÁTICAS MONITORADAS E",
+    "availabilityCode": "PA2",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Nathalia S. G."
+    ]
+  },
+  {
+    "course_id": "NUT014",
+    "name": "ATIVIDADES PRÁTICAS MONITORADAS E",
+    "availabilityCode": "PA3",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Nathalia S. G."
+    ]
+  },
+  {
+    "course_id": "NUT014",
+    "name": "ATIVIDADES PRÁTICAS MONITORADAS E",
+    "availabilityCode": "PA4",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Nathalia S. G."
+    ]
+  },
+  {
+    "course_id": "NUT016",
+    "name": "PLANEJAMENTO DE CARDÁPIO",
+    "availabilityCode": "PA1",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Marcia R. P. M."
+    ]
+  },
+  {
+    "course_id": "NUT016",
+    "name": "PLANEJAMENTO DE CARDÁPIO",
+    "availabilityCode": "PA2",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Marcia R. P. M."
+    ]
+  },
+  {
+    "course_id": "NUT016",
+    "name": "PLANEJAMENTO DE CARDÁPIO",
+    "availabilityCode": "TA",
+    "spots": 38,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "15:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Marcia R. P. M."
+    ]
+  },
+  {
+    "course_id": "NUT017",
+    "name": "TERAPIA NUTRICIONAL I",
+    "availabilityCode": "PA1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Luciana B. R.",
+      "Marina C. O."
+    ]
+  },
+  {
+    "course_id": "NUT017",
+    "name": "TERAPIA NUTRICIONAL I",
+    "availabilityCode": "PA2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Luciana B. R.",
+      "Marina C. O."
+    ]
+  },
+  {
+    "course_id": "NUT017",
+    "name": "TERAPIA NUTRICIONAL I",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Luciana B. R."
+    ]
+  },
+  {
+    "course_id": "NUT018",
+    "name": "NUTRIÇÃO EM SAÚDE PÚBLICA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Larissa L. M.",
+      "Rafael M. C."
+    ]
+  },
+  {
+    "course_id": "NUT071",
+    "name": "GESTÃO EM PRODUÇÃO DE REFEIÇÕES I",
+    "availabilityCode": "PA1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Marlene A. M. M."
+    ]
+  },
+  {
+    "course_id": "NUT071",
+    "name": "GESTÃO EM PRODUÇÃO DE REFEIÇÕES I",
+    "availabilityCode": "PA2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Marlene A. M. M."
+    ]
+  },
+  {
+    "course_id": "NUT071",
+    "name": "GESTÃO EM PRODUÇÃO DE REFEIÇÕES I",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Nathalia S. G."
+    ]
+  },
+  {
+    "course_id": "NUT072",
+    "name": "TÉCNICA DIETÉTICA",
+    "availabilityCode": "PA1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Gilberto S. H."
+    ]
+  },
+  {
+    "course_id": "NUT072",
+    "name": "TÉCNICA DIETÉTICA",
+    "availabilityCode": "PA2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Gilberto S. H."
+    ]
+  },
+  {
+    "course_id": "NUT072",
+    "name": "TÉCNICA DIETÉTICA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Gilberto S. H."
+    ]
+  },
+  {
+    "course_id": "NUT083",
+    "name": "DETERMINANTES AMBIENTAIS DE ALIMENTAÇÃO",
+    "availabilityCode": "TFER",
+    "spots": 38,
+    "times": [],
+    "teachers": [
+      "Larissa L. M."
+    ]
+  },
+  {
+    "course_id": "NUT096",
+    "name": "GESTÃO EM PRODUÇÃO DE REFEIÇÕES II",
+    "availabilityCode": "PA1",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Juliana C. L."
+    ]
+  },
+  {
+    "course_id": "NUT096",
+    "name": "GESTÃO EM PRODUÇÃO DE REFEIÇÕES II",
+    "availabilityCode": "PA2",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Juliana C. L."
+    ]
+  },
+  {
+    "course_id": "NUT096",
+    "name": "GESTÃO EM PRODUÇÃO DE REFEIÇÕES II",
+    "availabilityCode": "TA",
+    "spots": 42,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Bruna V. L. C.",
+      "Juliana C. L."
+    ]
+  },
+  {
+    "course_id": "NUT097",
+    "name": "ATIVIDADES PRÁTICAS INTEGRADORAS B",
+    "availabilityCode": "PA1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Juliana C. L."
+    ]
+  },
+  {
+    "course_id": "NUT097",
+    "name": "ATIVIDADES PRÁTICAS INTEGRADORAS B",
+    "availabilityCode": "PA2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Juliana C. L."
+    ]
+  },
+  {
+    "course_id": "NUT097",
+    "name": "ATIVIDADES PRÁTICAS INTEGRADORAS B",
+    "availabilityCode": "PA3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Juliana C. L."
+    ]
+  },
+  {
+    "course_id": "NUT098",
+    "name": "COMPOSIÇÃO DOS ALIMENTOS",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Bruna V. L. C."
+    ]
+  },
+  {
+    "course_id": "NUT100",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:00",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Marina C. O.",
+      "Simone V. G."
+    ]
+  },
+  {
+    "course_id": "NUT105",
+    "name": "IMUNOLOGIA APLICADA À NUTRIÇÃO",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": [
+      "Tatiani U. M."
+    ]
+  },
+  {
+    "course_id": "NUT106",
+    "name": "EDUCAÇÃO ALIMENTAR E NUTRICIONAL",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Aline C. S. L.",
+      "Larissa L. M."
+    ]
+  },
+  {
+    "course_id": "NUT107",
+    "name": "EPIDEMIOLOGIA NUTRICIONAL",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Milene C. P."
+    ]
+  },
+  {
+    "course_id": "NUT108",
+    "name": "MARKETING EM NUTRIÇÃO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Juliana C. L."
+    ]
+  },
+  {
+    "course_id": "NUT109",
+    "name": "NUTRIÇÃO ESPORTIVA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Rafael L. S. B."
+    ]
+  },
+  {
+    "course_id": "NUT110",
+    "name": "INTRODUÇÃO À NUTRIÇÃO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Adaliene V. M. F.",
+      "Larissa L. M."
+    ]
+  },
+  {
+    "course_id": "NUT111",
+    "name": "ATIVIDADE PRÁTICA MONITORADA B",
+    "availabilityCode": "PA1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Rafael L. S. B."
+    ]
+  },
+  {
+    "course_id": "NUT111",
+    "name": "ATIVIDADE PRÁTICA MONITORADA B",
+    "availabilityCode": "PA2",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Rafael L. S. B."
+    ]
+  },
+  {
+    "course_id": "NUT111",
+    "name": "ATIVIDADE PRÁTICA MONITORADA B",
+    "availabilityCode": "PA3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Rafael L. S. B."
+    ]
+  },
+  {
+    "course_id": "NUT112",
+    "name": "CICLOS DA VIDA",
+    "availabilityCode": "PA1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ann K. J.",
+      "Rafael L. S. B.",
+      "Luana C. S."
+    ]
+  },
+  {
+    "course_id": "NUT112",
+    "name": "CICLOS DA VIDA",
+    "availabilityCode": "PA2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ann K. J.",
+      "Rafael L. S. B.",
+      "Luana C. S."
+    ]
+  },
+  {
+    "course_id": "NUT112",
+    "name": "CICLOS DA VIDA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "16:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Rafael L. S. B.",
+      "Luana C. S.",
+      "Ann K. J."
+    ]
+  },
+  {
+    "course_id": "NUT113",
+    "name": "ESTÁGIO SUPERVISIONADO EM NUTRIÇÃO EM SAÚDE PÚBLICA",
+    "availabilityCode": "PA1",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Vanessa A. F.",
+      "Mariana C. M."
+    ]
+  },
+  {
+    "course_id": "NUT113",
+    "name": "ESTÁGIO SUPERVISIONADO EM NUTRIÇÃO EM SAÚDE PÚBLICA",
+    "availabilityCode": "PA2",
+    "spots": 7,
+    "times": [],
+    "teachers": [
+      "Milene C. P."
+    ]
+  },
+  {
+    "course_id": "NUT113",
+    "name": "ESTÁGIO SUPERVISIONADO EM NUTRIÇÃO EM SAÚDE PÚBLICA",
+    "availabilityCode": "PA3",
+    "spots": 6,
+    "times": [],
+    "teachers": [
+      "Aline C. S. L.",
+      "Vanessa A. F.",
+      "Mariana C. M."
+    ]
+  },
+  {
+    "course_id": "NUT113",
+    "name": "ESTÁGIO SUPERVISIONADO EM NUTRIÇÃO EM SAÚDE PÚBLICA",
+    "availabilityCode": "PA4",
+    "spots": 6,
+    "times": [],
+    "teachers": [
+      "Vanessa A. F."
+    ]
+  },
+  {
+    "course_id": "NUT113",
+    "name": "ESTÁGIO SUPERVISIONADO EM NUTRIÇÃO EM SAÚDE PÚBLICA",
+    "availabilityCode": "PA5",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Mariana C. M.",
+      "Aline C. S. L."
+    ]
+  },
+  {
+    "course_id": "NUT113",
+    "name": "ESTÁGIO SUPERVISIONADO EM NUTRIÇÃO EM SAÚDE PÚBLICA",
+    "availabilityCode": "PA6",
+    "spots": 7,
+    "times": [],
+    "teachers": [
+      "Mariana C. M."
+    ]
+  },
+  {
+    "course_id": "NUT113",
+    "name": "ESTÁGIO SUPERVISIONADO EM NUTRIÇÃO EM SAÚDE PÚBLICA",
+    "availabilityCode": "PA7",
+    "spots": 6,
+    "times": [],
+    "teachers": [
+      "Vanessa A. F.",
+      "Milene C. P."
+    ]
+  },
+  {
+    "course_id": "NUT114",
+    "name": "ESTÁGIO SUPERVISIONADO EM UNIDADES PRODUTORAS DE REFEIÇÕES",
+    "availabilityCode": "PA1",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Bruna V. L. C."
+    ]
+  },
+  {
+    "course_id": "NUT114",
+    "name": "ESTÁGIO SUPERVISIONADO EM UNIDADES PRODUTORAS DE REFEIÇÕES",
+    "availabilityCode": "PA2",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Simone C. L. P.",
+      "Marcia R. P. M."
+    ]
+  },
+  {
+    "course_id": "NUT114",
+    "name": "ESTÁGIO SUPERVISIONADO EM UNIDADES PRODUTORAS DE REFEIÇÕES",
+    "availabilityCode": "PA3",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Juliana C. L.",
+      "Marlene A. M. M."
+    ]
+  },
+  {
+    "course_id": "NUT114",
+    "name": "ESTÁGIO SUPERVISIONADO EM UNIDADES PRODUTORAS DE REFEIÇÕES",
+    "availabilityCode": "PA3T",
+    "spots": 1,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Marcia R. P. M."
+    ]
+  },
+  {
+    "course_id": "NUT114",
+    "name": "ESTÁGIO SUPERVISIONADO EM UNIDADES PRODUTORAS DE REFEIÇÕES",
+    "availabilityCode": "PA4",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Bruna V. L. C."
+    ]
+  },
+  {
+    "course_id": "NUT114",
+    "name": "ESTÁGIO SUPERVISIONADO EM UNIDADES PRODUTORAS DE REFEIÇÕES",
+    "availabilityCode": "PA5",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Marcia R. P. M.",
+      "Marlene A. M. M.",
+      "Bruna V. L. C."
+    ]
+  },
+  {
+    "course_id": "NUT114",
+    "name": "ESTÁGIO SUPERVISIONADO EM UNIDADES PRODUTORAS DE REFEIÇÕES",
+    "availabilityCode": "PA6",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Marlene A. M. M.",
+      "Juliana C. L."
+    ]
+  },
+  {
+    "course_id": "NUT114",
+    "name": "ESTÁGIO SUPERVISIONADO EM UNIDADES PRODUTORAS DE REFEIÇÕES",
+    "availabilityCode": "PA6T",
+    "spots": 1,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Marcia R. P. M."
+    ]
+  },
+  {
+    "course_id": "NUT115",
+    "name": "ESTÁGIO SUPERVISIONADO EM INTERNATO RURAL",
+    "availabilityCode": "PA10",
+    "spots": 2,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "17:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:10"
+      }
+    ],
+    "teachers": [
+      "Nathalia S. G."
+    ]
+  },
+  {
+    "course_id": "NUT115",
+    "name": "ESTÁGIO SUPERVISIONADO EM INTERNATO RURAL",
+    "availabilityCode": "PA3",
+    "spots": 4,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:10"
+      }
+    ],
+    "teachers": [
+      "Jose D. L. F."
+    ]
+  },
+  {
+    "course_id": "NUT115",
+    "name": "ESTÁGIO SUPERVISIONADO EM INTERNATO RURAL",
+    "availabilityCode": "PA4",
+    "spots": 4,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:10"
+      }
+    ],
+    "teachers": [
+      "Simone C. L. P."
+    ]
+  },
+  {
+    "course_id": "NUT115",
+    "name": "ESTÁGIO SUPERVISIONADO EM INTERNATO RURAL",
+    "availabilityCode": "PA5",
+    "spots": 4,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:10"
+      }
+    ],
+    "teachers": [
+      "Paula M. H."
+    ]
+  },
+  {
+    "course_id": "NUT115",
+    "name": "ESTÁGIO SUPERVISIONADO EM INTERNATO RURAL",
+    "availabilityCode": "PA6",
+    "spots": 2,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "17:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:10"
+      }
+    ],
+    "teachers": [
+      "Nathalia S. G."
+    ]
+  },
+  {
+    "course_id": "NUT115",
+    "name": "ESTÁGIO SUPERVISIONADO EM INTERNATO RURAL",
+    "availabilityCode": "PA7",
+    "spots": 4,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Jose D. L. F."
+    ]
+  },
+  {
+    "course_id": "NUT115",
+    "name": "ESTÁGIO SUPERVISIONADO EM INTERNATO RURAL",
+    "availabilityCode": "PA8",
+    "spots": 4,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Jose D. L. F."
+    ]
+  },
+  {
+    "course_id": "NUT115",
+    "name": "ESTÁGIO SUPERVISIONADO EM INTERNATO RURAL",
+    "availabilityCode": "PA9",
+    "spots": 4,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Paula M. H."
+    ]
+  },
+  {
+    "course_id": "NUT115",
+    "name": "ESTÁGIO SUPERVISIONADO EM INTERNATO RURAL",
+    "availabilityCode": "PFER1",
+    "spots": 4,
+    "times": [],
+    "teachers": [
+      "Jose D. L. F."
+    ]
+  },
+  {
+    "course_id": "NUT115",
+    "name": "ESTÁGIO SUPERVISIONADO EM INTERNATO RURAL",
+    "availabilityCode": "PFER2",
+    "spots": 4,
+    "times": [],
+    "teachers": [
+      "Simone C. L. P."
+    ]
+  },
+  {
+    "course_id": "NUT116",
+    "name": "ESTÁGIO SUPERVISIONADO EM NUTRIÇÃO CLÍNICA",
+    "availabilityCode": "PA1",
+    "spots": 3,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Terca",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ann K. J."
+    ]
+  },
+  {
+    "course_id": "NUT116",
+    "name": "ESTÁGIO SUPERVISIONADO EM NUTRIÇÃO CLÍNICA",
+    "availabilityCode": "PA2T",
+    "spots": 3,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:00",
+        "end": "16:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:00",
+        "end": "16:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:00",
+        "end": "16:00"
+      },
+      {
+        "day": "Terca",
+        "start": "11:00",
+        "end": "16:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "11:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Simone V. G."
+    ]
+  },
+  {
+    "course_id": "NUT116",
+    "name": "ESTÁGIO SUPERVISIONADO EM NUTRIÇÃO CLÍNICA",
+    "availabilityCode": "PA3",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Terca",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ann K. J."
+    ]
+  },
+  {
+    "course_id": "NUT116",
+    "name": "ESTÁGIO SUPERVISIONADO EM NUTRIÇÃO CLÍNICA",
+    "availabilityCode": "PA4",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Terca",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ana L. M. S."
+    ]
+  },
+  {
+    "course_id": "NUT116",
+    "name": "ESTÁGIO SUPERVISIONADO EM NUTRIÇÃO CLÍNICA",
+    "availabilityCode": "PA5",
+    "spots": 3,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ann K. J."
+    ]
+  },
+  {
+    "course_id": "NUT116",
+    "name": "ESTÁGIO SUPERVISIONADO EM NUTRIÇÃO CLÍNICA",
+    "availabilityCode": "PA6T",
+    "spots": 3,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:00",
+        "end": "16:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:00",
+        "end": "16:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:00",
+        "end": "16:00"
+      },
+      {
+        "day": "Terca",
+        "start": "11:00",
+        "end": "16:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "11:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Ann K. J."
+    ]
+  },
+  {
+    "course_id": "NUT116",
+    "name": "ESTÁGIO SUPERVISIONADO EM NUTRIÇÃO CLÍNICA",
+    "availabilityCode": "PA7",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Terca",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Simone V. G."
+    ]
+  },
+  {
+    "course_id": "NUT116",
+    "name": "ESTÁGIO SUPERVISIONADO EM NUTRIÇÃO CLÍNICA",
+    "availabilityCode": "PA8",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Terca",
+        "start": "07:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ana L. M. S."
+    ]
+  },
+  {
+    "course_id": "NUT117",
+    "name": "TERAPIA NUTRICIONAL II",
+    "availabilityCode": "PA1",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Luciana B. R.",
+      "Simone V. G."
+    ]
+  },
+  {
+    "course_id": "NUT117",
+    "name": "TERAPIA NUTRICIONAL II",
+    "availabilityCode": "PA2",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Luciana B. R.",
+      "Simone V. G."
+    ]
+  },
+  {
+    "course_id": "NUT117",
+    "name": "TERAPIA NUTRICIONAL II",
+    "availabilityCode": "PA3",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Luciana B. R.",
+      "Ana L. M. S."
+    ]
+  },
+  {
+    "course_id": "NUT117",
+    "name": "TERAPIA NUTRICIONAL II",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Simone V. G.",
+      "Ana L. M. S."
+    ]
+  },
+  {
+    "course_id": "NUT118",
+    "name": "METODOLOGIA DA PESQUISA EM NUTRIÇÃO",
+    "availabilityCode": "TFER",
+    "spots": 20,
+    "times": [],
+    "teachers": [
+      "Juliana P. M. S."
+    ]
+  },
+  {
+    "course_id": "NUT149",
+    "name": "ÉTICA E CULTURA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Rafael M. C."
+    ]
+  },
+  {
+    "course_id": "NUT150",
+    "name": "ALIMENTAÇÃO E CULTURA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Nathalia S. G."
+    ]
+  },
+  {
+    "course_id": "NUT151",
+    "name": "BIOÉTICA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Rafael M. C."
+    ]
+  },
+  {
+    "course_id": "QUI099",
+    "name": "QUIMICA FUNDAMENTAL I",
+    "availabilityCode": "PT1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI099",
+    "name": "QUIMICA FUNDAMENTAL I",
+    "availabilityCode": "PT2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI099",
+    "name": "QUIMICA FUNDAMENTAL I",
+    "availabilityCode": "PT3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI099",
+    "name": "QUIMICA FUNDAMENTAL I",
+    "availabilityCode": "TM",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI100",
+    "name": "QUIMICA FUNDAMENTAL II",
+    "availabilityCode": "PX2A",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI100",
+    "name": "QUIMICA FUNDAMENTAL II",
+    "availabilityCode": "PX2B",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI100",
+    "name": "QUIMICA FUNDAMENTAL II",
+    "availabilityCode": "PX2C",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI100",
+    "name": "QUIMICA FUNDAMENTAL II",
+    "availabilityCode": "TB",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:55"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  }
+]

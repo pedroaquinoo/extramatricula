@@ -1,0 +1,234 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "COM027",
+      "name": "Historia Social dos Meios",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "COM306",
+      "name": "Introducao Aos Estudos da Linguagem",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "COM671",
+      "name": "Design em Comunicação",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "COM672",
+      "name": "Som e Sentido",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "SOA048",
+      "name": "Fundamentos de Analise Sociologica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "COM309",
+      "name": "Oficina de Narrativas Audiovisuais",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "COM310",
+      "name": "Projetos a I",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "COM311",
+      "name": "Linguagem,tecn e Processos do Jornalismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "COM663",
+      "name": "Teorias da Comunicacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FTC051",
+      "name": "Oficina de Fotografia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "COM313",
+      "name": "Projetos a II",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "COM318",
+      "name": "Teorias do Jornalismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "COM673",
+      "name": "Fundamentos da Comunicação Organizacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCP021",
+      "name": "Introdução a Teoria Democrática",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CAD610",
+      "name": "Mercadologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "COM314",
+      "name": "Processos de Criacao em Midias Digitais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "COM315",
+      "name": "Projetos B I - Jornalismo",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "COM605",
+      "name": "Comunicacao e Cultura",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "COM319",
+      "name": "Projetos B II - Jornalismo",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "COM326",
+      "name": "Narrativa Jornalistica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "COM323",
+      "name": "Projetos C - Jornalismo",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "COM674",
+      "name": "Seminário de Projeto Experimental-jornalismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "COM702",
+      "name": "Projeto Experimental I - Jornalismo",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "COM703",
+      "name": "Projeto Experimental II - Jornalismo",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "COM310",
+      "prerequisite_code": "COM027"
+    },
+    {
+      "code": "COM663",
+      "prerequisite_code": "COM027"
+    },
+    {
+      "code": "COM313",
+      "prerequisite_code": "COM310"
+    },
+    {
+      "code": "COM318",
+      "prerequisite_code": "COM311"
+    },
+    {
+      "code": "COM315",
+      "prerequisite_code": "COM313"
+    },
+    {
+      "code": "COM605",
+      "prerequisite_code": "COM663"
+    },
+    {
+      "code": "COM319",
+      "prerequisite_code": "COM315"
+    },
+    {
+      "code": "COM326",
+      "prerequisite_code": "COM318"
+    },
+    {
+      "code": "COM323",
+      "prerequisite_code": "COM319"
+    }
+  ]
+}

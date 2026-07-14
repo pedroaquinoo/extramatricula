@@ -1,0 +1,430 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "DCC203",
+      "name": "Programação e Desenvolvimento de Software I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DCC638",
+      "name": "Introdução À Lógica Computacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICE071",
+      "name": "Fundamentos de Ciência de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "CAD103",
+      "name": "Administração Tga",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC216",
+      "name": "Matemática Discreta",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC219",
+      "name": "Programação e Desenvolvimento de Software II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECN140",
+      "name": "Introdução À Economia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EST229",
+      "name": "Estatística Básica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT039",
+      "name": "Cálculo Diferencial e Integral II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCC221",
+      "name": "Estruturas de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCC222",
+      "name": "Introdução a Bancos de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCC639",
+      "name": "Álgebra Linear Computacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EST241",
+      "name": "Probabilidade",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT002",
+      "name": "Calculo Diferencial e Integral III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DCC194",
+      "name": "Interação Humano-computador",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DCC206",
+      "name": "Algoritmos I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EST035",
+      "name": "Análise de Regressão",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EST231",
+      "name": "Inferência Clássica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICE072",
+      "name": "Introdução À Ciência de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DCC074",
+      "name": "Fundamentos de Arquitetura de Computadores",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DCC094",
+      "name": "Engenharia de Software",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DCC642",
+      "name": "Introdução À Inteligência Artificial",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EST079",
+      "name": "Modelos Lineares Generalizados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EST088",
+      "name": "Inferência Estatística Com Abordagem Bayesiana",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICE144",
+      "name": "Mineração de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DCC075",
+      "name": "Fundamentos de Sistemas Computacionais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EST011",
+      "name": "Estatística Multivariada",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EST080",
+      "name": "Estatística Não Paramétrica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICE145",
+      "name": "Ciência de Dados e Sociedade",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICE146",
+      "name": "Ética e Ciência de Dados",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICE181",
+      "name": "Aprendizado de Máquina a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DCC076",
+      "name": "Recuperação de Informação",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DCC077",
+      "name": "Introdução À Computação Visual",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EST038",
+      "name": "Métodos Estatísticos de Previsão",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EST090",
+      "name": "Análise de Sobrevivência",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICE182",
+      "name": "Aprendizado de Máquina B",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICE149",
+      "name": "Monografia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICE150",
+      "name": "Monografia II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "DCC216",
+      "prerequisite_code": "DCC638"
+    },
+    {
+      "code": "DCC219",
+      "prerequisite_code": "DCC203"
+    },
+    {
+      "code": "EST229",
+      "prerequisite_code": "ICE071"
+    },
+    {
+      "code": "MAT039",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "DCC221",
+      "prerequisite_code": "DCC219"
+    },
+    {
+      "code": "EST241",
+      "prerequisite_code": "EST229"
+    },
+    {
+      "code": "MAT002",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "DCC206",
+      "prerequisite_code": "DCC221"
+    },
+    {
+      "code": "EST035",
+      "prerequisite_code": "EST229"
+    },
+    {
+      "code": "EST231",
+      "prerequisite_code": "EST241"
+    },
+    {
+      "code": "DCC094",
+      "prerequisite_code": "DCC221"
+    },
+    {
+      "code": "EST079",
+      "prerequisite_code": "EST035"
+    },
+    {
+      "code": "EST079",
+      "prerequisite_code": "EST231"
+    },
+    {
+      "code": "EST088",
+      "prerequisite_code": "EST231"
+    },
+    {
+      "code": "ICE144",
+      "prerequisite_code": "ICE072"
+    },
+    {
+      "code": "DCC075",
+      "prerequisite_code": "DCC074"
+    },
+    {
+      "code": "EST080",
+      "prerequisite_code": "EST231"
+    },
+    {
+      "code": "ICE145",
+      "prerequisite_code": "ICE072"
+    },
+    {
+      "code": "ICE146",
+      "prerequisite_code": "ICE072"
+    },
+    {
+      "code": "ICE181",
+      "prerequisite_code": "ICE072"
+    },
+    {
+      "code": "DCC077",
+      "prerequisite_code": "MAT038"
+    },
+    {
+      "code": "EST038",
+      "prerequisite_code": "EST231"
+    },
+    {
+      "code": "EST090",
+      "prerequisite_code": "EST035"
+    },
+    {
+      "code": "EST090",
+      "prerequisite_code": "EST231"
+    },
+    {
+      "code": "ICE182",
+      "prerequisite_code": "ICE072"
+    },
+    {
+      "code": "ICE150",
+      "prerequisite_code": "ICE149"
+    }
+  ]
+}

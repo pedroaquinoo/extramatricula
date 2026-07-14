@@ -22,6 +22,8 @@ const curriculumLoaders: Record<string, () => Promise<{ default: CurriculumData 
     import("@/data/curriculum/ciencia-computacao-diurno.json"),
   "ciencia-computacao-vespertino": () =>
     import("@/data/curriculum/ciencia-computacao-vespertino.json"),
+  "ciencia-de-dados-vespertino": () =>
+    import("@/data/curriculum/ciencia-de-dados-vespertino.json"),
   "ciencias-atuariais-diurno": () =>
     import("@/data/curriculum/ciencias-atuariais-diurno.json"),
   "ciencias-contabeis-noturno": () =>
@@ -90,12 +92,24 @@ const curriculumLoaders: Record<string, () => Promise<{ default: CurriculumData 
     import("@/data/curriculum/fisica-noturno.json"),
   "geologia-diurno": () =>
     import("@/data/curriculum/geologia-diurno.json"),
+  "jornalismo-diurno": () =>
+    import("@/data/curriculum/jornalismo-diurno.json"),
+  "jornalismo-noturno": () =>
+    import("@/data/curriculum/jornalismo-noturno.json"),
+  "matematica-computacional-vespertino": () =>
+    import("@/data/curriculum/matematica-computacional-vespertino.json"),
+  "matematica-diurno": () =>
+    import("@/data/curriculum/matematica-diurno.json"),
   "medicina-diurno": () =>
     import("@/data/curriculum/medicina-diurno.json"),
+  "nutricao-diurno": () =>
+    import("@/data/curriculum/nutricao-diurno.json"),
   "odontologia-diurno": () =>
     import("@/data/curriculum/odontologia-diurno.json"),
   "psicologia-diurno": () =>
     import("@/data/curriculum/psicologia-diurno.json"),
+  "publicidade-propaganda-diurno": () =>
+    import("@/data/curriculum/publicidade-propaganda-diurno.json"),
   "relacoes-economicas-internacionais-noturno": () =>
     import("@/data/curriculum/relacoes-economicas-internacionais-noturno.json"),
   "sistemas-informacao-noturno": () =>
