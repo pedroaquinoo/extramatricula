@@ -2,7 +2,14 @@
 
 import Link from "next/link"
 import { usePathname } from "next/navigation"
-import { Home, LibraryBig, Network, NotebookPen, HelpCircle } from "lucide-react"
+import {
+  Home,
+  LibraryBig,
+  Network,
+  NotebookPen,
+  HelpCircle,
+  BookOpenText,
+} from "lucide-react"
 import React, { useEffect } from "react"
 
 import { registerAnalyticsContext } from "@/lib/analytics"

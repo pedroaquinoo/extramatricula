@@ -29,6 +29,9 @@ export default function LandingFooter() {
           >
             Simulação
           </Link>
+          <Link href="/blog" className="text-muted-foreground hover:text-foreground">
+            Guia da matrícula UFMG
+          </Link>
           <a
             href={STAR_URL}
             target="_blank"
