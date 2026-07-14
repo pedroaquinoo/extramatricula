@@ -1,0 +1,470 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "DIP039",
+      "name": "Teoria do Estado I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DIT038",
+      "name": "Introducao a Ciencia do Direito",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DIT039",
+      "name": "Historia do Direito",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DIT040",
+      "name": "Antropologia Juridica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ECN101",
+      "name": "Economia a I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FIL028",
+      "name": "Introdução a Filosofia: Ética",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DIC036",
+      "name": "Teoria Geral do Direito Privado I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DIN101",
+      "name": "Direito Penal I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DIP040",
+      "name": "Teoria da Constituicao",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DIP041",
+      "name": "Teoria do Estado II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DIT042",
+      "name": "Sociologia Juridica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DIT043",
+      "name": "Teoria Geral do Direito",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DIC037",
+      "name": "Teoria Geral do Direito Privado II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DIN102",
+      "name": "Direito Penal II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DIP003",
+      "name": "Direito Constitucional I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DIT006",
+      "name": "Filosofia do Direito",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DIT044",
+      "name": "Instituicoes de Direito Romano",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DIT045",
+      "name": "Psicologia Juridica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DIC052",
+      "name": "Direito Empresarial I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DIC053",
+      "name": "Direito Civil I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DIN103",
+      "name": "Direito Penal III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DIP021",
+      "name": "Direito Internacional Publico",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DIP042",
+      "name": "Direito Constitucional II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DIT075",
+      "name": "Metodologia de Pesquisa em Direito",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DIC054",
+      "name": "Direito Empresarial II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DIC055",
+      "name": "Direito Civil II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DIC065",
+      "name": "Direito Processual Civil I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DIN104",
+      "name": "Direito Penal IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DIN105",
+      "name": "Direito Processual Penal I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DIC056",
+      "name": "Direito Civil III",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DIC057",
+      "name": "Direito Civil IV",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DIC063",
+      "name": "Direito Empresarial III",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DIC066",
+      "name": "Direito Processual Civil II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DIN106",
+      "name": "Direito Processual Penal II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DIP043",
+      "name": "Direito Financeiro",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DIT023",
+      "name": "Hermeneutica Juridica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DIC058",
+      "name": "Direito Processual Civil III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DIC059",
+      "name": "Direito Civil V",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DIP005",
+      "name": "Direito Administrativo I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DIP044",
+      "name": "Direito Tributario I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DIT105",
+      "name": "Direito do Trabalho I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DIC060",
+      "name": "Direito Processual Civil IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DIC061",
+      "name": "Direito Civil VI",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DIP022",
+      "name": "Direito Tributario II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DIP045",
+      "name": "Direito Administrativo II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DIP046",
+      "name": "Direito Economico I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DIR049",
+      "name": "Trabalho de Curso I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DIT106",
+      "name": "Direito do Trabalho II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "DIC062",
+      "name": "Direito Empresarial IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "DIC064",
+      "name": "Direito Civil VII",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "DIP047",
+      "name": "Direito Administrativo III",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "DIP048",
+      "name": "Direito Internacional Privado",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "DIP049",
+      "name": "Direito Economicoii",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "DIP050",
+      "name": "Controle de Constitucionalidade",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "DIR050",
+      "name": "Trabalho de Curso II",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "DIT046",
+      "name": "Direito Processual do Trabalho",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "DIR051",
+      "name": "Trabalho de Curso III",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "DIR050",
+      "prerequisite_code": "DIR049"
+    },
+    {
+      "code": "DIR051",
+      "prerequisite_code": "DIR050"
+    }
+  ]
+}

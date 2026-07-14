@@ -70,7 +70,8 @@ async function main() {
   const parsed = await parseCurriculumPdfFile(resolved)
 
   const courseName = nameOverride ?? parsed.courseName
-  const resolvedOfferId = offerId ?? courseId.replace(/-(diurno|vespertino|noturno)$/, "")
+  const resolvedOfferId =
+    offerId ?? courseId.replace(/-(matutino|diurno|vespertino|noturno)$/, "")
 
   const target = path.join(CURRICULUM_DIR, `${courseId}.json`)
   const payload = {

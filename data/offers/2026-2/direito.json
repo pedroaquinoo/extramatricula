@@ -1,0 +1,6231 @@
+[
+  {
+    "course_id": "APM005",
+    "name": "MEDICINA LEGAL",
+    "availabilityCode": "TA",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Luciana P. L. G."
+    ]
+  },
+  {
+    "course_id": "DIC036",
+    "name": "TEORIA GERAL DO DIREITO PRIVADO I",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Giordano B. S. R."
+    ]
+  },
+  {
+    "course_id": "DIC036",
+    "name": "TEORIA GERAL DO DIREITO PRIVADO I",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Giordano B. S. R."
+    ]
+  },
+  {
+    "course_id": "DIC036",
+    "name": "TEORIA GERAL DO DIREITO PRIVADO I",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Carla V. C."
+    ]
+  },
+  {
+    "course_id": "DIC036",
+    "name": "TEORIA GERAL DO DIREITO PRIVADO I",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Carla V. C."
+    ]
+  },
+  {
+    "course_id": "DIC037",
+    "name": "TEORIA GERAL DO DIREITO PRIVADO II",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Edgard A. M. N."
+    ]
+  },
+  {
+    "course_id": "DIC037",
+    "name": "TEORIA GERAL DO DIREITO PRIVADO II",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Edgard A. M. N."
+    ]
+  },
+  {
+    "course_id": "DIC037",
+    "name": "TEORIA GERAL DO DIREITO PRIVADO II",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Mariana A. L."
+    ]
+  },
+  {
+    "course_id": "DIC037",
+    "name": "TEORIA GERAL DO DIREITO PRIVADO II",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Mariana A. L."
+    ]
+  },
+  {
+    "course_id": "DIC051",
+    "name": "PRATICA JURIDICA SIMULADA",
+    "availabilityCode": "PA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:15",
+        "end": "13:45"
+      },
+      {
+        "day": "Segunda",
+        "start": "11:15",
+        "end": "13:45"
+      }
+    ],
+    "teachers": [
+      "Yaska F. L. C."
+    ]
+  },
+  {
+    "course_id": "DIC051",
+    "name": "PRATICA JURIDICA SIMULADA",
+    "availabilityCode": "PC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:20",
+        "end": "18:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "16:20",
+        "end": "18:50"
+      }
+    ],
+    "teachers": [
+      "Yaska F. L. C."
+    ]
+  },
+  {
+    "course_id": "DIC052",
+    "name": "DIREITO EMPRESARIAL I",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Eduardo G. P."
+    ]
+  },
+  {
+    "course_id": "DIC052",
+    "name": "DIREITO EMPRESARIAL I",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Eduardo G. P."
+    ]
+  },
+  {
+    "course_id": "DIC052",
+    "name": "DIREITO EMPRESARIAL I",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Fernanda V. V."
+    ]
+  },
+  {
+    "course_id": "DIC052",
+    "name": "DIREITO EMPRESARIAL I",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Fernanda V. V."
+    ]
+  },
+  {
+    "course_id": "DIC053",
+    "name": "DIREITO CIVIL I",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Leonardo M. P."
+    ]
+  },
+  {
+    "course_id": "DIC053",
+    "name": "DIREITO CIVIL I",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Leonardo M. P."
+    ]
+  },
+  {
+    "course_id": "DIC053",
+    "name": "DIREITO CIVIL I",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Leandro M. Z."
+    ]
+  },
+  {
+    "course_id": "DIC053",
+    "name": "DIREITO CIVIL I",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Leandro M. Z."
+    ]
+  },
+  {
+    "course_id": "DIC054",
+    "name": "DIREITO EMPRESARIAL II",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Sergio M. C. L."
+    ]
+  },
+  {
+    "course_id": "DIC054",
+    "name": "DIREITO EMPRESARIAL II",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Sergio M. C. L."
+    ]
+  },
+  {
+    "course_id": "DIC054",
+    "name": "DIREITO EMPRESARIAL II",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Gustavo O. G."
+    ]
+  },
+  {
+    "course_id": "DIC054",
+    "name": "DIREITO EMPRESARIAL II",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Gustavo O. G."
+    ]
+  },
+  {
+    "course_id": "DIC055",
+    "name": "DIREITO CIVIL II",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Renata G. P."
+    ]
+  },
+  {
+    "course_id": "DIC055",
+    "name": "DIREITO CIVIL II",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Renata G. P."
+    ]
+  },
+  {
+    "course_id": "DIC055",
+    "name": "DIREITO CIVIL II",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Cesar A. C. F."
+    ]
+  },
+  {
+    "course_id": "DIC055",
+    "name": "DIREITO CIVIL II",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Cesar A. C. F."
+    ]
+  },
+  {
+    "course_id": "DIC056",
+    "name": "DIREITO CIVIL III",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DIC056",
+    "name": "DIREITO CIVIL III",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DIC056",
+    "name": "DIREITO CIVIL III",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DIC056",
+    "name": "DIREITO CIVIL III",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DIC057",
+    "name": "DIREITO CIVIL IV",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Fabio Q. P."
+    ]
+  },
+  {
+    "course_id": "DIC057",
+    "name": "DIREITO CIVIL IV",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Fabio Q. P."
+    ]
+  },
+  {
+    "course_id": "DIC057",
+    "name": "DIREITO CIVIL IV",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Fabio Q. P."
+    ]
+  },
+  {
+    "course_id": "DIC057",
+    "name": "DIREITO CIVIL IV",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Fabio Q. P."
+    ]
+  },
+  {
+    "course_id": "DIC058",
+    "name": "DIREITO PROCESSUAL CIVIL III",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Renata C. V. M."
+    ]
+  },
+  {
+    "course_id": "DIC058",
+    "name": "DIREITO PROCESSUAL CIVIL III",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Renata C. V. M."
+    ]
+  },
+  {
+    "course_id": "DIC058",
+    "name": "DIREITO PROCESSUAL CIVIL III",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Fernando G. J."
+    ]
+  },
+  {
+    "course_id": "DIC058",
+    "name": "DIREITO PROCESSUAL CIVIL III",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Fernando G. J."
+    ]
+  },
+  {
+    "course_id": "DIC059",
+    "name": "DIREITO CIVIL V",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Ester C. G. N. R."
+    ]
+  },
+  {
+    "course_id": "DIC059",
+    "name": "DIREITO CIVIL V",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Ester C. G. N. R."
+    ]
+  },
+  {
+    "course_id": "DIC059",
+    "name": "DIREITO CIVIL V",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Lucas C. O."
+    ]
+  },
+  {
+    "course_id": "DIC059",
+    "name": "DIREITO CIVIL V",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Lucas C. O."
+    ]
+  },
+  {
+    "course_id": "DIC060",
+    "name": "DIREITO PROCESSUAL CIVIL IV",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Erico A."
+    ]
+  },
+  {
+    "course_id": "DIC060",
+    "name": "DIREITO PROCESSUAL CIVIL IV",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Erico A."
+    ]
+  },
+  {
+    "course_id": "DIC060",
+    "name": "DIREITO PROCESSUAL CIVIL IV",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Glaucio F. M. G."
+    ]
+  },
+  {
+    "course_id": "DIC060",
+    "name": "DIREITO PROCESSUAL CIVIL IV",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Glaucio F. M. G."
+    ]
+  },
+  {
+    "course_id": "DIC061",
+    "name": "DIREITO CIVIL VI",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Terca",
+        "start": "10:21",
+        "end": "11:11"
+      }
+    ],
+    "teachers": [
+      "Elena C. G."
+    ]
+  },
+  {
+    "course_id": "DIC061",
+    "name": "DIREITO CIVIL VI",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "08:21",
+        "end": "09:11"
+      }
+    ],
+    "teachers": [
+      "Elena C. G."
+    ]
+  },
+  {
+    "course_id": "DIC061",
+    "name": "DIREITO CIVIL VI",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Terca",
+        "start": "21:41",
+        "end": "22:31"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DIC061",
+    "name": "DIREITO CIVIL VI",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:51",
+        "end": "20:41"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DIC062",
+    "name": "DIREITO EMPRESARIAL IV",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Natalia C. C."
+    ]
+  },
+  {
+    "course_id": "DIC062",
+    "name": "DIREITO EMPRESARIAL IV",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Natalia C. C."
+    ]
+  },
+  {
+    "course_id": "DIC062",
+    "name": "DIREITO EMPRESARIAL IV",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marcelo A. F."
+    ]
+  },
+  {
+    "course_id": "DIC062",
+    "name": "DIREITO EMPRESARIAL IV",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcelo A. F."
+    ]
+  },
+  {
+    "course_id": "DIC063",
+    "name": "DIREITO EMPRESARIAL III",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Rodrigo A. M."
+    ]
+  },
+  {
+    "course_id": "DIC063",
+    "name": "DIREITO EMPRESARIAL III",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Rodrigo A. M."
+    ]
+  },
+  {
+    "course_id": "DIC063",
+    "name": "DIREITO EMPRESARIAL III",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Rubia C. N."
+    ]
+  },
+  {
+    "course_id": "DIC063",
+    "name": "DIREITO EMPRESARIAL III",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Rubia C. N."
+    ]
+  },
+  {
+    "course_id": "DIC064",
+    "name": "DIREITO CIVIL VII",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Lucas C. O."
+    ]
+  },
+  {
+    "course_id": "DIC064",
+    "name": "DIREITO CIVIL VII",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Lucas C. O."
+    ]
+  },
+  {
+    "course_id": "DIC064",
+    "name": "DIREITO CIVIL VII",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Elena C. G."
+    ]
+  },
+  {
+    "course_id": "DIC064",
+    "name": "DIREITO CIVIL VII",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Elena C. G."
+    ]
+  },
+  {
+    "course_id": "DIC065",
+    "name": "DIREITO PROCESSUAL CIVIL 1",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Dierle J. C. N."
+    ]
+  },
+  {
+    "course_id": "DIC065",
+    "name": "DIREITO PROCESSUAL CIVIL 1",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Dierle J. C. N."
+    ]
+  },
+  {
+    "course_id": "DIC065",
+    "name": "DIREITO PROCESSUAL CIVIL 1",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Edilson V. D. L."
+    ]
+  },
+  {
+    "course_id": "DIC065",
+    "name": "DIREITO PROCESSUAL CIVIL 1",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Edilson V. D. L."
+    ]
+  },
+  {
+    "course_id": "DIC066",
+    "name": "DIREITO PROCESSUAL CIVIL II",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Juliana C. F."
+    ]
+  },
+  {
+    "course_id": "DIC066",
+    "name": "DIREITO PROCESSUAL CIVIL II",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Juliana C. F."
+    ]
+  },
+  {
+    "course_id": "DIC066",
+    "name": "DIREITO PROCESSUAL CIVIL II",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Joao A. A."
+    ]
+  },
+  {
+    "course_id": "DIC066",
+    "name": "DIREITO PROCESSUAL CIVIL II",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Joao A. A."
+    ]
+  },
+  {
+    "course_id": "DIC067",
+    "name": "TOPICOS EM TEORIA GERAL DIREITO PRIVADO A - Direito, Tecnologia e Inovação - Pré-req.: Teoria Geral do Direito Privado I e Teoria Geral do Direito Privado II",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "15:00",
+        "end": "16:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Leonardo N. P."
+    ]
+  },
+  {
+    "course_id": "DIC067",
+    "name": "TOPICOS EM TEORIA GERAL DIREITO PRIVADO A - Estudo de Casos - Pré-req.: Teoria Geral do Direito Privado I",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:15",
+        "end": "12:55"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:15",
+        "end": "12:55"
+      }
+    ],
+    "teachers": [
+      "Brunello S. S."
+    ]
+  },
+  {
+    "course_id": "DIC069",
+    "name": "TOPICOS EM TEORIA GERAL DIREITO PRIVADO C - Bioética e Biodireito",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:15",
+        "end": "12:55"
+      }
+    ],
+    "teachers": [
+      "Lucas C. O."
+    ]
+  },
+  {
+    "course_id": "DIC070",
+    "name": "TOPICOS EM DIREITO CIVIL A - Direito de Crianças e Adolescentes",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:15",
+        "end": "12:55"
+      },
+      {
+        "day": "Terca",
+        "start": "11:15",
+        "end": "12:55"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DIC070",
+    "name": "TOPICOS EM DIREITO CIVIL A - Desafios Contemporâneos da Responsabilidade Civil - Pre-req: Direito Civil IV",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:20",
+        "end": "13:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:20",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Ester C. G. N. R."
+    ]
+  },
+  {
+    "course_id": "DIC072",
+    "name": "TOPICOS EM DIREITO CIVIL C - Negociação Contratual Semiótica e Economia Comportamental - Pré-req.: Direito Civil II",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:15",
+        "end": "12:55"
+      }
+    ],
+    "teachers": [
+      "Renata G. P."
+    ]
+  },
+  {
+    "course_id": "DIC072",
+    "name": "TOPICOS EM DIREITO CIVIL C - Propriedade Intelectual",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:15",
+        "end": "12:55"
+      }
+    ],
+    "teachers": [
+      "Leonardo M. P."
+    ]
+  },
+  {
+    "course_id": "DIC073",
+    "name": "TOPICOS EM DIREITO EMPRESARIAL A - Prática em Direito Empresarial - Pré-req.: Direito Empresarial I e II",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:30",
+        "end": "13:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:30",
+        "end": "13:10"
+      }
+    ],
+    "teachers": [
+      "Sergio M. C. L."
+    ]
+  },
+  {
+    "course_id": "DIC073",
+    "name": "TOPICOS EM DIREITO EMPRESARIAL A - Introdução ao SPA - Share Purchase Agreement - Pré- req.: Direito Empresarial II (obrigatório) e Direito Civil IV (preferencialmente)",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:00",
+        "end": "16:40"
+      },
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Gustavo O. G."
+    ]
+  },
+  {
+    "course_id": "DIC074",
+    "name": "TOPICOS EM DIREITO EMPRESARIAL - Direito Societário e Desenvolvimento Sustentável - Pré-req.: matrícula em Direito Empresarial II; Leitura em Língua Inglesa",
+    "availabilityCode": "TA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:20",
+        "end": "18:50"
+      }
+    ],
+    "teachers": [
+      "Fernanda V. V."
+    ]
+  },
+  {
+    "course_id": "DIC076",
+    "name": "TOPICOS EM DIREITO PROCESSUAL CIVIL A - Tópicos em Processo Civil Empresarial - Pré-req.: Direito Processual Civil I e Direito Empresarial I, II e III",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Jose M. R. V."
+    ]
+  },
+  {
+    "course_id": "DIC076",
+    "name": "TOPICOS EM DIREITO PROCESSUAL CIVIL A - Tópicos em Processo Civil Empresarial - Pré-req.: Direito Processual Civil I e Direito Empresarial I, II e III",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Jose M. R. V."
+    ]
+  },
+  {
+    "course_id": "DIC076",
+    "name": "TOPICOS EM DIREITO PROCESSUAL CIVIL A - Tópicos em Sistemas de Justiça - Pré-req.: Direito Processual Civil I",
+    "availabilityCode": "TC",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Vallisney S. O."
+    ]
+  },
+  {
+    "course_id": "DIC076",
+    "name": "TOPICOS EM DIREITO PROCESSUAL CIVIL A - Atendimento de Casos Reais DAJ-Itinerante - Município de Nova Lima - Pré-req.: exclusiva para alunos da DAJ - Itinerante",
+    "availabilityCode": "TD",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "15:50",
+        "end": "17:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Renata C. V. M."
+    ]
+  },
+  {
+    "course_id": "DIC076",
+    "name": "TOPICOS EM DIREITO PROCESSUAL CIVIL A - As Práticas Dialógicas e o CPC: Conciliação e Mediação Judiciais - Pré- req.: Dir. Proc. Civil I e/ou ser estagiário DAJ e/ou aluno Ciências do Estado",
+    "availabilityCode": "TE",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:15",
+        "end": "18:55"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:15",
+        "end": "18:55"
+      }
+    ],
+    "teachers": [
+      "Tereza C. S. B. T."
+    ]
+  },
+  {
+    "course_id": "DIC077",
+    "name": "TOPICOS EM DIREITO PROCESSUAL CIVIL B - Estudo de Casos DAJ - Itinerante - Pré-req.: exclusiva para alunos da DAJ - Itinerante",
+    "availabilityCode": "TA",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Renata C. V. M."
+    ]
+  },
+  {
+    "course_id": "DIC078",
+    "name": "TOPICOS PROCESSUAL CIVIL C - Gestão de Conflitos - Negociação - Pré-req.: estudantes a partir do 6º período",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:15",
+        "end": "12:55"
+      }
+    ],
+    "teachers": [
+      "Juliana C. F."
+    ]
+  },
+  {
+    "course_id": "DIN014",
+    "name": "TOPICOS EM DIREITO PENAL C - Fundamentos de Dogmática e Política Criminal",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "17:10",
+        "end": "18:50"
+      }
+    ],
+    "teachers": [
+      "Luis A. S. B."
+    ]
+  },
+  {
+    "course_id": "DIN015",
+    "name": "TOPICOS EM DIREITO PROCESSUAL PENAL A - Clinica de Trabalho Escravo e Tráfico de Pessoas",
+    "availabilityCode": "TA",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:20",
+        "end": "13:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:20",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Livia M. M. M.",
+      "Carlos H. B. H."
+    ]
+  },
+  {
+    "course_id": "DIN016",
+    "name": "TOPICOS EM DIREITO PROCESSUAL PENAL B - O Negro e o Habeas Corpus na Transição do Império para a República no Brasil",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:15",
+        "end": "13:45"
+      }
+    ],
+    "teachers": [
+      "Sergio L. S. A."
+    ]
+  },
+  {
+    "course_id": "DIN016",
+    "name": "TOPICOS EM DIREITO PROCESSUAL PENAL B - A Ação Inquisitorial em Minas Setecentista",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:15",
+        "end": "13:45"
+      }
+    ],
+    "teachers": [
+      "Sergio L. S. A."
+    ]
+  },
+  {
+    "course_id": "DIN017",
+    "name": "TOPICOS EM DIREITO PROCESSUAL PENAL C - Recursos no Processo Penal - Pré-req.: Direito Processual Penal II",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:10",
+        "end": "18:50"
+      }
+    ],
+    "teachers": [
+      "Leonardo A. M. M."
+    ]
+  },
+  {
+    "course_id": "DIN017",
+    "name": "TOPICOS EM DIREITO PROCESSUAL PENAL C - Sociedade Digital, Prova Penal e Nulidade Penal - Pré-req.: Direito Penal I e II",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:15",
+        "end": "12:55"
+      }
+    ],
+    "teachers": [
+      "Julio C. F. Z."
+    ]
+  },
+  {
+    "course_id": "DIN017",
+    "name": "TOPICOS EM DIREITO PROCESSUAL PENAL C - Redação Jurídica e Prática Penal",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Carlos H. A. U. M."
+    ]
+  },
+  {
+    "course_id": "DIN101",
+    "name": "DIREITO PENAL I",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Fernando A. N. G. R."
+    ]
+  },
+  {
+    "course_id": "DIN101",
+    "name": "DIREITO PENAL I",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Fernando A. N. G. R."
+    ]
+  },
+  {
+    "course_id": "DIN101",
+    "name": "DIREITO PENAL I",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Luis A. S. B."
+    ]
+  },
+  {
+    "course_id": "DIN101",
+    "name": "DIREITO PENAL I",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Luis A. S. B."
+    ]
+  },
+  {
+    "course_id": "DIN102",
+    "name": "DIREITO PENAL II",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Frederico G. A. H."
+    ]
+  },
+  {
+    "course_id": "DIN102",
+    "name": "DIREITO PENAL II",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Frederico G. A. H."
+    ]
+  },
+  {
+    "course_id": "DIN102",
+    "name": "DIREITO PENAL II",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Carlos H. A. U. M."
+    ]
+  },
+  {
+    "course_id": "DIN102",
+    "name": "DIREITO PENAL II",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Carlos H. A. U. M."
+    ]
+  },
+  {
+    "course_id": "DIN103",
+    "name": "DIREITO PENAL III",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Carlos A. C. G. S."
+    ]
+  },
+  {
+    "course_id": "DIN103",
+    "name": "DIREITO PENAL III",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Carlos A. C. G. S."
+    ]
+  },
+  {
+    "course_id": "DIN103",
+    "name": "DIREITO PENAL III",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Tulio L. V."
+    ]
+  },
+  {
+    "course_id": "DIN103",
+    "name": "DIREITO PENAL III",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Tulio L. V."
+    ]
+  },
+  {
+    "course_id": "DIN104",
+    "name": "DIREITO PENAL IV",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Carlos H. B. H."
+    ]
+  },
+  {
+    "course_id": "DIN104",
+    "name": "DIREITO PENAL IV",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Carlos H. B. H."
+    ]
+  },
+  {
+    "course_id": "DIN104",
+    "name": "DIREITO PENAL IV",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Victor H. C. S."
+    ]
+  },
+  {
+    "course_id": "DIN104",
+    "name": "DIREITO PENAL IV",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Victor H. C. S."
+    ]
+  },
+  {
+    "course_id": "DIN105",
+    "name": "DIREITO PROCESSUAL PENAL I",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Felipe M. P."
+    ]
+  },
+  {
+    "course_id": "DIN105",
+    "name": "DIREITO PROCESSUAL PENAL I",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Felipe M. P."
+    ]
+  },
+  {
+    "course_id": "DIN105",
+    "name": "DIREITO PROCESSUAL PENAL I",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Daniela F. M."
+    ]
+  },
+  {
+    "course_id": "DIN105",
+    "name": "DIREITO PROCESSUAL PENAL I",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Daniela F. M."
+    ]
+  },
+  {
+    "course_id": "DIN106",
+    "name": "DIREITO PROCESSUAL PENAL II",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Julio C. F. Z."
+    ]
+  },
+  {
+    "course_id": "DIN106",
+    "name": "DIREITO PROCESSUAL PENAL II",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Julio C. F. Z."
+    ]
+  },
+  {
+    "course_id": "DIN106",
+    "name": "DIREITO PROCESSUAL PENAL II",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Leonardo A. M. M."
+    ]
+  },
+  {
+    "course_id": "DIN106",
+    "name": "DIREITO PROCESSUAL PENAL II",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Leonardo A. M. M."
+    ]
+  },
+  {
+    "course_id": "DIP003",
+    "name": "DIREITO CONSTITUCIONAL I",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Bernardo G. A. F."
+    ]
+  },
+  {
+    "course_id": "DIP003",
+    "name": "DIREITO CONSTITUCIONAL I",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Bernardo G. A. F."
+    ]
+  },
+  {
+    "course_id": "DIP003",
+    "name": "DIREITO CONSTITUCIONAL I",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre G. M. F. B."
+    ]
+  },
+  {
+    "course_id": "DIP003",
+    "name": "DIREITO CONSTITUCIONAL I",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Alexandre G. M. F. B."
+    ]
+  },
+  {
+    "course_id": "DIP005",
+    "name": "DIREITO ADMINISTRATIVO I",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Florivaldo D. A."
+    ]
+  },
+  {
+    "course_id": "DIP005",
+    "name": "DIREITO ADMINISTRATIVO I",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Luciano A. F."
+    ]
+  },
+  {
+    "course_id": "DIP005",
+    "name": "DIREITO ADMINISTRATIVO I",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Eurico B. N."
+    ]
+  },
+  {
+    "course_id": "DIP005",
+    "name": "DIREITO ADMINISTRATIVO I",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Eurico B. N."
+    ]
+  },
+  {
+    "course_id": "DIP021",
+    "name": "DIREITO INTERNACIONAL PUBLICO",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Adriano A. S."
+    ]
+  },
+  {
+    "course_id": "DIP021",
+    "name": "DIREITO INTERNACIONAL PUBLICO",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Adriano A. S."
+    ]
+  },
+  {
+    "course_id": "DIP021",
+    "name": "DIREITO INTERNACIONAL PUBLICO",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Roberto L. S."
+    ]
+  },
+  {
+    "course_id": "DIP021",
+    "name": "DIREITO INTERNACIONAL PUBLICO",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Roberto L. S."
+    ]
+  },
+  {
+    "course_id": "DIP022",
+    "name": "DIREITO TRIBUTARIO II",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "10:20"
+      }
+    ],
+    "teachers": [
+      "Paulo R. C. S."
+    ]
+  },
+  {
+    "course_id": "DIP022",
+    "name": "DIREITO TRIBUTARIO II",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "08:20"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Paulo R. C. S."
+    ]
+  },
+  {
+    "course_id": "DIP022",
+    "name": "DIREITO TRIBUTARIO II",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "21:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Valter S. L."
+    ]
+  },
+  {
+    "course_id": "DIP022",
+    "name": "DIREITO TRIBUTARIO II",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "19:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Valter S. L."
+    ]
+  },
+  {
+    "course_id": "DIP039",
+    "name": "TEORIA DO ESTADO I",
+    "availabilityCode": "TA",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Jose L. B. H."
+    ]
+  },
+  {
+    "course_id": "DIP039",
+    "name": "TEORIA DO ESTADO I",
+    "availabilityCode": "TB",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Raoni M. B."
+    ]
+  },
+  {
+    "course_id": "DIP039",
+    "name": "TEORIA DO ESTADO I",
+    "availabilityCode": "TC",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Jose L. Q. M."
+    ]
+  },
+  {
+    "course_id": "DIP039",
+    "name": "TEORIA DO ESTADO I",
+    "availabilityCode": "TD",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Jose L. Q. M."
+    ]
+  },
+  {
+    "course_id": "DIP040",
+    "name": "TEORIA DA CONSTITUICAO",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:21",
+        "end": "11:11"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Emilio P. N. M."
+    ]
+  },
+  {
+    "course_id": "DIP040",
+    "name": "TEORIA DA CONSTITUICAO",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:21",
+        "end": "09:11"
+      }
+    ],
+    "teachers": [
+      "Emilio P. N. M."
+    ]
+  },
+  {
+    "course_id": "DIP040",
+    "name": "TEORIA DA CONSTITUICAO",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "21:41",
+        "end": "22:31"
+      }
+    ],
+    "teachers": [
+      "Marcelo A. C. O."
+    ]
+  },
+  {
+    "course_id": "DIP040",
+    "name": "TEORIA DA CONSTITUICAO",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:51",
+        "end": "20:41"
+      }
+    ],
+    "teachers": [
+      "Marcelo A. C. O."
+    ]
+  },
+  {
+    "course_id": "DIP041",
+    "name": "TEORIA DO ESTADO II",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "10:20"
+      }
+    ],
+    "teachers": [
+      "Raoni M. B."
+    ]
+  },
+  {
+    "course_id": "DIP041",
+    "name": "TEORIA DO ESTADO II",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "08:20"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Jose L. B. H."
+    ]
+  },
+  {
+    "course_id": "DIP041",
+    "name": "TEORIA DO ESTADO II",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "21:40"
+      }
+    ],
+    "teachers": [
+      "Jose L. B. H."
+    ]
+  },
+  {
+    "course_id": "DIP041",
+    "name": "TEORIA DO ESTADO II",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Jose L. B. H."
+    ]
+  },
+  {
+    "course_id": "DIP042",
+    "name": "DIREITO CONSTITUCIONAL II",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Francisco C. P."
+    ]
+  },
+  {
+    "course_id": "DIP042",
+    "name": "DIREITO CONSTITUCIONAL II",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Francisco C. P."
+    ]
+  },
+  {
+    "course_id": "DIP042",
+    "name": "DIREITO CONSTITUCIONAL II",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Adamo D. A."
+    ]
+  },
+  {
+    "course_id": "DIP042",
+    "name": "DIREITO CONSTITUCIONAL II",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Adamo D. A."
+    ]
+  },
+  {
+    "course_id": "DIP043",
+    "name": "DIREITO FINANCEIRO",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Alexandre A. A. T."
+    ]
+  },
+  {
+    "course_id": "DIP043",
+    "name": "DIREITO FINANCEIRO",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Alexandre A. A. T."
+    ]
+  },
+  {
+    "course_id": "DIP043",
+    "name": "DIREITO FINANCEIRO",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Alexandre A. A. T."
+    ]
+  },
+  {
+    "course_id": "DIP043",
+    "name": "DIREITO FINANCEIRO",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre A. A. T."
+    ]
+  },
+  {
+    "course_id": "DIP044",
+    "name": "DIREITO TRIBUTARIO I",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Onofre A. B. J."
+    ]
+  },
+  {
+    "course_id": "DIP044",
+    "name": "DIREITO TRIBUTARIO I",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Onofre A. B. J."
+    ]
+  },
+  {
+    "course_id": "DIP044",
+    "name": "DIREITO TRIBUTARIO I",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Werther B. S."
+    ]
+  },
+  {
+    "course_id": "DIP044",
+    "name": "DIREITO TRIBUTARIO I",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Flavio C. B."
+    ]
+  },
+  {
+    "course_id": "DIP045",
+    "name": "DIREITO ADMINISTRATIVO II",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Luciano A. F."
+    ]
+  },
+  {
+    "course_id": "DIP045",
+    "name": "DIREITO ADMINISTRATIVO II",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Cristiana M. F. P. S."
+    ]
+  },
+  {
+    "course_id": "DIP045",
+    "name": "DIREITO ADMINISTRATIVO II",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Luciano A. F."
+    ]
+  },
+  {
+    "course_id": "DIP045",
+    "name": "DIREITO ADMINISTRATIVO II",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Luciano A. F."
+    ]
+  },
+  {
+    "course_id": "DIP046",
+    "name": "DIREITO ECONOMICO I",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Giovani C."
+    ]
+  },
+  {
+    "course_id": "DIP046",
+    "name": "DIREITO ECONOMICO I",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Giovani C."
+    ]
+  },
+  {
+    "course_id": "DIP046",
+    "name": "DIREITO ECONOMICO I",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Leonardo A. C."
+    ]
+  },
+  {
+    "course_id": "DIP046",
+    "name": "DIREITO ECONOMICO I",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Leonardo A. C."
+    ]
+  },
+  {
+    "course_id": "DIP047",
+    "name": "DIREITO ADMINISTRATICO III",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Maria T. F. D."
+    ]
+  },
+  {
+    "course_id": "DIP047",
+    "name": "DIREITO ADMINISTRATICO III",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Maria T. F. D."
+    ]
+  },
+  {
+    "course_id": "DIP047",
+    "name": "DIREITO ADMINISTRATICO III",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Maria T. F. D."
+    ]
+  },
+  {
+    "course_id": "DIP047",
+    "name": "DIREITO ADMINISTRATICO III",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Maria T. F. D."
+    ]
+  },
+  {
+    "course_id": "DIP048",
+    "name": "DIREITO INTERNACIONAL PRIVADO",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Bruno B. A. K."
+    ]
+  },
+  {
+    "course_id": "DIP048",
+    "name": "DIREITO INTERNACIONAL PRIVADO",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Bruno B. A. K."
+    ]
+  },
+  {
+    "course_id": "DIP048",
+    "name": "DIREITO INTERNACIONAL PRIVADO",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Bruno B. A. K."
+    ]
+  },
+  {
+    "course_id": "DIP048",
+    "name": "DIREITO INTERNACIONAL PRIVADO",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Bruno B. A. K."
+    ]
+  },
+  {
+    "course_id": "DIP049",
+    "name": "DIREITO ECONOMICO II",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Leandro N. S."
+    ]
+  },
+  {
+    "course_id": "DIP049",
+    "name": "DIREITO ECONOMICO II",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Leandro N. S."
+    ]
+  },
+  {
+    "course_id": "DIP049",
+    "name": "DIREITO ECONOMICO II",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Davi M. D."
+    ]
+  },
+  {
+    "course_id": "DIP049",
+    "name": "DIREITO ECONOMICO II",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Davi M. D."
+    ]
+  },
+  {
+    "course_id": "DIP050",
+    "name": "CONTROLE DE CONSTITUCIONALIDADE",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Marcio L. O."
+    ]
+  },
+  {
+    "course_id": "DIP050",
+    "name": "CONTROLE DE CONSTITUCIONALIDADE",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marcio L. O."
+    ]
+  },
+  {
+    "course_id": "DIP050",
+    "name": "CONTROLE DE CONSTITUCIONALIDADE",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Francisco C. P."
+    ]
+  },
+  {
+    "course_id": "DIP050",
+    "name": "CONTROLE DE CONSTITUCIONALIDADE",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Francisco C. P."
+    ]
+  },
+  {
+    "course_id": "DIP053",
+    "name": "TOPICOS EM TEORIA DO ESTADO C - Tribunais de Contas, Democracia e Cidadania",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:20",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Bruno W. J."
+    ]
+  },
+  {
+    "course_id": "DIP056",
+    "name": "TOPICOS EM DIREITO CONSTITUCIONAL C - Educação em Direitos Humanos: Coronelismo, Enxada e Voto",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:15",
+        "end": "12:55"
+      }
+    ],
+    "teachers": [
+      "Adriana C. S."
+    ]
+  },
+  {
+    "course_id": "DIP056",
+    "name": "TOPICOS EM DIREITO CONSTITUCIONAL C - Novos Direitos, Novos Sujeitos",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:15",
+        "end": "12:55"
+      }
+    ],
+    "teachers": [
+      "Alexandre G. M. F. B."
+    ]
+  },
+  {
+    "course_id": "DIP056",
+    "name": "TOPICOS EM DIREITO CONSTITUCIONAL C - História Constitucional Brasileira e a História do Conceito de Fascismo",
+    "availabilityCode": "TC",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:15",
+        "end": "12:55"
+      }
+    ],
+    "teachers": [
+      "Adamo D. A."
+    ]
+  },
+  {
+    "course_id": "DIP057",
+    "name": "TOPICOS EM DIREITO ADMINISTRATIVO A - Tópicos Fundamentais do Direito Administrativo e suas Transformações",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:10",
+        "end": "18:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:10",
+        "end": "18:50"
+      }
+    ],
+    "teachers": [
+      "Eurico B. N."
+    ]
+  },
+  {
+    "course_id": "DIP057",
+    "name": "TOPICOS EM DIREITO ADMINISTRATIVO A - A Discricionariedade Administrativa e Controle Jurisdicional",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Florivaldo D. A."
+    ]
+  },
+  {
+    "course_id": "DIP057",
+    "name": "TOPICOS EM DIREITO ADMINISTRATIVO A - Compliance e Administração Pública - Pré-req.: Direito Administrativo I e II",
+    "availabilityCode": "TC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Luciano A. F."
+    ]
+  },
+  {
+    "course_id": "DIP064",
+    "name": "TOPICOS EM DIREITO TRIBUTARIO B - Tributação Indireta sobre o Consumo: o Atual Sistema e a Reforma Tributária - Pré-req.: Direito Tributário I",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:30",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Frederico M. B."
+    ]
+  },
+  {
+    "course_id": "DIP065",
+    "name": "TOPICOS EM DIREITO TRIBUTARIO C - Processo Tributário - Pré-req.: Direito Tributário I",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:45",
+        "end": "18:25"
+      }
+    ],
+    "teachers": [
+      "Frederico M. B."
+    ]
+  },
+  {
+    "course_id": "DIP065",
+    "name": "TOPICOS EM DIREITO TRIBUTARIO C - Reforma Tributário: Consumo, Renda e Patrimônio - Pré- req.: Direito Tributário I",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:10",
+        "end": "18:50"
+      }
+    ],
+    "teachers": [
+      "Werther B. S."
+    ]
+  },
+  {
+    "course_id": "DIP065",
+    "name": "TOPICOS EM DIREITO TRIBUTARIO C - Direito Tributário Internacional II - Planejamento Tributário Internacional - Pré-req.: Direito Tributário Internacional",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:20",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Alexandre A. A. T."
+    ]
+  },
+  {
+    "course_id": "DIP068",
+    "name": "TOPICOS EM DIREITO ECONOMICO C - Teoria dos Jogos Aplicada ao Direito",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:15",
+        "end": "12:55"
+      }
+    ],
+    "teachers": [
+      "Fabiano T. R. L."
+    ]
+  },
+  {
+    "course_id": "DIP068",
+    "name": "TOPICOS EM DIREITO ECONOMICO C - Introduction to Law and Development - Pré-req.: disciplina ministrada em Língua Inglesa",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:15",
+        "end": "12:55"
+      }
+    ],
+    "teachers": [
+      "Fabiano T. R. L."
+    ]
+  },
+  {
+    "course_id": "DIP068",
+    "name": "TOPICOS EM DIREITO ECONOMICO C - Teoria Geral da Negociação e Resolução de Conflitos",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:10",
+        "end": "18:50"
+      }
+    ],
+    "teachers": [
+      "Leonardo A. C."
+    ]
+  },
+  {
+    "course_id": "DIP069",
+    "name": "TOPICOS EM DIREITO INTERNACIONAL PUBLICO A - Direito Internacional e Direitos Humanos",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:20",
+        "end": "13:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:20",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Bruno B. A. K."
+    ]
+  },
+  {
+    "course_id": "DIP069",
+    "name": "TOPICOS EM DIREITO INTERNACIONAL PUBLICO A - Relações Internacionais",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "15:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Bruno B. A. K."
+    ]
+  },
+  {
+    "course_id": "DIP069",
+    "name": "TOPICOS EM DIREITO INTERNACIONAL PUBLICO A - União Europeia e Integração Regional",
+    "availabilityCode": "TC",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:10",
+        "end": "18:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:10",
+        "end": "18:50"
+      }
+    ],
+    "teachers": [
+      "Jamile B. M. D."
+    ]
+  },
+  {
+    "course_id": "DIP070",
+    "name": "TOPICOS EM DIREITO INTERNACIONAL PUBLICO B - Direito Internacional dos Investimentos - Pré-req.: Direito Internacional Público e Língua Inglesa",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:20",
+        "end": "13:50"
+      }
+    ],
+    "teachers": [
+      "Lucas C. L."
+    ]
+  },
+  {
+    "course_id": "DIP071",
+    "name": "TOPICOS EM DIREITO INERNACIONAL PUBLICO C - Direito Internacional do Meio Ambiente",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:20",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Bruno W. J."
+    ]
+  },
+  {
+    "course_id": "DIP071",
+    "name": "TOPICOS EM DIREITO INERNACIONAL PUBLICO C - Os Desafios do Controle Externo Contemporâneo e Cidades Sustentáveis na Agenda da ONU",
+    "availabilityCode": "TB",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "17:10",
+        "end": "18:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:10",
+        "end": "18:50"
+      }
+    ],
+    "teachers": [
+      "Fernando G. J.",
+      "Carla R. V. S."
+    ]
+  },
+  {
+    "course_id": "DIP075",
+    "name": "TOPICOS EM DIREITO PUBLICO A - Introdução ao Direito dos Estados Unidos: Compreendendo o Judicial Review - Pré-req.: leitura em Língua Inglesa; Teoria Geral do Processo.",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "17:19",
+        "end": "18:59"
+      },
+      {
+        "day": "Segunda",
+        "start": "17:19",
+        "end": "18:59"
+      }
+    ],
+    "teachers": [
+      "Davi M. D."
+    ]
+  },
+  {
+    "course_id": "DIP078",
+    "name": "DIREITO ELEITORAL",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:15",
+        "end": "13:45"
+      }
+    ],
+    "teachers": [
+      "Adriana C. S."
+    ]
+  },
+  {
+    "course_id": "DIP078",
+    "name": "DIREITO ELEITORAL",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:20",
+        "end": "18:50"
+      }
+    ],
+    "teachers": [
+      "Adriana C. S."
+    ]
+  },
+  {
+    "course_id": "DIP080",
+    "name": "DIREITO DAS ORGANIZACOES INTERNACIONAIS",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:20",
+        "end": "18:50"
+      }
+    ],
+    "teachers": [
+      "Roberto L. S."
+    ]
+  },
+  {
+    "course_id": "DIR049",
+    "name": "TRABALHO DE CURSO I",
+    "availabilityCode": "TM",
+    "spots": 400,
+    "times": [],
+    "teachers": [
+      "Yaska F. L. C."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDC1",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Edgard A. M. N.",
+      "Carla V. C.",
+      "Giordano B. S. R."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDC10",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Leonardo M. P.",
+      "Leandro M. Z.",
+      "Mariana A. L."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDC2",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Cesar A. C. F.",
+      "Fabio Q. P.",
+      "Renata G. P."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDC3",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Elena C. G.",
+      "Ester C. G. N. R.",
+      "Lucas C. O."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDC4",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Sergio M. C. L.",
+      "Fernanda V. V.",
+      "Eduardo G. P.",
+      "Gustavo O. G."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDC5",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Marcelo A. F.",
+      "Rodrigo A. M.",
+      "Natalia C. C.",
+      "Rubia C. N."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDC6",
+    "spots": 400,
+    "times": [],
+    "teachers": [
+      "Yaska F. L. C."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDC7",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Edilson V. D. L.",
+      "Erico A.",
+      "Dierle J. C. N.",
+      "Juliana C. F."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDC8",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Fernando G. J.",
+      "Joao A. A.",
+      "Jose M. R. V.",
+      "Renata C. V. M."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDC9",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Tereza C. S. B. T.",
+      "Brunello S. S.",
+      "Glaucio F. M. G.",
+      "Leonardo N. P."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDN1",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Fernando A. N. G. R."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDN2",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Fernando A. N. G. R."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDN3",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Luis A. S. B."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDN4",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Frederico G. A. H."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDN5",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Carlos H. B. H."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDN6",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Carlos A. C. G. S."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDN7",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Leonardo A. M. M."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDN8",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Julio C. F. Z."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDP1",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Adriana C. S.",
+      "Alexandre G. M. F. B.",
+      "Adamo D. A."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDP10",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Francisco C. P.",
+      "Bernardo G. A. F.",
+      "Emilio P. N. M."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDP11",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Marcio L. O.",
+      "Carla R. V. S.",
+      "Marcelo A. C. O."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDP12",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Daniela M. C. H.",
+      "Eurico B. N.",
+      "Daniel G."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDP13",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Luciano A. F.",
+      "Florivaldo D. A.",
+      "Gabriela C. B. N."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDP14",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Maria T. F. D."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDP15",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Carla R. V. S.",
+      "Aziz T. S.",
+      "Adriano A. S."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDP2",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Roberto L. S.",
+      "Jamile B. M. D.",
+      "Lucas C. L."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDP3",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Fabiano T. R. L.",
+      "Giovani C.",
+      "Davi M. D."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDP4",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Leandro N. S.",
+      "Leonardo A. C."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDP5",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Bruno W. J.",
+      "Jose L. Q. M."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDP6",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Raoni M. B.",
+      "Jose L. B. H."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDP7",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Paulo R. C. S.",
+      "Flavio C. B.",
+      "Alexandre A. A. T."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDP8",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Frederico M. B.",
+      "Onofre A. B. J.",
+      "Werther B. S."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDP9",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Valter S. L."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDT1",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Adriana G. S. O.",
+      "Andityas S. M. C. M.",
+      "Alexandre T. G. T.",
+      "Antonio G. V."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDT10",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Camila S. N.",
+      "Daniela M. A.",
+      "Ernane S. C. J.",
+      "David F. L. G."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDT2",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Fabiana M. S.",
+      "Gabriel R. S. P.",
+      "Felipe A. C.",
+      "Fabricio B. P. P."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDT3",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Lorena M. F.",
+      "Livia M. M. M.",
+      "Gustavo S. S. M.",
+      "Karine S."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDT4",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Marcelo M. R.",
+      "Marcelo C. G.",
+      "Marcella F. M. G.",
+      "Marco A. S. A."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDT5",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Maria F. S. R.",
+      "Maria R. B.",
+      "Milton V. T. A.",
+      "Mariah B. F."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDT6",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Monica S. L.",
+      "Pedro A. G. N.",
+      "Nathalia L. S."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDT7",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Renato C. C.",
+      "Roberto V. N.",
+      "Ricardo S."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDT8",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Sielen B. C. V.",
+      "Thiago L. D.",
+      "Thiago A. S."
+    ]
+  },
+  {
+    "course_id": "DIR050",
+    "name": "TRABALHO DE CURSO II",
+    "availabilityCode": "TDT9",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Thomas R. B.",
+      "Vitor B. S.",
+      "Victor H. C. B."
+    ]
+  },
+  {
+    "course_id": "DIR051",
+    "name": "TRABALHO DE CURSO III",
+    "availabilityCode": "TU",
+    "spots": 400,
+    "times": [],
+    "teachers": [
+      "Yaska F. L. C."
+    ]
+  },
+  {
+    "course_id": "DIR088",
+    "name": "ATIVIDADE DE EXTENSAO A",
+    "availabilityCode": "TA",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "16:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "16:40"
+      }
+    ],
+    "teachers": [
+      "Carla V. C."
+    ]
+  },
+  {
+    "course_id": "DIR088",
+    "name": "ATIVIDADE DE EXTENSAO A",
+    "availabilityCode": "TB",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:30"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Felipe M. P."
+    ]
+  },
+  {
+    "course_id": "DIR088",
+    "name": "ATIVIDADE DE EXTENSAO A",
+    "availabilityCode": "TC",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Carlos H. B. H."
+    ]
+  },
+  {
+    "course_id": "DIR106",
+    "name": "ESTAGIO SUPERVISIONADO- PRATICA REAL A",
+    "availabilityCode": "PA",
+    "spots": 400,
+    "times": [],
+    "teachers": [
+      "Yaska F. L. C."
+    ]
+  },
+  {
+    "course_id": "DIR107",
+    "name": "ESTAGIO SUPERVISIONADO- PRATICA REAL B",
+    "availabilityCode": "PB",
+    "spots": 100,
+    "times": [],
+    "teachers": [
+      "Yaska F. L. C."
+    ]
+  },
+  {
+    "course_id": "DIT006",
+    "name": "FILOSOFIA DO DIREITO",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Karine S."
+    ]
+  },
+  {
+    "course_id": "DIT006",
+    "name": "FILOSOFIA DO DIREITO",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Karine S."
+    ]
+  },
+  {
+    "course_id": "DIT006",
+    "name": "FILOSOFIA DO DIREITO",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Andityas S. M. C. M."
+    ]
+  },
+  {
+    "course_id": "DIT006",
+    "name": "FILOSOFIA DO DIREITO",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marco A. S. A."
+    ]
+  },
+  {
+    "course_id": "DIT023",
+    "name": "HERMENEUTICA JURIDICA",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Thiago A. S."
+    ]
+  },
+  {
+    "course_id": "DIT023",
+    "name": "HERMENEUTICA JURIDICA",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Thiago A. S."
+    ]
+  },
+  {
+    "course_id": "DIT023",
+    "name": "HERMENEUTICA JURIDICA",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Thomas R. B."
+    ]
+  },
+  {
+    "course_id": "DIT023",
+    "name": "HERMENEUTICA JURIDICA",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Thomas R. B."
+    ]
+  },
+  {
+    "course_id": "DIT038",
+    "name": "INTRODUCAO A CIENCIA DO DIREITO",
+    "availabilityCode": "TA",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marcelo C. G."
+    ]
+  },
+  {
+    "course_id": "DIT038",
+    "name": "INTRODUCAO A CIENCIA DO DIREITO",
+    "availabilityCode": "TB",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marcelo C. G."
+    ]
+  },
+  {
+    "course_id": "DIT038",
+    "name": "INTRODUCAO A CIENCIA DO DIREITO",
+    "availabilityCode": "TC",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Thiago L. D."
+    ]
+  },
+  {
+    "course_id": "DIT038",
+    "name": "INTRODUCAO A CIENCIA DO DIREITO",
+    "availabilityCode": "TD",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Thiago L. D."
+    ]
+  },
+  {
+    "course_id": "DIT039",
+    "name": "HISTORIA DO DIREITO",
+    "availabilityCode": "TA",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Ricardo S."
+    ]
+  },
+  {
+    "course_id": "DIT039",
+    "name": "HISTORIA DO DIREITO",
+    "availabilityCode": "TB",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Ricardo S."
+    ]
+  },
+  {
+    "course_id": "DIT039",
+    "name": "HISTORIA DO DIREITO",
+    "availabilityCode": "TC",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Gustavo S. S. M."
+    ]
+  },
+  {
+    "course_id": "DIT039",
+    "name": "HISTORIA DO DIREITO",
+    "availabilityCode": "TD",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Gustavo S. S. M."
+    ]
+  },
+  {
+    "course_id": "DIT040",
+    "name": "ANTROPOLOGIA JURIDICA",
+    "availabilityCode": "TA",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Camila S. N."
+    ]
+  },
+  {
+    "course_id": "DIT040",
+    "name": "ANTROPOLOGIA JURIDICA",
+    "availabilityCode": "TB",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Camila S. N."
+    ]
+  },
+  {
+    "course_id": "DIT040",
+    "name": "ANTROPOLOGIA JURIDICA",
+    "availabilityCode": "TC",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Nathalia L. S."
+    ]
+  },
+  {
+    "course_id": "DIT040",
+    "name": "ANTROPOLOGIA JURIDICA",
+    "availabilityCode": "TD",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Nathalia L. S."
+    ]
+  },
+  {
+    "course_id": "DIT042",
+    "name": "SOCIOLOGIA JURIDICA",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Fabricio B. P. P."
+    ]
+  },
+  {
+    "course_id": "DIT042",
+    "name": "SOCIOLOGIA JURIDICA",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Fabricio B. P. P."
+    ]
+  },
+  {
+    "course_id": "DIT042",
+    "name": "SOCIOLOGIA JURIDICA",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Vitor B. S."
+    ]
+  },
+  {
+    "course_id": "DIT042",
+    "name": "SOCIOLOGIA JURIDICA",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Vitor B. S."
+    ]
+  },
+  {
+    "course_id": "DIT043",
+    "name": "TEORIA GERAL DO DIREITO",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Camila S. N."
+    ]
+  },
+  {
+    "course_id": "DIT043",
+    "name": "TEORIA GERAL DO DIREITO",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Camila S. N."
+    ]
+  },
+  {
+    "course_id": "DIT043",
+    "name": "TEORIA GERAL DO DIREITO",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Nathalia L. S."
+    ]
+  },
+  {
+    "course_id": "DIT043",
+    "name": "TEORIA GERAL DO DIREITO",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Nathalia L. S."
+    ]
+  },
+  {
+    "course_id": "DIT044",
+    "name": "INSTITUICOES DE DIREITO ROMANO",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Gabriel R. S. P."
+    ]
+  },
+  {
+    "course_id": "DIT044",
+    "name": "INSTITUICOES DE DIREITO ROMANO",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Gabriel R. S. P."
+    ]
+  },
+  {
+    "course_id": "DIT044",
+    "name": "INSTITUICOES DE DIREITO ROMANO",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Pamela R. C."
+    ]
+  },
+  {
+    "course_id": "DIT044",
+    "name": "INSTITUICOES DE DIREITO ROMANO",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Pamela R. C."
+    ]
+  },
+  {
+    "course_id": "DIT045",
+    "name": "PSICOLOGIA JURIDICA",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Renata G. O."
+    ]
+  },
+  {
+    "course_id": "DIT045",
+    "name": "PSICOLOGIA JURIDICA",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Renata G. O."
+    ]
+  },
+  {
+    "course_id": "DIT045",
+    "name": "PSICOLOGIA JURIDICA",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Renata G. O."
+    ]
+  },
+  {
+    "course_id": "DIT045",
+    "name": "PSICOLOGIA JURIDICA",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Renata G. O."
+    ]
+  },
+  {
+    "course_id": "DIT046",
+    "name": "DIREITO PROCESSUAL DO TRABALHO",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Adriana G. S. O."
+    ]
+  },
+  {
+    "course_id": "DIT046",
+    "name": "DIREITO PROCESSUAL DO TRABALHO",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Adriana G. S. O."
+    ]
+  },
+  {
+    "course_id": "DIT046",
+    "name": "DIREITO PROCESSUAL DO TRABALHO",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Antonio G. V."
+    ]
+  },
+  {
+    "course_id": "DIT046",
+    "name": "DIREITO PROCESSUAL DO TRABALHO",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Antonio G. V."
+    ]
+  },
+  {
+    "course_id": "DIT047",
+    "name": "TOPICOS EM TEORIA GERAL DO DIREITO A - Direitos LGBTIA+ e Tecnologias Queer: Estudos Transnacionais e Comparados",
+    "availabilityCode": "TA",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:11",
+        "end": "12:51"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:11",
+        "end": "12:51"
+      }
+    ],
+    "teachers": [
+      "Fabricio B. P. P."
+    ]
+  },
+  {
+    "course_id": "DIT048",
+    "name": "TOPICOS EM TEORIA GERAL DO DIREITO B - Marx e a superação do modo de produção capitalista dentro do modo de produção capitalista",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:20",
+        "end": "18:50"
+      }
+    ],
+    "teachers": [
+      "Vitor B. S."
+    ]
+  },
+  {
+    "course_id": "DIT050",
+    "name": "TOPICOS EM FILOSOFIA DO DIREITO A - Direitos Humanos no Brasil",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:00",
+        "end": "16:40"
+      },
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Nathalia L. S."
+    ]
+  },
+  {
+    "course_id": "DIT052",
+    "name": "TOPICOS EM FILOSOFIA DO DIREITO C - Redação Científica",
+    "availabilityCode": "TA",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:11",
+        "end": "12:51"
+      }
+    ],
+    "teachers": [
+      "Karine S."
+    ]
+  },
+  {
+    "course_id": "DIT052",
+    "name": "TOPICOS EM FILOSOFIA DO DIREITO C - Direito e Neurociência: Neurodireitos e o Sistema Jurídico Brasileiro",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Renato C. C."
+    ]
+  },
+  {
+    "course_id": "DIT053",
+    "name": "TOPICOS EM HISTORIA DO DIREITO A - Mineração e Direito: Aspectos Histórico-Políticos desde o Trato da Terra e do Trabalho no Brasil",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "15:50",
+        "end": "17:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Gustavo S. S. M."
+    ]
+  },
+  {
+    "course_id": "DIT055",
+    "name": "TOPICOS EM HISTORIA DO DIREITO C - História do Direito e Arquivos - Pré- req.: Leitura em Língua Inglesa e Língua Espanhola",
+    "availabilityCode": "TA",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:20",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Ricardo S."
+    ]
+  },
+  {
+    "course_id": "DIT056",
+    "name": "TOPICOS EM SOCIOLOGIA JURIDICA A - Neoliberalismo e Razão Jurídica",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Felipe A. C."
+    ]
+  },
+  {
+    "course_id": "DIT058",
+    "name": "TOPICOS EM SOCIOLOGIA JURIDICA C - Constitucionalismo, Dependência e Legado Escravocrata: uma Teoria da Constituição como Teoria da Sociedade",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:20",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "David F. L. G."
+    ]
+  },
+  {
+    "course_id": "DIT058",
+    "name": "TOPICOS EM SOCIOLOGIA JURIDICA C - Democracia e Crise: Perspectivas Críticas",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:10",
+        "end": "18:50"
+      }
+    ],
+    "teachers": [
+      "Ernane S. C. J."
+    ]
+  },
+  {
+    "course_id": "DIT062",
+    "name": "TOPICOS EM HERMENEUTICA JURIDICA A - Direito Digital: Introdução e Fundamentos",
+    "availabilityCode": "TA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:20",
+        "end": "16:00"
+      },
+      {
+        "day": "Terca",
+        "start": "16:10",
+        "end": "17:50"
+      }
+    ],
+    "teachers": [
+      "Mariah B. F."
+    ]
+  },
+  {
+    "course_id": "DIT066",
+    "name": "TOPICOS EM DIREITO DO TRABALHO B - O Direito do Trabalho e os Diversos Cotidianos dos Trabalhadores",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "12:00",
+        "end": "14:30"
+      }
+    ],
+    "teachers": [
+      "Sielen B. C. V."
+    ]
+  },
+  {
+    "course_id": "DIT071",
+    "name": "DIREITO PREVIDENCIARIO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Milton V. T. A."
+    ]
+  },
+  {
+    "course_id": "DIT075",
+    "name": "METODOLOGIA DE PESQUISA EM DIREITO",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Felipe A. C."
+    ]
+  },
+  {
+    "course_id": "DIT075",
+    "name": "METODOLOGIA DE PESQUISA EM DIREITO",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Felipe A. C."
+    ]
+  },
+  {
+    "course_id": "DIT075",
+    "name": "METODOLOGIA DE PESQUISA EM DIREITO",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marcelo M. R."
+    ]
+  },
+  {
+    "course_id": "DIT075",
+    "name": "METODOLOGIA DE PESQUISA EM DIREITO",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcelo M. R."
+    ]
+  },
+  {
+    "course_id": "DIT105",
+    "name": "DIREITO DO TRABALHO I",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Daniela M. A."
+    ]
+  },
+  {
+    "course_id": "DIT105",
+    "name": "DIREITO DO TRABALHO I",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Daniela M. A."
+    ]
+  },
+  {
+    "course_id": "DIT105",
+    "name": "DIREITO DO TRABALHO I",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Maria R. B."
+    ]
+  },
+  {
+    "course_id": "DIT105",
+    "name": "DIREITO DO TRABALHO I",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Maria R. B."
+    ]
+  },
+  {
+    "course_id": "DIT106",
+    "name": "DIREITO DO TRABALHO II",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Sielen B. C. V."
+    ]
+  },
+  {
+    "course_id": "DIT106",
+    "name": "DIREITO DO TRABALHO II",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Sielen B. C. V."
+    ]
+  },
+  {
+    "course_id": "DIT106",
+    "name": "DIREITO DO TRABALHO II",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Victor H. C. B."
+    ]
+  },
+  {
+    "course_id": "DIT106",
+    "name": "DIREITO DO TRABALHO II",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Victor H. C. B."
+    ]
+  },
+  {
+    "course_id": "ECN101",
+    "name": "ECONOMIA A I",
+    "availabilityCode": "TB",
+    "spots": 120,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ulisses P. S."
+    ]
+  },
+  {
+    "course_id": "ECN101",
+    "name": "ECONOMIA A I",
+    "availabilityCode": "TE",
+    "spots": 120,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Ricardo M. R."
+    ]
+  },
+  {
+    "course_id": "FIL028",
+    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+    "availabilityCode": "TB",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Vitor S. S. B."
+    ]
+  },
+  {
+    "course_id": "FIL028",
+    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+    "availabilityCode": "TE",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Amaro O. F."
+    ]
+  },
+  {
+    "course_id": "FIL028",
+    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+    "availabilityCode": "TN",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Helton M. A."
+    ]
+  },
+  {
+    "course_id": "FIL028",
+    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+    "availabilityCode": "TQ",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Deborah M. G."
+    ]
+  },
+  {
+    "course_id": "INU031",
+    "name": "TÓPICOS EM LEGISLAÇÃO E POLÍTICAS PÚBLICAS - PRÁTICAS LEGISLATIVAS LEGISLAB I - Cidades, Governança, Regulação e Mercado Imobiliário - Pré- req.: alunos a partir do 5º período",
+    "availabilityCode": "TA",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Fabiana M. S."
+    ]
+  },
+  {
+    "course_id": "INU031",
+    "name": "TÓPICOS EM LEGISLAÇÃO E POLÍTICAS PÚBLICAS - PRÁTICAS LEGISLATIVAS LEGISLAB I - Direitos da Pessoa com Deficiência - Pré-req.: para alunos a partir do 5º período",
+    "availabilityCode": "TB",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Fabiana M. S."
+    ]
+  },
+  {
+    "course_id": "INU033",
+    "name": "TÓPICOS EM LEGISLAÇÃO E POLÍTICAS PÚBLICAS - PRÁTICAS LEGISLATIVAS LEGISLAB III - Legislação e Políticas Públicas - Práticas Legislativas LegisLab III (Geral) - Pré- req.: alunos a partir do 4º período",
+    "availabilityCode": "TA",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:00",
+        "end": "10:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "10:55",
+        "end": "12:35"
+      }
+    ],
+    "teachers": [
+      "Fabiana M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "UNI083",
+    "name": "DIREITOS HUMANOS E POLÍTICAS PÚBLICAS A - Ouvidorias Públicas",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Maria T. F. D."
+    ]
+  },
+  {
+    "course_id": "UNI174",
+    "name": "TOPICS IN INTERNATIONAL STUDIES II - Constitutionalism and Democracy",
+    "availabilityCode": "TB",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:20",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Emilio P. N. M."
+    ]
+  },
+  {
+    "course_id": "UNI174",
+    "name": "TOPICS IN INTERNATIONAL STUDIES II - International Humanitarian Law",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Aziz T. S."
+    ]
+  },
+  {
+    "course_id": "UNI175",
+    "name": "TOPICS IN INTERNATIONAL STUDIES III - Cultural Turn(s)",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Jose L. B. H."
+    ]
+  },
+  {
+    "course_id": "UNI320",
+    "name": "TEMAS EN ESTUDIOS INTERNACIONALES II - Desarrollo, dependencia, buen vivir: dilemas teóricos y prácticos contemporáneos en Latinoamérica",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:20",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "David F. L. G."
+    ]
+  }
+]

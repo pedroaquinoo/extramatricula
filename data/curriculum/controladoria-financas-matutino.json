@@ -1,0 +1,406 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "CAD080",
+      "name": "Introdução À Controladoria e Finanças",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "CIC046",
+      "name": "Contabilidade I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DIC121",
+      "name": "Instituicoes de Direito Privado",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "CAD081",
+      "name": "Matemática Financeira Aplicada",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "CAD095",
+      "name": "Mercado de Capitais e Produtos Financeiros",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "CIC047",
+      "name": "Contabilidade II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EST007",
+      "name": "Probabilidade I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT042",
+      "name": "Cálculo de Várias Variáveis",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "CIC048",
+      "name": "Contabilidade III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECN020",
+      "name": "Macroeconomia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECN367",
+      "name": "Microeconomia Aplicada I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EST028",
+      "name": "Probabilidade II",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT040",
+      "name": "Equacoes Diferenciais C",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CAD220",
+      "name": "Finanças Corporativas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CAD221",
+      "name": "Introdução À Análise de Dados",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CIC050",
+      "name": "Contabilidade IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CIC097",
+      "name": "Contabilidade e Análise de Custos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ECN368",
+      "name": "Microeconomia Aplicada II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EST055",
+      "name": "Inferencia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CAD096",
+      "name": "Instrumentos de Renda Fixa",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CAD180",
+      "name": "Planejamento e Controle Orcamentario",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CAD222",
+      "name": "Gestão de Carteiras e Fundos de Investimentos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CAD223",
+      "name": "Gestão do Capital de Giro",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CAD224",
+      "name": "Métodos Econométricos em Finanças",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CIC098",
+      "name": "Teoria da Informação e das Decisões Financeiras",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CAD225",
+      "name": "Derivativos e Operações Estruturadas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CAD226",
+      "name": "Finanças Computacionais e Big Data",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CIC099",
+      "name": "Controladoria",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CIC100",
+      "name": "Análise e Previsão de Séries Temporais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CIC161",
+      "name": "Contabilidade e Planejamento Tributario",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CAD211",
+      "name": "Gestao de Riscos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CIC090",
+      "name": "Metodologia de Pesquisa e Projeto de",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CIC162",
+      "name": "Valuation",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "CIC091",
+      "name": "Prática de Pesquisa (monografia)",
+      "description": null,
+      "credits": 12,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "CIC092",
+      "name": "Ética e Compliance",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "CAD095",
+      "prerequisite_code": "CAD080"
+    },
+    {
+      "code": "CIC047",
+      "prerequisite_code": "CIC046"
+    },
+    {
+      "code": "EST007",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "CIC048",
+      "prerequisite_code": "CIC047"
+    },
+    {
+      "code": "ECN367",
+      "prerequisite_code": "MAT042"
+    },
+    {
+      "code": "EST028",
+      "prerequisite_code": "EST007"
+    },
+    {
+      "code": "CAD221",
+      "prerequisite_code": "EST007"
+    },
+    {
+      "code": "CIC050",
+      "prerequisite_code": "CIC048"
+    },
+    {
+      "code": "CIC097",
+      "prerequisite_code": "CIC048"
+    },
+    {
+      "code": "ECN368",
+      "prerequisite_code": "ECN367"
+    },
+    {
+      "code": "EST055",
+      "prerequisite_code": "EST028"
+    },
+    {
+      "code": "CAD096",
+      "prerequisite_code": "CAD220"
+    },
+    {
+      "code": "CAD180",
+      "prerequisite_code": "CIC097"
+    },
+    {
+      "code": "CAD223",
+      "prerequisite_code": "CAD220"
+    },
+    {
+      "code": "CAD224",
+      "prerequisite_code": "EST055"
+    },
+    {
+      "code": "CIC098",
+      "prerequisite_code": "ECN368"
+    },
+    {
+      "code": "CAD225",
+      "prerequisite_code": "MAT040"
+    },
+    {
+      "code": "CIC099",
+      "prerequisite_code": "CIC050"
+    },
+    {
+      "code": "CIC099",
+      "prerequisite_code": "CIC097"
+    },
+    {
+      "code": "CIC100",
+      "prerequisite_code": "CAD224"
+    },
+    {
+      "code": "CIC161",
+      "prerequisite_code": "CIC050"
+    },
+    {
+      "code": "CAD211",
+      "prerequisite_code": "EST055"
+    },
+    {
+      "code": "CIC090",
+      "prerequisite_code": "CIC050"
+    },
+    {
+      "code": "CIC090",
+      "prerequisite_code": "CAD220"
+    },
+    {
+      "code": "CIC162",
+      "prerequisite_code": "CAD220"
+    },
+    {
+      "code": "CIC091",
+      "prerequisite_code": "CIC090"
+    }
+  ]
+}

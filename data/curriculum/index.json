@@ -136,5 +136,41 @@
     "name": "Engenharia de Materiais",
     "offerId": "eng-materiais",
     "shift": "diurno"
+  },
+  {
+    "id": "ciencias-contabeis-noturno",
+    "name": "Ciências Contábeis",
+    "offerId": "ciencias-contabeis",
+    "shift": "noturno"
+  },
+  {
+    "id": "ciencias-economicas-matutino",
+    "name": "Ciências Econômicas",
+    "offerId": "ciencias-economicas",
+    "shift": "matutino"
+  },
+  {
+    "id": "controladoria-financas-diurno",
+    "name": "Controladoria e Finanças",
+    "offerId": "controladoria-financas",
+    "shift": "diurno"
+  },
+  {
+    "id": "controladoria-financas-matutino",
+    "name": "Controladoria e Finanças",
+    "offerId": "controladoria-financas",
+    "shift": "matutino"
+  },
+  {
+    "id": "direito-diurno",
+    "name": "Direito",
+    "offerId": "direito",
+    "shift": "diurno"
+  },
+  {
+    "id": "direito-noturno",
+    "name": "Direito",
+    "offerId": "direito",
+    "shift": "noturno"
   }
 ]

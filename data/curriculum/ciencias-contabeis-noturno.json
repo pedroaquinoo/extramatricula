@@ -1,0 +1,430 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "CAD103",
+      "name": "Administração Tga",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "CIC046",
+      "name": "Contabilidade I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DIC101",
+      "name": "Instituicoes de Direito Privado I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT020",
+      "name": "Matematica a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "CIC047",
+      "name": "Contabilidade II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCP023",
+      "name": "Estado Moderno e Capitalismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DIC102",
+      "name": "Instituicoes de Direito Privado II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECN061",
+      "name": "Microeconomia A-i",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT042",
+      "name": "Cálculo de Várias Variáveis",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "CIC048",
+      "name": "Contabilidade III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "CIC049",
+      "name": "Matematica Financeira",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECN020",
+      "name": "Macroeconomia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECN062",
+      "name": "Microeconomia A-ii",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EST180",
+      "name": "Estatistica I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CAD052",
+      "name": "Administracao Financeira I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CIC050",
+      "name": "Contabilidade IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CIC051",
+      "name": "Metodos de Pesquisa em Contabilidade",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CIC089",
+      "name": "Laboratorio Contabil",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EST002",
+      "name": "Estatistica II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CIC052",
+      "name": "Met Quat Aplicados em Contab e Financas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CIC053",
+      "name": "Teoria Normativa da Contabilidade",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CIC054",
+      "name": "Análise das Demonstrações Financeiras",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CIC055",
+      "name": "Contabilidade Internacional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DIP007",
+      "name": "Direito Tributario",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CAD122",
+      "name": "Mercado de Capitais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CIC056",
+      "name": "Contabilidade de Custos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CIC057",
+      "name": "Contabilidade Tributaria I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DIT102",
+      "name": "Legislacao Social",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CIC058",
+      "name": "Analise de Custos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CIC059",
+      "name": "Teoria Positiva da Contabilidade",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CIC060",
+      "name": "Contabilidade Tributaria II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CIC061",
+      "name": "Sistemas de Informacoes Contabeis",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "CIC062",
+      "name": "Auditoria",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "CIC063",
+      "name": "Análise Avançada das Demonst Financeiras",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "CIC123",
+      "name": "Orcamento Empresarial",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "CIC064",
+      "name": "Contabilidade das Instituições Públicas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "CIC065",
+      "name": "Contabilidade Gerencial a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CIC067",
+      "name": "Introducao a Pericia Contabil",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CIC068",
+      "name": "Contabilidade Social e Ambiental",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "CIC047",
+      "prerequisite_code": "CIC046"
+    },
+    {
+      "code": "DIC102",
+      "prerequisite_code": "DIC101"
+    },
+    {
+      "code": "ECN061",
+      "prerequisite_code": "MAT020"
+    },
+    {
+      "code": "MAT042",
+      "prerequisite_code": "MAT038"
+    },
+    {
+      "code": "CIC048",
+      "prerequisite_code": "CIC047"
+    },
+    {
+      "code": "CIC049",
+      "prerequisite_code": "MAT038"
+    },
+    {
+      "code": "ECN020",
+      "prerequisite_code": "ECN061"
+    },
+    {
+      "code": "ECN062",
+      "prerequisite_code": "ECN061"
+    },
+    {
+      "code": "CAD052",
+      "prerequisite_code": "CIC049"
+    },
+    {
+      "code": "CIC050",
+      "prerequisite_code": "CIC048"
+    },
+    {
+      "code": "EST002",
+      "prerequisite_code": "EST180"
+    },
+    {
+      "code": "CIC052",
+      "prerequisite_code": "EST002"
+    },
+    {
+      "code": "CIC053",
+      "prerequisite_code": "CIC050"
+    },
+    {
+      "code": "CIC054",
+      "prerequisite_code": "CIC050"
+    },
+    {
+      "code": "CIC055",
+      "prerequisite_code": "CIC050"
+    },
+    {
+      "code": "CAD122",
+      "prerequisite_code": "CAD052"
+    },
+    {
+      "code": "CIC056",
+      "prerequisite_code": "CIC050"
+    },
+    {
+      "code": "CIC057",
+      "prerequisite_code": "CIC050"
+    },
+    {
+      "code": "CIC058",
+      "prerequisite_code": "CIC056"
+    },
+    {
+      "code": "CIC059",
+      "prerequisite_code": "CIC052"
+    },
+    {
+      "code": "CIC060",
+      "prerequisite_code": "CIC057"
+    },
+    {
+      "code": "CIC062",
+      "prerequisite_code": "CIC050"
+    },
+    {
+      "code": "CIC063",
+      "prerequisite_code": "CIC059"
+    },
+    {
+      "code": "CIC123",
+      "prerequisite_code": "CIC058"
+    },
+    {
+      "code": "CIC064",
+      "prerequisite_code": "CIC050"
+    },
+    {
+      "code": "CIC065",
+      "prerequisite_code": "CIC050"
+    }
+  ]
+}

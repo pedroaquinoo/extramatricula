@@ -1,0 +1,362 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "ECN059",
+      "name": "Fundamentos de Economia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ECN181",
+      "name": "Historia Economica Geral",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ECN206",
+      "name": "Economia e Sociedade",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ECN295",
+      "name": "Contabilidade Social",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "CIC010",
+      "name": "Introdução À Contabilidade",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECN015",
+      "name": "Economia Matematica",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECN020",
+      "name": "Macroeconomia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECN051",
+      "name": "Historia Economica do Brasil",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECN052",
+      "name": "História do Pensamento Econômico",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECN296",
+      "name": "Métodos e Ciência dos Dados",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECN053",
+      "name": "Macroeconomia II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECN055",
+      "name": "Economia Politica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECN297",
+      "name": "Microeconomia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECN298",
+      "name": "Estatística Aplicada À Economia",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "POP001",
+      "name": "Demografia Economica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ECN054",
+      "name": "Macroeconomia III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ECN190",
+      "name": "Econometria I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ECN231",
+      "name": "Economia Regional e Urbana",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ECN299",
+      "name": "Microeconomia II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ECN300",
+      "name": "Investimento e Financiamento",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ECN191",
+      "name": "Econometria II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ECN301",
+      "name": "Microeconomia III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ECN302",
+      "name": "Macroeconomia IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ECN303",
+      "name": "Economia Internacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ECN304",
+      "name": "Economia Brasileira Contemporânea",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ECN025",
+      "name": "Metodologia da Economia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ECN028",
+      "name": "Desenvolvimento Economico",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ECN212",
+      "name": "Microeconomia IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ECN214",
+      "name": "Economia do Setor Publico",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ECN305",
+      "name": "Economia Social e Políticas Públicas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ECN306",
+      "name": "Conjuntura Econômica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ECN307",
+      "name": "Sistema Econômico Internacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ECN308",
+      "name": "Técnicas de Pesquisa e Elaboração de Projetos em Economia",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ECN309",
+      "name": "Monografia",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "ECN015",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "ECN052",
+      "prerequisite_code": "ECN181"
+    },
+    {
+      "code": "ECN053",
+      "prerequisite_code": "ECN020"
+    },
+    {
+      "code": "ECN055",
+      "prerequisite_code": "ECN052"
+    },
+    {
+      "code": "ECN298",
+      "prerequisite_code": "ECN296"
+    },
+    {
+      "code": "ECN054",
+      "prerequisite_code": "ECN053"
+    },
+    {
+      "code": "ECN190",
+      "prerequisite_code": "ECN298"
+    },
+    {
+      "code": "ECN231",
+      "prerequisite_code": "ECN053"
+    },
+    {
+      "code": "ECN191",
+      "prerequisite_code": "ECN190"
+    },
+    {
+      "code": "ECN301",
+      "prerequisite_code": "ECN299"
+    },
+    {
+      "code": "ECN302",
+      "prerequisite_code": "ECN054"
+    },
+    {
+      "code": "ECN303",
+      "prerequisite_code": "ECN299"
+    },
+    {
+      "code": "ECN028",
+      "prerequisite_code": "ECN054"
+    },
+    {
+      "code": "ECN212",
+      "prerequisite_code": "ECN301"
+    },
+    {
+      "code": "ECN214",
+      "prerequisite_code": "ECN301"
+    },
+    {
+      "code": "ECN306",
+      "prerequisite_code": "ECN214"
+    },
+    {
+      "code": "ECN307",
+      "prerequisite_code": "ECN303"
+    },
+    {
+      "code": "ECN308",
+      "prerequisite_code": "ECN025"
+    },
+    {
+      "code": "ECN309",
+      "prerequisite_code": "ECN308"
+    }
+  ]
+}

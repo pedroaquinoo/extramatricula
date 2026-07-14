@@ -182,6 +182,7 @@ function parseShiftFromText(text: string): Shift {
   const upper = text.toUpperCase()
   if (upper.includes("NOTURNO")) return "noturno"
   if (upper.includes("VESPERTINO")) return "vespertino"
+  if (upper.includes("MATUTINO")) return "matutino"
   return "diurno"
 }
 
@@ -195,7 +196,7 @@ function extractMetadata(frags: Fragment[]): { courseName: string; shift: Shift 
 
   let shift: Shift = "diurno"
   for (const f of frags) {
-    if (/(DIURNO|NOTURNO|VESPERTINO)/i.test(f.text)) {
+    if (/(DIURNO|NOTURNO|VESPERTINO|MATUTINO)/i.test(f.text)) {
       shift = parseShiftFromText(f.text)
       break
     }

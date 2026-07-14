@@ -1,0 +1,1408 @@
+[
+  {
+    "course_id": "CIC010",
+    "name": "INTRODUÇÃO À CONTABILIDADE",
+    "availabilityCode": "TC",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Anelisa C. F."
+    ]
+  },
+  {
+    "course_id": "DCP023",
+    "name": "ESTADO MODERNO E CAPITALISMO",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Juarez R. G."
+    ]
+  },
+  {
+    "course_id": "DCP023",
+    "name": "ESTADO MODERNO E CAPITALISMO",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Eduardo M. Z."
+    ]
+  },
+  {
+    "course_id": "DCP023",
+    "name": "ESTADO MODERNO E CAPITALISMO",
+    "availabilityCode": "TT",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Eduardo M. Z."
+    ]
+  },
+  {
+    "course_id": "ECN010",
+    "name": "TOPICOS EM ECONOMIA - Econometria de Séries Temporais",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Mauro S. F."
+    ]
+  },
+  {
+    "course_id": "ECN010",
+    "name": "TOPICOS EM ECONOMIA - Métodos de Análise em Economia da Inovação",
+    "availabilityCode": "TC1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Leandro A. S."
+    ]
+  },
+  {
+    "course_id": "ECN010",
+    "name": "TOPICOS EM ECONOMIA - Sistemas Complexos e Teoria Econômica",
+    "availabilityCode": "TC2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Leonardo C. R.",
+      "Eduardo M. A."
+    ]
+  },
+  {
+    "course_id": "ECN010",
+    "name": "TOPICOS EM ECONOMIA - Economia da China",
+    "availabilityCode": "TC3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Gilberto A. L."
+    ]
+  },
+  {
+    "course_id": "ECN010",
+    "name": "TOPICOS EM ECONOMIA - O Sul Global na Governança Financeira Internacional",
+    "availabilityCode": "TC4",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Pedro H. S. P."
+    ]
+  },
+  {
+    "course_id": "ECN015",
+    "name": "ECONOMIA MATEMATICA",
+    "availabilityCode": "TC",
+    "spots": 90,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo C. R."
+    ]
+  },
+  {
+    "course_id": "ECN020",
+    "name": "MACROECONOMIA I",
+    "availabilityCode": "TC",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Gilberto A. L."
+    ]
+  },
+  {
+    "course_id": "ECN025",
+    "name": "METODOLOGIA DA ECONOMIA",
+    "availabilityCode": "TC",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Leonardo G. D."
+    ]
+  },
+  {
+    "course_id": "ECN026",
+    "name": "TECNICAS DE PESQUISA EM ECONOMIA",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ana F. M."
+    ]
+  },
+  {
+    "course_id": "ECN028",
+    "name": "DESENVOLVIMENTO ECONOMICO",
+    "availabilityCode": "TC",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Joao P. R.",
+      "Gustavo B. R."
+    ]
+  },
+  {
+    "course_id": "ECN051",
+    "name": "HISTORIA ECONOMICA DO BRASIL",
+    "availabilityCode": "TC",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo M. G."
+    ]
+  },
+  {
+    "course_id": "ECN052",
+    "name": "HISTÓRIA DO PENSAMENTO ECONÔMICO",
+    "availabilityCode": "TC",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Alexandre M. C."
+    ]
+  },
+  {
+    "course_id": "ECN053",
+    "name": "MACROECONOMIA II",
+    "availabilityCode": "TC",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Fabricio J. M."
+    ]
+  },
+  {
+    "course_id": "ECN054",
+    "name": "MACROECONOMIA III",
+    "availabilityCode": "TC",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Mauro S. F."
+    ]
+  },
+  {
+    "course_id": "ECN055",
+    "name": "ECONOMIA POLITICA",
+    "availabilityCode": "TC",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Hugo E. A. G. C."
+    ]
+  },
+  {
+    "course_id": "ECN059",
+    "name": "FUNDAMENTOS DE ECONOMIA",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ana F. M."
+    ]
+  },
+  {
+    "course_id": "ECN063",
+    "name": "TOPICOS EM ECONOMIA POLITICA E HISTORIA ECONOMICA - Circulação, Recepção e Adaptação das Ideias de Adam Smith nos Séculos XVIII e XIX",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:50",
+        "end": "17:30"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Alexandre M. C."
+    ]
+  },
+  {
+    "course_id": "ECN063",
+    "name": "TOPICOS EM ECONOMIA POLITICA E HISTORIA ECONOMICA - Modernização Econômica e Questão Regional no Brasil: formação histórica, experiências e perspectivas",
+    "availabilityCode": "TC1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Marcelo M. G."
+    ]
+  },
+  {
+    "course_id": "ECN063",
+    "name": "TOPICOS EM ECONOMIA POLITICA E HISTORIA ECONOMICA - História Econômica e Demográfica",
+    "availabilityCode": "TC2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Mario M. S. R."
+    ]
+  },
+  {
+    "course_id": "ECN063",
+    "name": "TOPICOS EM ECONOMIA POLITICA E HISTORIA ECONOMICA - Rubin, a Nova Leitura de Marx e a Ciência do Valor",
+    "availabilityCode": "TC3",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Hugo E. A. G. C."
+    ]
+  },
+  {
+    "course_id": "ECN063",
+    "name": "TOPICOS EM ECONOMIA POLITICA E HISTORIA ECONOMICA - História do Pensamento Econômico Brasileiro",
+    "availabilityCode": "TC4",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Luiz F. B. C."
+    ]
+  },
+  {
+    "course_id": "ECN181",
+    "name": "HISTORIA ECONOMICA GERAL",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Mario M. S. R."
+    ]
+  },
+  {
+    "course_id": "ECN190",
+    "name": "ECONOMETRIA I",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Rafael S. M. R."
+    ]
+  },
+  {
+    "course_id": "ECN191",
+    "name": "ECONOMETRIA II",
+    "availabilityCode": "TC",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Clara Z. B."
+    ]
+  },
+  {
+    "course_id": "ECN206",
+    "name": "ECONOMIA E SOCIEDADE",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Luiz F. B. C."
+    ]
+  },
+  {
+    "course_id": "ECN212",
+    "name": "MICROECONOMIA IV",
+    "availabilityCode": "TC",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcia S. R."
+    ]
+  },
+  {
+    "course_id": "ECN214",
+    "name": "ECONOMIA DO SETOR PUBLICO",
+    "availabilityCode": "TC",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Renan P. A."
+    ]
+  },
+  {
+    "course_id": "ECN216",
+    "name": "MONOGRAFIA I",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [],
+    "teachers": [
+      "Ana F. M."
+    ]
+  },
+  {
+    "course_id": "ECN217",
+    "name": "MONOGRAFIA II",
+    "availabilityCode": "TC",
+    "spots": 40,
+    "times": [],
+    "teachers": [
+      "Juan P. G. T."
+    ]
+  },
+  {
+    "course_id": "ECN231",
+    "name": "ECONOMIA REGIONAL E URBANA",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Anderson T. M. C.",
+      "Joao B. M. T. F."
+    ]
+  },
+  {
+    "course_id": "ECN295",
+    "name": "CONTABILIDADE SOCIAL",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Edson P. D."
+    ]
+  },
+  {
+    "course_id": "ECN296",
+    "name": "MÉTODOS E CIÊNCIA DOS DADOS",
+    "availabilityCode": "TC",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Lucas R. C."
+    ]
+  },
+  {
+    "course_id": "ECN297",
+    "name": "MICROECONOMIA I",
+    "availabilityCode": "TC",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ana F. M."
+    ]
+  },
+  {
+    "course_id": "ECN298",
+    "name": "ESTATÍSTICA APLICADA À ECONOMIA",
+    "availabilityCode": "TC",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Igor V. M. S."
+    ]
+  },
+  {
+    "course_id": "ECN299",
+    "name": "MICROECONOMIA II",
+    "availabilityCode": "TC",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Juan P. G. T."
+    ]
+  },
+  {
+    "course_id": "ECN300",
+    "name": "INVESTIMENTO E FINANCIAMENTO",
+    "availabilityCode": "TC",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ricardo M. R."
+    ]
+  },
+  {
+    "course_id": "ECN301",
+    "name": "MICROECONOMIA III",
+    "availabilityCode": "TC",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Edson P. D."
+    ]
+  },
+  {
+    "course_id": "ECN302",
+    "name": "MACROECONOMIA IV",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marco F. C. R."
+    ]
+  },
+  {
+    "course_id": "ECN303",
+    "name": "ECONOMIA INTERNACIONAL",
+    "availabilityCode": "TC",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Joao P. R."
+    ]
+  },
+  {
+    "course_id": "ECN304",
+    "name": "ECONOMIA BRASILEIRA CONTEMPORÂNEA",
+    "availabilityCode": "TC",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ulisses P. S."
+    ]
+  },
+  {
+    "course_id": "ECN305",
+    "name": "ECONOMIA SOCIAL E POLÍTICAS PÚBLICAS",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Monica V. A."
+    ]
+  },
+  {
+    "course_id": "ECN306",
+    "name": "CONJUNTURA ECONÔMICA",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Fabricio J. M."
+    ]
+  },
+  {
+    "course_id": "ECN307",
+    "name": "SISTEMA ECONÔMICO INTERNACIONAL",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Luiz F. B. C.",
+      "Marcos T. R."
+    ]
+  },
+  {
+    "course_id": "ECN308",
+    "name": "TÉCNICAS DE PESQUISA E ELABORAÇÃO DE PROJETOS EM ECONOMIA",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ana F. M."
+    ]
+  },
+  {
+    "course_id": "ECN309",
+    "name": "MONOGRAFIA",
+    "availabilityCode": "PC",
+    "spots": 30,
+    "times": [],
+    "teachers": [
+      "Juan P. G. T."
+    ]
+  },
+  {
+    "course_id": "ECN337",
+    "name": "TÓPICOS ESPECIAIS DE EXTENSÃO EM ECONOMIA C - Planejamento e Desenvolvimento Urbano",
+    "availabilityCode": "TC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:20",
+        "end": "18:00"
+      },
+      {
+        "day": "Terca",
+        "start": "14:30",
+        "end": "16:10"
+      }
+    ],
+    "teachers": [
+      "Joao B. M. T. F."
+    ]
+  },
+  {
+    "course_id": "ECN358",
+    "name": "TÓPICOS EM ECONOMIA SOCIAL E POLÍTICAS PÚBLICAS A - Economia da Saúde",
+    "availabilityCode": "TC",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Monica V. A."
+    ]
+  },
+  {
+    "course_id": "ECN605",
+    "name": "TOPICOS EM ECONOMIA C - Avaliação de Políticas Públicas",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Ana M. H. C. O."
+    ]
+  },
+  {
+    "course_id": "ECN605",
+    "name": "TOPICOS EM ECONOMIA C - Desigualdades Interseccionais",
+    "availabilityCode": "TC1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Clara Z. B."
+    ]
+  },
+  {
+    "course_id": "ECN605",
+    "name": "TOPICOS EM ECONOMIA C - Modelos Computacionais de Apreçamento de Ativos",
+    "availabilityCode": "TC2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Rodrigo J. R."
+    ]
+  },
+  {
+    "course_id": "ECN605",
+    "name": "TOPICOS EM ECONOMIA C - Política Industrial",
+    "availabilityCode": "TC3",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcia S. R."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TA3",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TA5",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TD1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TD2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "POP001",
+    "name": "DEMOGRAFIA ECONOMICA",
+    "availabilityCode": "TC",
+    "spots": 75,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Cassio M. T."
+    ]
+  },
+  {
+    "course_id": "POP004",
+    "name": "TOPICOS EM DEMOGRAFIA - População e Políticas Públicas",
+    "availabilityCode": "TC",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Luciana S. L. A."
+    ]
+  },
+  {
+    "course_id": "POP004",
+    "name": "TOPICOS EM DEMOGRAFIA - Demografia da Estratificação Educacional",
+    "availabilityCode": "TC1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Danielle C. F."
+    ]
+  },
+  {
+    "course_id": "POP004",
+    "name": "TOPICOS EM DEMOGRAFIA - Mortalidade, Gênero e Saúde",
+    "availabilityCode": "TC2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Vanessa G. D. L. G."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  }
+]

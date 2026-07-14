@@ -1,0 +1,935 @@
+[
+  {
+    "course_id": "CAD080",
+    "name": "INTRODUÇÃO À CONTROLADORIA E FINANÇAS",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:20",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Ana C. C. C."
+    ]
+  },
+  {
+    "course_id": "CAD081",
+    "name": "MATEMÁTICA FINANCEIRA APLICADA",
+    "availabilityCode": "TB",
+    "spots": 85,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Aureliano A. B."
+    ]
+  },
+  {
+    "course_id": "CAD095",
+    "name": "MERCADO DE CAPITAIS E PRODUTOS FINANCEIROS",
+    "availabilityCode": "TB",
+    "spots": 90,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Flavio D. R."
+    ]
+  },
+  {
+    "course_id": "CAD099",
+    "name": "TÓPICOS EM EXTENSÃO EM FINANÇAS A  - Planejamento Financeiro Pessoal",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Aureliano A. B."
+    ]
+  },
+  {
+    "course_id": "CAD220",
+    "name": "FINANÇAS CORPORATIVAS",
+    "availabilityCode": "TB",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Robert A. I. C."
+    ]
+  },
+  {
+    "course_id": "CAD221",
+    "name": "INTRODUÇÃO À ANÁLISE DE DADOS",
+    "availabilityCode": "TB",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Robert A. I. C."
+    ]
+  },
+  {
+    "course_id": "CAD225",
+    "name": "DERIVATIVOS E OPERAÇÕES ESTRUTURADAS",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ana C. C. C."
+    ]
+  },
+  {
+    "course_id": "CAD226",
+    "name": "FINANÇAS COMPUTACIONAIS E BIG DATA",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Robert A. I. C."
+    ]
+  },
+  {
+    "course_id": "CAD300",
+    "name": "FUSÕES E AQUISIÇÕES (M&A)",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcos A. C."
+    ]
+  },
+  {
+    "course_id": "CIC047",
+    "name": "CONTABILIDADE II",
+    "availabilityCode": "TB",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Jose R. S. F."
+    ]
+  },
+  {
+    "course_id": "CIC050",
+    "name": "CONTABILIDADE IV",
+    "availabilityCode": "TB",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Laura E. T. P."
+    ]
+  },
+  {
+    "course_id": "CIC090",
+    "name": "METODOLOGIA DE PESQUISA E PROJETO DE MONOGRAFIA",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Patricia R. A."
+    ]
+  },
+  {
+    "course_id": "CIC091",
+    "name": "PRÁTICA DE PESQUISA (MONOGRAFIA)",
+    "availabilityCode": "PB",
+    "spots": 35,
+    "times": [],
+    "teachers": [
+      "Lua S. Z. S."
+    ]
+  },
+  {
+    "course_id": "CIC092",
+    "name": "ÉTICA E COMPLIANCE",
+    "availabilityCode": "TB",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Valeria G. F. B."
+    ]
+  },
+  {
+    "course_id": "CIC094",
+    "name": "TÓPICOS EM EXTENSÃO EM CONTROLADORIA A - Aspectos Contábeis da Previdência Complementar",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Karla L. C. S."
+    ]
+  },
+  {
+    "course_id": "CIC097",
+    "name": "CONTABILIDADE E ANÁLISE DE CUSTOS",
+    "availabilityCode": "TB",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Mamadou D."
+    ]
+  },
+  {
+    "course_id": "CIC099",
+    "name": "CONTROLADORIA",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Juliano L. P."
+    ]
+  },
+  {
+    "course_id": "CIC100",
+    "name": "ANÁLISE E PREVISÃO DE SÉRIES TEMPORAIS",
+    "availabilityCode": "TB",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Wagner M. L."
+    ]
+  },
+  {
+    "course_id": "CIC146",
+    "name": "TOPICOS EM CONTROLADORIA B - \"Gerenciamento\" de Resultados Financeiros",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Wagner M. L."
+    ]
+  },
+  {
+    "course_id": "CIC146",
+    "name": "TOPICOS EM CONTROLADORIA B - Análise Crítica das Demonstrações Financeiras",
+    "availabilityCode": "TB1",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Gustavo H. D. S."
+    ]
+  },
+  {
+    "course_id": "CIC161",
+    "name": "CONTABILIDADE E PLANEJAMENTO TRIBUTARIO",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Karla L. C. S."
+    ]
+  },
+  {
+    "course_id": "ECN368",
+    "name": "MICROECONOMIA APLICADA II",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Rodrigo J. R."
+    ]
+  },
+  {
+    "course_id": "EST007",
+    "name": "PROBABILIDADE I",
+    "availabilityCode": "TB",
+    "spots": 75,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:55"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:55"
+      }
+    ],
+    "teachers": [
+      "Flavio B. G."
+    ]
+  },
+  {
+    "course_id": "EST055",
+    "name": "INFERENCIA",
+    "availabilityCode": "TB",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": [
+      "Denise D."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TB1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TB2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TD1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TD2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TA1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TB1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TB2",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TB3",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TB4",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TD1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TD2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT040",
+    "name": "EQUACOES DIFERENCIAIS C",
+    "availabilityCode": "TB1",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT040",
+    "name": "EQUACOES DIFERENCIAIS C",
+    "availabilityCode": "TB2",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT042",
+    "name": "CÁLCULO DE VÁRIAS VARIÁVEIS",
+    "availabilityCode": "TA1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT042",
+    "name": "CÁLCULO DE VÁRIAS VARIÁVEIS",
+    "availabilityCode": "TA2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  }
+]

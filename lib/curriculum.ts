@@ -14,10 +14,22 @@ const curriculumLoaders: Record<string, () => Promise<{ default: CurriculumData 
     import("@/data/curriculum/ciencia-computacao-diurno.json"),
   "ciencia-computacao-vespertino": () =>
     import("@/data/curriculum/ciencia-computacao-vespertino.json"),
+  "ciencias-contabeis-noturno": () =>
+    import("@/data/curriculum/ciencias-contabeis-noturno.json"),
+  "ciencias-economicas-matutino": () =>
+    import("@/data/curriculum/ciencias-economicas-matutino.json"),
+  "controladoria-financas-diurno": () =>
+    import("@/data/curriculum/controladoria-financas-diurno.json"),
+  "controladoria-financas-matutino": () =>
+    import("@/data/curriculum/controladoria-financas-matutino.json"),
   "controle-automacao-diurno": () =>
     import("@/data/curriculum/controle-automacao-diurno.json"),
   "controle-automacao-noturno": () =>
     import("@/data/curriculum/controle-automacao-noturno.json"),
+  "direito-diurno": () =>
+    import("@/data/curriculum/direito-diurno.json"),
+  "direito-noturno": () =>
+    import("@/data/curriculum/direito-noturno.json"),
   "eng-aeroespacial-diurno": () =>
     import("@/data/curriculum/eng-aeroespacial-diurno.json"),
   "eng-agricola-ambiental-diurno": () =>
@@ -134,7 +146,9 @@ export function getCourseGroups(): CourseGroup[] {
     }
     groups.set(offerId, { offerId, name: course.name, shifts: [shift] })
   }
-  return [...groups.values()]
+  return [...groups.values()].sort((a, b) =>
+    a.name.localeCompare(b.name, "pt-BR", { sensitivity: "base" }),
+  )
 }
 
 export function getProgramVariants(offerId: string): ProgramVariant[] {

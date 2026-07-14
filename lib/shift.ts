@@ -1,13 +1,14 @@
 import type { Course } from "@/lib/types/curriculum"
 
-export type Shift = "diurno" | "vespertino" | "noturno"
+export type Shift = "matutino" | "diurno" | "vespertino" | "noturno"
 
-export const SHIFT_ORDER: Shift[] = ["diurno", "vespertino", "noturno"]
+export const SHIFT_ORDER: Shift[] = ["matutino", "diurno", "vespertino", "noturno"]
 
 const MORNING_END_MINUTES = 12 * 60
 const NIGHT_START_MINUTES = 18 * 60
 
 const SHIFT_LABELS: Record<Shift, string> = {
+  matutino: "Matutino",
   diurno: "Diurno",
   vespertino: "Vespertino",
   noturno: "Noturno",
@@ -19,6 +20,7 @@ function toMinutes(time: string): number {
 }
 
 function inferShiftFromId(id: string): Shift | null {
+  if (id.endsWith("-matutino")) return "matutino"
   if (id.endsWith("-vespertino")) return "vespertino"
   if (id.endsWith("-noturno")) return "noturno"
   if (id.endsWith("-diurno")) return "diurno"
@@ -37,6 +39,7 @@ export function getShift(course: Course | undefined): Shift | null {
   const name = course.name.toLowerCase()
   if (name.includes("noturno")) return "noturno"
   if (name.includes("vespertino")) return "vespertino"
+  if (name.includes("matutino")) return "matutino"
   return "diurno"
 }
 
@@ -62,9 +65,14 @@ function isMorningOnly(times: ClassTime[]): boolean {
   )
 }
 
+function hasAfternoonOrLater(times: ClassTime[]): boolean {
+  return times.some((time) => toMinutes(time.start) >= MORNING_END_MINUTES)
+}
+
 export function isOffShift(shift: Shift | null, times: ClassTime[]): boolean {
   if (!shift) return false
   if (shift === "noturno") return isDaytimeOnly(times)
   if (shift === "vespertino") return hasNightSession(times) || isMorningOnly(times)
+  if (shift === "matutino") return hasAfternoonOrLater(times)
   return hasNightSession(times)
 }
