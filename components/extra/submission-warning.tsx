@@ -43,7 +43,7 @@ export function SubmissionWarning({
         )}
       >
         <CheckCircle2 className="h-4 w-4" />
-        Sem conflitos
+        Tudo ok!
       </Button>
     )
   }
@@ -60,7 +60,7 @@ export function SubmissionWarning({
         )}
       >
         <AlertTriangle className="h-4 w-4" />
-        Antes de enviar
+        Atenção!
       </Button>
 
       <DialogContent className="sm:max-w-md">

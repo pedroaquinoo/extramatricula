@@ -91,7 +91,14 @@ export function ShareSimulationButton({
       className={cn("gap-2 col-span-1", className)}
     >
       {isCopied ? <Check className="h-4 w-4" /> : <UploadIcon className="h-4 w-4" />}
-      {isCopied ? "Copiado!" : "Compartilhar com amigos"}
+      {isCopied ? (
+        "Copiado!"
+      ) : (
+        <>
+          <span className="sm:hidden">Compartilhar</span>
+          <span className="hidden sm:inline">Compartilhar com amigos</span>
+        </>
+      )}
     </Button>
   )
 }
