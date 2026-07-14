@@ -9,12 +9,17 @@
       "controle-automacao"
     ],
     "2026/2": [
+      "administracao",
+      "arquitetura",
       "ciencia-computacao",
+      "ciencias-atuariais",
       "ciencias-contabeis",
+      "ciencias-do-estado",
       "ciencias-economicas",
       "controladoria-financas",
       "controle-automacao",
       "direito",
+      "educacao-fisica",
       "eng-aeroespacial",
       "eng-agricola-ambiental",
       "eng-alimentos",
@@ -30,6 +35,12 @@
       "eng-quimica",
       "eng-sistemas",
       "estatistica",
+      "farmacia",
+      "fisica",
+      "medicina",
+      "odontologia",
+      "psicologia",
+      "relacoes-economicas-internacionais",
       "sistemas-informacao"
     ]
   }

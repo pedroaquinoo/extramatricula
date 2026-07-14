@@ -1,0 +1,2223 @@
+[
+  {
+    "course_id": "CAD001",
+    "name": "TÓPICOS EM ADMINISTRAÇÃO - Jogos e Simulação em Marketing",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Plinio R. R. M."
+    ]
+  },
+  {
+    "course_id": "CAD001",
+    "name": "TÓPICOS EM ADMINISTRAÇÃO - Simbolismo nas Organizações",
+    "availabilityCode": "TA1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Alexandre P. C."
+    ]
+  },
+  {
+    "course_id": "CAD001",
+    "name": "TÓPICOS EM ADMINISTRAÇÃO - Multiagentes de IA Aplicação ao Planejamento, Gestão e Inovação",
+    "availabilityCode": "TA2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Carlos A. G."
+    ]
+  },
+  {
+    "course_id": "CAD001",
+    "name": "TÓPICOS EM ADMINISTRAÇÃO - Environmental, social and governance (ESG)",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Francisco V. B."
+    ]
+  },
+  {
+    "course_id": "CAD001",
+    "name": "TÓPICOS EM ADMINISTRAÇÃO - Jogos e Simulação em Marketing",
+    "availabilityCode": "TF1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Plinio R. R. M."
+    ]
+  },
+  {
+    "course_id": "CAD001",
+    "name": "TÓPICOS EM ADMINISTRAÇÃO - Organização e Margens Urbanas",
+    "availabilityCode": "TF3",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Luiz A. S. S."
+    ]
+  },
+  {
+    "course_id": "CAD029",
+    "name": "TOPICOS EM ADMINISTRACAO A - Clusters de Negócio e Competitividade",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ricardo S. M."
+    ]
+  },
+  {
+    "course_id": "CAD029",
+    "name": "TOPICOS EM ADMINISTRACAO A - Custo, Financiamento e Valor em Economia da Saúde",
+    "availabilityCode": "TA1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcio A. G."
+    ]
+  },
+  {
+    "course_id": "CAD029",
+    "name": "TOPICOS EM ADMINISTRACAO A - Processo Decisório e Técnicas de Negociação",
+    "availabilityCode": "TA2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leydiana S. P."
+    ]
+  },
+  {
+    "course_id": "CAD029",
+    "name": "TOPICOS EM ADMINISTRACAO A - Inteligência Art. e Sist Complexos aplicados à Gestão Estrat.",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Tiago A. S. J."
+    ]
+  },
+  {
+    "course_id": "CAD029",
+    "name": "TOPICOS EM ADMINISTRACAO A - Marketing Digital",
+    "availabilityCode": "TF1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Fabio R. F. B."
+    ]
+  },
+  {
+    "course_id": "CAD048",
+    "name": "COMPORTAMENTO HUMANO NAS ORGANIZACOES",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Alex F. M."
+    ]
+  },
+  {
+    "course_id": "CAD049",
+    "name": "GESTAO DE CUSTOS",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcio A. G."
+    ]
+  },
+  {
+    "course_id": "CAD050",
+    "name": "MARKETING ESTRATEGICO",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Juliana M. M. C."
+    ]
+  },
+  {
+    "course_id": "CAD059",
+    "name": "EMPREENDEDORISMO",
+    "availabilityCode": "TF",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Valderi C. A."
+    ]
+  },
+  {
+    "course_id": "CAD118",
+    "name": "PESQUISA OPERACIONAL EM ADMINISTRACAO",
+    "availabilityCode": "TAA",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CAD122",
+    "name": "MERCADO DE CAPITAIS",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Antonio A. S."
+    ]
+  },
+  {
+    "course_id": "CAD152",
+    "name": "TEORIA DA ADMINISTRACAO I",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Alexandre P. C."
+    ]
+  },
+  {
+    "course_id": "CAD154",
+    "name": "TEORIA DA ADMINISTRACAO II",
+    "availabilityCode": "TF",
+    "spots": 90,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Luiz A. S. S."
+    ]
+  },
+  {
+    "course_id": "CAD163",
+    "name": "ADMINISTRAÇÃO DE RECURSOS HUMANOS",
+    "availabilityCode": "TF",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Allan C. Q. B."
+    ]
+  },
+  {
+    "course_id": "CAD181",
+    "name": "RELACOES DE TRABALHO",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Deise L. S. F."
+    ]
+  },
+  {
+    "course_id": "CAD234",
+    "name": "ÉTICA NO CONTEXTO DO ADMINISTRADOR",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Jussara J. P."
+    ]
+  },
+  {
+    "course_id": "CAD235",
+    "name": "MÉTODOS QUANTITATIVOS EM ADMINISTRAÇÃO I",
+    "availabilityCode": "TF",
+    "spots": 100,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Bruno P. F."
+    ]
+  },
+  {
+    "course_id": "CAD236",
+    "name": "MÉTODOS QUANTITATIVOS EM ADMINISTRAÇÃO II",
+    "availabilityCode": "TA",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CAD239",
+    "name": "PESQUISA DE MARKETING",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marlusa S. G."
+    ]
+  },
+  {
+    "course_id": "CAD240",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+    "availabilityCode": "PA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Vanessa M. A."
+    ]
+  },
+  {
+    "course_id": "CAD241",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+    "availabilityCode": "PA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Alexandre P. C."
+    ]
+  },
+  {
+    "course_id": "CAD241",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+    "availabilityCode": "PF",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Jussara J. P."
+    ]
+  },
+  {
+    "course_id": "CAD242",
+    "name": "ESTRATÉGIA I",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Jonathan S. F."
+    ]
+  },
+  {
+    "course_id": "CAD243",
+    "name": "INVESTIMENTO E CÁLCULO FINANCEIRO",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Frank M. P."
+    ]
+  },
+  {
+    "course_id": "CAD244",
+    "name": "ADMINISTRAÇÃO DE MARKETING",
+    "availabilityCode": "TF",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CAD245",
+    "name": "FUNDAMENTOS DE GESTÃO DE OPERAÇÕES",
+    "availabilityCode": "TF",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marcelo B. L."
+    ]
+  },
+  {
+    "course_id": "CAD246",
+    "name": "PLANEJAMENTO E GESTÃO DA PRODUÇÃO E OPERAÇÕES",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo B. L."
+    ]
+  },
+  {
+    "course_id": "CAD247",
+    "name": "LOGÍSTICA E REDES DE SUPRIMENTOS",
+    "availabilityCode": "TA",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ricardo S. M."
+    ]
+  },
+  {
+    "course_id": "CAD248",
+    "name": "ESTRATÉGIA II",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Jonathan S. F."
+    ]
+  },
+  {
+    "course_id": "CAD249",
+    "name": "ADMINISTRAÇÃO FINANCEIRA I",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Antonio A. S."
+    ]
+  },
+  {
+    "course_id": "CAD250",
+    "name": "METODOLOGIA DE PESQUISA EM ADMINISTRAÇÃO",
+    "availabilityCode": "TF",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Cristiana T. I."
+    ]
+  },
+  {
+    "course_id": "CAD293",
+    "name": "TÓPICOS EM EXTENSÃO B - Circularidades - Feira de Trocas",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Valderi C. A."
+    ]
+  },
+  {
+    "course_id": "CAD294",
+    "name": "TÓPICOS EM EXTENSÃO C - Pesq. e Intervenção com pessoas em contextos organizacionais",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Alex F. M."
+    ]
+  },
+  {
+    "course_id": "CAD294",
+    "name": "TÓPICOS EM EXTENSÃO C - Voluntariado e Inclusão Social (VIS)",
+    "availabilityCode": "TA1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:40"
+      }
+    ],
+    "teachers": [
+      "Francisco V. B."
+    ]
+  },
+  {
+    "course_id": "CAD294",
+    "name": "TÓPICOS EM EXTENSÃO C - Mostrando nossa FACE - Adm. UFMG nas Escolas Públicas",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marlusa S. G."
+    ]
+  },
+  {
+    "course_id": "CAD294",
+    "name": "TÓPICOS EM EXTENSÃO C - Pesq. e Intervenção com pessoas em contextos organizacionais",
+    "availabilityCode": "TF1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Victor N. S. S."
+    ]
+  },
+  {
+    "course_id": "CIC010",
+    "name": "INTRODUÇÃO À CONTABILIDADE",
+    "availabilityCode": "TF",
+    "spots": 75,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DCP023",
+    "name": "ESTADO MODERNO E CAPITALISMO",
+    "availabilityCode": "TF",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Juarez R. G."
+    ]
+  },
+  {
+    "course_id": "DCP023",
+    "name": "ESTADO MODERNO E CAPITALISMO",
+    "availabilityCode": "TP",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Pedro B. M. V."
+    ]
+  },
+  {
+    "course_id": "DIC121",
+    "name": "INSTITUICOES DE DIREITO PRIVADO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Edgard A. M. N."
+    ]
+  },
+  {
+    "course_id": "DIP123",
+    "name": "INSTITUICOES DE DIREITO PUBLICO A",
+    "availabilityCode": "TA",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Leonardo A. C."
+    ]
+  },
+  {
+    "course_id": "DIT118",
+    "name": "INSTITUICOES DE DIREITO DO TRABALHO",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Pamela R. C."
+    ]
+  },
+  {
+    "course_id": "ECN020",
+    "name": "MACROECONOMIA I",
+    "availabilityCode": "TF",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ulisses P. S."
+    ]
+  },
+  {
+    "course_id": "ECN061",
+    "name": "MICROECONOMIA A-I",
+    "availabilityCode": "TA",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Rodrigo J. R."
+    ]
+  },
+  {
+    "course_id": "ECN366",
+    "name": "ECONOMIA BRASILEIRA CONTEMPORÂNEA",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Philipe S. M."
+    ]
+  },
+  {
+    "course_id": "ECN366",
+    "name": "ECONOMIA BRASILEIRA CONTEMPORÂNEA",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Ulisses P. S."
+    ]
+  },
+  {
+    "course_id": "EST057",
+    "name": "INTRODUCAO A ESTATISTICA",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Douglas M. S."
+    ]
+  },
+  {
+    "course_id": "FIL029",
+    "name": "INTRODUÇÃO A FILOSOFIA: FILOSOFIA DA CIÊNCIA E EPISTEMOLOGIA",
+    "availabilityCode": "TF",
+    "spots": 67,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Alberto E. F. C."
+    ]
+  },
+  {
+    "course_id": "FIL029",
+    "name": "INTRODUÇÃO A FILOSOFIA: FILOSOFIA DA CIÊNCIA E EPISTEMOLOGIA",
+    "availabilityCode": "TT",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Tulio R. X. A."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MAT020",
+    "name": "MATEMATICA A",
+    "availabilityCode": "TA",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT020",
+    "name": "MATEMATICA A",
+    "availabilityCode": "TE",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TA1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TB1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TB2",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TB3",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TB4",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TD1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TD2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TE1",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TF1",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TF2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT042",
+    "name": "CÁLCULO DE VÁRIAS VARIÁVEIS",
+    "availabilityCode": "TB1",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT042",
+    "name": "CÁLCULO DE VÁRIAS VARIÁVEIS",
+    "availabilityCode": "TB2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT042",
+    "name": "CÁLCULO DE VÁRIAS VARIÁVEIS",
+    "availabilityCode": "TE",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT042",
+    "name": "CÁLCULO DE VÁRIAS VARIÁVEIS",
+    "availabilityCode": "TF",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "SOA048",
+    "name": "FUNDAMENTOS DE ANALISE SOCIOLOGICA",
+    "availabilityCode": "TF",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Braulio F. A. S."
+    ]
+  },
+  {
+    "course_id": "SOA048",
+    "name": "FUNDAMENTOS DE ANALISE SOCIOLOGICA",
+    "availabilityCode": "TR",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Juri C."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "UNI187",
+    "name": "TÓPICOS EM EMPREENDEDORISMO E INOVAÇÃO C - Environmental, social and governance (ESG)",
+    "availabilityCode": "TB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Francisco V. B."
+    ]
+  },
+  {
+    "course_id": "UNI216",
+    "name": "TÓPICOS SOBRE CONHECIMENTOS AFRODIASPÓRICOS E INTERCULTURALIDADE - Religião, Educação e Raça / Religion, Education and Race",
+    "availabilityCode": "TA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Barbara B. M. R."
+    ]
+  },
+  {
+    "course_id": "ICA149",
+    "name": "COMPORTAMENTO ORGANIZACIONAL",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:10",
+        "end": "23:00"
+      }
+    ],
+    "teachers": [
+      "Cledinaldo A. D."
+    ]
+  },
+  {
+    "course_id": "ICA151",
+    "name": "FUNDAMENTOS DE ANALISE SOCIOLOGICA",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:10",
+        "end": "23:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:10",
+        "end": "21:00"
+      }
+    ],
+    "teachers": [
+      "Rodolfo R. S."
+    ]
+  },
+  {
+    "course_id": "ICA153",
+    "name": "MATEMATICA APLICADA",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "21:10",
+        "end": "23:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:10",
+        "end": "21:00"
+      }
+    ],
+    "teachers": [
+      "Elcio S."
+    ]
+  },
+  {
+    "course_id": "ICA156",
+    "name": "MATEMATICA COMERCIAL E FINANCEIRA",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "21:10",
+        "end": "23:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:10",
+        "end": "21:00"
+      }
+    ],
+    "teachers": [
+      "Elcio S."
+    ]
+  },
+  {
+    "course_id": "ICA158",
+    "name": "ECONOMIA BRASILEIRA",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:10",
+        "end": "23:00"
+      }
+    ],
+    "teachers": [
+      "Luiz P. F. R."
+    ]
+  },
+  {
+    "course_id": "ICA159",
+    "name": "TEORIA DA ADMINISTRACAO I",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:10",
+        "end": "21:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "21:10",
+        "end": "23:00"
+      }
+    ],
+    "teachers": [
+      "Maria S. C."
+    ]
+  },
+  {
+    "course_id": "ICA161",
+    "name": "ADMINISTRACAO DA PRODUCAO E OPERACOES",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "21:10",
+        "end": "23:00"
+      },
+      {
+        "day": "Terca",
+        "start": "19:10",
+        "end": "21:00"
+      }
+    ],
+    "teachers": [
+      "Giovanni C. F."
+    ]
+  },
+  {
+    "course_id": "ICA164",
+    "name": "ADMINISTRACAO MERCADOLOGICA",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:10",
+        "end": "23:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:10",
+        "end": "21:00"
+      }
+    ],
+    "teachers": [
+      "Ana P. G. M."
+    ]
+  },
+  {
+    "course_id": "ICA166",
+    "name": "ADMINISTRACAO FINANCEIRA II",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:10",
+        "end": "21:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "21:10",
+        "end": "23:00"
+      }
+    ],
+    "teachers": [
+      "Handerson L. S."
+    ]
+  },
+  {
+    "course_id": "ICA169",
+    "name": "INSTITUICOES DE DIREITO DO TRABALHO",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:10",
+        "end": "21:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "21:10",
+        "end": "23:00"
+      }
+    ],
+    "teachers": [
+      "Dalton R. P."
+    ]
+  },
+  {
+    "course_id": "ICA170",
+    "name": "ADMINISTRACAO DE RECURSOS HUMANOS II",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:10",
+        "end": "21:00"
+      }
+    ],
+    "teachers": [
+      "Ana P. G. M."
+    ]
+  },
+  {
+    "course_id": "ICA175",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO I",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [],
+    "teachers": [
+      "Andre L. M. A."
+    ]
+  },
+  {
+    "course_id": "ICA177",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO II",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [],
+    "teachers": [
+      "Andre L. M. A."
+    ]
+  },
+  {
+    "course_id": "ICA179",
+    "name": "ADMINISTRACAO PUBLICA",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:10",
+        "end": "23:00"
+      }
+    ],
+    "teachers": [
+      "Frederico A. M. L."
+    ]
+  },
+  {
+    "course_id": "ICA180",
+    "name": "PLANEJAMENTO EMPRESARIAL",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:10",
+        "end": "21:00"
+      }
+    ],
+    "teachers": [
+      "Maria S. C."
+    ]
+  },
+  {
+    "course_id": "ICA186",
+    "name": "TOPICOS ESPECIAIS EM ADMINISTRACAO - Tributos",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:10",
+        "end": "21:00"
+      }
+    ],
+    "teachers": [
+      "Lucineia L. B. R."
+    ]
+  },
+  {
+    "course_id": "ICA187",
+    "name": "DIREITO EMPRESARIAL",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:10",
+        "end": "21:00"
+      }
+    ],
+    "teachers": [
+      "Dalton R. P."
+    ]
+  },
+  {
+    "course_id": "ICA188",
+    "name": "MERCADO DE CAPITAIS",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:10",
+        "end": "21:00"
+      }
+    ],
+    "teachers": [
+      "Handerson L. S."
+    ]
+  },
+  {
+    "course_id": "ICA189",
+    "name": "GERENCIA DE MICRO E PEQUENAS EMPRESAS",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:10",
+        "end": "23:00"
+      }
+    ],
+    "teachers": [
+      "Maria S. C."
+    ]
+  },
+  {
+    "course_id": "ICA190",
+    "name": "CONSULTORIA EMPRESARIAL",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:10",
+        "end": "19:00"
+      },
+      {
+        "day": "Terca",
+        "start": "18:10",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Cledinaldo A. D."
+    ]
+  },
+  {
+    "course_id": "ICA194",
+    "name": "ELABORACAO E GESTAO ORCAMENTARIA EMPRESARIAL",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "21:10",
+        "end": "23:00"
+      }
+    ],
+    "teachers": [
+      "Lucineia L. B. R."
+    ]
+  },
+  {
+    "course_id": "ICA201",
+    "name": "ESTATISTICA BASICA",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:10",
+        "end": "21:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:10",
+        "end": "21:00"
+      }
+    ],
+    "teachers": [
+      "Sidnei T. R."
+    ]
+  },
+  {
+    "course_id": "ICA358",
+    "name": "GESTAO DA INOVACAO TECNOLOGICA",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:10",
+        "end": "21:00"
+      },
+      {
+        "day": "Terca",
+        "start": "21:10",
+        "end": "23:00"
+      }
+    ],
+    "teachers": [
+      "Giovanni C. F."
+    ]
+  },
+  {
+    "course_id": "ICA362",
+    "name": "ADMINISTRACAO E MEIO AMBIENTE",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:10",
+        "end": "21:00"
+      }
+    ],
+    "teachers": [
+      "Marcia M."
+    ]
+  },
+  {
+    "course_id": "ICA364",
+    "name": "ETICA E RESPONSABILIDADE SOCIAL",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:10",
+        "end": "21:00"
+      }
+    ],
+    "teachers": [
+      "Frederico A. M. L."
+    ]
+  },
+  {
+    "course_id": "ICA366",
+    "name": "FINANCAS PUBLICAS",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "21:10",
+        "end": "23:00"
+      }
+    ],
+    "teachers": [
+      "Lucineia L. B. R."
+    ]
+  },
+  {
+    "course_id": "ICA373",
+    "name": "ESTAGIO I",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [],
+    "teachers": [
+      "Theles O. C."
+    ]
+  },
+  {
+    "course_id": "ICA374",
+    "name": "ESTAGIO II",
+    "availabilityCode": "T1",
+    "spots": 46,
+    "times": [],
+    "teachers": [
+      "Theles O. C."
+    ]
+  },
+  {
+    "course_id": "SOA048",
+    "name": "FUNDAMENTOS DE ANALISE SOCIOLOGICA",
+    "availabilityCode": "TQ",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Rafael C. P."
+    ]
+  },
+  {
+    "course_id": "UNI010",
+    "name": "TOPICOS EM CIENCIAS AGRARIAS - Música e Filosofia",
+    "availabilityCode": "T12",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "21:10",
+        "end": "23:00"
+      }
+    ],
+    "teachers": [
+      "Maximiliano S. P."
+    ]
+  },
+  {
+    "course_id": "UNI010",
+    "name": "TOPICOS EM CIENCIAS AGRARIAS - Sociedade e Filosofia",
+    "availabilityCode": "T14",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:10",
+        "end": "21:00"
+      }
+    ],
+    "teachers": [
+      "Maximiliano S. P."
+    ]
+  },
+  {
+    "course_id": "UNI010",
+    "name": "TOPICOS EM CIENCIAS AGRARIAS - Cinema e Filosofia",
+    "availabilityCode": "T15",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:10",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Maximiliano S. P."
+    ]
+  },
+  {
+    "course_id": "UNI010",
+    "name": "TOPICOS EM CIENCIAS AGRARIAS - Inglês Técnico para Ciências Agrárias - Módulo 03",
+    "availabilityCode": "TG1",
+    "spots": 73,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Gustavo L. T."
+    ]
+  },
+  {
+    "course_id": "UNI010",
+    "name": "TOPICOS EM CIENCIAS AGRARIAS - Espeleoturismo",
+    "availabilityCode": "TG2",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Marilda T. M."
+    ]
+  },
+  {
+    "course_id": "UNI010",
+    "name": "TOPICOS EM CIENCIAS AGRARIAS - Gestão em Turismo e Meio Ambiente",
+    "availabilityCode": "TG3",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Marilda T. M."
+    ]
+  }
+]

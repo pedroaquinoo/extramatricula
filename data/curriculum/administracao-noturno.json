@@ -1,0 +1,422 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "CAD152",
+      "name": "Teoria da Administracao I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "CAD234",
+      "name": "Ética no Contexto do Administrador",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DIP123",
+      "name": "Instituicoes de Direito Publico a",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FIL029",
+      "name": "Intr. a Filosofia:fil da Cien e Epistem.",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT020",
+      "name": "Matematica a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "SOA048",
+      "name": "Fundamentos de Analise Sociologica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "CAD154",
+      "name": "Teoria da Administracao II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "CAD235",
+      "name": "Métodos Quantitativos em Administração I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "CIC010",
+      "name": "Introdução À Contabilidade",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCP023",
+      "name": "Estado Moderno e Capitalismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EST057",
+      "name": "Introducao a Estatistica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "CAD048",
+      "name": "Comportamento Humano Nas Organizacoes",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "CAD050",
+      "name": "Marketing Estrategico",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "CAD118",
+      "name": "Pesquisa Operacional em Administracao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "CAD236",
+      "name": "Métodos Quantitativos em Administração II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECN061",
+      "name": "Microeconomia A-i",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CAD163",
+      "name": "Administração de Recursos Humanos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CAD243",
+      "name": "Investimento e Cálculo Financeiro",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CAD244",
+      "name": "Administração de Marketing",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CAD245",
+      "name": "Fundamentos de Gestão de Operações",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ECN020",
+      "name": "Macroeconomia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CAD049",
+      "name": "Gestao de Custos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CAD181",
+      "name": "Relacoes de Trabalho",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CAD237",
+      "name": "Gestão e Dinâmica Organizacional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CAD242",
+      "name": "Estratégia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CAD247",
+      "name": "Logística e Redes de Suprimentos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CAD059",
+      "name": "Empreendedorismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CAD249",
+      "name": "Administração Financeira I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DIC121",
+      "name": "Instituicoes de Direito Privado",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ECN366",
+      "name": "Economia Brasileira Contemporânea",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CAD066",
+      "name": "Gestao da Distribuicao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CAD246",
+      "name": "Planejamento e Gestão da Produção e",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CAD248",
+      "name": "Estratégia II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DIT118",
+      "name": "Instituicoes de Direito do Trabalho",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "CAD122",
+      "name": "Mercado de Capitais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "CAD239",
+      "name": "Pesquisa de Marketing",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "CAD250",
+      "name": "Metodologia de Pesquisa em Administração",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "CAD240",
+      "name": "Trabalho de Conclusão de Curso I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CAD241",
+      "name": "Trabalho de Conclusão de Curso II",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "CAD154",
+      "prerequisite_code": "CAD152"
+    },
+    {
+      "code": "CAD235",
+      "prerequisite_code": "MAT020"
+    },
+    {
+      "code": "EST057",
+      "prerequisite_code": "MAT020"
+    },
+    {
+      "code": "CAD048",
+      "prerequisite_code": "CAD154"
+    },
+    {
+      "code": "CAD050",
+      "prerequisite_code": "CAD154"
+    },
+    {
+      "code": "CAD236",
+      "prerequisite_code": "CAD235"
+    },
+    {
+      "code": "CAD163",
+      "prerequisite_code": "CAD048"
+    },
+    {
+      "code": "CAD243",
+      "prerequisite_code": "CAD236"
+    },
+    {
+      "code": "CAD244",
+      "prerequisite_code": "CAD050"
+    },
+    {
+      "code": "CAD245",
+      "prerequisite_code": "CAD118"
+    },
+    {
+      "code": "ECN020",
+      "prerequisite_code": "ECN061"
+    },
+    {
+      "code": "CAD049",
+      "prerequisite_code": "CAD236"
+    },
+    {
+      "code": "CAD181",
+      "prerequisite_code": "CAD163"
+    },
+    {
+      "code": "CAD237",
+      "prerequisite_code": "CAD154"
+    },
+    {
+      "code": "CAD242",
+      "prerequisite_code": "CAD154"
+    },
+    {
+      "code": "CAD247",
+      "prerequisite_code": "CAD245"
+    },
+    {
+      "code": "CAD059",
+      "prerequisite_code": "CAD242"
+    },
+    {
+      "code": "CAD249",
+      "prerequisite_code": "CAD243"
+    },
+    {
+      "code": "CAD066",
+      "prerequisite_code": "CAD247"
+    },
+    {
+      "code": "CAD246",
+      "prerequisite_code": "CAD245"
+    },
+    {
+      "code": "CAD248",
+      "prerequisite_code": "CAD242"
+    },
+    {
+      "code": "CAD122",
+      "prerequisite_code": "CAD236"
+    },
+    {
+      "code": "CAD239",
+      "prerequisite_code": "CAD244"
+    },
+    {
+      "code": "CAD250",
+      "prerequisite_code": "CAD154"
+    },
+    {
+      "code": "CAD240",
+      "prerequisite_code": "CAD250"
+    },
+    {
+      "code": "CAD241",
+      "prerequisite_code": "CAD240"
+    }
+  ]
+}

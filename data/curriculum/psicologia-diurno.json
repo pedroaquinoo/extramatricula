@@ -1,0 +1,310 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "FIL029",
+      "name": "Intr. a Filosofia:fil da Cien e Epistem.",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF038",
+      "name": "Anatomia Aplicada a Psicologia",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "PSI041",
+      "name": "Metodos Quantitativos em Psicologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "PSI044",
+      "name": "Historia das Ideias Psicologicas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "PSI045",
+      "name": "Processos Psicologicos Basicos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "SOA079",
+      "name": "Fundamentos de Analise Sociologica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EST084",
+      "name": "Estatistica Aplicada a Psicologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIB026",
+      "name": "Psicofisiologia",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "PSI047",
+      "name": "Psic no Brasil: Hist e Campos de Atuacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "PSI049",
+      "name": "Metodos Qualitativos em Psicologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "SOA080",
+      "name": "Antropologia Cultural",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "PSI042",
+      "name": "Psicanalise I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "PSI058",
+      "name": "Est Basico:prat de Investig e Interven I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "PSI314",
+      "name": "Tecnicas de Exame Psicologico I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "PSI328",
+      "name": "Analise Experimental do Comportamento I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "PSI601",
+      "name": "Psicologia Social I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "PSI610",
+      "name": "Psicologia do Desenvolvimento I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "PSI051",
+      "name": "Psicanalise II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "PSI059",
+      "name": "Est Basico:prat Investig e Interven II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "PSI329",
+      "name": "Tecnicas de Exame Psicologico II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "PSI330",
+      "name": "Analise Experimental do Comportamneto II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "PSI611",
+      "name": "Psicologia do Desenvolvimento II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "PSI612",
+      "name": "Psicologia Social II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "PSI052",
+      "name": "Psicologia Cognitiva",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "PSI053",
+      "name": "Introducao a Psicologia Clinica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "PSI331",
+      "name": "Psicopatologia Geral I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "PSI334",
+      "name": "Psicologia do Trabalho",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "PSI353",
+      "name": "Psicologia Escolar",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "PSI054",
+      "name": "Introducao a Psicoterapia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "PSI358",
+      "name": "Psicopatologia Geral II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "PSI019",
+      "name": "Etica Profissional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "EST084",
+      "prerequisite_code": "PSI041"
+    },
+    {
+      "code": "FIB026",
+      "prerequisite_code": "MOF038"
+    },
+    {
+      "code": "PSI047",
+      "prerequisite_code": "PSI044"
+    },
+    {
+      "code": "PSI051",
+      "prerequisite_code": "PSI042"
+    },
+    {
+      "code": "PSI329",
+      "prerequisite_code": "PSI314"
+    },
+    {
+      "code": "PSI330",
+      "prerequisite_code": "PSI328"
+    },
+    {
+      "code": "PSI611",
+      "prerequisite_code": "PSI610"
+    },
+    {
+      "code": "PSI612",
+      "prerequisite_code": "PSI601"
+    },
+    {
+      "code": "PSI052",
+      "prerequisite_code": "PSI611"
+    },
+    {
+      "code": "PSI331",
+      "prerequisite_code": "FIB026"
+    },
+    {
+      "code": "PSI331",
+      "prerequisite_code": "PSI051"
+    },
+    {
+      "code": "PSI353",
+      "prerequisite_code": "PSI611"
+    },
+    {
+      "code": "PSI054",
+      "prerequisite_code": "PSI053"
+    },
+    {
+      "code": "PSI358",
+      "prerequisite_code": "PSI331"
+    }
+  ]
+}

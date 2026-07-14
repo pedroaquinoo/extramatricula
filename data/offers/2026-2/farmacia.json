@@ -1,0 +1,7889 @@
+[
+  {
+    "course_id": "ACT007",
+    "name": "TOXICOLOGIA GERAL",
+    "availabilityCode": "PF",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:20",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Maria J. N. P."
+    ]
+  },
+  {
+    "course_id": "ACT007",
+    "name": "TOXICOLOGIA GERAL",
+    "availabilityCode": "PFN",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "21:45",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Carlos A. T."
+    ]
+  },
+  {
+    "course_id": "ACT007",
+    "name": "TOXICOLOGIA GERAL",
+    "availabilityCode": "TF",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "10:20"
+      }
+    ],
+    "teachers": [
+      "Maria J. N. P."
+    ]
+  },
+  {
+    "course_id": "ACT007",
+    "name": "TOXICOLOGIA GERAL",
+    "availabilityCode": "TFN",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "21:30"
+      }
+    ],
+    "teachers": [
+      "Carlos A. T."
+    ]
+  },
+  {
+    "course_id": "ACT010",
+    "name": "BACTERIOLOGIA CLINICA",
+    "availabilityCode": "PA",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "10:20"
+      }
+    ],
+    "teachers": [
+      "Lirlandia P. S."
+    ]
+  },
+  {
+    "course_id": "ACT010",
+    "name": "BACTERIOLOGIA CLINICA",
+    "availabilityCode": "TF1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "10:20"
+      }
+    ],
+    "teachers": [
+      "Lirlandia P. S."
+    ]
+  },
+  {
+    "course_id": "ACT017",
+    "name": "BIOLOGIA MOLECULAR APLICADA",
+    "availabilityCode": "PNA",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "21:45"
+      }
+    ],
+    "teachers": [
+      "Ana P. S. M. F."
+    ]
+  },
+  {
+    "course_id": "ACT017",
+    "name": "BIOLOGIA MOLECULAR APLICADA",
+    "availabilityCode": "PNB",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:45",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Ana P. S. M. F."
+    ]
+  },
+  {
+    "course_id": "ACT123",
+    "name": "ESTÁGIO OPTATIVO EM ANÁLISES CLÍNICAS E TOXICOLÓGICAS II - -",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ACT123",
+    "name": "ESTÁGIO OPTATIVO EM ANÁLISES CLÍNICAS E TOXICOLÓGICAS II - -",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ACT124",
+    "name": "TOXICOLOGIA",
+    "availabilityCode": "PFA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:20",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Maria J. N. P."
+    ]
+  },
+  {
+    "course_id": "ACT124",
+    "name": "TOXICOLOGIA",
+    "availabilityCode": "PFN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "21:45",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Carlos A. T."
+    ]
+  },
+  {
+    "course_id": "ACT124",
+    "name": "TOXICOLOGIA",
+    "availabilityCode": "TFA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "10:20"
+      }
+    ],
+    "teachers": [
+      "Maria J. N. P."
+    ]
+  },
+  {
+    "course_id": "ACT124",
+    "name": "TOXICOLOGIA",
+    "availabilityCode": "TFN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "21:30"
+      }
+    ],
+    "teachers": [
+      "Carlos A. T."
+    ]
+  },
+  {
+    "course_id": "ACT125",
+    "name": "RADIOFARMACIA I",
+    "availabilityCode": "PF",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ACT125",
+    "name": "RADIOFARMACIA I",
+    "availabilityCode": "TF",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:20",
+        "end": "11:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ACT126",
+    "name": "RADIOFARMÁCIA II",
+    "availabilityCode": "PA",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:30",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ACT126",
+    "name": "RADIOFARMÁCIA II",
+    "availabilityCode": "TF",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ACT127",
+    "name": "DIAGNÓSTICO LABORATORIAL DAS DOENÇAS HUMANAS I",
+    "availabilityCode": "TF",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Adriano P. S."
+    ]
+  },
+  {
+    "course_id": "ACT127",
+    "name": "DIAGNÓSTICO LABORATORIAL DAS DOENÇAS HUMANAS I",
+    "availabilityCode": "TFN",
+    "spots": 44,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "21:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ACT128",
+    "name": "DIAGNÓSTICO LABORATORIAL DE DOENÇAS HUMANAS II",
+    "availabilityCode": "TF",
+    "spots": 76,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ACT128",
+    "name": "DIAGNÓSTICO LABORATORIAL DE DOENÇAS HUMANAS II",
+    "availabilityCode": "TFN",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:05",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ACT131",
+    "name": "ESTÁGIO OPTATIVO EM ANÁLISES CLÍNICAS E TOXICOLÓGICAS II",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ACT131",
+    "name": "ESTÁGIO OPTATIVO EM ANÁLISES CLÍNICAS E TOXICOLÓGICAS II",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ACT133",
+    "name": "HABILIDADES LABORATORIAIS EM ANÁLISES CLÍNICAS E TOXICOLÓGICAS",
+    "availabilityCode": "TF1",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:20",
+        "end": "16:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ACT137",
+    "name": "SAÚDE E SEXUALIDADE - -",
+    "availabilityCode": "PFN",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "21:45",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Maria G. L. R."
+    ]
+  },
+  {
+    "course_id": "ACT137",
+    "name": "SAÚDE E SEXUALIDADE - -",
+    "availabilityCode": "TFN",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "21:45"
+      }
+    ],
+    "teachers": [
+      "Maria G. L. R."
+    ]
+  },
+  {
+    "course_id": "ALM007",
+    "name": "MICROBIOLOGIA DE ALIMENTOS",
+    "availabilityCode": "PA",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Inayara C. A. L."
+    ]
+  },
+  {
+    "course_id": "ALM007",
+    "name": "MICROBIOLOGIA DE ALIMENTOS",
+    "availabilityCode": "TF",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Inayara C. A. L."
+    ]
+  },
+  {
+    "course_id": "ALM021",
+    "name": "ALIMENTOS FUNCIONAIS",
+    "availabilityCode": "TFN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:50",
+        "end": "21:30"
+      }
+    ],
+    "teachers": [
+      "Lucilene R. A.",
+      "Ana P. C. S."
+    ]
+  },
+  {
+    "course_id": "ALM027",
+    "name": "BROMATOLOGIA",
+    "availabilityCode": "PFNA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:50",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Renan C. C."
+    ]
+  },
+  {
+    "course_id": "ALM027",
+    "name": "BROMATOLOGIA",
+    "availabilityCode": "PFNB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Renan C. C."
+    ]
+  },
+  {
+    "course_id": "ALM027",
+    "name": "BROMATOLOGIA",
+    "availabilityCode": "PFNC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:50",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Renan C. C."
+    ]
+  },
+  {
+    "course_id": "ALM027",
+    "name": "BROMATOLOGIA",
+    "availabilityCode": "PFND",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Renan C. C."
+    ]
+  },
+  {
+    "course_id": "ALM027",
+    "name": "BROMATOLOGIA",
+    "availabilityCode": "TFN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:50",
+        "end": "21:45"
+      }
+    ],
+    "teachers": [
+      "Ana P. C. S.",
+      "Scheilla V. C. S. F.",
+      "Renan C. C."
+    ]
+  },
+  {
+    "course_id": "ALM029",
+    "name": "CONSERVACAO DE ALIMENTOS",
+    "availabilityCode": "TF",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Silvana M."
+    ]
+  },
+  {
+    "course_id": "ALM030",
+    "name": "OPERACOES UNITARIAS NA AREA FARMACEUTICA",
+    "availabilityCode": "PFN",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:45",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Joao R. J. J."
+    ]
+  },
+  {
+    "course_id": "ALM030",
+    "name": "OPERACOES UNITARIAS NA AREA FARMACEUTICA",
+    "availabilityCode": "TFN",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "21:45"
+      }
+    ],
+    "teachers": [
+      "Joao R. J. J."
+    ]
+  },
+  {
+    "course_id": "ALM033",
+    "name": "ANALISE SENSORIAL NA AREA FARMACEUTICA",
+    "availabilityCode": "PF",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:20",
+        "end": "16:20"
+      }
+    ],
+    "teachers": [
+      "Camila A. F."
+    ]
+  },
+  {
+    "course_id": "ALM033",
+    "name": "ANALISE SENSORIAL NA AREA FARMACEUTICA",
+    "availabilityCode": "TF",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "14:20"
+      }
+    ],
+    "teachers": [
+      "Camila A. F."
+    ]
+  },
+  {
+    "course_id": "ALM035",
+    "name": "TERAPIA NUTRICIONAL PARENTERAL E ENTERAL",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:20",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Lucilene R. A.",
+      "Mariana M. G. N.",
+      "Raquel L. B. A."
+    ]
+  },
+  {
+    "course_id": "ALM035",
+    "name": "TERAPIA NUTRICIONAL PARENTERAL E ENTERAL",
+    "availabilityCode": "TF",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "10:20"
+      }
+    ],
+    "teachers": [
+      "Mariana M. G. N.",
+      "Lucilene R. A.",
+      "Raquel L. B. A."
+    ]
+  },
+  {
+    "course_id": "ALM039",
+    "name": "BIOTECNOLOGIA NA PRODUCAO DE BEBIDAS E ALIMENTOS",
+    "availabilityCode": "TFN",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "21:45"
+      }
+    ],
+    "teachers": [
+      "Inayara C. A. L.",
+      "Ana P. C. S."
+    ]
+  },
+  {
+    "course_id": "ALM040",
+    "name": "MATERIAIS DE EMBALAGEM NA AREA FARMACEUTICA",
+    "availabilityCode": "TF",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Maria A. V. T. G."
+    ]
+  },
+  {
+    "course_id": "ALM041",
+    "name": "PROCESSAMENTO DE ALIMENTOS",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Silvana M."
+    ]
+  },
+  {
+    "course_id": "ALM041",
+    "name": "PROCESSAMENTO DE ALIMENTOS",
+    "availabilityCode": "PFN",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Joao R. J. J."
+    ]
+  },
+  {
+    "course_id": "ALM041",
+    "name": "PROCESSAMENTO DE ALIMENTOS",
+    "availabilityCode": "TF",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "10:20"
+      }
+    ],
+    "teachers": [
+      "Silvana M."
+    ]
+  },
+  {
+    "course_id": "ALM041",
+    "name": "PROCESSAMENTO DE ALIMENTOS",
+    "availabilityCode": "TFN",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:10",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Joao R. J. J."
+    ]
+  },
+  {
+    "course_id": "ALM043",
+    "name": "TOPICOS EM CIENCIA DE ALIMENTOS A - Tutoria Acadêmica",
+    "availabilityCode": "TF",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:20",
+        "end": "16:20"
+      }
+    ],
+    "teachers": [
+      "Andreza A. F."
+    ]
+  },
+  {
+    "course_id": "ALM044",
+    "name": "TOPICOS EM CIENCIA DE ALIMENTOS B - Alimentos para fins especias",
+    "availabilityCode": "TFN",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:10",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Raquel L. B. A.",
+      "Ana P. C. S."
+    ]
+  },
+  {
+    "course_id": "ALM045",
+    "name": "TOPICOS EM CIENCIA DE ALIMENTOS C - Processamento de Alimentos para Fins Especiais",
+    "availabilityCode": "TF",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Silvana M."
+    ]
+  },
+  {
+    "course_id": "ALM045",
+    "name": "TOPICOS EM CIENCIA DE ALIMENTOS C - Sustentabilidade e Alimentos (EAD)",
+    "availabilityCode": "TF1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:20"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ALM045",
+    "name": "TOPICOS EM CIENCIA DE ALIMENTOS C - Suplementos Alimentares",
+    "availabilityCode": "TFN",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:10",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Andreza A. F."
+    ]
+  },
+  {
+    "course_id": "ALM045",
+    "name": "TOPICOS EM CIENCIA DE ALIMENTOS C - Rotulagem de Alimentos",
+    "availabilityCode": "TFN1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:10",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Lucilene R. A.",
+      "Ana P. C. S."
+    ]
+  },
+  {
+    "course_id": "ALM056",
+    "name": "ESTÁGIO OPTATIVO EM ALIMENTOS I - -",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Bruno M. D. P.",
+      "Roseane B. P. O.",
+      "Joao R. J. J.",
+      "Veronica O. A."
+    ]
+  },
+  {
+    "course_id": "ALM057",
+    "name": "ESTÁGIO OPTATIVO EM ALIMENTOS II - -",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Veronica O. A.",
+      "Bruno M. D. P.",
+      "Roseane B. P. O.",
+      "Joao R. J. J."
+    ]
+  },
+  {
+    "course_id": "ALM057",
+    "name": "ESTÁGIO OPTATIVO EM ALIMENTOS II - -",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Joao R. J. J.",
+      "Veronica O. A.",
+      "Bruno M. D. P.",
+      "Roseane B. P. O."
+    ]
+  },
+  {
+    "course_id": "ALM125",
+    "name": "ALTERAÇÕES QUÍMICAS E BIOQUÍMICAS DE ALIMENTOS",
+    "availabilityCode": "TF",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Renan C. C."
+    ]
+  },
+  {
+    "course_id": "ALM126",
+    "name": "BROMATOLOGIA",
+    "availabilityCode": "PA",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:40",
+        "end": "12:10"
+      }
+    ],
+    "teachers": [
+      "Scheilla V. C. S. F."
+    ]
+  },
+  {
+    "course_id": "ALM126",
+    "name": "BROMATOLOGIA",
+    "availabilityCode": "PB",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:40",
+        "end": "12:10"
+      }
+    ],
+    "teachers": [
+      "Scheilla V. C. S. F."
+    ]
+  },
+  {
+    "course_id": "ALM126",
+    "name": "BROMATOLOGIA",
+    "availabilityCode": "PC",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:40",
+        "end": "12:10"
+      }
+    ],
+    "teachers": [
+      "Scheilla V. C. S. F."
+    ]
+  },
+  {
+    "course_id": "ALM126",
+    "name": "BROMATOLOGIA",
+    "availabilityCode": "PD",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:40",
+        "end": "12:10"
+      }
+    ],
+    "teachers": [
+      "Scheilla V. C. S. F."
+    ]
+  },
+  {
+    "course_id": "ALM126",
+    "name": "BROMATOLOGIA",
+    "availabilityCode": "TF",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:25",
+        "end": "09:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:25",
+        "end": "09:30"
+      }
+    ],
+    "teachers": [
+      "Scheilla V. C. S. F.",
+      "Lucilene R. A."
+    ]
+  },
+  {
+    "course_id": "ALM129",
+    "name": "ESTÁGIO OPTATIVO EM ALIMENTOS I",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Veronica O. A.",
+      "Bruno M. D. P.",
+      "Roseane B. P. O.",
+      "Joao R. J. J."
+    ]
+  },
+  {
+    "course_id": "ALM130",
+    "name": "ESTÁGIO OPTATIVO EM ALIMENTOS II",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ALM130",
+    "name": "ESTÁGIO OPTATIVO EM ALIMENTOS II",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Joao R. J. J."
+    ]
+  },
+  {
+    "course_id": "ALM131",
+    "name": "ALIMENTOS PARA FINS ESPECIAIS: TECNOLOGIA E PROCESSAMENTO",
+    "availabilityCode": "PF",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ALM131",
+    "name": "ALIMENTOS PARA FINS ESPECIAIS: TECNOLOGIA E PROCESSAMENTO",
+    "availabilityCode": "TF",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "10:20"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ALM137",
+    "name": "TECNOLOGIA DE ALIMENTOS E SAÚDE  - -",
+    "availabilityCode": "PA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:20",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Andreza A. F."
+    ]
+  },
+  {
+    "course_id": "ALM137",
+    "name": "TECNOLOGIA DE ALIMENTOS E SAÚDE  - -",
+    "availabilityCode": "TF",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "14:20"
+      }
+    ],
+    "teachers": [
+      "Andreza A. F."
+    ]
+  },
+  {
+    "course_id": "ALM138",
+    "name": "TOXICOLOGIA DE ALIMENTOS",
+    "availabilityCode": "TFN",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:10",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Flavia B. C."
+    ]
+  },
+  {
+    "course_id": "BIG157",
+    "name": "GENÉTICA F",
+    "availabilityCode": "TBN",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIG157",
+    "name": "GENÉTICA F",
+    "availabilityCode": "TF1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "16:00"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIG157",
+    "name": "GENÉTICA F",
+    "availabilityCode": "TF2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIG157",
+    "name": "GENÉTICA F",
+    "availabilityCode": "TFN",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "19:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ050",
+    "name": "BIOQUIMICA CELULAR F",
+    "availabilityCode": "TBF",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:50",
+        "end": "22:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ050",
+    "name": "BIOQUIMICA CELULAR F",
+    "availabilityCode": "TF",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ058",
+    "name": "BIOLOGIA MOLECULAR F",
+    "availabilityCode": "TBF",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ602",
+    "name": "IMUNOLOGIA BASICA",
+    "availabilityCode": "TBF",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:10",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ602",
+    "name": "IMUNOLOGIA BASICA",
+    "availabilityCode": "TF",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ602",
+    "name": "IMUNOLOGIA BASICA",
+    "availabilityCode": "TFN",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "21:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BOT035",
+    "name": "BOTÂNICA F",
+    "availabilityCode": "TF1",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Igor A. A.",
+      "Luciana C. R. M."
+    ]
+  },
+  {
+    "course_id": "BOT035",
+    "name": "BOTÂNICA F",
+    "availabilityCode": "TF2",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:00",
+        "end": "16:40"
+      }
+    ],
+    "teachers": [
+      "Igor A. A.",
+      "Luciana C. R. M."
+    ]
+  },
+  {
+    "course_id": "BOT035",
+    "name": "BOTÂNICA F",
+    "availabilityCode": "TFN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Igor A. A.",
+      "Luciana C. R. M."
+    ]
+  },
+  {
+    "course_id": "DCP021",
+    "name": "INTRODUÇÃO A TEORIA DEMOCRÁTICA",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Magna M. I."
+    ]
+  },
+  {
+    "course_id": "DCP021",
+    "name": "INTRODUÇÃO A TEORIA DEMOCRÁTICA",
+    "availabilityCode": "TR",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcus A. G. P."
+    ]
+  },
+  {
+    "course_id": "DCP023",
+    "name": "ESTADO MODERNO E CAPITALISMO",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Juarez R. G."
+    ]
+  },
+  {
+    "course_id": "DCP023",
+    "name": "ESTADO MODERNO E CAPITALISMO",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Eduardo M. Z."
+    ]
+  },
+  {
+    "course_id": "DCP023",
+    "name": "ESTADO MODERNO E CAPITALISMO",
+    "availabilityCode": "TT",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Eduardo M. Z."
+    ]
+  },
+  {
+    "course_id": "EST083",
+    "name": "BIOESTATISTICA BASICA F",
+    "availabilityCode": "TE",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Vinicius D. M."
+    ]
+  },
+  {
+    "course_id": "EST083",
+    "name": "BIOESTATISTICA BASICA F",
+    "availabilityCode": "TM",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Magda C. P."
+    ]
+  },
+  {
+    "course_id": "EST083",
+    "name": "BIOESTATISTICA BASICA F",
+    "availabilityCode": "TN",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": [
+      "Flavio B. G."
+    ]
+  },
+  {
+    "course_id": "FAF093",
+    "name": "MONOGRAFIA EM CIÊNCIAS FARMACÊUTICAS II",
+    "availabilityCode": "PACT",
+    "spots": 20,
+    "times": [],
+    "teachers": [
+      "Karina B. G."
+    ]
+  },
+  {
+    "course_id": "FAF093",
+    "name": "MONOGRAFIA EM CIÊNCIAS FARMACÊUTICAS II",
+    "availabilityCode": "PALM",
+    "spots": 40,
+    "times": [],
+    "teachers": [
+      "Maria A. V. T. G."
+    ]
+  },
+  {
+    "course_id": "FAF093",
+    "name": "MONOGRAFIA EM CIÊNCIAS FARMACÊUTICAS II",
+    "availabilityCode": "PFAS",
+    "spots": 66,
+    "times": [],
+    "teachers": [
+      "Cristina M. R."
+    ]
+  },
+  {
+    "course_id": "FAF093",
+    "name": "MONOGRAFIA EM CIÊNCIAS FARMACÊUTICAS II",
+    "availabilityCode": "PHOSP",
+    "spots": 60,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FAF093",
+    "name": "MONOGRAFIA EM CIÊNCIAS FARMACÊUTICAS II",
+    "availabilityCode": "PIND",
+    "spots": 60,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FAF094",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I",
+    "availabilityCode": "PACT",
+    "spots": 40,
+    "times": [],
+    "teachers": [
+      "Ieda F. O. S.",
+      "Simone O. A. F.",
+      "Suellen R. M."
+    ]
+  },
+  {
+    "course_id": "FAF094",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I",
+    "availabilityCode": "PALM",
+    "spots": 40,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FAF094",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I",
+    "availabilityCode": "PFARM",
+    "spots": 100,
+    "times": [],
+    "teachers": [
+      "Micheline R. S.",
+      "Juliana A. T.",
+      "Cristiane P. R."
+    ]
+  },
+  {
+    "course_id": "FAF094",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I",
+    "availabilityCode": "PHOSP",
+    "spots": 60,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FAF094",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I",
+    "availabilityCode": "PIND",
+    "spots": 60,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FAF094",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I",
+    "availabilityCode": "PSUS",
+    "spots": 100,
+    "times": [],
+    "teachers": [
+      "Simone A. M. M.",
+      "Kirla B. D.",
+      "Cristiane A. M. P.",
+      "Djenane R. O."
+    ]
+  },
+  {
+    "course_id": "FAF094",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I",
+    "availabilityCode": "TACT",
+    "spots": 40,
+    "times": [],
+    "teachers": [
+      "Ieda F. O. S.",
+      "Simone O. A. F.",
+      "Suellen R. M."
+    ]
+  },
+  {
+    "course_id": "FAF094",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I",
+    "availabilityCode": "TALM",
+    "spots": 40,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FAF094",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I",
+    "availabilityCode": "TFARM",
+    "spots": 100,
+    "times": [],
+    "teachers": [
+      "Micheline R. S.",
+      "Cristiane P. R.",
+      "Juliana A. T."
+    ]
+  },
+  {
+    "course_id": "FAF094",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I",
+    "availabilityCode": "THOSP",
+    "spots": 60,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FAF094",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I",
+    "availabilityCode": "TIND",
+    "spots": 60,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FAF094",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I",
+    "availabilityCode": "TSUS",
+    "spots": 100,
+    "times": [],
+    "teachers": [
+      "Kirla B. D.",
+      "Cristiane A. M. P.",
+      "Djenane R. O.",
+      "Simone A. M. M."
+    ]
+  },
+  {
+    "course_id": "FAF095",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II",
+    "availabilityCode": "PACT",
+    "spots": 40,
+    "times": [],
+    "teachers": [
+      "Suellen R. M.",
+      "Ieda F. O. S.",
+      "Simone O. A. F."
+    ]
+  },
+  {
+    "course_id": "FAF095",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II",
+    "availabilityCode": "PALM",
+    "spots": 40,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FAF095",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II",
+    "availabilityCode": "PFARM",
+    "spots": 100,
+    "times": [],
+    "teachers": [
+      "Micheline R. S.",
+      "Juliana A. T.",
+      "Cristiane P. R."
+    ]
+  },
+  {
+    "course_id": "FAF095",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II",
+    "availabilityCode": "PHOSP",
+    "spots": 60,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FAF095",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II",
+    "availabilityCode": "PIND",
+    "spots": 60,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FAF095",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II",
+    "availabilityCode": "PSUS",
+    "spots": 100,
+    "times": [],
+    "teachers": [
+      "Simone A. M. M.",
+      "Kirla B. D.",
+      "Cristiane A. M. P.",
+      "Djenane R. O."
+    ]
+  },
+  {
+    "course_id": "FAF095",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II",
+    "availabilityCode": "TACT",
+    "spots": 40,
+    "times": [],
+    "teachers": [
+      "Ieda F. O. S.",
+      "Simone O. A. F.",
+      "Suellen R. M."
+    ]
+  },
+  {
+    "course_id": "FAF095",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II",
+    "availabilityCode": "TALM",
+    "spots": 40,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FAF095",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II",
+    "availabilityCode": "TFARM",
+    "spots": 100,
+    "times": [],
+    "teachers": [
+      "Micheline R. S.",
+      "Juliana A. T.",
+      "Cristiane P. R."
+    ]
+  },
+  {
+    "course_id": "FAF095",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II",
+    "availabilityCode": "THOSP",
+    "spots": 60,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FAF095",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II",
+    "availabilityCode": "TIND",
+    "spots": 60,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FAF095",
+    "name": "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II",
+    "availabilityCode": "TSUS",
+    "spots": 100,
+    "times": [],
+    "teachers": [
+      "Kirla B. D.",
+      "Cristiane A. M. P.",
+      "Djenane R. O.",
+      "Simone A. M. M."
+    ]
+  },
+  {
+    "course_id": "FAF116",
+    "name": "ORIENTAÇÃO À VIDA ACADÊMICA",
+    "availabilityCode": "TFA",
+    "spots": 41,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "10:20"
+      }
+    ],
+    "teachers": [
+      "Andreza A. F."
+    ]
+  },
+  {
+    "course_id": "FAF116",
+    "name": "ORIENTAÇÃO À VIDA ACADÊMICA",
+    "availabilityCode": "TFB",
+    "spots": 41,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:20",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Andreza A. F."
+    ]
+  },
+  {
+    "course_id": "FAF116",
+    "name": "ORIENTAÇÃO À VIDA ACADÊMICA",
+    "availabilityCode": "TFN",
+    "spots": 59,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Andreza A. F."
+    ]
+  },
+  {
+    "course_id": "FAF117",
+    "name": "SEMIOLOGIA FARMACÊUTICA E HABILIDADES CLÍNICAS I",
+    "availabilityCode": "TA",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Clarice C.",
+      "Marcio M. C."
+    ]
+  },
+  {
+    "course_id": "FAF117",
+    "name": "SEMIOLOGIA FARMACÊUTICA E HABILIDADES CLÍNICAS I",
+    "availabilityCode": "TB",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:20",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Clarice C.",
+      "Marcio M. C."
+    ]
+  },
+  {
+    "course_id": "FAF117",
+    "name": "SEMIOLOGIA FARMACÊUTICA E HABILIDADES CLÍNICAS I",
+    "availabilityCode": "TC",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Clarice C.",
+      "Marcio M. C."
+    ]
+  },
+  {
+    "course_id": "FAF117",
+    "name": "SEMIOLOGIA FARMACÊUTICA E HABILIDADES CLÍNICAS I",
+    "availabilityCode": "TNA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:10",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Marcio M. C.",
+      "Yone A. N."
+    ]
+  },
+  {
+    "course_id": "FAF117",
+    "name": "SEMIOLOGIA FARMACÊUTICA E HABILIDADES CLÍNICAS I",
+    "availabilityCode": "TNB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Marcio M. C.",
+      "Yone A. N."
+    ]
+  },
+  {
+    "course_id": "FAF118",
+    "name": "TÓPICOS EM CUIDADO EM SAÚDE A  - Introdução à Farmácia na Atenção Primária à Saúde (que permitirá dispensa do FAS124 - ESTÁGIO INTRODUTÓRIO EM FARMÁCIA NA ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "TJULH",
+    "spots": 300,
+    "times": [],
+    "teachers": [
+      "Simone A. M. M.",
+      "Kirla B. D.",
+      "Cristiane A. M. P.",
+      "Cristiane P. R."
+    ]
+  },
+  {
+    "course_id": "FAF119",
+    "name": "TÓPICOS EM CUIDADO EM SAÚDE B  - Farmacoterapia nos cuidados paliativos - Pré- requisito: Farmacoterapia 1",
+    "availabilityCode": "TF",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FAF119",
+    "name": "TÓPICOS EM CUIDADO EM SAÚDE B  - Importância das Análises Clínicas no Curso de Farmácia",
+    "availabilityCode": "TTF",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:30",
+        "end": "16:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FAF123",
+    "name": "TÓPICOS EM GESTÃO EM SAÚDE A - Tutoria Acadêmica",
+    "availabilityCode": "TF",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:20",
+        "end": "16:20"
+      }
+    ],
+    "teachers": [
+      "Andreza A. F."
+    ]
+  },
+  {
+    "course_id": "FAF127",
+    "name": "TÓPICOS EM TECNOLOGIA E INOVAÇÃO EM SAÚDE B - Vetores virais e não virais para entrega de ácidos nucleicos",
+    "availabilityCode": "TF",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "17:20",
+        "end": "19:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FAF128",
+    "name": "TÓPICOS EM TECNOLOGIA E INOVAÇÃO EM SAÚDE C - Biotecnologia",
+    "availabilityCode": "TF",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:20"
+      }
+    ],
+    "teachers": [
+      "Ana P. S. M. F."
+    ]
+  },
+  {
+    "course_id": "FAF128",
+    "name": "TÓPICOS EM TECNOLOGIA E INOVAÇÃO EM SAÚDE C - Boas Práticas em Experimentação Animal",
+    "availabilityCode": "TF1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Simone O. A. F."
+    ]
+  },
+  {
+    "course_id": "FAF128",
+    "name": "TÓPICOS EM TECNOLOGIA E INOVAÇÃO EM SAÚDE C - Suplementos Alimentares",
+    "availabilityCode": "TFN",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:10",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Andreza A. F."
+    ]
+  },
+  {
+    "course_id": "FAR024",
+    "name": "FARMACOLOGIA BASICA F",
+    "availabilityCode": "PF1",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "15:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Andre K."
+    ]
+  },
+  {
+    "course_id": "FAR024",
+    "name": "FARMACOLOGIA BASICA F",
+    "availabilityCode": "PF2",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "15:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Steyner F. C.",
+      "Andrea C. P."
+    ]
+  },
+  {
+    "course_id": "FAR024",
+    "name": "FARMACOLOGIA BASICA F",
+    "availabilityCode": "PF3",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "15:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Daniella B.",
+      "Fabricio A. M.",
+      "Stefany B. A. C.",
+      "Daniele C. A."
+    ]
+  },
+  {
+    "course_id": "FAR024",
+    "name": "FARMACOLOGIA BASICA F",
+    "availabilityCode": "PF4",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "15:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Daniella B.",
+      "Fabricio A. M.",
+      "Stefany B. A. C.",
+      "Daniele C. A."
+    ]
+  },
+  {
+    "course_id": "FAR024",
+    "name": "FARMACOLOGIA BASICA F",
+    "availabilityCode": "PFN1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:50",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Igor D. G. D.",
+      "Andrea C. P.",
+      "Miriam T. P. L.",
+      "Helton J. R."
+    ]
+  },
+  {
+    "course_id": "FAR024",
+    "name": "FARMACOLOGIA BASICA F",
+    "availabilityCode": "PFN2",
+    "spots": 26,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:50",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Andrea C. P.",
+      "Igor D. G. D.",
+      "Miriam T. P. L.",
+      "Helton J. R."
+    ]
+  },
+  {
+    "course_id": "FAR024",
+    "name": "FARMACOLOGIA BASICA F",
+    "availabilityCode": "TF1",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "15:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Andre K.",
+      "Steyner F. C."
+    ]
+  },
+  {
+    "course_id": "FAR024",
+    "name": "FARMACOLOGIA BASICA F",
+    "availabilityCode": "TF2",
+    "spots": 37,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "15:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Daniella B.",
+      "Fabricio A. M.",
+      "Stefany B. A. C.",
+      "Daniele C. A."
+    ]
+  },
+  {
+    "course_id": "FAR024",
+    "name": "FARMACOLOGIA BASICA F",
+    "availabilityCode": "TFN",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Miriam T. P. L.",
+      "Helton J. R.",
+      "Igor D. G. D.",
+      "Andrea C. P."
+    ]
+  },
+  {
+    "course_id": "FAS011",
+    "name": "ETICA E LEGISLACAO FARMACEUTICA",
+    "availabilityCode": "TFA",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Clessius R. S.",
+      "Micheline R. S."
+    ]
+  },
+  {
+    "course_id": "FAS011",
+    "name": "ETICA E LEGISLACAO FARMACEUTICA",
+    "availabilityCode": "TFB",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Clessius R. S.",
+      "Micheline R. S."
+    ]
+  },
+  {
+    "course_id": "FAS011",
+    "name": "ETICA E LEGISLACAO FARMACEUTICA",
+    "availabilityCode": "TFN1",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Clessius R. S.",
+      "Micheline R. S."
+    ]
+  },
+  {
+    "course_id": "FAS011",
+    "name": "ETICA E LEGISLACAO FARMACEUTICA",
+    "availabilityCode": "TFN2",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Clessius R. S.",
+      "Micheline R. S."
+    ]
+  },
+  {
+    "course_id": "FAS012",
+    "name": "POLITICAS DE SAUDE",
+    "availabilityCode": "TFB",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Cristina M. R."
+    ]
+  },
+  {
+    "course_id": "FAS012",
+    "name": "POLITICAS DE SAUDE",
+    "availabilityCode": "TFN1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:10",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Cristina M. R."
+    ]
+  },
+  {
+    "course_id": "FAS013",
+    "name": "PRATICAS EM FARMACIA COMUNITARIA",
+    "availabilityCode": "PF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Kirla B. D."
+    ]
+  },
+  {
+    "course_id": "FAS013",
+    "name": "PRATICAS EM FARMACIA COMUNITARIA",
+    "availabilityCode": "PFN1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Kirla B. D."
+    ]
+  },
+  {
+    "course_id": "FAS037",
+    "name": "ESTÁGIO OPTATATIVO EM FARMÁCIA II - -",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS037",
+    "name": "ESTÁGIO OPTATATIVO EM FARMÁCIA II - -",
+    "availabilityCode": "PF1",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS037",
+    "name": "ESTÁGIO OPTATATIVO EM FARMÁCIA II - -",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS037",
+    "name": "ESTÁGIO OPTATATIVO EM FARMÁCIA II - -",
+    "availabilityCode": "TF1",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS038",
+    "name": "MONOGRAFIA EM CIÊNCIAS FARMACÊUTICAS",
+    "availabilityCode": "TF",
+    "spots": 70,
+    "times": [],
+    "teachers": [
+      "Cristina M. R."
+    ]
+  },
+  {
+    "course_id": "FAS038",
+    "name": "MONOGRAFIA EM CIÊNCIAS FARMACÊUTICAS",
+    "availabilityCode": "TFN",
+    "spots": 70,
+    "times": [],
+    "teachers": [
+      "Cristina M. R."
+    ]
+  },
+  {
+    "course_id": "FAS039",
+    "name": "ESTÁGIO EM FARMÁCIA",
+    "availabilityCode": "PA",
+    "spots": 20,
+    "times": [],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS039",
+    "name": "ESTÁGIO EM FARMÁCIA",
+    "availabilityCode": "PB",
+    "spots": 20,
+    "times": [],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS039",
+    "name": "ESTÁGIO EM FARMÁCIA",
+    "availabilityCode": "PC",
+    "spots": 20,
+    "times": [],
+    "teachers": [
+      "Maria G. B.",
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS039",
+    "name": "ESTÁGIO EM FARMÁCIA",
+    "availabilityCode": "PD",
+    "spots": 20,
+    "times": [],
+    "teachers": [
+      "Maria G. B.",
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS039",
+    "name": "ESTÁGIO EM FARMÁCIA",
+    "availabilityCode": "PE",
+    "spots": 20,
+    "times": [],
+    "teachers": [
+      "Marina G. L.",
+      "Clarice C."
+    ]
+  },
+  {
+    "course_id": "FAS039",
+    "name": "ESTÁGIO EM FARMÁCIA",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS039",
+    "name": "ESTÁGIO EM FARMÁCIA",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS039",
+    "name": "ESTÁGIO EM FARMÁCIA",
+    "availabilityCode": "TC",
+    "spots": 20,
+    "times": [],
+    "teachers": [
+      "Maria G. B.",
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS039",
+    "name": "ESTÁGIO EM FARMÁCIA",
+    "availabilityCode": "TD",
+    "spots": 20,
+    "times": [],
+    "teachers": [
+      "Maria G. B.",
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS039",
+    "name": "ESTÁGIO EM FARMÁCIA",
+    "availabilityCode": "TE",
+    "spots": 20,
+    "times": [],
+    "teachers": [
+      "Clarice C.",
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS112",
+    "name": "FARMÁCIA E SOCIEDADE",
+    "availabilityCode": "PA",
+    "spots": 38,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:20",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Cristiane P. R."
+    ]
+  },
+  {
+    "course_id": "FAS112",
+    "name": "FARMÁCIA E SOCIEDADE",
+    "availabilityCode": "PB",
+    "spots": 38,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Cristiane P. R."
+    ]
+  },
+  {
+    "course_id": "FAS112",
+    "name": "FARMÁCIA E SOCIEDADE",
+    "availabilityCode": "PN",
+    "spots": 43,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "21:45",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Cristiane P. R."
+    ]
+  },
+  {
+    "course_id": "FAS112",
+    "name": "FARMÁCIA E SOCIEDADE",
+    "availabilityCode": "TF",
+    "spots": 76,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "10:20"
+      }
+    ],
+    "teachers": [
+      "Cristiane P. R."
+    ]
+  },
+  {
+    "course_id": "FAS112",
+    "name": "FARMÁCIA E SOCIEDADE",
+    "availabilityCode": "TFN",
+    "spots": 43,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "21:45"
+      }
+    ],
+    "teachers": [
+      "Cristiane P. R."
+    ]
+  },
+  {
+    "course_id": "FAS113",
+    "name": "FARMACOEPIDEMIOLOGI A",
+    "availabilityCode": "PA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Maria G. B."
+    ]
+  },
+  {
+    "course_id": "FAS113",
+    "name": "FARMACOEPIDEMIOLOGI A",
+    "availabilityCode": "PB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Maria G. B."
+    ]
+  },
+  {
+    "course_id": "FAS113",
+    "name": "FARMACOEPIDEMIOLOGI A",
+    "availabilityCode": "PC",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:20",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Maria G. B."
+    ]
+  },
+  {
+    "course_id": "FAS113",
+    "name": "FARMACOEPIDEMIOLOGI A",
+    "availabilityCode": "PD",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Maria G. B."
+    ]
+  },
+  {
+    "course_id": "FAS113",
+    "name": "FARMACOEPIDEMIOLOGI A",
+    "availabilityCode": "PFN1A",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:10",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Cristiane A. M. P.",
+      "Juliana A. T."
+    ]
+  },
+  {
+    "course_id": "FAS113",
+    "name": "FARMACOEPIDEMIOLOGI A",
+    "availabilityCode": "PFN1B",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Cristiane A. M. P.",
+      "Juliana A. T."
+    ]
+  },
+  {
+    "course_id": "FAS113",
+    "name": "FARMACOEPIDEMIOLOGI A",
+    "availabilityCode": "PFN2A",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:10",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Cristiane A. M. P.",
+      "Juliana A. T."
+    ]
+  },
+  {
+    "course_id": "FAS113",
+    "name": "FARMACOEPIDEMIOLOGI A",
+    "availabilityCode": "PFN2B",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Cristiane A. M. P.",
+      "Juliana A. T."
+    ]
+  },
+  {
+    "course_id": "FAS113",
+    "name": "FARMACOEPIDEMIOLOGI A",
+    "availabilityCode": "TF1",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Maria G. B."
+    ]
+  },
+  {
+    "course_id": "FAS113",
+    "name": "FARMACOEPIDEMIOLOGI A",
+    "availabilityCode": "TFN1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Cristiane A. M. P.",
+      "Juliana A. T."
+    ]
+  },
+  {
+    "course_id": "FAS113",
+    "name": "FARMACOEPIDEMIOLOGI A",
+    "availabilityCode": "TFN2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Cristiane A. M. P.",
+      "Juliana A. T."
+    ]
+  },
+  {
+    "course_id": "FAS114",
+    "name": "ASSISTÊNCIA FARMACÊUTICA",
+    "availabilityCode": "PA",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:30",
+        "end": "15:20"
+      }
+    ],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS114",
+    "name": "ASSISTÊNCIA FARMACÊUTICA",
+    "availabilityCode": "PN",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "21:45",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS114",
+    "name": "ASSISTÊNCIA FARMACÊUTICA",
+    "availabilityCode": "TA",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:40",
+        "end": "14:30"
+      }
+    ],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS114",
+    "name": "ASSISTÊNCIA FARMACÊUTICA",
+    "availabilityCode": "TN",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "21:45"
+      }
+    ],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS117",
+    "name": "CLÍNICA FARMACÊUTICA I",
+    "availabilityCode": "PA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Simone A. M. M."
+    ]
+  },
+  {
+    "course_id": "FAS117",
+    "name": "CLÍNICA FARMACÊUTICA I",
+    "availabilityCode": "PB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:20",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Djenane R. O."
+    ]
+  },
+  {
+    "course_id": "FAS117",
+    "name": "CLÍNICA FARMACÊUTICA I",
+    "availabilityCode": "PC",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:20",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Djenane R. O."
+    ]
+  },
+  {
+    "course_id": "FAS117",
+    "name": "CLÍNICA FARMACÊUTICA I",
+    "availabilityCode": "PFN1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:50",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Simone A. M. M."
+    ]
+  },
+  {
+    "course_id": "FAS117",
+    "name": "CLÍNICA FARMACÊUTICA I",
+    "availabilityCode": "PFN2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:50",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Kirla B. D."
+    ]
+  },
+  {
+    "course_id": "FAS117",
+    "name": "CLÍNICA FARMACÊUTICA I",
+    "availabilityCode": "TFA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:20",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Simone A. M. M."
+    ]
+  },
+  {
+    "course_id": "FAS117",
+    "name": "CLÍNICA FARMACÊUTICA I",
+    "availabilityCode": "TFB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:30",
+        "end": "16:20"
+      }
+    ],
+    "teachers": [
+      "Djenane R. O."
+    ]
+  },
+  {
+    "course_id": "FAS117",
+    "name": "CLÍNICA FARMACÊUTICA I",
+    "availabilityCode": "TFC",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "15:30",
+        "end": "16:20"
+      }
+    ],
+    "teachers": [
+      "Djenane R. O."
+    ]
+  },
+  {
+    "course_id": "FAS117",
+    "name": "CLÍNICA FARMACÊUTICA I",
+    "availabilityCode": "TFN1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Simone A. M. M."
+    ]
+  },
+  {
+    "course_id": "FAS117",
+    "name": "CLÍNICA FARMACÊUTICA I",
+    "availabilityCode": "TFN2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Kirla B. D."
+    ]
+  },
+  {
+    "course_id": "FAS118",
+    "name": "COMPETÊNCIAS CLÍNICAS AVANÇADAS I",
+    "availabilityCode": "PC",
+    "spots": 33,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Yone A. N."
+    ]
+  },
+  {
+    "course_id": "FAS118",
+    "name": "COMPETÊNCIAS CLÍNICAS AVANÇADAS I",
+    "availabilityCode": "PPA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Yone A. N."
+    ]
+  },
+  {
+    "course_id": "FAS122",
+    "name": "ESTÁGIO EM FARMÁCIA COMUNITÁRIA",
+    "availabilityCode": "PF",
+    "spots": 100,
+    "times": [],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS122",
+    "name": "ESTÁGIO EM FARMÁCIA COMUNITÁRIA",
+    "availabilityCode": "TF",
+    "spots": 100,
+    "times": [],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS124",
+    "name": "ESTÁGIO INTRODUTÓRIO EM FARMÁCIA NA ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PF1",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FAS124",
+    "name": "ESTÁGIO INTRODUTÓRIO EM FARMÁCIA NA ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PF2",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FAS124",
+    "name": "ESTÁGIO INTRODUTÓRIO EM FARMÁCIA NA ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PF3",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FAS124",
+    "name": "ESTÁGIO INTRODUTÓRIO EM FARMÁCIA NA ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PN1",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FAS124",
+    "name": "ESTÁGIO INTRODUTÓRIO EM FARMÁCIA NA ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PN2",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FAS124",
+    "name": "ESTÁGIO INTRODUTÓRIO EM FARMÁCIA NA ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "TF1",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FAS124",
+    "name": "ESTÁGIO INTRODUTÓRIO EM FARMÁCIA NA ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "TF2",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FAS124",
+    "name": "ESTÁGIO INTRODUTÓRIO EM FARMÁCIA NA ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "TF3",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FAS124",
+    "name": "ESTÁGIO INTRODUTÓRIO EM FARMÁCIA NA ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "TN1",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FAS124",
+    "name": "ESTÁGIO INTRODUTÓRIO EM FARMÁCIA NA ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "TN2",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FAS125",
+    "name": "ESTÁGIO OPTATIVO EM CUIDADO EM SAÚDE I",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Kirla B. D."
+    ]
+  },
+  {
+    "course_id": "FAS128",
+    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA COMUNITÁRIA II",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS128",
+    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA COMUNITÁRIA II",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS130",
+    "name": "ESTÁGIO OPTATIVO EM GESTÃO EM SAÚDE II",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS130",
+    "name": "ESTÁGIO OPTATIVO EM GESTÃO EM SAÚDE II",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Marina G. L."
+    ]
+  },
+  {
+    "course_id": "FAS133",
+    "name": "METODOLOGIA DE PESQUISA CIENTÍFICA",
+    "availabilityCode": "TF",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "14:20"
+      }
+    ],
+    "teachers": [
+      "Cristina M. R."
+    ]
+  },
+  {
+    "course_id": "FIB034",
+    "name": "BIOFISICA B",
+    "availabilityCode": "PBF1",
+    "spots": 28,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:50",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB034",
+    "name": "BIOFISICA B",
+    "availabilityCode": "TBF",
+    "spots": 28,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Pedro P. G. G."
+    ]
+  },
+  {
+    "course_id": "FIB035",
+    "name": "FISIOLOGIA F",
+    "availabilityCode": "PBN",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "21:40",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB618",
+    "name": "BIOFÍSICA B",
+    "availabilityCode": "PF1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Pedro P. G. G."
+    ]
+  },
+  {
+    "course_id": "FIB618",
+    "name": "BIOFÍSICA B",
+    "availabilityCode": "PF2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Pedro P. G. G."
+    ]
+  },
+  {
+    "course_id": "FIB618",
+    "name": "BIOFÍSICA B",
+    "availabilityCode": "PF3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Pedro P. G. G."
+    ]
+  },
+  {
+    "course_id": "FIB618",
+    "name": "BIOFÍSICA B",
+    "availabilityCode": "PF4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Pedro P. G. G."
+    ]
+  },
+  {
+    "course_id": "FIB618",
+    "name": "BIOFÍSICA B",
+    "availabilityCode": "PFN1",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:50",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB618",
+    "name": "BIOFÍSICA B",
+    "availabilityCode": "PFN2",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:50",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB618",
+    "name": "BIOFÍSICA B",
+    "availabilityCode": "PFN3",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:50",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB618",
+    "name": "BIOFÍSICA B",
+    "availabilityCode": "TF",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Pedro P. G. G."
+    ]
+  },
+  {
+    "course_id": "FIB618",
+    "name": "BIOFÍSICA B",
+    "availabilityCode": "TFN",
+    "spots": 42,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Pedro P. G. G."
+    ]
+  },
+  {
+    "course_id": "FIB619",
+    "name": "FISIOLOGIA F",
+    "availabilityCode": "PF1",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB619",
+    "name": "FISIOLOGIA F",
+    "availabilityCode": "PF2",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB619",
+    "name": "FISIOLOGIA F",
+    "availabilityCode": "PF3",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB619",
+    "name": "FISIOLOGIA F",
+    "availabilityCode": "PF4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB619",
+    "name": "FISIOLOGIA F",
+    "availabilityCode": "PFN1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "21:40",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB619",
+    "name": "FISIOLOGIA F",
+    "availabilityCode": "PFN2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "21:40",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB619",
+    "name": "FISIOLOGIA F",
+    "availabilityCode": "PFN3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "21:40",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB619",
+    "name": "FISIOLOGIA F",
+    "availabilityCode": "TF",
+    "spots": 83,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Maria F. L."
+    ]
+  },
+  {
+    "course_id": "FIB619",
+    "name": "FISIOLOGIA F",
+    "availabilityCode": "TFN",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "21:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Cleyton R. S."
+    ]
+  },
+  {
+    "course_id": "FIL028",
+    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Tadeu M. V."
+    ]
+  },
+  {
+    "course_id": "FIL028",
+    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Eduardo S. N. S."
+    ]
+  },
+  {
+    "course_id": "FIL028",
+    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+    "availabilityCode": "TR",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Tadeu M. V."
+    ]
+  },
+  {
+    "course_id": "FIL029",
+    "name": "INTRODUÇÃO A FILOSOFIA: FILOSOFIA DA CIÊNCIA E EPISTEMOLOGIA",
+    "availabilityCode": "TI",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Alberto E. F. C."
+    ]
+  },
+  {
+    "course_id": "FIL029",
+    "name": "INTRODUÇÃO A FILOSOFIA: FILOSOFIA DA CIÊNCIA E EPISTEMOLOGIA",
+    "availabilityCode": "TT",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Tulio R. X. A."
+    ]
+  },
+  {
+    "course_id": "FIL030",
+    "name": "INTRODUÇÃO A FILOSOFIA: ESTÉTICA",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Daniel O. P."
+    ]
+  },
+  {
+    "course_id": "FIS093",
+    "name": "FUNDAMENTOS DE FISICA F",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS093",
+    "name": "FUNDAMENTOS DE FISICA F",
+    "availabilityCode": "TE",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "GES055",
+    "name": "FUNDAMENTOS DE GESTÃO EM SAÚDE",
+    "availabilityCode": "TF",
+    "spots": 76,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Patricia L. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MAT130",
+    "name": "MATEMATICA",
+    "availabilityCode": "TA1",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT130",
+    "name": "MATEMATICA",
+    "availabilityCode": "TA2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT130",
+    "name": "MATEMATICA",
+    "availabilityCode": "TA3",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT130",
+    "name": "MATEMATICA",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT130",
+    "name": "MATEMATICA",
+    "availabilityCode": "TE",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MIC122",
+    "name": "INTRODUÇÃO À MICROBIOLOGIA",
+    "availabilityCode": "PF1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Elisabeth N."
+    ]
+  },
+  {
+    "course_id": "MIC122",
+    "name": "INTRODUÇÃO À MICROBIOLOGIA",
+    "availabilityCode": "PF2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Carlos A. R.",
+      "Elisabeth N."
+    ]
+  },
+  {
+    "course_id": "MIC122",
+    "name": "INTRODUÇÃO À MICROBIOLOGIA",
+    "availabilityCode": "PF3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Douglas B. S. N.",
+      "Elisabeth N."
+    ]
+  },
+  {
+    "course_id": "MIC122",
+    "name": "INTRODUÇÃO À MICROBIOLOGIA",
+    "availabilityCode": "PF4",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Lida J. A. F.",
+      "Elisabeth N.",
+      "Samantha R. M. O."
+    ]
+  },
+  {
+    "course_id": "MIC122",
+    "name": "INTRODUÇÃO À MICROBIOLOGIA",
+    "availabilityCode": "PFN1",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Douglas B. S. N."
+    ]
+  },
+  {
+    "course_id": "MIC122",
+    "name": "INTRODUÇÃO À MICROBIOLOGIA",
+    "availabilityCode": "PFN2",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Viviane S. A.",
+      "Douglas B. S. N."
+    ]
+  },
+  {
+    "course_id": "MIC122",
+    "name": "INTRODUÇÃO À MICROBIOLOGIA",
+    "availabilityCode": "TF",
+    "spots": 81,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Betania P. D.",
+      "Daniel A. S.",
+      "Elisabeth N."
+    ]
+  },
+  {
+    "course_id": "MIC122",
+    "name": "INTRODUÇÃO À MICROBIOLOGIA",
+    "availabilityCode": "TFN",
+    "spots": 44,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Viviane S. A.",
+      "Betania P. D.",
+      "Douglas B. S. N."
+    ]
+  },
+  {
+    "course_id": "MOF008",
+    "name": "EMBRIOLOGIA GERAL",
+    "availabilityCode": "TE1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MOF008",
+    "name": "EMBRIOLOGIA GERAL",
+    "availabilityCode": "TE2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MOF009",
+    "name": "ANATOMIA HUMANA BASICA",
+    "availabilityCode": "PFN1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:40",
+        "end": "22:20"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MOF009",
+    "name": "ANATOMIA HUMANA BASICA",
+    "availabilityCode": "PFN2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:40",
+        "end": "22:20"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MOF009",
+    "name": "ANATOMIA HUMANA BASICA",
+    "availabilityCode": "TF1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Paula R. M."
+    ]
+  },
+  {
+    "course_id": "MOF009",
+    "name": "ANATOMIA HUMANA BASICA",
+    "availabilityCode": "TF2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Lucas M. K. G. O."
+    ]
+  },
+  {
+    "course_id": "MOF009",
+    "name": "ANATOMIA HUMANA BASICA",
+    "availabilityCode": "TFN",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:50",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "MOF143",
+    "name": "CITOLOGIA E HISTOLOGIA",
+    "availabilityCode": "PF1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Gregory T. K.",
+      "Maisa M. A.",
+      "Aristobolo M. S."
+    ]
+  },
+  {
+    "course_id": "MOF143",
+    "name": "CITOLOGIA E HISTOLOGIA",
+    "availabilityCode": "PF2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Maisa M. A.",
+      "Aristobolo M. S.",
+      "Gregory T. K."
+    ]
+  },
+  {
+    "course_id": "MOF143",
+    "name": "CITOLOGIA E HISTOLOGIA",
+    "availabilityCode": "TF",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Maisa M. A.",
+      "Aristobolo M. S.",
+      "Gregory T. K."
+    ]
+  },
+  {
+    "course_id": "MOF143",
+    "name": "CITOLOGIA E HISTOLOGIA",
+    "availabilityCode": "TFN",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PAG011",
+    "name": "PATOLOGIA GERAL F",
+    "availabilityCode": "TF1",
+    "spots": 3,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "16:00"
+      },
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo V. C."
+    ]
+  },
+  {
+    "course_id": "PAG011",
+    "name": "PATOLOGIA GERAL F",
+    "availabilityCode": "TF2",
+    "spots": 3,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "16:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Sara S. B.",
+      "Monica A. N. D. F."
+    ]
+  },
+  {
+    "course_id": "PAG018",
+    "name": "PATOLOGIA ESPECIAL F",
+    "availabilityCode": "TF1",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo V. C."
+    ]
+  },
+  {
+    "course_id": "PAG018",
+    "name": "PATOLOGIA ESPECIAL F",
+    "availabilityCode": "TF2",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Barbara M. R. G."
+    ]
+  },
+  {
+    "course_id": "PAG018",
+    "name": "PATOLOGIA ESPECIAL F",
+    "availabilityCode": "TFN",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Sara S. B."
+    ]
+  },
+  {
+    "course_id": "PAG611",
+    "name": "PATOLOGIA GERAL F",
+    "availabilityCode": "TF1",
+    "spots": 47,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "16:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo V. C."
+    ]
+  },
+  {
+    "course_id": "PAG611",
+    "name": "PATOLOGIA GERAL F",
+    "availabilityCode": "TF2",
+    "spots": 47,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "16:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Sara S. B.",
+      "Monica A. N. D. F."
+    ]
+  },
+  {
+    "course_id": "PAG611",
+    "name": "PATOLOGIA GERAL F",
+    "availabilityCode": "TFN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "21:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Barbara A. C.",
+      "Monica A. N. D. F."
+    ]
+  },
+  {
+    "course_id": "PAG612",
+    "name": "PATOLOGIA DOS SISTEMAS",
+    "availabilityCode": "TF1",
+    "spots": 43,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo V. C."
+    ]
+  },
+  {
+    "course_id": "PAG612",
+    "name": "PATOLOGIA DOS SISTEMAS",
+    "availabilityCode": "TF2",
+    "spots": 43,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Barbara M. R. G."
+    ]
+  },
+  {
+    "course_id": "PAG612",
+    "name": "PATOLOGIA DOS SISTEMAS",
+    "availabilityCode": "TFN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Sara S. B."
+    ]
+  },
+  {
+    "course_id": "PAR026",
+    "name": "PARASITOLOGIA HUMANA F",
+    "availabilityCode": "PF1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PAR026",
+    "name": "PARASITOLOGIA HUMANA F",
+    "availabilityCode": "PF2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PAR026",
+    "name": "PARASITOLOGIA HUMANA F",
+    "availabilityCode": "PF3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PAR026",
+    "name": "PARASITOLOGIA HUMANA F",
+    "availabilityCode": "PF4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PAR026",
+    "name": "PARASITOLOGIA HUMANA F",
+    "availabilityCode": "TF",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PAR026",
+    "name": "PARASITOLOGIA HUMANA F",
+    "availabilityCode": "TF2",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PAR026",
+    "name": "PARASITOLOGIA HUMANA F",
+    "availabilityCode": "TFN1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "21:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PAR026",
+    "name": "PARASITOLOGIA HUMANA F",
+    "availabilityCode": "TFN2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "21:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PAR026",
+    "name": "PARASITOLOGIA HUMANA F",
+    "availabilityCode": "TFN3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "21:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA026",
+    "name": "QUIMICA FARMACEUTICA E MEDICINAL I",
+    "availabilityCode": "PA",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Renata B. O.",
+      "Vinicius G. M."
+    ]
+  },
+  {
+    "course_id": "PFA026",
+    "name": "QUIMICA FARMACEUTICA E MEDICINAL I",
+    "availabilityCode": "PB",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA026",
+    "name": "QUIMICA FARMACEUTICA E MEDICINAL I",
+    "availabilityCode": "PC",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA026",
+    "name": "QUIMICA FARMACEUTICA E MEDICINAL I",
+    "availabilityCode": "PD",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA026",
+    "name": "QUIMICA FARMACEUTICA E MEDICINAL I",
+    "availabilityCode": "PFNA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA026",
+    "name": "QUIMICA FARMACEUTICA E MEDICINAL I",
+    "availabilityCode": "PFNB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA026",
+    "name": "QUIMICA FARMACEUTICA E MEDICINAL I",
+    "availabilityCode": "TF",
+    "spots": 68,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA026",
+    "name": "QUIMICA FARMACEUTICA E MEDICINAL I",
+    "availabilityCode": "TFN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Vinicius G. M.",
+      "Ricardo J. A."
+    ]
+  },
+  {
+    "course_id": "PFA028",
+    "name": "FARMACOGNOSIA II",
+    "availabilityCode": "PA",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:20",
+        "end": "16:50"
+      }
+    ],
+    "teachers": [
+      "Rodrigo M. P.",
+      "Marina S."
+    ]
+  },
+  {
+    "course_id": "PFA028",
+    "name": "FARMACOGNOSIA II",
+    "availabilityCode": "PB",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Rodrigo M. P.",
+      "Marina S."
+    ]
+  },
+  {
+    "course_id": "PFA028",
+    "name": "FARMACOGNOSIA II",
+    "availabilityCode": "PC",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA028",
+    "name": "FARMACOGNOSIA II",
+    "availabilityCode": "PFNA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:10",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA028",
+    "name": "FARMACOGNOSIA II",
+    "availabilityCode": "PFNB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:10",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA028",
+    "name": "FARMACOGNOSIA II",
+    "availabilityCode": "TF1",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA028",
+    "name": "FARMACOGNOSIA II",
+    "availabilityCode": "TFN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Marina S.",
+      "Rodrigo M. P."
+    ]
+  },
+  {
+    "course_id": "PFA029",
+    "name": "ANALISES FARMACOPEICAS",
+    "availabilityCode": "PA",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Debora M. A. C.",
+      "Jose E. G.",
+      "Isabela C. C.",
+      "Christian F."
+    ]
+  },
+  {
+    "course_id": "PFA029",
+    "name": "ANALISES FARMACOPEICAS",
+    "availabilityCode": "PB",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Debora M. A. C.",
+      "Jose E. G.",
+      "Isabela C. C.",
+      "Christian F."
+    ]
+  },
+  {
+    "course_id": "PFA029",
+    "name": "ANALISES FARMACOPEICAS",
+    "availabilityCode": "PC",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:20",
+        "end": "16:50"
+      }
+    ],
+    "teachers": [
+      "Isabela C. C.",
+      "Christian F.",
+      "Jose E. G.",
+      "Debora M. A. C."
+    ]
+  },
+  {
+    "course_id": "PFA029",
+    "name": "ANALISES FARMACOPEICAS",
+    "availabilityCode": "PD",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:20",
+        "end": "16:50"
+      }
+    ],
+    "teachers": [
+      "Isabela C. C.",
+      "Christian F.",
+      "Debora M. A. C.",
+      "Jose E. G."
+    ]
+  },
+  {
+    "course_id": "PFA029",
+    "name": "ANALISES FARMACOPEICAS",
+    "availabilityCode": "PFNA",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:10",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA029",
+    "name": "ANALISES FARMACOPEICAS",
+    "availabilityCode": "PFNB",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:50",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA029",
+    "name": "ANALISES FARMACOPEICAS",
+    "availabilityCode": "PFNC",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:50",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA029",
+    "name": "ANALISES FARMACOPEICAS",
+    "availabilityCode": "TFN",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "19:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA029",
+    "name": "ANALISES FARMACOPEICAS",
+    "availabilityCode": "TTF",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:20",
+        "end": "15:10"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA031",
+    "name": "INTRODUCAO A FARMACIA HOSPITALAR",
+    "availabilityCode": "TF",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Adriano M. M. R."
+    ]
+  },
+  {
+    "course_id": "PFA031",
+    "name": "INTRODUCAO A FARMACIA HOSPITALAR",
+    "availabilityCode": "TFN",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:10",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Adriano M. M. R."
+    ]
+  },
+  {
+    "course_id": "PFA034",
+    "name": "ESTABILIDADE DE PRODUTOS FARMACEUTICOS E COSMETICOS",
+    "availabilityCode": "TF",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA034",
+    "name": "ESTABILIDADE DE PRODUTOS FARMACEUTICOS E COSMETICOS",
+    "availabilityCode": "TFN",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA036",
+    "name": "CONTROLE DE QUALIDADE DE PRODUTOS FARMACEUTICOS E COSMETICOS F",
+    "availabilityCode": "PA",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA036",
+    "name": "CONTROLE DE QUALIDADE DE PRODUTOS FARMACEUTICOS E COSMETICOS F",
+    "availabilityCode": "PB",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA036",
+    "name": "CONTROLE DE QUALIDADE DE PRODUTOS FARMACEUTICOS E COSMETICOS F",
+    "availabilityCode": "TF",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "08:20"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA049",
+    "name": "MEDICAMENTOS PROBLEMA",
+    "availabilityCode": "TFN",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:10",
+        "end": "19:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "18:10",
+        "end": "19:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA050",
+    "name": "TOPICOS EM CIENCIAS FARMACEUTICAS A - ASPECTOS FARMACOLÓGICOS- Pré- requisitos PFA132 e PFA15",
+    "availabilityCode": "TF",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "11:40"
+      },
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA051",
+    "name": "TOPICOS EM CIENCIAS FARMACEUTICAS B - A Química da Célula - Base Molecular da Vida-  Pré requisito Química orgânica II",
+    "availabilityCode": "TF",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA051",
+    "name": "TOPICOS EM CIENCIAS FARMACEUTICAS B - Vetores virais e não virais para entrega de ácidos nucleicos- Pré-requisito PFA 605",
+    "availabilityCode": "TF1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "17:20",
+        "end": "19:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA051",
+    "name": "TOPICOS EM CIENCIAS FARMACEUTICAS B - Biotecnologia Farmacêutica - Medicamentos Biológicos -PRÉ-REQUISITO: BIQ602",
+    "availabilityCode": "TF2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA051",
+    "name": "TOPICOS EM CIENCIAS FARMACEUTICAS B - Biotecnologia Farmacêutica ¿ Medicamentos Biológicos I pré-requisito: BIQ602",
+    "availabilityCode": "TF3",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:10",
+        "end": "19:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA051",
+    "name": "TOPICOS EM CIENCIAS FARMACEUTICAS B - Farmacoterapia nos cuidados paliativos - Pré- requisito: Farmacoterapia 1",
+    "availabilityCode": "TF4",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA052",
+    "name": "TOPICOS EM CIENCIAS FARMACEUTICAS C - Biotecnologia Farmacêutica ¿ Medicamentos Biológicos II - Pré Requsito:  PFA051 Biotecnologia Farmacêutica Medic Bio I ou PFA052 : Medic Bio II",
+    "availabilityCode": "TF",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA066",
+    "name": "FARMÁCIA HOMEOPÁTICA",
+    "availabilityCode": "PF",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA066",
+    "name": "FARMÁCIA HOMEOPÁTICA",
+    "availabilityCode": "TF",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA084",
+    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA HOSPITALAR II - -",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA084",
+    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA HOSPITALAR II - -",
+    "availabilityCode": "PF1",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA084",
+    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA HOSPITALAR II - -",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA084",
+    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA HOSPITALAR II - -",
+    "availabilityCode": "TF1",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA086",
+    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA II - -",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA086",
+    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA II - -",
+    "availabilityCode": "PF1",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA086",
+    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA II - Turma de Farmácia Homeopática",
+    "availabilityCode": "PTHOM",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA086",
+    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA II - -",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA086",
+    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA II - -",
+    "availabilityCode": "TF1",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA086",
+    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA II - Turma de Farmácia Homeopática",
+    "availabilityCode": "TTHOM",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA135",
+    "name": "FARMACOTERAPIA DAS NEOPLASIAS",
+    "availabilityCode": "TF",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Adriano M. M. R."
+    ]
+  },
+  {
+    "course_id": "PFA136",
+    "name": "CONTROLE DAS INFECÇÕES RELACIONADAS À ASSISTÊNCIA À SAÚDE",
+    "availabilityCode": "TF",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA150",
+    "name": "FARMACOCINÉTICA",
+    "availabilityCode": "TF",
+    "spots": 77,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:20",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Jose E. G."
+    ]
+  },
+  {
+    "course_id": "PFA150",
+    "name": "FARMACOCINÉTICA",
+    "availabilityCode": "TFN",
+    "spots": 77,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Jose E. G."
+    ]
+  },
+  {
+    "course_id": "PFA153",
+    "name": "FUNDAMENTOS DE CIÊNCIAS FARMACÊUTICAS",
+    "availabilityCode": "TF",
+    "spots": 78,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA153",
+    "name": "FUNDAMENTOS DE CIÊNCIAS FARMACÊUTICAS",
+    "availabilityCode": "TFN",
+    "spots": 62,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA154",
+    "name": "FARMACOTERAPIA I",
+    "availabilityCode": "TF",
+    "spots": 76,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "16:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "16:20",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA154",
+    "name": "FARMACOTERAPIA I",
+    "availabilityCode": "TFN",
+    "spots": 44,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:50",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Mariana M. G. N.",
+      "Renes R. M.",
+      "Caryne M. B.",
+      "Marcio M. C."
+    ]
+  },
+  {
+    "course_id": "PFA155",
+    "name": "FARMACOTERAPIA II",
+    "availabilityCode": "TF",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA155",
+    "name": "FARMACOTERAPIA II",
+    "availabilityCode": "TFN",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA157",
+    "name": "CONTROLE DAS INFECÇÕES RELACIONADAS À ASSISTÊNCIA À SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA158",
+    "name": "CLÍNICA FARMACÊUTICA II",
+    "availabilityCode": "PFA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "17:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA158",
+    "name": "CLÍNICA FARMACÊUTICA II",
+    "availabilityCode": "PFB",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "17:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA158",
+    "name": "CLÍNICA FARMACÊUTICA II",
+    "availabilityCode": "PFC",
+    "spots": 26,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "17:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA158",
+    "name": "CLÍNICA FARMACÊUTICA II",
+    "availabilityCode": "PFNA",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "21:45",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA158",
+    "name": "CLÍNICA FARMACÊUTICA II",
+    "availabilityCode": "PFNB",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "21:45",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA158",
+    "name": "CLÍNICA FARMACÊUTICA II",
+    "availabilityCode": "TF",
+    "spots": 76,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:20",
+        "end": "17:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA158",
+    "name": "CLÍNICA FARMACÊUTICA II",
+    "availabilityCode": "TFN",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "21:45"
+      }
+    ],
+    "teachers": [
+      "Maria A. P. M.",
+      "Adriano M. M. R.",
+      "Mariana M. G. N."
+    ]
+  },
+  {
+    "course_id": "PFA161",
+    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA HOSPITALAR II",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Maria A. P. M.",
+      "Caryne M. B.",
+      "Adriano M. M. R.",
+      "Mariana M. G. N."
+    ]
+  },
+  {
+    "course_id": "PFA161",
+    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA HOSPITALAR II",
+    "availabilityCode": "PF1",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Caryne M. B.",
+      "Adriano M. M. R.",
+      "Mariana M. G. N.",
+      "Maria A. P. M."
+    ]
+  },
+  {
+    "course_id": "PFA161",
+    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA HOSPITALAR II",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Maria A. P. M."
+    ]
+  },
+  {
+    "course_id": "PFA161",
+    "name": "ESTÁGIO OPTATIVO EM FARMÁCIA HOSPITALAR II",
+    "availabilityCode": "TF1",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Maria A. P. M."
+    ]
+  },
+  {
+    "course_id": "PFA162",
+    "name": "ESTÁGIO OPTATIVO EM HOMEOPATIA ATÉ 120 HORAS",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA163",
+    "name": "ESTÁGIO OPTATIVO EM HOMEOPATIA SUPERIOR A 120 HORAS",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Rachel O. C."
+    ]
+  },
+  {
+    "course_id": "PFA163",
+    "name": "ESTÁGIO OPTATIVO EM HOMEOPATIA SUPERIOR A 120 HORAS",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Rachel O. C."
+    ]
+  },
+  {
+    "course_id": "PFA165",
+    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA II",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Renata B. O.",
+      "Andre A. G. F.",
+      "Christian F.",
+      "Marina S.",
+      "Jose E. G.",
+      "Lucas A. M. F."
+    ]
+  },
+  {
+    "course_id": "PFA165",
+    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA II",
+    "availabilityCode": "PF1",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Marina S.",
+      "Jose E. G.",
+      "Andre A. G. F.",
+      "Christian F.",
+      "Marta M. G. A."
+    ]
+  },
+  {
+    "course_id": "PFA165",
+    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA II",
+    "availabilityCode": "PF2",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA165",
+    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA II",
+    "availabilityCode": "PF3",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA165",
+    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA II",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Marta M. G. A.",
+      "Marina S."
+    ]
+  },
+  {
+    "course_id": "PFA165",
+    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA II",
+    "availabilityCode": "TF1",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Marina S.",
+      "Lucas A. M. F.",
+      "Renata B. O."
+    ]
+  },
+  {
+    "course_id": "PFA165",
+    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA II",
+    "availabilityCode": "TF2",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA165",
+    "name": "ESTÁGIO OPTATIVO EM INDÚSTRIA II",
+    "availabilityCode": "TF3",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA169",
+    "name": "MEDICAMENTOS BIOLÓGICOS I",
+    "availabilityCode": "TF",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Debora M. A. C.",
+      "Eduardo B. L."
+    ]
+  },
+  {
+    "course_id": "PFA169",
+    "name": "MEDICAMENTOS BIOLÓGICOS I",
+    "availabilityCode": "TFN",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:10",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Debora M. A. C.",
+      "Eduardo B. L."
+    ]
+  },
+  {
+    "course_id": "PFA170",
+    "name": "MEDICAMENTOS BIOLÓGICOS II",
+    "availabilityCode": "TF",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Debora M. A. C.",
+      "Eduardo B. L."
+    ]
+  },
+  {
+    "course_id": "PFA172",
+    "name": "MOLÉCULAS QUE MUDARAM A HISTÓRIA",
+    "availabilityCode": "TF",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:30",
+        "end": "16:20"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA173",
+    "name": "PROCESSO DE UTILIZAÇÃO DE MEDICAMENTOS",
+    "availabilityCode": "TF",
+    "spots": 78,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "13:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA173",
+    "name": "PROCESSO DE UTILIZAÇÃO DE MEDICAMENTOS",
+    "availabilityCode": "TFN",
+    "spots": 77,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:50",
+        "end": "19:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA174",
+    "name": "SEMIOLOGIA FARMACÊUTICA E HABILIDADE CLÍNÍCAS II",
+    "availabilityCode": "PA",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Caryne M. B.",
+      "Mariana M. G. N."
+    ]
+  },
+  {
+    "course_id": "PFA174",
+    "name": "SEMIOLOGIA FARMACÊUTICA E HABILIDADE CLÍNÍCAS II",
+    "availabilityCode": "PB",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Caryne M. B.",
+      "Mariana M. G. N."
+    ]
+  },
+  {
+    "course_id": "PFA174",
+    "name": "SEMIOLOGIA FARMACÊUTICA E HABILIDADE CLÍNÍCAS II",
+    "availabilityCode": "PC",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA174",
+    "name": "SEMIOLOGIA FARMACÊUTICA E HABILIDADE CLÍNÍCAS II",
+    "availabilityCode": "PNA",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:10",
+        "end": "19:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA174",
+    "name": "SEMIOLOGIA FARMACÊUTICA E HABILIDADE CLÍNÍCAS II",
+    "availabilityCode": "PNB",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:10",
+        "end": "19:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA175",
+    "name": "BASES QUÍMICAS E MOLECULARES DE PRODUTOS NATURAIS BIOATIVOS E FITOTERÁPICOS",
+    "availabilityCode": "TF",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Priscilla R. V. C.",
+      "Fernao C. B.",
+      "Rodrigo M. P."
+    ]
+  },
+  {
+    "course_id": "PFA175",
+    "name": "BASES QUÍMICAS E MOLECULARES DE PRODUTOS NATURAIS BIOATIVOS E FITOTERÁPICOS",
+    "availabilityCode": "TFN",
+    "spots": 44,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Rodrigo M. P.",
+      "Priscilla R. V. C.",
+      "Fernao C. B."
+    ]
+  },
+  {
+    "course_id": "PFA176",
+    "name": "ASSUNTOS REGULATÓRIOS",
+    "availabilityCode": "TF",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:20",
+        "end": "15:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA177",
+    "name": "FARMACOTÉCNICA I",
+    "availabilityCode": "PA",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA177",
+    "name": "FARMACOTÉCNICA I",
+    "availabilityCode": "PB",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA177",
+    "name": "FARMACOTÉCNICA I",
+    "availabilityCode": "PC",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA177",
+    "name": "FARMACOTÉCNICA I",
+    "availabilityCode": "PD",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA177",
+    "name": "FARMACOTÉCNICA I",
+    "availabilityCode": "TF",
+    "spots": 68,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA180",
+    "name": "HOMEOPATIA",
+    "availabilityCode": "PF",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA180",
+    "name": "HOMEOPATIA",
+    "availabilityCode": "TF",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA601",
+    "name": "FITOQUIMICA",
+    "availabilityCode": "PA",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:20",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Fernao C. B."
+    ]
+  },
+  {
+    "course_id": "PFA601",
+    "name": "FITOQUIMICA",
+    "availabilityCode": "PB",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:20",
+        "end": "17:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA601",
+    "name": "FITOQUIMICA",
+    "availabilityCode": "TF",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:10",
+        "end": "18:50"
+      }
+    ],
+    "teachers": [
+      "Fernao C. B."
+    ]
+  },
+  {
+    "course_id": "PFA603",
+    "name": "FARMACOGNOSIA I",
+    "availabilityCode": "PA",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Rachel O. C.",
+      "Priscilla R. V. C."
+    ]
+  },
+  {
+    "course_id": "PFA603",
+    "name": "FARMACOGNOSIA I",
+    "availabilityCode": "PB",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA603",
+    "name": "FARMACOGNOSIA I",
+    "availabilityCode": "PC",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Rachel O. C.",
+      "Priscilla R. V. C."
+    ]
+  },
+  {
+    "course_id": "PFA603",
+    "name": "FARMACOGNOSIA I",
+    "availabilityCode": "PD",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA603",
+    "name": "FARMACOGNOSIA I",
+    "availabilityCode": "PNA",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:10",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA603",
+    "name": "FARMACOGNOSIA I",
+    "availabilityCode": "PNB",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "21:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA603",
+    "name": "FARMACOGNOSIA I",
+    "availabilityCode": "TF",
+    "spots": 69,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA603",
+    "name": "FARMACOGNOSIA I",
+    "availabilityCode": "TFN",
+    "spots": 44,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA605",
+    "name": "FARMACOTECNICA I",
+    "availabilityCode": "PNA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA605",
+    "name": "FARMACOTECNICA I",
+    "availabilityCode": "PNB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA605",
+    "name": "FARMACOTECNICA I",
+    "availabilityCode": "TFN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:10",
+        "end": "19:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:10",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Marta M. G. A.",
+      "Diego S. F.",
+      "Eduardo B. L."
+    ]
+  },
+  {
+    "course_id": "PFA608",
+    "name": "FARMACOTECNICA II",
+    "availabilityCode": "PA",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "16:20"
+      }
+    ],
+    "teachers": [
+      "Elaine A. L.",
+      "Armando S. C. J.",
+      "Lucas A. M. F.",
+      "Gisele A. C. G."
+    ]
+  },
+  {
+    "course_id": "PFA608",
+    "name": "FARMACOTECNICA II",
+    "availabilityCode": "PB",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "16:20"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA608",
+    "name": "FARMACOTECNICA II",
+    "availabilityCode": "PC",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Armando S. C. J.",
+      "Lucas A. M. F.",
+      "Gisele A. C. G.",
+      "Elaine A. L."
+    ]
+  },
+  {
+    "course_id": "PFA608",
+    "name": "FARMACOTECNICA II",
+    "availabilityCode": "PD",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Armando S. C. J.",
+      "Lucas A. M. F.",
+      "Gisele A. C. G.",
+      "Elaine A. L."
+    ]
+  },
+  {
+    "course_id": "PFA608",
+    "name": "FARMACOTECNICA II",
+    "availabilityCode": "PNA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:50",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA608",
+    "name": "FARMACOTECNICA II",
+    "availabilityCode": "PNB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:10",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA608",
+    "name": "FARMACOTECNICA II",
+    "availabilityCode": "TF",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:20",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Elaine A. L.",
+      "Armando S. C. J.",
+      "Lucas A. M. F."
+    ]
+  },
+  {
+    "course_id": "PFA608",
+    "name": "FARMACOTECNICA II",
+    "availabilityCode": "TFN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "19:50"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Armando S. C. J.",
+      "Lucas A. M. F.",
+      "Caroline D. S.",
+      "Elaine A. L."
+    ]
+  },
+  {
+    "course_id": "PFA613",
+    "name": "TECNOLOGIA FARMACEUTICA I",
+    "availabilityCode": "PF1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA613",
+    "name": "TECNOLOGIA FARMACEUTICA I",
+    "availabilityCode": "PF2",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:20",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PFA613",
+    "name": "TECNOLOGIA FARMACEUTICA I",
+    "availabilityCode": "TF",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Andre A. G. F."
+    ]
+  },
+  {
+    "course_id": "QUI203",
+    "name": "QUIMICA GERAL F",
+    "availabilityCode": "TE",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI203",
+    "name": "QUIMICA GERAL F",
+    "availabilityCode": "TF",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI203",
+    "name": "QUIMICA GERAL F",
+    "availabilityCode": "TM1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI203",
+    "name": "QUIMICA GERAL F",
+    "availabilityCode": "TM2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI204",
+    "name": "QUIMICA GERAL EXPERIMENTAL F",
+    "availabilityCode": "PS7A",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI204",
+    "name": "QUIMICA GERAL EXPERIMENTAL F",
+    "availabilityCode": "PS7B",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI204",
+    "name": "QUIMICA GERAL EXPERIMENTAL F",
+    "availabilityCode": "PU2A",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI204",
+    "name": "QUIMICA GERAL EXPERIMENTAL F",
+    "availabilityCode": "PU2B",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI204",
+    "name": "QUIMICA GERAL EXPERIMENTAL F",
+    "availabilityCode": "PU2C",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI204",
+    "name": "QUIMICA GERAL EXPERIMENTAL F",
+    "availabilityCode": "PU7A",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI204",
+    "name": "QUIMICA GERAL EXPERIMENTAL F",
+    "availabilityCode": "PU7B",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI204",
+    "name": "QUIMICA GERAL EXPERIMENTAL F",
+    "availabilityCode": "PU7C",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI204",
+    "name": "QUIMICA GERAL EXPERIMENTAL F",
+    "availabilityCode": "PU7D",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI204",
+    "name": "QUIMICA GERAL EXPERIMENTAL F",
+    "availabilityCode": "PX3A",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI204",
+    "name": "QUIMICA GERAL EXPERIMENTAL F",
+    "availabilityCode": "PX3B",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI204",
+    "name": "QUIMICA GERAL EXPERIMENTAL F",
+    "availabilityCode": "PX3C",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI207",
+    "name": "QUIMICA ORGANICA I F",
+    "availabilityCode": "TE",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:10",
+        "end": "19:50"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI207",
+    "name": "QUIMICA ORGANICA I F",
+    "availabilityCode": "TF",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI207",
+    "name": "QUIMICA ORGANICA I F",
+    "availabilityCode": "TF1",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI207",
+    "name": "QUIMICA ORGANICA I F",
+    "availabilityCode": "TO",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI207",
+    "name": "QUIMICA ORGANICA I F",
+    "availabilityCode": "TP",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI208",
+    "name": "QUIMICA ANALITICA F",
+    "availabilityCode": "PT5",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:50",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI208",
+    "name": "QUIMICA ANALITICA F",
+    "availabilityCode": "PT6",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:50",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI208",
+    "name": "QUIMICA ANALITICA F",
+    "availabilityCode": "TF",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI210",
+    "name": "QUIMICA ORGANICA EXPERIMENTAL F",
+    "availabilityCode": "PS1",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:20",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI210",
+    "name": "QUIMICA ORGANICA EXPERIMENTAL F",
+    "availabilityCode": "PS2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:20",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI210",
+    "name": "QUIMICA ORGANICA EXPERIMENTAL F",
+    "availabilityCode": "PS3",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:20",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI210",
+    "name": "QUIMICA ORGANICA EXPERIMENTAL F",
+    "availabilityCode": "PS4",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:20",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI210",
+    "name": "QUIMICA ORGANICA EXPERIMENTAL F",
+    "availabilityCode": "PT5",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI210",
+    "name": "QUIMICA ORGANICA EXPERIMENTAL F",
+    "availabilityCode": "PT6",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI210",
+    "name": "QUIMICA ORGANICA EXPERIMENTAL F",
+    "availabilityCode": "PT7",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI210",
+    "name": "QUIMICA ORGANICA EXPERIMENTAL F",
+    "availabilityCode": "PT8",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI210",
+    "name": "QUIMICA ORGANICA EXPERIMENTAL F",
+    "availabilityCode": "PU1",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI210",
+    "name": "QUIMICA ORGANICA EXPERIMENTAL F",
+    "availabilityCode": "PU2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI210",
+    "name": "QUIMICA ORGANICA EXPERIMENTAL F",
+    "availabilityCode": "PU3",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI210",
+    "name": "QUIMICA ORGANICA EXPERIMENTAL F",
+    "availabilityCode": "PU4",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI291",
+    "name": "QUÍMICA INORGÂNICA F",
+    "availabilityCode": "TB1",
+    "spots": 90,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI291",
+    "name": "QUÍMICA INORGÂNICA F",
+    "availabilityCode": "TB2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI291",
+    "name": "QUÍMICA INORGÂNICA F",
+    "availabilityCode": "TE1",
+    "spots": 90,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI291",
+    "name": "QUÍMICA INORGÂNICA F",
+    "availabilityCode": "TE2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI292",
+    "name": "QUÍMICA INORGÂNICA EXPERIMENTAL F",
+    "availabilityCode": "PS7A",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI292",
+    "name": "QUÍMICA INORGÂNICA EXPERIMENTAL F",
+    "availabilityCode": "PS7B",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI292",
+    "name": "QUÍMICA INORGÂNICA EXPERIMENTAL F",
+    "availabilityCode": "PS7C",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI292",
+    "name": "QUÍMICA INORGÂNICA EXPERIMENTAL F",
+    "availabilityCode": "PS7D",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI292",
+    "name": "QUÍMICA INORGÂNICA EXPERIMENTAL F",
+    "availabilityCode": "PU2A",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI292",
+    "name": "QUÍMICA INORGÂNICA EXPERIMENTAL F",
+    "availabilityCode": "PU2B",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI292",
+    "name": "QUÍMICA INORGÂNICA EXPERIMENTAL F",
+    "availabilityCode": "PU2C",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI292",
+    "name": "QUÍMICA INORGÂNICA EXPERIMENTAL F",
+    "availabilityCode": "PU2D",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI292",
+    "name": "QUÍMICA INORGÂNICA EXPERIMENTAL F",
+    "availabilityCode": "PX2A",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI292",
+    "name": "QUÍMICA INORGÂNICA EXPERIMENTAL F",
+    "availabilityCode": "PX2B",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI292",
+    "name": "QUÍMICA INORGÂNICA EXPERIMENTAL F",
+    "availabilityCode": "PX2C",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI292",
+    "name": "QUÍMICA INORGÂNICA EXPERIMENTAL F",
+    "availabilityCode": "PX2D",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI294",
+    "name": "QUÍMICA ORGÂNICA II F",
+    "availabilityCode": "TE",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI294",
+    "name": "QUÍMICA ORGÂNICA II F",
+    "availabilityCode": "TE1",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI294",
+    "name": "QUÍMICA ORGÂNICA II F",
+    "availabilityCode": "TE2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI294",
+    "name": "QUÍMICA ORGÂNICA II F",
+    "availabilityCode": "TO",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI294",
+    "name": "QUÍMICA ORGÂNICA II F",
+    "availabilityCode": "TP",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI295",
+    "name": "QUÍMICA ANALÍTICA INSTRUMENTAL F",
+    "availabilityCode": "PR3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:10",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI295",
+    "name": "QUÍMICA ANALÍTICA INSTRUMENTAL F",
+    "availabilityCode": "PS1A",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI295",
+    "name": "QUÍMICA ANALÍTICA INSTRUMENTAL F",
+    "availabilityCode": "PS1B",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI295",
+    "name": "QUÍMICA ANALÍTICA INSTRUMENTAL F",
+    "availabilityCode": "PS2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI295",
+    "name": "QUÍMICA ANALÍTICA INSTRUMENTAL F",
+    "availabilityCode": "PU1A",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI295",
+    "name": "QUÍMICA ANALÍTICA INSTRUMENTAL F",
+    "availabilityCode": "PU1B",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI295",
+    "name": "QUÍMICA ANALÍTICA INSTRUMENTAL F",
+    "availabilityCode": "PU2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI295",
+    "name": "QUÍMICA ANALÍTICA INSTRUMENTAL F",
+    "availabilityCode": "PU3A",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "21:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI295",
+    "name": "QUÍMICA ANALÍTICA INSTRUMENTAL F",
+    "availabilityCode": "PU3B",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "21:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI295",
+    "name": "QUÍMICA ANALÍTICA INSTRUMENTAL F",
+    "availabilityCode": "PZ1",
+    "spots": 10,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI295",
+    "name": "QUÍMICA ANALÍTICA INSTRUMENTAL F",
+    "availabilityCode": "PZ2",
+    "spots": 10,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI295",
+    "name": "QUÍMICA ANALÍTICA INSTRUMENTAL F",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI295",
+    "name": "QUÍMICA ANALÍTICA INSTRUMENTAL F",
+    "availabilityCode": "TO",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI295",
+    "name": "QUÍMICA ANALÍTICA INSTRUMENTAL F",
+    "availabilityCode": "TP",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI297",
+    "name": "QUÍMICA ANALÍTICA EXPERIMENTAL F",
+    "availabilityCode": "PS1",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:20",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI297",
+    "name": "QUÍMICA ANALÍTICA EXPERIMENTAL F",
+    "availabilityCode": "PS2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:20",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI297",
+    "name": "QUÍMICA ANALÍTICA EXPERIMENTAL F",
+    "availabilityCode": "PS3",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:20",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI297",
+    "name": "QUÍMICA ANALÍTICA EXPERIMENTAL F",
+    "availabilityCode": "PT6",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI297",
+    "name": "QUÍMICA ANALÍTICA EXPERIMENTAL F",
+    "availabilityCode": "PT7",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI297",
+    "name": "QUÍMICA ANALÍTICA EXPERIMENTAL F",
+    "availabilityCode": "PU1",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI297",
+    "name": "QUÍMICA ANALÍTICA EXPERIMENTAL F",
+    "availabilityCode": "PU2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI297",
+    "name": "QUÍMICA ANALÍTICA EXPERIMENTAL F",
+    "availabilityCode": "PU3",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI297",
+    "name": "QUÍMICA ANALÍTICA EXPERIMENTAL F",
+    "availabilityCode": "PX6",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI297",
+    "name": "QUÍMICA ANALÍTICA EXPERIMENTAL F",
+    "availabilityCode": "PX7",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI297",
+    "name": "QUÍMICA ANALÍTICA EXPERIMENTAL F",
+    "availabilityCode": "PX8",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI298",
+    "name": "QUÍMICA ANALÍTICA F",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI298",
+    "name": "QUÍMICA ANALÍTICA F",
+    "availabilityCode": "TO",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI298",
+    "name": "QUÍMICA ANALÍTICA F",
+    "availabilityCode": "TP",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI299",
+    "name": "ELEMENTOS DE FÍSICO- QUÍMICA F",
+    "availabilityCode": "TA1",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI299",
+    "name": "ELEMENTOS DE FÍSICO- QUÍMICA F",
+    "availabilityCode": "TA2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI299",
+    "name": "ELEMENTOS DE FÍSICO- QUÍMICA F",
+    "availabilityCode": "TE",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "UNI215",
+    "name": "TÓPICOS EM COMUNICAÇÃO PÚBLICA DA CIÊNCIA C - Ciência de Alimentos e a interface com a Sociedade",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Veronica O. A.",
+      "Flavia B. C.",
+      "Maria A. V. T. G."
+    ]
+  },
+  {
+    "course_id": "UNI215",
+    "name": "TÓPICOS EM COMUNICAÇÃO PÚBLICA DA CIÊNCIA C - Extensão Universitária e a interface com a Divulgação Científica",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "21:45"
+      }
+    ],
+    "teachers": [
+      "Camilla A. S. O. L.",
+      "Viviane E. G.",
+      "Joao H. L. A."
+    ]
+  },
+  {
+    "course_id": "UNI310",
+    "name": "SUSTENTABILIDADE E ALIMENTOS",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Ana P. C. S."
+    ]
+  }
+]

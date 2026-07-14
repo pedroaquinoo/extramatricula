@@ -1,0 +1,346 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "DCC208",
+      "name": "Introdução À Programação de Computadores",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "POP021",
+      "name": "Introdução Às Ciências Atuariais",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCC034",
+      "name": "Calculo Numerico",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EST078",
+      "name": "Iniciacao a Estatistica",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT042",
+      "name": "Cálculo de Várias Variáveis",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "POP006",
+      "name": "Conceitos Basicos em Demografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECN061",
+      "name": "Microeconomia A-i",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EST034",
+      "name": "Estatistica Geral",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EST186",
+      "name": "Probabilidade I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "POP022",
+      "name": "Tabelas de Sobrevivência",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CIC010",
+      "name": "Introdução À Contabilidade",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EST028",
+      "name": "Probabilidade II",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EST047",
+      "name": "Técnicas Atuariais I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "POP008",
+      "name": "Dinamica Demografica e Politicas Sociais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CIC029",
+      "name": "Contabilidade de Seguros",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EST035",
+      "name": "Análise de Regressão",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EST049",
+      "name": "Técnicas Atuariais II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EST187",
+      "name": "Inferência",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EST038",
+      "name": "Métodos Estatísticos de Previsão",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EST039",
+      "name": "Processos Estocásticos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EST051",
+      "name": "Praticas Atuariais em Seguros e Pensoes",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EST079",
+      "name": "Modelos Lineares Generalizados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "POP009",
+      "name": "Forca de Trabalho, Emprego e Pea",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EST050",
+      "name": "Teoria do Risco",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EST052",
+      "name": "Tarifacao de Seguros",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "POP023",
+      "name": "Projeções Atuariais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "POP024",
+      "name": "Metodologia de Pesquisa",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "POP025",
+      "name": "Seminários em Ciências Atuariais",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "INU022",
+      "name": "Monografia",
+      "description": null,
+      "credits": 14,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "MAT042",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "EST034",
+      "prerequisite_code": "EST078"
+    },
+    {
+      "code": "EST186",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "POP022",
+      "prerequisite_code": "POP006"
+    },
+    {
+      "code": "EST028",
+      "prerequisite_code": "EST186"
+    },
+    {
+      "code": "EST047",
+      "prerequisite_code": "POP022"
+    },
+    {
+      "code": "EST047",
+      "prerequisite_code": "EST186"
+    },
+    {
+      "code": "POP008",
+      "prerequisite_code": "POP006"
+    },
+    {
+      "code": "CIC029",
+      "prerequisite_code": "CIC010"
+    },
+    {
+      "code": "EST035",
+      "prerequisite_code": "EST034"
+    },
+    {
+      "code": "EST035",
+      "prerequisite_code": "MAT038"
+    },
+    {
+      "code": "EST049",
+      "prerequisite_code": "EST047"
+    },
+    {
+      "code": "EST187",
+      "prerequisite_code": "EST034"
+    },
+    {
+      "code": "EST187",
+      "prerequisite_code": "EST028"
+    },
+    {
+      "code": "EST038",
+      "prerequisite_code": "EST187"
+    },
+    {
+      "code": "EST039",
+      "prerequisite_code": "EST028"
+    },
+    {
+      "code": "EST051",
+      "prerequisite_code": "EST049"
+    },
+    {
+      "code": "EST079",
+      "prerequisite_code": "EST187"
+    },
+    {
+      "code": "EST050",
+      "prerequisite_code": "EST039"
+    },
+    {
+      "code": "EST052",
+      "prerequisite_code": "EST079"
+    },
+    {
+      "code": "POP023",
+      "prerequisite_code": "POP008"
+    },
+    {
+      "code": "POP025",
+      "prerequisite_code": "EST049"
+    },
+    {
+      "code": "INU022",
+      "prerequisite_code": "POP024"
+    }
+  ]
+}

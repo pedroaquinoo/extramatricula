@@ -190,7 +190,9 @@ export function getCourseGroups(): CourseGroup[] {
     }
     groups.set(offerId, { offerId, name: course.name, shifts: [shift] })
   }
-  return [...groups.values()]
+  return [...groups.values()].sort((a, b) =>
+    a.name.localeCompare(b.name, "pt-BR", { sensitivity: "base" }),
+  )
 }
 
 export function getProgramVariants(offerId: string): ProgramVariant[] {

@@ -1,0 +1,5741 @@
+[
+  {
+    "course_id": "ACR023",
+    "name": "PATRIMONIO CULTURAL",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "10:20",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Leonardo B. C."
+    ]
+  },
+  {
+    "course_id": "ACR023",
+    "name": "PATRIMONIO CULTURAL",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "20:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Leonardo B. C."
+    ]
+  },
+  {
+    "course_id": "ACR023",
+    "name": "PATRIMONIO CULTURAL",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:30",
+        "end": "18:00"
+      },
+      {
+        "day": "Terca",
+        "start": "15:30",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Mateus R."
+    ]
+  },
+  {
+    "course_id": "ACR023",
+    "name": "PATRIMONIO CULTURAL",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Maira R. N."
+    ]
+  },
+  {
+    "course_id": "ACR609",
+    "name": "INTRODUÇÃO À ANÁLISE CRÍTICA DA ARQUITETURA E DO URBANISMO",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Renata M. M."
+    ]
+  },
+  {
+    "course_id": "ACR609",
+    "name": "INTRODUÇÃO À ANÁLISE CRÍTICA DA ARQUITETURA E DO URBANISMO",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "20:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "20:10"
+      }
+    ],
+    "teachers": [
+      "Daniele N. C. S."
+    ]
+  },
+  {
+    "course_id": "ACR611",
+    "name": "ESTÉTICA",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Gabriela P. M."
+    ]
+  },
+  {
+    "course_id": "ACR611",
+    "name": "ESTÉTICA",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Gabriela P. M."
+    ]
+  },
+  {
+    "course_id": "ACR611",
+    "name": "ESTÉTICA",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:20",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Gabriela P. M."
+    ]
+  },
+  {
+    "course_id": "ACR611",
+    "name": "ESTÉTICA",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Marina V. V."
+    ]
+  },
+  {
+    "course_id": "ACR613",
+    "name": "TEORIA URBANA",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "10:20",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Marina V. V."
+    ]
+  },
+  {
+    "course_id": "ACR613",
+    "name": "TEORIA URBANA",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Maira R. N."
+    ]
+  },
+  {
+    "course_id": "ACR613",
+    "name": "TEORIA URBANA",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "20:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Marina V. V."
+    ]
+  },
+  {
+    "course_id": "ACR615",
+    "name": "ARQUITETURA BRASILEIRA",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "10:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Andre G. D. D."
+    ]
+  },
+  {
+    "course_id": "ACR617",
+    "name": "TEORIA DA ARQUITETURA",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Daniele N. C. S."
+    ]
+  },
+  {
+    "course_id": "ACR618",
+    "name": "TÓPICOS EM TEORIA DA ARQUITETURA - Patrimônio em cena: os cinemas de rua entre memória e imagem- ALUNOS DEVEM SE MATRICULAR NA ACR618-B e a ACR618-C SERÁ INSERIDA MANUALMENTE",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Maira R. N."
+    ]
+  },
+  {
+    "course_id": "ACR618",
+    "name": "TÓPICOS EM TEORIA DA ARQUITETURA - Patrimônio em cena: os cinemas de rua entre memória e imagem- ALUNOS DEVEM SE MATRICULAR NA ACR618-B e a ACR618-C SERÁ INSERIDA MANUALMENTE",
+    "availabilityCode": "TC",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Maira R. N."
+    ]
+  },
+  {
+    "course_id": "ACR618",
+    "name": "TÓPICOS EM TEORIA DA ARQUITETURA - Historiografia da arquitetura orgânica do século XX à atualidade",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Daniele N. C. S."
+    ]
+  },
+  {
+    "course_id": "ACR618",
+    "name": "TÓPICOS EM TEORIA DA ARQUITETURA - Arquiteturas populares e paisagens mineiras",
+    "availabilityCode": "TE",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Iara L. N. C."
+    ]
+  },
+  {
+    "course_id": "ACR618",
+    "name": "TÓPICOS EM TEORIA DA ARQUITETURA - Cidades, arquiteturas e paisagens nas artes",
+    "availabilityCode": "TF",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Iara L. N. C."
+    ]
+  },
+  {
+    "course_id": "ACR618",
+    "name": "TÓPICOS EM TEORIA DA ARQUITETURA - Patrimônio Industrial II- Grandes Projetos Urbanos no centro de Belo Horizonte-ALUNOS DEVEM SE MATRICULAR NA ACR618-G e a ACR618-H SERÁ INSERIDA MANUAL",
+    "availabilityCode": "TG",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Mateus R."
+    ]
+  },
+  {
+    "course_id": "ACR618",
+    "name": "TÓPICOS EM TEORIA DA ARQUITETURA - Patrimônio Industrial II- Grandes Projetos Urbanos no centro de Belo Horizonte-ALUNOS DEVEM SE MATRICULAR NA ACR618-G e a ACR618-H SERÁ INSERIDA MANUAL",
+    "availabilityCode": "TH",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Mateus R."
+    ]
+  },
+  {
+    "course_id": "ACR620",
+    "name": "TÓPICOS EXTENSIONISTAS EM TEORIA DA ARQUITETURA - 60 anos do Museu da Escola de Arquitetura - MARQ.",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Mateus R."
+    ]
+  },
+  {
+    "course_id": "ACR625",
+    "name": "TÓPICOS EM ANÁLISE CRÍTICA DA ARQUITETURA, CIDADE E CULTURA - Reflexões contemporâneas sobre arquitetura e urbanismo",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Celina B. L."
+    ]
+  },
+  {
+    "course_id": "ACR625",
+    "name": "TÓPICOS EM ANÁLISE CRÍTICA DA ARQUITETURA, CIDADE E CULTURA - Reflexões contemporâneas sobre arquitetura e urbanismo",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Marina V. V."
+    ]
+  },
+  {
+    "course_id": "ACR625",
+    "name": "TÓPICOS EM ANÁLISE CRÍTICA DA ARQUITETURA, CIDADE E CULTURA - História e Análise Crítica da Arte, da Arquitetura e da Cidade. (INDICADA PARA ESTUDANTES APÓS O 6º PERÍODO)",
+    "availabilityCode": "TC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Celina B. L."
+    ]
+  },
+  {
+    "course_id": "ACR625",
+    "name": "TÓPICOS EM ANÁLISE CRÍTICA DA ARQUITETURA, CIDADE E CULTURA - Arte, Arquitetura e Património de Moçambique.",
+    "availabilityCode": "TD",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Vanessa B. B."
+    ]
+  },
+  {
+    "course_id": "ACR625",
+    "name": "TÓPICOS EM ANÁLISE CRÍTICA DA ARQUITETURA, CIDADE E CULTURA - Urbanização, práticas espaciais e cultura (MATRÍCULA A POSTERIORI) Ocorreu em 2026/1",
+    "availabilityCode": "TE",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Marina V. V."
+    ]
+  },
+  {
+    "course_id": "ACR625",
+    "name": "TÓPICOS EM ANÁLISE CRÍTICA DA ARQUITETURA, CIDADE E CULTURA - Debates contemporâneos: Arquitetura e realidade (MATRÍCULA A POSTERIORI) Ocorreu em 2026/1",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Marina V. V."
+    ]
+  },
+  {
+    "course_id": "ACR626",
+    "name": "TÓPICOS EXTENSIONISTAS EM ARQUITETURA BRASILEIRA - Desenhando em Cidades Históricas- ATENÇÃO: Custos de material de desenho,transporte, hospedagem e alimentação serão arcados pelos discentes",
+    "availabilityCode": "PA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Mateus R."
+    ]
+  },
+  {
+    "course_id": "ARQ112",
+    "name": "OFICINA DE INTEGRAÇÃO DE SABERES I",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Daniel H. M. D.",
+      "Daniele N. C. S.",
+      "Natalia A. M.",
+      "Eleonora S. A."
+    ]
+  },
+  {
+    "course_id": "ARQ112",
+    "name": "OFICINA DE INTEGRAÇÃO DE SABERES I",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Daniele N. C. S.",
+      "Natalia A. M.",
+      "Eleonora S. A.",
+      "Daniel H. M. D."
+    ]
+  },
+  {
+    "course_id": "ARQ112",
+    "name": "OFICINA DE INTEGRAÇÃO DE SABERES I",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Daniele N. C. S.",
+      "Natalia A. M.",
+      "Eleonora S. A.",
+      "Daniel H. M. D."
+    ]
+  },
+  {
+    "course_id": "ARQ112",
+    "name": "OFICINA DE INTEGRAÇÃO DE SABERES I",
+    "availabilityCode": "PD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Daniele N. C. S.",
+      "Natalia A. M.",
+      "Eleonora S. A.",
+      "Daniel H. M. D."
+    ]
+  },
+  {
+    "course_id": "ARQ112",
+    "name": "OFICINA DE INTEGRAÇÃO DE SABERES I",
+    "availabilityCode": "PE",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Daniele N. C. S.",
+      "Natalia A. M.",
+      "Eleonora S. A.",
+      "Daniel H. M. D."
+    ]
+  },
+  {
+    "course_id": "ARQ112",
+    "name": "OFICINA DE INTEGRAÇÃO DE SABERES I",
+    "availabilityCode": "PF",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Natalia A. M.",
+      "Eleonora S. A.",
+      "Daniel H. M. D.",
+      "Daniele N. C. S."
+    ]
+  },
+  {
+    "course_id": "ARQ112",
+    "name": "OFICINA DE INTEGRAÇÃO DE SABERES I",
+    "availabilityCode": "PG",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Natalia A. M.",
+      "Eleonora S. A.",
+      "Daniel H. M. D.",
+      "Daniele N. C. S."
+    ]
+  },
+  {
+    "course_id": "ARQ112",
+    "name": "OFICINA DE INTEGRAÇÃO DE SABERES I",
+    "availabilityCode": "PH",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Natalia A. M.",
+      "Eleonora S. A.",
+      "Daniel H. M. D.",
+      "Daniele N. C. S."
+    ]
+  },
+  {
+    "course_id": "ARQ113",
+    "name": "OFICINA DE INTEGRAÇÃO DE SABERES II",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Mateus R.",
+      "Mateus M. P.",
+      "Marco A. P. R."
+    ]
+  },
+  {
+    "course_id": "ARQ113",
+    "name": "OFICINA DE INTEGRAÇÃO DE SABERES II",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Mateus M. P.",
+      "Marco A. P. R.",
+      "Mateus R."
+    ]
+  },
+  {
+    "course_id": "ARQ113",
+    "name": "OFICINA DE INTEGRAÇÃO DE SABERES II",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Mateus M. P.",
+      "Marco A. P. R.",
+      "Mateus R."
+    ]
+  },
+  {
+    "course_id": "ARQ113",
+    "name": "OFICINA DE INTEGRAÇÃO DE SABERES II",
+    "availabilityCode": "PD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Mateus M. P.",
+      "Marco A. P. R.",
+      "Mateus R."
+    ]
+  },
+  {
+    "course_id": "ARQ113",
+    "name": "OFICINA DE INTEGRAÇÃO DE SABERES II",
+    "availabilityCode": "PE",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Mateus M. P.",
+      "Marco A. P. R.",
+      "Mateus R."
+    ]
+  },
+  {
+    "course_id": "ARQ113",
+    "name": "OFICINA DE INTEGRAÇÃO DE SABERES II",
+    "availabilityCode": "PF",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Mateus M. P.",
+      "Marco A. P. R.",
+      "Mateus R."
+    ]
+  },
+  {
+    "course_id": "ARQ113",
+    "name": "OFICINA DE INTEGRAÇÃO DE SABERES II",
+    "availabilityCode": "PG",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Mateus M. P.",
+      "Marco A. P. R.",
+      "Mateus R."
+    ]
+  },
+  {
+    "course_id": "ARQ113",
+    "name": "OFICINA DE INTEGRAÇÃO DE SABERES II",
+    "availabilityCode": "PH",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Marco A. P. R.",
+      "Mateus R.",
+      "Mateus M. P."
+    ]
+  },
+  {
+    "course_id": "ARQ114",
+    "name": "SEMINÁRIO DE PORTFÓLIO I",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. M.",
+      "Vanessa B. B.",
+      "Rejane M. L.",
+      "Tales B. L. G. O."
+    ]
+  },
+  {
+    "course_id": "ARQ114",
+    "name": "SEMINÁRIO DE PORTFÓLIO I",
+    "availabilityCode": "TB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Vanessa B. B.",
+      "Rejane M. L.",
+      "Tales B. L. G. O.",
+      "Marcelo R. M."
+    ]
+  },
+  {
+    "course_id": "ARQ114",
+    "name": "SEMINÁRIO DE PORTFÓLIO I",
+    "availabilityCode": "TC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Vanessa B. B.",
+      "Rejane M. L.",
+      "Tales B. L. G. O.",
+      "Marcelo R. M."
+    ]
+  },
+  {
+    "course_id": "ARQ114",
+    "name": "SEMINÁRIO DE PORTFÓLIO I",
+    "availabilityCode": "TD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Vanessa B. B.",
+      "Rejane M. L.",
+      "Tales B. L. G. O.",
+      "Marcelo R. M."
+    ]
+  },
+  {
+    "course_id": "ARQ114",
+    "name": "SEMINÁRIO DE PORTFÓLIO I",
+    "availabilityCode": "TE",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Vanessa B. B.",
+      "Rejane M. L.",
+      "Tales B. L. G. O.",
+      "Marcelo R. M."
+    ]
+  },
+  {
+    "course_id": "ARQ114",
+    "name": "SEMINÁRIO DE PORTFÓLIO I",
+    "availabilityCode": "TF",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Tales B. L. G. O.",
+      "Marcelo R. M.",
+      "Vanessa B. B.",
+      "Rejane M. L."
+    ]
+  },
+  {
+    "course_id": "ARQ114",
+    "name": "SEMINÁRIO DE PORTFÓLIO I",
+    "availabilityCode": "TG",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Tales B. L. G. O.",
+      "Marcelo R. M.",
+      "Vanessa B. B.",
+      "Rejane M. L."
+    ]
+  },
+  {
+    "course_id": "ARQ114",
+    "name": "SEMINÁRIO DE PORTFÓLIO I",
+    "availabilityCode": "TH",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Tales B. L. G. O.",
+      "Marcelo R. M.",
+      "Vanessa B. B.",
+      "Rejane M. L."
+    ]
+  },
+  {
+    "course_id": "ARQ115",
+    "name": "SEMINÁRIO DE PORTFÓLIO II",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Luciana S. B.",
+      "Rita C. L. V.",
+      "Gisela B. S.",
+      "Sofia A. L. B."
+    ]
+  },
+  {
+    "course_id": "ARQ115",
+    "name": "SEMINÁRIO DE PORTFÓLIO II",
+    "availabilityCode": "TB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Gisela B. S.",
+      "Sofia A. L. B.",
+      "Luciana S. B.",
+      "Rita C. L. V."
+    ]
+  },
+  {
+    "course_id": "ARQ115",
+    "name": "SEMINÁRIO DE PORTFÓLIO II",
+    "availabilityCode": "TC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Gisela B. S.",
+      "Sofia A. L. B.",
+      "Luciana S. B.",
+      "Rita C. L. V."
+    ]
+  },
+  {
+    "course_id": "ARQ115",
+    "name": "SEMINÁRIO DE PORTFÓLIO II",
+    "availabilityCode": "TD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Sofia A. L. B.",
+      "Gisela B. S.",
+      "Luciana S. B.",
+      "Rita C. L. V."
+    ]
+  },
+  {
+    "course_id": "ARQ115",
+    "name": "SEMINÁRIO DE PORTFÓLIO II",
+    "availabilityCode": "TE",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Rita C. L. V.",
+      "Sofia A. L. B.",
+      "Gisela B. S.",
+      "Luciana S. B."
+    ]
+  },
+  {
+    "course_id": "ARQ115",
+    "name": "SEMINÁRIO DE PORTFÓLIO II",
+    "availabilityCode": "TF",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Gisela B. S.",
+      "Sofia A. L. B.",
+      "Luciana S. B.",
+      "Rita C. L. V."
+    ]
+  },
+  {
+    "course_id": "ARQ115",
+    "name": "SEMINÁRIO DE PORTFÓLIO II",
+    "availabilityCode": "TG",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Gisela B. S.",
+      "Sofia A. L. B.",
+      "Luciana S. B.",
+      "Rita C. L. V."
+    ]
+  },
+  {
+    "course_id": "ARQ115",
+    "name": "SEMINÁRIO DE PORTFÓLIO II",
+    "availabilityCode": "TH",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Gisela B. S.",
+      "Sofia A. L. B.",
+      "Luciana S. B.",
+      "Rita C. L. V."
+    ]
+  },
+  {
+    "course_id": "ARQ117",
+    "name": "INTRODUÇÃO AO TRABALHO DE CONCLUSÃO DE CURSO",
+    "availabilityCode": "TA",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Gabriela P. M."
+    ]
+  },
+  {
+    "course_id": "ARQ117",
+    "name": "INTRODUÇÃO AO TRABALHO DE CONCLUSÃO DE CURSO",
+    "availabilityCode": "TB",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ARQ117",
+    "name": "INTRODUÇÃO AO TRABALHO DE CONCLUSÃO DE CURSO",
+    "availabilityCode": "TC",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Frederico C."
+    ]
+  },
+  {
+    "course_id": "ARQ117",
+    "name": "INTRODUÇÃO AO TRABALHO DE CONCLUSÃO DE CURSO",
+    "availabilityCode": "TD",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ARQ136",
+    "name": "OFICINA TEMÁTICA INTEGRADA EXTENSIONISTA - Cocriação de lugares com crianças- alunos devem se matricular na PRJ101E e a ARQ136A será inserida manualmente.",
+    "availabilityCode": "PA",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:20"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:20"
+      }
+    ],
+    "teachers": [
+      "Paula B."
+    ]
+  },
+  {
+    "course_id": "ARQ136",
+    "name": "OFICINA TEMÁTICA INTEGRADA EXTENSIONISTA - Interfaces para assessoria técnica: projeto e construção de escola Resex Canavieiras-alunos devem se matricular na PRJ101G e esta será inserida manual",
+    "availabilityCode": "PB",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Ana P. B. S."
+    ]
+  },
+  {
+    "course_id": "CRT614",
+    "name": "CARTOGRAFIA E TOPOGRAFIA",
+    "availabilityCode": "TA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Veronica A. M."
+    ]
+  },
+  {
+    "course_id": "CRT614",
+    "name": "CARTOGRAFIA E TOPOGRAFIA",
+    "availabilityCode": "TB",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Braulio M. F."
+    ]
+  },
+  {
+    "course_id": "CRT614",
+    "name": "CARTOGRAFIA E TOPOGRAFIA",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Braulio M. F."
+    ]
+  },
+  {
+    "course_id": "DSO011",
+    "name": "ESTUDOS SOCIAIS: ESPAÇO E SOCIEDADE",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:10",
+        "end": "10:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:10",
+        "end": "10:50"
+      }
+    ],
+    "teachers": [
+      "Marden B. C."
+    ]
+  },
+  {
+    "course_id": "DSO011",
+    "name": "ESTUDOS SOCIAIS: ESPAÇO E SOCIEDADE",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "20:10"
+      }
+    ],
+    "teachers": [
+      "Tarcisio P. A. F."
+    ]
+  },
+  {
+    "course_id": "DSO011",
+    "name": "ESTUDOS SOCIAIS: ESPAÇO E SOCIEDADE",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:20",
+        "end": "18:00"
+      },
+      {
+        "day": "Terca",
+        "start": "16:20",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Marden B. C."
+    ]
+  },
+  {
+    "course_id": "EES631",
+    "name": "ANÁLISE ESTRUTURAL",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EES631",
+    "name": "ANÁLISE ESTRUTURAL",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "20:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "20:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "20:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "20:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EES632",
+    "name": "RESISTÊNCIA DOS MATERIAIS",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EES632",
+    "name": "RESISTÊNCIA DOS MATERIAIS",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "15:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "15:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "15:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EES633",
+    "name": "ESTRUTURAS DE CONCRETO ARMADO",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EES634",
+    "name": "ESTRUTURAS DE AÇO",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EHR039",
+    "name": "INSTALAÇÕES HIDRÁULICO- SANITÁRIAS PREDIAIS",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:20",
+        "end": "10:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:20",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EHR039",
+    "name": "INSTALAÇÕES HIDRÁULICO- SANITÁRIAS PREDIAIS",
+    "availabilityCode": "TB",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "20:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "20:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ELE017",
+    "name": "INSTALACOES PREDIAIS ELETRICAS E DE COMUNICACOES",
+    "availabilityCode": "TA",
+    "spots": 44,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Flavio H."
+    ]
+  },
+  {
+    "course_id": "ELE017",
+    "name": "INSTALACOES PREDIAIS ELETRICAS E DE COMUNICACOES",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Flavio H."
+    ]
+  },
+  {
+    "course_id": "ESA618",
+    "name": "SANEAMENTO E ESTUDOS AMBIENTAIS",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "10:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Silvia M. A. C. O."
+    ]
+  },
+  {
+    "course_id": "ESA618",
+    "name": "SANEAMENTO E ESTUDOS AMBIENTAIS",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:40",
+        "end": "18:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "15:40",
+        "end": "18:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ETG054",
+    "name": "TRANSPORTE URBANO",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ETG055",
+    "name": "TÓPICOS ESPECIAIS EM TRANSPORTE URBANO - INDICADA PARA ESTUDANTES APÓS O 4º PERÍODO",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ETG055",
+    "name": "TÓPICOS ESPECIAIS EM TRANSPORTE URBANO - preferencialmente para alunos após o 4o período",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "GEL670",
+    "name": "GEOLOGIA URBANA",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Larissa R. C. S."
+    ]
+  },
+  {
+    "course_id": "GEL670",
+    "name": "GEOLOGIA URBANA",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:20",
+        "end": "18:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "16:20",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Larissa R. C. S."
+    ]
+  },
+  {
+    "course_id": "GEO079",
+    "name": "GEOGRAFIA URBANA",
+    "availabilityCode": "TTNA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Sergio M. M. M."
+    ]
+  },
+  {
+    "course_id": "GEO688",
+    "name": "GEOGRAFIA URBANA",
+    "availabilityCode": "TUN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Sergio M. M. M."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "PRJ098",
+    "name": "FUNDAMENTOS PARA O PROJETO DE ARQUITETURA E URBANISMO I",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Erica A. C. M.",
+      "Cristiano C. R."
+    ]
+  },
+  {
+    "course_id": "PRJ098",
+    "name": "FUNDAMENTOS PARA O PROJETO DE ARQUITETURA E URBANISMO I",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Erica A. C. M.",
+      "Cristiano C. R."
+    ]
+  },
+  {
+    "course_id": "PRJ098",
+    "name": "FUNDAMENTOS PARA O PROJETO DE ARQUITETURA E URBANISMO I",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Erica A. C. M.",
+      "Cristiano C. R."
+    ]
+  },
+  {
+    "course_id": "PRJ098",
+    "name": "FUNDAMENTOS PARA O PROJETO DE ARQUITETURA E URBANISMO I",
+    "availabilityCode": "PD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Cristiano C. R.",
+      "Erica A. C. M."
+    ]
+  },
+  {
+    "course_id": "PRJ098",
+    "name": "FUNDAMENTOS PARA O PROJETO DE ARQUITETURA E URBANISMO I",
+    "availabilityCode": "PE",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Daniel H. M. D.",
+      "Roberto R. A."
+    ]
+  },
+  {
+    "course_id": "PRJ098",
+    "name": "FUNDAMENTOS PARA O PROJETO DE ARQUITETURA E URBANISMO I",
+    "availabilityCode": "PF",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Roberto R. A.",
+      "Daniel H. M. D."
+    ]
+  },
+  {
+    "course_id": "PRJ099",
+    "name": "FUNDAMENTOS PARA O PROJETO DE ARQUITETURA E URBANISMO II",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Leandro S. M.",
+      "Mateus S. V. S.",
+      "Bruno L. C. S. C."
+    ]
+  },
+  {
+    "course_id": "PRJ099",
+    "name": "FUNDAMENTOS PARA O PROJETO DE ARQUITETURA E URBANISMO II",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Leandro S. M.",
+      "Mateus S. V. S.",
+      "Bruno L. C. S. C."
+    ]
+  },
+  {
+    "course_id": "PRJ099",
+    "name": "FUNDAMENTOS PARA O PROJETO DE ARQUITETURA E URBANISMO II",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Leandro S. M.",
+      "Mateus S. V. S.",
+      "Bruno L. C. S. C."
+    ]
+  },
+  {
+    "course_id": "PRJ099",
+    "name": "FUNDAMENTOS PARA O PROJETO DE ARQUITETURA E URBANISMO II",
+    "availabilityCode": "PD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Leandro S. M.",
+      "Mateus S. V. S.",
+      "Bruno L. C. S. C."
+    ]
+  },
+  {
+    "course_id": "PRJ099",
+    "name": "FUNDAMENTOS PARA O PROJETO DE ARQUITETURA E URBANISMO II",
+    "availabilityCode": "PE",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Larissa N. S.",
+      "Clarissa C. C."
+    ]
+  },
+  {
+    "course_id": "PRJ099",
+    "name": "FUNDAMENTOS PARA O PROJETO DE ARQUITETURA E URBANISMO II",
+    "availabilityCode": "PF",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Larissa N. S.",
+      "Clarissa C. C."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Detalhamento de Arquitetura",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Andre L. P. O."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Material, projeto e circularidade",
+    "availabilityCode": "PAA",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Hugo A. M."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Arquiteturas na modernidade reaproximada",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Luis H. P."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Projeto Multiespécies Recanto das Nascentes",
+    "availabilityCode": "PBB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Luciana S. B."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Projeto expográfico da EA",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Joao F. A. F."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Potencializando Estratégias de Projetação Utilizando Inteligência Artificial e Realidade Virtual",
+    "availabilityCode": "PD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Sandro C. A."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Arquiteturas da espera: deslocamentos, permanências e dispositivos urbanos",
+    "availabilityCode": "PDD",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Potencializando Estratégias de Projetação Utilizando Inteligência Artificial e Realidade Virtual",
+    "availabilityCode": "PF",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Sandro C. A."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Incubadora de empresas de biotecnologia",
+    "availabilityCode": "PG",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Mateus M. P."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Projeto de Minuto",
+    "availabilityCode": "PH",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Andre R. P."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Moradia Estudantil",
+    "availabilityCode": "PI",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Eduardo M. S."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Moradia Estudantil",
+    "availabilityCode": "PJ",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Mauricio J. L. C."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Intervenção urbana a partir da leitura do lugar",
+    "availabilityCode": "PK",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Denise M. N."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Complexo da Lagoinha: passado, presente e futuros possíveis",
+    "availabilityCode": "PL",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Flavio L. C."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Atelier Virtual em Rede (calendário próprio a definir com 6 encontros concentrados a serem combinados)",
+    "availabilityCode": "PM",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Eduardo M. S.",
+      "Mauricio J. L. C."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Restaurante em Casabranca",
+    "availabilityCode": "PN",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Mateus M. P."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Programas Heteróclitos Complexos",
+    "availabilityCode": "PO",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Andre R. P."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Casa Mínima",
+    "availabilityCode": "PP",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Eduardo M. S."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Casa Mínima",
+    "availabilityCode": "PQ",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Mauricio J. L. C."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Intervenção arquitetônica a partir da leitura do lugar",
+    "availabilityCode": "PR",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Denise M. N."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Atelier Virtual em Rede (calendário próprio a definir com 6 encontros concentrados a serem combinados)",
+    "availabilityCode": "PT",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Mauricio J. L. C.",
+      "Eduardo M. S."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Processo de Projeto: Materialidade, Forma e Conceito",
+    "availabilityCode": "PU",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Tales B. L. G. O."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Abrir para Dentro",
+    "availabilityCode": "PV",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Andre R. P."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Moradia Popular",
+    "availabilityCode": "PW",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Marcela S. B. L."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Como Fazer um Jardim Projeto de Paisagismo",
+    "availabilityCode": "PX",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Luciana S. B."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Cirurgia de Casas",
+    "availabilityCode": "PY",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Silke K."
+    ]
+  },
+  {
+    "course_id": "PRJ100",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - Processo de Projeto: Diagramas, Análises e Estruturas",
+    "availabilityCode": "PZ",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Tales B. L. G. O."
+    ]
+  },
+  {
+    "course_id": "PRJ101",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - EXTENSIONISTA - Plano Diretor Manoel Aleixo Vicentão",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Tiago C. B. L."
+    ]
+  },
+  {
+    "course_id": "PRJ101",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - EXTENSIONISTA - Potencialidades e especificidades da urbanização de favelas e comunidades urbanas autoproduzidas",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Tiago C. B. L."
+    ]
+  },
+  {
+    "course_id": "PRJ101",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - EXTENSIONISTA - Desconcreta",
+    "availabilityCode": "PC",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Wellington C. C."
+    ]
+  },
+  {
+    "course_id": "PRJ101",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - EXTENSIONISTA - Arquitetura Desobediente",
+    "availabilityCode": "PD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Marcela S. B. L."
+    ]
+  },
+  {
+    "course_id": "PRJ101",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - EXTENSIONISTA - Cocriação de lugares com crianças  (alunos devem ser matriculados também em ARQ136 A)",
+    "availabilityCode": "PE",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:50"
+      }
+    ],
+    "teachers": [
+      "Paula B."
+    ]
+  },
+  {
+    "course_id": "PRJ101",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - EXTENSIONISTA - Projeto com pré-existênciais: qualificação territorial de comunidades tradicionais",
+    "availabilityCode": "PF",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:50"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:50"
+      }
+    ],
+    "teachers": [
+      "Daniel H. M. D."
+    ]
+  },
+  {
+    "course_id": "PRJ101",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO A - EXTENSIONISTA - Interfaces para assessoria técnica: projeto e construção de escola Resex Canavieiras-(alunos devem ser matriculados também em ARQ136 B)",
+    "availabilityCode": "PG",
+    "spots": 15,
+    "times": [],
+    "teachers": [
+      "Ana P. B. S."
+    ]
+  },
+  {
+    "course_id": "PRJ102",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO B - Parcelamento do Solo e Conjuntos Habitacionais",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Andre L. P. O."
+    ]
+  },
+  {
+    "course_id": "PRJ102",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO B - Infraestrutura social: concepção e projeto",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Luis H. P."
+    ]
+  },
+  {
+    "course_id": "PRJ102",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO B - Manejo de Águas Pluviais: da cidade ao edifício",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Roberto E. S."
+    ]
+  },
+  {
+    "course_id": "PRJ102",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO B - Práticas Espaciais e Espaços Públicos Contemporâneos",
+    "availabilityCode": "PD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PRJ102",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO B - Reformas de habitações: Experimentação de processos de projeto",
+    "availabilityCode": "PE",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PRJ102",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO B - A tectônica como parâmetro de projeto",
+    "availabilityCode": "PF",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Hugo A. M."
+    ]
+  },
+  {
+    "course_id": "PRJ102",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO B - Projetos para preservação e uso sustentável do patrimônio cultural e natural",
+    "availabilityCode": "PG",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Frederico P. T."
+    ]
+  },
+  {
+    "course_id": "PRJ102",
+    "name": "PROJETO DE ARQUITETURA E URBANISMO B - Projeto Executivo de Unidade Residencial",
+    "availabilityCode": "PH",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Joao F. A. F."
+    ]
+  },
+  {
+    "course_id": "PRJ104",
+    "name": "TÓPICOS EM PROJETO - SBns (Soluções Baseadas na Natureza): onde, quando e como implantar",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Tiago C. B. L."
+    ]
+  },
+  {
+    "course_id": "PRJ104",
+    "name": "TÓPICOS EM PROJETO - TEMA A DEFINIR",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Hugo A. M."
+    ]
+  },
+  {
+    "course_id": "PRJ104",
+    "name": "TÓPICOS EM PROJETO - Prototipagem 3D em Argila",
+    "availabilityCode": "PD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Mateus S. V. S."
+    ]
+  },
+  {
+    "course_id": "PRJ104",
+    "name": "TÓPICOS EM PROJETO - Deambulações em Paisagens, Patrimônios e Projetos",
+    "availabilityCode": "PE",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "18:10"
+      }
+    ],
+    "teachers": [
+      "Frederico P. T."
+    ]
+  },
+  {
+    "course_id": "PRJ106",
+    "name": "TÓPICOS EM INSTRUMENTAÇÃO PARA O PROJETO - Aqui Não Entra Luz: cartilha para humanização de espaço",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Daniel H. M. D."
+    ]
+  },
+  {
+    "course_id": "PRJ106",
+    "name": "TÓPICOS EM INSTRUMENTAÇÃO PARA O PROJETO - TEMA A DEFINIR",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Hugo A. M."
+    ]
+  },
+  {
+    "course_id": "TAU521",
+    "name": "INTRODUÇÃO AO CONFORTO AMBIENTAL",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "10:20",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Grace C. R. G."
+    ]
+  },
+  {
+    "course_id": "TAU521",
+    "name": "INTRODUÇÃO AO CONFORTO AMBIENTAL",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "20:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Camila C. F."
+    ]
+  },
+  {
+    "course_id": "TAU521",
+    "name": "INTRODUÇÃO AO CONFORTO AMBIENTAL",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "16:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "16:50"
+      }
+    ],
+    "teachers": [
+      "Roberta V. G. S.",
+      "Camila C. F.",
+      "Victor M. V."
+    ]
+  },
+  {
+    "course_id": "TAU521",
+    "name": "INTRODUÇÃO AO CONFORTO AMBIENTAL",
+    "availabilityCode": "TD",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Victor M. V."
+    ]
+  },
+  {
+    "course_id": "TAU522",
+    "name": "MODELAGEM DOS SISTEMAS ESTRUTURAIS",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Cynara F. B."
+    ]
+  },
+  {
+    "course_id": "TAU522",
+    "name": "MODELAGEM DOS SISTEMAS ESTRUTURAIS",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "20:10"
+      },
+      {
+        "day": "Terca",
+        "start": "20:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Cynara F. B."
+    ]
+  },
+  {
+    "course_id": "TAU523",
+    "name": "MATERIAIS DE CONSTRUÇÃO I",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Thiago L. F."
+    ]
+  },
+  {
+    "course_id": "TAU524",
+    "name": "LEGISLAÇÃO E PRÁTICA PROFISSIONAL",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Grace C. R. G."
+    ]
+  },
+  {
+    "course_id": "TAU524",
+    "name": "LEGISLAÇÃO E PRÁTICA PROFISSIONAL",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Grace C. R. G."
+    ]
+  },
+  {
+    "course_id": "TAU524",
+    "name": "LEGISLAÇÃO E PRÁTICA PROFISSIONAL",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "15:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Grace C. R. G."
+    ]
+  },
+  {
+    "course_id": "TAU524",
+    "name": "LEGISLAÇÃO E PRÁTICA PROFISSIONAL",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Grace C. R. G."
+    ]
+  },
+  {
+    "course_id": "TAU525",
+    "name": "CONFORTO TÉRMICO",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "10:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Eleonora S. A."
+    ]
+  },
+  {
+    "course_id": "TAU525",
+    "name": "CONFORTO TÉRMICO",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "10:20",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Eleonora S. A."
+    ]
+  },
+  {
+    "course_id": "TAU525",
+    "name": "CONFORTO TÉRMICO",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "10:20",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Eleonora S. A."
+    ]
+  },
+  {
+    "course_id": "TAU525",
+    "name": "CONFORTO TÉRMICO",
+    "availabilityCode": "TD",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Camila C. F."
+    ]
+  },
+  {
+    "course_id": "TAU525",
+    "name": "CONFORTO TÉRMICO",
+    "availabilityCode": "TE",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:30",
+        "end": "17:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Camila C. F."
+    ]
+  },
+  {
+    "course_id": "TAU526",
+    "name": "MATERIAIS DE CONSTRUÇÃO II",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Sofia A. L. B."
+    ]
+  },
+  {
+    "course_id": "TAU527",
+    "name": "TÉCNICAS RETROSPECTIVAS",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "10:20",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Marco A. P. R."
+    ]
+  },
+  {
+    "course_id": "TAU527",
+    "name": "TÉCNICAS RETROSPECTIVAS",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Marco A. P. R."
+    ]
+  },
+  {
+    "course_id": "TAU527",
+    "name": "TÉCNICAS RETROSPECTIVAS",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "16:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Marco A. P. R."
+    ]
+  },
+  {
+    "course_id": "TAU528",
+    "name": "MATERIAIS DE CONSTRUÇÃO III",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Edgar V. M. C."
+    ]
+  },
+  {
+    "course_id": "TAU528",
+    "name": "MATERIAIS DE CONSTRUÇÃO III",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Edgar V. M. C."
+    ]
+  },
+  {
+    "course_id": "TAU529",
+    "name": "CONCEPÇÃO ESTRUTURAL",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Paulo G. V. K."
+    ]
+  },
+  {
+    "course_id": "TAU529",
+    "name": "CONCEPÇÃO ESTRUTURAL",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Paulo G. V. K."
+    ]
+  },
+  {
+    "course_id": "TAU530",
+    "name": "CONFORTO ACÚSTICO",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Victor M. V."
+    ]
+  },
+  {
+    "course_id": "TAU530",
+    "name": "CONFORTO ACÚSTICO",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Victor M. V."
+    ]
+  },
+  {
+    "course_id": "TAU530",
+    "name": "CONFORTO ACÚSTICO",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "15:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Victor M. V."
+    ]
+  },
+  {
+    "course_id": "TAU531",
+    "name": "TECNOLOGIA DA CONSTRUÇÃO",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:20",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "10:20",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Rejane M. L."
+    ]
+  },
+  {
+    "course_id": "TAU531",
+    "name": "TECNOLOGIA DA CONSTRUÇÃO",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "10:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Rejane M. L."
+    ]
+  },
+  {
+    "course_id": "TAU531",
+    "name": "TECNOLOGIA DA CONSTRUÇÃO",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "20:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Rejane M. L."
+    ]
+  },
+  {
+    "course_id": "TAU532",
+    "name": "PLANEJAMENTO DE OBRAS",
+    "availabilityCode": "TA",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Maria L. A. C. C."
+    ]
+  },
+  {
+    "course_id": "TAU532",
+    "name": "PLANEJAMENTO DE OBRAS",
+    "availabilityCode": "TB",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Maria L. A. C. C."
+    ]
+  },
+  {
+    "course_id": "TAU532",
+    "name": "PLANEJAMENTO DE OBRAS",
+    "availabilityCode": "TC",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Maria L. A. C. C."
+    ]
+  },
+  {
+    "course_id": "TAU532",
+    "name": "PLANEJAMENTO DE OBRAS",
+    "availabilityCode": "TD",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Maria L. A. C. C."
+    ]
+  },
+  {
+    "course_id": "TAU533",
+    "name": "OFICINA TEMÁTICA DE CONSTRUÇÃO COM TERRA - -",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Thiago L. F."
+    ]
+  },
+  {
+    "course_id": "TAU533",
+    "name": "OFICINA TEMÁTICA DE CONSTRUÇÃO COM TERRA - -",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Thiago L. F."
+    ]
+  },
+  {
+    "course_id": "TAU534",
+    "name": "OFICINA TEMÁTICA EM CONSTRUÇÃO INDUSTRIALIZADA - -",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Sofia A. L. B."
+    ]
+  },
+  {
+    "course_id": "TAU534",
+    "name": "OFICINA TEMÁTICA EM CONSTRUÇÃO INDUSTRIALIZADA - -",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Sofia A. L. B."
+    ]
+  },
+  {
+    "course_id": "TAU541",
+    "name": "ILUMINAÇÃO NATURAL E ARTIFICIAL",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Roberta V. G. S."
+    ]
+  },
+  {
+    "course_id": "TAU541",
+    "name": "ILUMINAÇÃO NATURAL E ARTIFICIAL",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Roberta V. G. S."
+    ]
+  },
+  {
+    "course_id": "TAU542",
+    "name": "CONFORTO TÉRMICO EM ÁREAS URBANAS",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "15:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Eleonora S. A."
+    ]
+  },
+  {
+    "course_id": "TAU548",
+    "name": "TÓPICOS EM TECNOLOGIA DA CONSTRUÇÃO I - -",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Thiago L. F."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "UNI209",
+    "name": "SABERES TRADICIONAIS - ARTES E POÉTICAS ANCESTRAIS - Ilês e ialorixás em diálogo",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "17:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "13:50",
+        "end": "17:50"
+      }
+    ],
+    "teachers": [
+      "Renata M. M."
+    ]
+  },
+  {
+    "course_id": "URB605",
+    "name": "INTRODUÇÃO AO URBANISMO",
+    "availabilityCode": "TA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "10:50"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "10:50"
+      }
+    ],
+    "teachers": [
+      "Raquel G. G."
+    ]
+  },
+  {
+    "course_id": "URB605",
+    "name": "INTRODUÇÃO AO URBANISMO",
+    "availabilityCode": "TB",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:20",
+        "end": "11:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:20",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Raquel G. G."
+    ]
+  },
+  {
+    "course_id": "URB605",
+    "name": "INTRODUÇÃO AO URBANISMO",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Thiago C. M. S."
+    ]
+  },
+  {
+    "course_id": "URB606",
+    "name": "SISTEMAS DE INFORMAÇÕES APLICADAS AO PLANEJAMENTO TERRITORIAL",
+    "availabilityCode": "PA",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "10:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:20",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "URB606",
+    "name": "SISTEMAS DE INFORMAÇÕES APLICADAS AO PLANEJAMENTO TERRITORIAL",
+    "availabilityCode": "PB",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:20",
+        "end": "12:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "URB606",
+    "name": "SISTEMAS DE INFORMAÇÕES APLICADAS AO PLANEJAMENTO TERRITORIAL",
+    "availabilityCode": "PC",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "URB606",
+    "name": "SISTEMAS DE INFORMAÇÕES APLICADAS AO PLANEJAMENTO TERRITORIAL",
+    "availabilityCode": "PD",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:20",
+        "end": "18:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "16:20",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "URB606",
+    "name": "SISTEMAS DE INFORMAÇÕES APLICADAS AO PLANEJAMENTO TERRITORIAL",
+    "availabilityCode": "PE",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "15:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "URB606",
+    "name": "SISTEMAS DE INFORMAÇÕES APLICADAS AO PLANEJAMENTO TERRITORIAL",
+    "availabilityCode": "PF",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "URB607",
+    "name": "HISTÓRIA DO URBANISMO E DA URBANIZAÇÃO",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Gisela B. S."
+    ]
+  },
+  {
+    "course_id": "URB607",
+    "name": "HISTÓRIA DO URBANISMO E DA URBANIZAÇÃO",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Thiago C. M. S."
+    ]
+  },
+  {
+    "course_id": "URB608",
+    "name": "OFICINA DE PROJETO E PLANEJAMENTO URBANO - Parcelamento vinculado - His +Trama Verde Azul",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Elisangela A. C."
+    ]
+  },
+  {
+    "course_id": "URB608",
+    "name": "OFICINA DE PROJETO E PLANEJAMENTO URBANO - Ficar com problemas",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Frederico C."
+    ]
+  },
+  {
+    "course_id": "URB608",
+    "name": "OFICINA DE PROJETO E PLANEJAMENTO URBANO - Projeto Urbano de Regularização Fundiária",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Rogerio P. Z. A."
+    ]
+  },
+  {
+    "course_id": "URB608",
+    "name": "OFICINA DE PROJETO E PLANEJAMENTO URBANO - Arquitetura da Paisagem",
+    "availabilityCode": "PD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Marcos F. S. S."
+    ]
+  },
+  {
+    "course_id": "URB608",
+    "name": "OFICINA DE PROJETO E PLANEJAMENTO URBANO - Oficina de Planejamento Urbano de pequenos municípios",
+    "availabilityCode": "PE",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Junia M. F. L."
+    ]
+  },
+  {
+    "course_id": "URB608",
+    "name": "OFICINA DE PROJETO E PLANEJAMENTO URBANO - Transições Urbanas Pós-Automóvel: Mobilidade, Forma e Território",
+    "availabilityCode": "PF",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. M."
+    ]
+  },
+  {
+    "course_id": "URB608",
+    "name": "OFICINA DE PROJETO E PLANEJAMENTO URBANO - TEMA A DEFINIR",
+    "availabilityCode": "PG",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "URB608",
+    "name": "OFICINA DE PROJETO E PLANEJAMENTO URBANO - Oficina urbana de qualificação de centralidades",
+    "availabilityCode": "PH",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Daniel M. F."
+    ]
+  },
+  {
+    "course_id": "URB608",
+    "name": "OFICINA DE PROJETO E PLANEJAMENTO URBANO - Oficina de Planejamento e Gestão Integrada da Paisagem",
+    "availabilityCode": "PI",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Alfio C."
+    ]
+  },
+  {
+    "course_id": "URB608",
+    "name": "OFICINA DE PROJETO E PLANEJAMENTO URBANO - Urbanismo social, planejamento e projetos urbanos e habitacionais",
+    "availabilityCode": "PJ",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Hamilton M. F."
+    ]
+  },
+  {
+    "course_id": "URB608",
+    "name": "OFICINA DE PROJETO E PLANEJAMENTO URBANO - Experimentação com Tecnologias Emergentes",
+    "availabilityCode": "PK",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Camila M. Z."
+    ]
+  },
+  {
+    "course_id": "URB608",
+    "name": "OFICINA DE PROJETO E PLANEJAMENTO URBANO - Problemas de Desenvolvimento Urbano Municipal",
+    "availabilityCode": "PL",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Grasiele M. M. G."
+    ]
+  },
+  {
+    "course_id": "URB609",
+    "name": "OFICINA EXTENSIONISTA DE URBANISMO - Tema a definir",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Junia C. M."
+    ]
+  },
+  {
+    "course_id": "URB609",
+    "name": "OFICINA EXTENSIONISTA DE URBANISMO - Planejamento e Desenvolvimento Urbano: Teoria e Prática",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Daniel M. F."
+    ]
+  },
+  {
+    "course_id": "URB610",
+    "name": "OFICINA TEMÁTICA DE URBANISMO - Urbanismo social",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Mario M. S. Q."
+    ]
+  },
+  {
+    "course_id": "URB610",
+    "name": "OFICINA TEMÁTICA DE URBANISMO - Projeto urbano",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Natalia A. M."
+    ]
+  },
+  {
+    "course_id": "URB610",
+    "name": "OFICINA TEMÁTICA DE URBANISMO - Legislação urbana",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Natalia A. M."
+    ]
+  },
+  {
+    "course_id": "URB610",
+    "name": "OFICINA TEMÁTICA DE URBANISMO - tema a definir",
+    "availabilityCode": "PD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Junia C. M."
+    ]
+  },
+  {
+    "course_id": "URB611",
+    "name": "PRÁTICAS DE INVESTIGAÇÃO URBANA - Planejamento da Paisagem",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Alfio C."
+    ]
+  },
+  {
+    "course_id": "URB611",
+    "name": "PRÁTICAS DE INVESTIGAÇÃO URBANA - Representação da cidade [in]visível",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Camila M. Z."
+    ]
+  },
+  {
+    "course_id": "URB611",
+    "name": "PRÁTICAS DE INVESTIGAÇÃO URBANA - Planejamento Territorial",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Alfio C."
+    ]
+  },
+  {
+    "course_id": "URB611",
+    "name": "PRÁTICAS DE INVESTIGAÇÃO URBANA - TEMA A DEFINIR",
+    "availabilityCode": "PD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Junia C. M."
+    ]
+  },
+  {
+    "course_id": "URB611",
+    "name": "PRÁTICAS DE INVESTIGAÇÃO URBANA - Terrítórios Equânimes Urbanos",
+    "availabilityCode": "PE",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "15:30",
+        "end": "17:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Mario M. S. Q."
+    ]
+  },
+  {
+    "course_id": "URB611",
+    "name": "PRÁTICAS DE INVESTIGAÇÃO URBANA - Morfologia Urbana",
+    "availabilityCode": "PF",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Stael A. P. C."
+    ]
+  },
+  {
+    "course_id": "URB611",
+    "name": "PRÁTICAS DE INVESTIGAÇÃO URBANA - Prática de Investigação Urbana",
+    "availabilityCode": "PG",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Mario M. S. Q."
+    ]
+  },
+  {
+    "course_id": "URB612",
+    "name": "PRÁTICAS EXTENSIONISTAS DE INVESTIGAÇÃO URBANA - metodologia de observação espacial",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "15:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Mario M. S. Q."
+    ]
+  },
+  {
+    "course_id": "URB613",
+    "name": "TÓPICOS EM ESTUDOS URBANOS - História da Arquitetura da Paisagem",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Marcos F. S. S."
+    ]
+  },
+  {
+    "course_id": "URB613",
+    "name": "TÓPICOS EM ESTUDOS URBANOS - Produção da cidade e epistemologias urbanas",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Grasiele M. M. G."
+    ]
+  },
+  {
+    "course_id": "URB613",
+    "name": "TÓPICOS EM ESTUDOS URBANOS - Espaços Periféricos",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Thiago C. M. S."
+    ]
+  },
+  {
+    "course_id": "URB613",
+    "name": "TÓPICOS EM ESTUDOS URBANOS - Rede urbana, urbanismo e urbanização no Brasil Colonial",
+    "availabilityCode": "TD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "15:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "URB613",
+    "name": "TÓPICOS EM ESTUDOS URBANOS - Análise Urbana",
+    "availabilityCode": "TF",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Mario M. S. Q."
+    ]
+  }
+]

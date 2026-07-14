@@ -1,0 +1,840 @@
+[
+  {
+    "course_id": "DIC084",
+    "name": "METODOS DE RESOLUCAO DE CONFLITOS",
+    "availabilityCode": "TTA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "16:20"
+      }
+    ],
+    "teachers": [
+      "Rodrigo A. M."
+    ]
+  },
+  {
+    "course_id": "DIC086",
+    "name": "TOPICOS EM ORGANIZACAO DO TERCEIRO SETOR - Tópicos Avançados do Terceiro Setor - Cooperativismo",
+    "availabilityCode": "TTA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:21",
+        "end": "18:51"
+      }
+    ],
+    "teachers": [
+      "Rodrigo A. M."
+    ]
+  },
+  {
+    "course_id": "DIN022",
+    "name": "CRIMINOLOGIA E SISTEMAS PENAIS",
+    "availabilityCode": "TT1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:20",
+        "end": "18:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Victor H. C. S."
+    ]
+  },
+  {
+    "course_id": "DIP082",
+    "name": "TEORIA DO ESTADO I",
+    "availabilityCode": "TT1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "15:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Jose L. B. H."
+    ]
+  },
+  {
+    "course_id": "DIP083",
+    "name": "DIREITO INTERNACIONAL PÚBLICO NA ERA GLOBAL",
+    "availabilityCode": "TT1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:20",
+        "end": "16:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "16:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Lucas C. L."
+    ]
+  },
+  {
+    "course_id": "DIP201",
+    "name": "INTRODUCAO A GOVERNANCA SOCIAL",
+    "availabilityCode": "TT1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "15:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "16:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Jose L. B. H."
+    ]
+  },
+  {
+    "course_id": "DIP202",
+    "name": "HISTORIA E TEORIA DA CONSTITUICAO BRASILEIRA",
+    "availabilityCode": "TT1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "16:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Marcelo A. C. O."
+    ]
+  },
+  {
+    "course_id": "DIP205",
+    "name": "ORGANIZACAO DOS PODERES DO ESTADO BRASILEIRO",
+    "availabilityCode": "TT1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Mauricio S. B. G."
+    ]
+  },
+  {
+    "course_id": "DIP206",
+    "name": "TEORIA DA GESTAO PUBLICA",
+    "availabilityCode": "TT1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:20",
+        "end": "18:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "16:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Jose L. B. H."
+    ]
+  },
+  {
+    "course_id": "DIP207",
+    "name": "ESPACO URBANO E DIREITO DAS CIDADES",
+    "availabilityCode": "TT1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "15:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Daniel G."
+    ]
+  },
+  {
+    "course_id": "DIP214",
+    "name": "DIREITO ECONOMICO DO PLANEJAMENTO",
+    "availabilityCode": "TT1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Giovani C."
+    ]
+  },
+  {
+    "course_id": "DIP215",
+    "name": "PARCERIAS PUBLICO- PRIVADAS",
+    "availabilityCode": "TT1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:29",
+        "end": "15:59"
+      }
+    ],
+    "teachers": [
+      "Daniela M. C. H."
+    ]
+  },
+  {
+    "course_id": "DIP217",
+    "name": "TRIBUTACAO E ORGANIZACOES SOCIAIS",
+    "availabilityCode": "TT1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Frederico M. B."
+    ]
+  },
+  {
+    "course_id": "DIP223",
+    "name": "DIREITO E MEIO AMBIENTE",
+    "availabilityCode": "TT1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:40",
+        "end": "16:10"
+      }
+    ],
+    "teachers": [
+      "Daniel G."
+    ]
+  },
+  {
+    "course_id": "DIP229",
+    "name": "TOPICOS EM PROCEDIMENTOS DE CONTROLE EXTERNO DA ADMINISTRACAO PUBLICA - Tópicos em Procedimentos de Controle Externo da Administração Pública",
+    "availabilityCode": "TTA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Daniela M. C. H."
+    ]
+  },
+  {
+    "course_id": "DIP230",
+    "name": "TOPICOS EM REDES SOCIAS - Tópicos em Redes Sociais: Administração Pública Consensual",
+    "availabilityCode": "TTA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Daniela M. C. H."
+    ]
+  },
+  {
+    "course_id": "DIP231",
+    "name": "TOPICOS EM DIREITO E ORCAMENTO PUBLICO - Tópicos em Direito e Orçamento Público: Planejamento Estatal, Orçamento Público, Desenvolvimento e Transformação Social",
+    "availabilityCode": "TTA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Giovani C."
+    ]
+  },
+  {
+    "course_id": "DIR110",
+    "name": "ELABORAÇÃO DE PROJETO DE TCC I OU INICIAÇÃO CIENTÍFICA",
+    "availabilityCode": "TT1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "17:50"
+      }
+    ],
+    "teachers": [
+      "Roberto V. N."
+    ]
+  },
+  {
+    "course_id": "DIR111",
+    "name": "ELABORAÇÃO DE PROJETO DE TCC II OU INICIAÇÃO CIENTÍFICA",
+    "availabilityCode": "PT1",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DIR112",
+    "name": "DEFESA DE TCC OU SEMINÁRIO DE INICIAÇÃO CIENTÍFICA",
+    "availabilityCode": "PT1",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DIT076",
+    "name": "PENSAMENTO JURIDICO- POLITICO BRASILEIRO",
+    "availabilityCode": "TT1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "15:40"
+      },
+      {
+        "day": "Terca",
+        "start": "16:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Roberto V. N."
+    ]
+  },
+  {
+    "course_id": "DIT080",
+    "name": "ANTROPOLOGIA CULTURAL DO ESTADO",
+    "availabilityCode": "TT1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "16:20"
+      }
+    ],
+    "teachers": [
+      "Maria F. S. R."
+    ]
+  },
+  {
+    "course_id": "DIT083",
+    "name": "FILOSOFIA DO ESTADO",
+    "availabilityCode": "TT1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:50",
+        "end": "16:20"
+      }
+    ],
+    "teachers": [
+      "Renato C. C."
+    ]
+  },
+  {
+    "course_id": "DIT086",
+    "name": "TOPICOS EM FILOSOFIA DO DIREITO E DO ESTADO - TÓPICOS DE FILOSOFIA DO DIREITO E DO ESTADO : REDAÇÃO CIENTÍFICA",
+    "availabilityCode": "TA",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Karine S."
+    ]
+  },
+  {
+    "course_id": "DIT087",
+    "name": "TOPICOS EM FUNDAMENTOS DA SOCIEDADE DEMOCRATICA - Tópicos em Fundamentos da sociedade democrática: As relações civismilitares no Brasil",
+    "availabilityCode": "TTT1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:30",
+        "end": "16:10"
+      }
+    ],
+    "teachers": [
+      "Lorena M. F."
+    ]
+  },
+  {
+    "course_id": "DIT093",
+    "name": "TOPICOS EM SOCIOLOGIA DO DIREITO - Flexibilização e plataformização do Trabalho",
+    "availabilityCode": "TTT1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Thiago A. S."
+    ]
+  },
+  {
+    "course_id": "DIT093",
+    "name": "TOPICOS EM SOCIOLOGIA DO DIREITO - Tópicos em Sociologia Jurídica C: Democracia e Crise: perspectivas críticas",
+    "availabilityCode": "TTT2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:10",
+        "end": "18:50"
+      }
+    ],
+    "teachers": [
+      "Ernane S. C. J."
+    ]
+  },
+  {
+    "course_id": "ECN052",
+    "name": "HISTÓRIA DO PENSAMENTO ECONÔMICO",
+    "availabilityCode": "TTA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Ana P. L. S."
+    ]
+  },
+  {
+    "course_id": "FIL028",
+    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Tadeu M. V."
+    ]
+  },
+  {
+    "course_id": "FIL028",
+    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Eduardo S. N. S."
+    ]
+  },
+  {
+    "course_id": "FIL028",
+    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+    "availabilityCode": "TR",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Tadeu M. V."
+    ]
+  },
+  {
+    "course_id": "INU031",
+    "name": "TÓPICOS EM LEGISLAÇÃO E POLÍTICAS PÚBLICAS - PRÁTICAS LEGISLATIVAS LEGISLAB I - A partir do 5º periodo Legislação e Políticas Públicas - Práticas Legislativas LegisLab I (Ênfase Cidades, Governança, Regulação e Mercado Imobiliário",
+    "availabilityCode": "TTA",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Fabiana M. S."
+    ]
+  },
+  {
+    "course_id": "INU031",
+    "name": "TÓPICOS EM LEGISLAÇÃO E POLÍTICAS PÚBLICAS - PRÁTICAS LEGISLATIVAS LEGISLAB I - A partir do 5º periodo Legislação e Políticas Públicas - Práticas Legislativas LegisLab I (Ênfase em Direitos da Pessoa com deficiência)",
+    "availabilityCode": "TTB",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Fabiana M. S."
+    ]
+  },
+  {
+    "course_id": "INU033",
+    "name": "TÓPICOS EM LEGISLAÇÃO E POLÍTICAS PÚBLICAS - PRÁTICAS LEGISLATIVAS LEGISLAB III - A partir do 4º período Legislação e Políticas Públicas - Práticas Legislativas LegisLab III (Geral)",
+    "availabilityCode": "TTA",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:00",
+        "end": "10:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "10:55",
+        "end": "12:35"
+      }
+    ],
+    "teachers": [
+      "Fabiana M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "SOA050",
+    "name": "MODERNIDADE E MUDANCA SOCIAL",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Elaine M. V."
+    ]
+  },
+  {
+    "course_id": "SOA050",
+    "name": "MODERNIDADE E MUDANCA SOCIAL",
+    "availabilityCode": "TH",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Claudio S. D. J."
+    ]
+  },
+  {
+    "course_id": "SOA050",
+    "name": "MODERNIDADE E MUDANCA SOCIAL",
+    "availabilityCode": "TR",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Luana H. C."
+    ]
+  },
+  {
+    "course_id": "SOA050",
+    "name": "MODERNIDADE E MUDANCA SOCIAL",
+    "availabilityCode": "TT",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Eugenia D. V. C.",
+      "Luana H. C."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  }
+]

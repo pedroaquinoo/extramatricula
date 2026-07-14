@@ -1,0 +1,333 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "EEF021",
+      "name": "Formacao e Atuacao em Educacao Fisica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "EFI041",
+      "name": "Historia e Educacao Fisica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "EFI042",
+      "name": "Jogos, Brinquedos e Brincadeiras",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ESP054",
+      "name": "Antropologia e Educacao Fisica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ESP055",
+      "name": "Ginastica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF032",
+      "name": "Anatomia Humana Aplicada a Educ. Fisica",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "BIQ041",
+      "name": "Bioquimica Aplicada a Educacao Fisica",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "CAE001",
+      "name": "Sociologia da Educação",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "CAE002",
+      "name": "Psicologia da Educ.-aprendizag. e Ensino",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EFI043",
+      "name": "Filosofia e Educacao Fisica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EFI044",
+      "name": "Dancas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EFI045",
+      "name": "Seminario de Pesquisa I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ESP057",
+      "name": "Teoria e Pratica dos Esportes",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EFI046",
+      "name": "Educacao Fisica e Lazer",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EFI047",
+      "name": "Educacao Fisica, Infancia e Juventude",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EFI048",
+      "name": "Educacao Fisica e Velhice",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EFI049",
+      "name": "Cinesiologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ESP058",
+      "name": "Psic. das Ativ. Fisicas e do Esporte",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ESP059",
+      "name": "Teoria do Treinamento",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ESP060",
+      "name": "Teoria da Atividade Fisica Adaptada",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIB018",
+      "name": "Fisiologia e Biofisica Aplic. Ed. Fisica",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EFI051",
+      "name": "Comportamento Motor",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EFI052",
+      "name": "Fisiologia do Exercicio",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ESP020",
+      "name": "Sociologia do Esporte",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ESP042",
+      "name": "Biomecanica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ESP063",
+      "name": "Seminario de Pesquisa II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EEF044",
+      "name": "Estagio I",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EFI053",
+      "name": "Formacao e Atuacao Profissional em Lazer",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ESP064",
+      "name": "Treinamento Esportivo I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ESP065",
+      "name": "Pedagogia do Esporte",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ESP066",
+      "name": "Atividade Fisica e Saude",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EEF023",
+      "name": "Estagio II",
+      "description": null,
+      "credits": 9,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ESP070",
+      "name": "Musculacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ESP074",
+      "name": "Treinamento Esportivo II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ESP075",
+      "name": "Avaliacao Fisica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EEF024",
+      "name": "Crescimento e Desenvolvimento Humano",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EFI059",
+      "name": "Estagio III",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ESP080",
+      "name": "Seminario de Orientacao Tcc I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EEF025",
+      "name": "Estagio IV",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ESP081",
+      "name": "Psic das Ativ Fisicas e do Esporte II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ESP082",
+      "name": "Seminario de Orientacao de Tcc II",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    }
+  ],
+  "prerequisites": []
+}

@@ -1,0 +1,2034 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "FAF116",
+      "name": "Orientação À Vida Acadêmica",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FAS112",
+      "name": "Farmácia e Sociedade",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF009",
+      "name": "Anatomia Humana Basica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF143",
+      "name": "Citologia e Histologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "PFA153",
+      "name": "Fundamentos de Ciências Farmacêuticas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "PFA173",
+      "name": "Processo de Utilização de Medicamentos",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI203",
+      "name": "Quimica Geral F",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI204",
+      "name": "Quimica Geral Experimental F",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "BIG157",
+      "name": "Genética F",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "BIQ050",
+      "name": "Bioquimica Celular F",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FAS012",
+      "name": "Politicas de Saude",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FAS117",
+      "name": "Clínica Farmacêutica I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT130",
+      "name": "Matematica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "QUI291",
+      "name": "Química Inorgânica F",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "QUI292",
+      "name": "Química Inorgânica Experimental F",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "BIQ602",
+      "name": "Imunologia Basica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FAS124",
+      "name": "Estágio Introdutório em Farmácia na Atenção Primária À Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIB618",
+      "name": "Biofísica B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "PAR026",
+      "name": "Parasitologia Humana F",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "QUI207",
+      "name": "Quimica Organica I F",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "QUI299",
+      "name": "Elementos de Físico-química F",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIB619",
+      "name": "Fisiologia F",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "MIC122",
+      "name": "Introdução À Microbiologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "PFA150",
+      "name": "Farmacocinética",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "QUI210",
+      "name": "Quimica Organica Experimental F",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "QUI294",
+      "name": "Química Orgânica II F",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FAR024",
+      "name": "Farmacologia Basica F",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FAS011",
+      "name": "Etica e Legislacao Farmaceutica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "PAG611",
+      "name": "Patologia Geral F",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "QUI297",
+      "name": "Química Analítica Experimental F",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "QUI298",
+      "name": "Química Analítica F",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "BOT035",
+      "name": "Botânica F",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EST083",
+      "name": "Bioestatistica Basica F",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "PAG612",
+      "name": "Patologia dos Sistemas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "PFA026",
+      "name": "Quimica Farmaceutica e Medicinal I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "PFA158",
+      "name": "Clínica Farmacêutica II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ACT127",
+      "name": "Diagnóstico Laboratorial das Doenças Humanas I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FAF117",
+      "name": "Semiologia Farmacêutica e Habilidades Clínicas I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FAS113",
+      "name": "Farmacoepidemiologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FAS114",
+      "name": "Assistência Farmacêutica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "PFA154",
+      "name": "Farmacoterapia I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "PFA175",
+      "name": "Bases Químicas e Moleculares de Produtos Naturais Bioativos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ACT124",
+      "name": "Toxicologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ACT128",
+      "name": "Diagnóstico Laboratorial de Doenças Humanas II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "PFA155",
+      "name": "Farmacoterapia II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "PFA174",
+      "name": "Semiologia Farmacêutica e Habilidade Clínícas II",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "PFA603",
+      "name": "Farmacognosia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "QUI295",
+      "name": "Química Analítica Instrumental F",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ACT133",
+      "name": "Habilidades Laboratoriais em Análises Clínicas e Toxicológic",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ALM126",
+      "name": "Bromatologia",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "FAS118",
+      "name": "Competências Clínicas Avançadas I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "PFA028",
+      "name": "Farmacognosia II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "PFA177",
+      "name": "Farmacotécnica I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAS122",
+      "name": "Estágio em Farmácia Comunitária",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAS133",
+      "name": "Metodologia de Pesquisa Científica",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "PFA029",
+      "name": "Analises Farmacopeicas",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "PFA031",
+      "name": "Introducao a Farmacia Hospitalar",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "PFA169",
+      "name": "Medicamentos Biológicos I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "PFA178",
+      "name": "Farmacotécnica II",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 11,
+      "code": "ACT125",
+      "name": "Radiofarmacia I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 11,
+      "code": "FAF107",
+      "name": "Estágio em Análises Clínicas e Toxicológicas e Ciência de Al",
+      "description": null,
+      "credits": 17,
+      "elective": false
+    },
+    {
+      "ref_period": 11,
+      "code": "FAS134",
+      "name": "Monografia em Ciências Farmacêuticas",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 11,
+      "code": "GES055",
+      "name": "Fundamentos de Gestão em Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 11,
+      "code": "PFA166",
+      "name": "Farmacotécnica III",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 11,
+      "code": "PFA176",
+      "name": "Assuntos Regulatórios",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT010",
+      "name": "Bacteriologia Clinica",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT017",
+      "name": "Biologia Molecular Aplicada",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT018",
+      "name": "Gestao da Qualidade no Lab. Clinico",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT045",
+      "name": "Hematologia Clinica",
+      "description": null,
+      "credits": 7,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT067",
+      "name": "Toxicologia Forense",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT072",
+      "name": "Micologia Clinica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT077",
+      "name": "Bioquímica Clínica II",
+      "description": null,
+      "credits": 7,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT126",
+      "name": "Radiofarmácia II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT129",
+      "name": "Empreendedorismo",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT130",
+      "name": "Estágio Optativo em Análises Clínicas e Toxicológicas I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT131",
+      "name": "Estágio Optativo em Análises Clínicas e Toxicológicas II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT132",
+      "name": "Exames Laboratoriais na Urgência",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT134",
+      "name": "Imagens Biomédicas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT135",
+      "name": "Saúde de Populações Vulnerabilizadas I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT136",
+      "name": "Saúde de Populações Vulnerabilizadas II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT137",
+      "name": "Saúde e Sexualidade",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT138",
+      "name": "Toxicologia Social",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT139",
+      "name": "Vacinas e Imunizações",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT602",
+      "name": "Citologia Clinica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT604",
+      "name": "Analises Toxicologicas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT605",
+      "name": "Imunologia Clinica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT606",
+      "name": "Parasitologia Clinica",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ACT613",
+      "name": "Bioquimica Clinica I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM007",
+      "name": "Microbiologia de Alimentos",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM021",
+      "name": "Alimentos Funcionais",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM028",
+      "name": "Higiene de Alimentos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM029",
+      "name": "Conservacao de Alimentos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM032",
+      "name": "Microbiologia Industrial",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM033",
+      "name": "Analise S. Area Farmaceutica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM039",
+      "name": "Biotecnologia na Prod. Beb. e Alimentos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM040",
+      "name": "Materias de Embalagem na A. Farmaceutica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM041",
+      "name": "Processamento de Alimentos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM058",
+      "name": "Interações Medicamento-alimento",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM124",
+      "name": "Garantia da Qualidade de Alimentos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM125",
+      "name": "Alterações Químicas e Bioquímicas de Alimentos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM127",
+      "name": "Terapia Nutricional Enteral e Parenteral",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM128",
+      "name": "Análise Bromatológica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM129",
+      "name": "Estágio Optativo em Alimentos I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM130",
+      "name": "Estágio Optativo em Alimentos II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM131",
+      "name": "Alimentos Para Fins Especiais: Tecnologia e Processamento",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM132",
+      "name": "Ciência de Alimentos e a Interface Com a Sociedade",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM133",
+      "name": "Ciência e Tecnologia de Panificação: Extensão Universitária",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM134",
+      "name": "Mitos e Verdades Sobre Alimentos",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM135",
+      "name": "Probióticos: Avanços, Desafios e Aplicações",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM136",
+      "name": "Rotulagem de Alimentos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM137",
+      "name": "Tecnologia de Alimentos e Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALM138",
+      "name": "Toxicologia de Alimentos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "BIQ058",
+      "name": "Biologia Molecular F",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "DCP021",
+      "name": "Introdução a Teoria Democrática",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "DCP023",
+      "name": "Estado Moderno e Capitalismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ECN101",
+      "name": "Economia a I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ECN140",
+      "name": "Introdução À Economia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF096",
+      "name": "Iniciação Científica I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF097",
+      "name": "Iniciação Científica II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF098",
+      "name": "Monitoria de Graduação I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF099",
+      "name": "Monitoria de Graduação II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF100",
+      "name": "Atividades Científicas, Culturais e Sócio- Ambientais",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF103",
+      "name": "Visitas Técnicas",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF104",
+      "name": "Visitas Técnicas II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF105",
+      "name": "Atividades em Entidades Estudantis Ou",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF106",
+      "name": "Biossegurança e Segurança do Trabalho",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF108",
+      "name": "Estágio em Fármacos, Medicamentos, Cosméticos e Assistência",
+      "description": null,
+      "credits": 29,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF109",
+      "name": "Formação em Extensão Universitária I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF110",
+      "name": "Formação em Extensão Universitária II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF111",
+      "name": "Formação em Extensão Universitária III",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF112",
+      "name": "Formação em Extensão Universitária IV",
+      "description": null,
+      "credits": 12,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF113",
+      "name": "Formação em Extensão Universitária V",
+      "description": null,
+      "credits": 24,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF118",
+      "name": "Tópicos em Cuidado em Saúde a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF119",
+      "name": "Tópicos em Cuidado em Saúde B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF120",
+      "name": "Tópicos em Cuidado em Saúde C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF123",
+      "name": "Tópicos em Gestão em Saúde a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF124",
+      "name": "Tópicos em Gestão em Saúde B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF125",
+      "name": "Tópicos em Gestão em Saúde C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF126",
+      "name": "Tópicos em Tecnologia e Inovação em Saúde a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF127",
+      "name": "Tópicos em Tecnologia e Inovação em Saúde B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAF128",
+      "name": "Tópicos em Tecnologia e Inovação em Saúde C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAS027",
+      "name": "Farmacoeconomia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAS115",
+      "name": "Informação Sobre Medicamentos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAS116",
+      "name": "Ensaios Clínicos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAS119",
+      "name": "Competências Clínicas Avançadas II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAS120",
+      "name": "Cuidado Farmacêutico Centrado no Paciente",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAS121",
+      "name": "Educação Interprofissional Para Tomada de Decisão em Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAS125",
+      "name": "Estágio Optativo em Cuidado em Saúde I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAS126",
+      "name": "Estágio Optativo em Cuidado em Saúde II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAS127",
+      "name": "Estágio Optativo em Farmácia Comunitária I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAS128",
+      "name": "Estágio Optativo em Farmácia Comunitária II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAS129",
+      "name": "Estágio Optativo em Gestão em Saúde I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAS130",
+      "name": "Estágio Optativo em Gestão em Saúde II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAS131",
+      "name": "Farmacogenômica e Medicina Personalizada",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FAS132",
+      "name": "Implementação e Gestão de Serviços de Gerenciamento",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FIL028",
+      "name": "Introdução a Filosofia: Ética",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FIL029",
+      "name": "Intr. a Filosofia:fil da Cien e Epistem.",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FIL030",
+      "name": "Introdução a Filosofia: Estética",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "FIS093",
+      "name": "Fundamentos de Fisica F",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "GES056",
+      "name": "Tópicos em Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "LET223",
+      "name": "Fundamentos de Libras",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MOF008",
+      "name": "Embriologia Geral",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MOF024",
+      "name": "Topicos em Neurobiologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA004",
+      "name": "Seminarios em Fitoterapia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA034",
+      "name": "Estabilidade de P.f. e Cosmeticos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA049",
+      "name": "Medicamentos Problema",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA135",
+      "name": "Farmacoterapia das Neoplasias",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA137",
+      "name": "Cálculos Farmacotécnicos",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA151",
+      "name": "Controle de Qualidade de Produtos Farmacêuticos e Cosméticos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA152",
+      "name": "Química Farmacêutica e Medicinal II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA156",
+      "name": "Farmacoterapia III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA157",
+      "name": "Controle das Infecções Relacionadas À Assistência À Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA159",
+      "name": "Do Medicamento Ao Fármaco: o Que São, o Que Fazem",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA160",
+      "name": "Estágio Optativo em Farmácia Hospitalar I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA161",
+      "name": "Estágio Optativo em Farmácia Hospitalar II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA162",
+      "name": "Estágio Optativo em Homeopatia Até 120 Horas",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA163",
+      "name": "Estágio Optativo em Homeopatia Superior a 120 Horas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA164",
+      "name": "Estágio Optativo em Indústria I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA165",
+      "name": "Estágio Optativo em Indústria II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA167",
+      "name": "Gerenciamento do Uso de Antimicrobianos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA168",
+      "name": "Introdução À Nanotecnologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA170",
+      "name": "Medicamentos Biológicos II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA171",
+      "name": "Modelagem Molecular e Química Computacional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA172",
+      "name": "Moléculas Que Mudaram a História",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA179",
+      "name": "Síntese de Fármacos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA180",
+      "name": "Homeopatia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA601",
+      "name": "Fitoquimica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PFA615",
+      "name": "Tecnologia de Cosmeticos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "QUI211",
+      "name": "Analise Espect. de Composto Organicos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "QUI296",
+      "name": "Experimentos de Físico-química",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "FAS117",
+      "prerequisite_code": "PFA173"
+    },
+    {
+      "code": "FAS117",
+      "prerequisite_code": "FAS112"
+    },
+    {
+      "code": "QUI291",
+      "prerequisite_code": "QUI203"
+    },
+    {
+      "code": "QUI291",
+      "prerequisite_code": "QUI204"
+    },
+    {
+      "code": "QUI292",
+      "prerequisite_code": "QUI203"
+    },
+    {
+      "code": "QUI292",
+      "prerequisite_code": "QUI204"
+    },
+    {
+      "code": "BIQ602",
+      "prerequisite_code": "BIQ050"
+    },
+    {
+      "code": "FAS124",
+      "prerequisite_code": "FAS117"
+    },
+    {
+      "code": "PAR026",
+      "prerequisite_code": "MOF143"
+    },
+    {
+      "code": "QUI207",
+      "prerequisite_code": "QUI203"
+    },
+    {
+      "code": "QUI207",
+      "prerequisite_code": "QUI204"
+    },
+    {
+      "code": "FIB619",
+      "prerequisite_code": "MOF143"
+    },
+    {
+      "code": "FIB619",
+      "prerequisite_code": "FIB618"
+    },
+    {
+      "code": "MIC122",
+      "prerequisite_code": "BIQ050"
+    },
+    {
+      "code": "PFA150",
+      "prerequisite_code": "QUI299"
+    },
+    {
+      "code": "QUI210",
+      "prerequisite_code": "QUI207"
+    },
+    {
+      "code": "QUI294",
+      "prerequisite_code": "QUI207"
+    },
+    {
+      "code": "FAR024",
+      "prerequisite_code": "FIB619"
+    },
+    {
+      "code": "FAR024",
+      "prerequisite_code": "BIQ050"
+    },
+    {
+      "code": "PAG611",
+      "prerequisite_code": "FIB619"
+    },
+    {
+      "code": "QUI297",
+      "prerequisite_code": "QUI291"
+    },
+    {
+      "code": "QUI297",
+      "prerequisite_code": "QUI292"
+    },
+    {
+      "code": "QUI298",
+      "prerequisite_code": "QUI291"
+    },
+    {
+      "code": "QUI298",
+      "prerequisite_code": "QUI292"
+    },
+    {
+      "code": "PAG612",
+      "prerequisite_code": "PAG611"
+    },
+    {
+      "code": "PFA158",
+      "prerequisite_code": "FAS117"
+    },
+    {
+      "code": "ACT127",
+      "prerequisite_code": "PAG612"
+    },
+    {
+      "code": "FAS114",
+      "prerequisite_code": "PFA173"
+    },
+    {
+      "code": "FAS114",
+      "prerequisite_code": "FAS011"
+    },
+    {
+      "code": "PFA175",
+      "prerequisite_code": "QUI210"
+    },
+    {
+      "code": "PFA175",
+      "prerequisite_code": "QUI294"
+    },
+    {
+      "code": "ACT124",
+      "prerequisite_code": "FAR024"
+    },
+    {
+      "code": "PFA155",
+      "prerequisite_code": "MIC122"
+    },
+    {
+      "code": "PFA174",
+      "prerequisite_code": "FAF117"
+    },
+    {
+      "code": "PFA603",
+      "prerequisite_code": "QUI298"
+    },
+    {
+      "code": "PFA603",
+      "prerequisite_code": "PFA175"
+    },
+    {
+      "code": "QUI295",
+      "prerequisite_code": "QUI297"
+    },
+    {
+      "code": "QUI295",
+      "prerequisite_code": "QUI298"
+    },
+    {
+      "code": "ACT133",
+      "prerequisite_code": "ACT127"
+    },
+    {
+      "code": "ACT133",
+      "prerequisite_code": "ACT128"
+    },
+    {
+      "code": "ALM126",
+      "prerequisite_code": "QUI298"
+    },
+    {
+      "code": "PFA028",
+      "prerequisite_code": "PFA603"
+    },
+    {
+      "code": "PFA177",
+      "prerequisite_code": "FAR024"
+    },
+    {
+      "code": "PFA177",
+      "prerequisite_code": "QUI299"
+    },
+    {
+      "code": "FAS122",
+      "prerequisite_code": "FAS114"
+    },
+    {
+      "code": "FAS122",
+      "prerequisite_code": "FAS118"
+    },
+    {
+      "code": "FAS133",
+      "prerequisite_code": "FAS113"
+    },
+    {
+      "code": "PFA029",
+      "prerequisite_code": "QUI295"
+    },
+    {
+      "code": "PFA169",
+      "prerequisite_code": "BIQ602"
+    },
+    {
+      "code": "PFA169",
+      "prerequisite_code": "BIG157"
+    },
+    {
+      "code": "PFA178",
+      "prerequisite_code": "PFA177"
+    },
+    {
+      "code": "ACT125",
+      "prerequisite_code": "FIB619"
+    },
+    {
+      "code": "ACT125",
+      "prerequisite_code": "QUI291"
+    },
+    {
+      "code": "FAF107",
+      "prerequisite_code": "ACT133"
+    },
+    {
+      "code": "FAF107",
+      "prerequisite_code": "ALM126"
+    },
+    {
+      "code": "FAS134",
+      "prerequisite_code": "FAS133"
+    },
+    {
+      "code": "PFA166",
+      "prerequisite_code": "PFA178"
+    },
+    {
+      "code": "PFA176",
+      "prerequisite_code": "PFA029"
+    },
+    {
+      "code": "PFA176",
+      "prerequisite_code": "PFA177"
+    },
+    {
+      "code": "FAF108",
+      "prerequisite_code": "PFA031"
+    },
+    {
+      "code": "FAF108",
+      "prerequisite_code": "PFA166"
+    },
+    {
+      "code": "ACT010",
+      "prerequisite_code": "ACT128"
+    },
+    {
+      "code": "ACT017",
+      "prerequisite_code": "BIG157"
+    },
+    {
+      "code": "ACT017",
+      "prerequisite_code": "BIQ058"
+    },
+    {
+      "code": "ACT018",
+      "prerequisite_code": "ACT133"
+    },
+    {
+      "code": "ACT045",
+      "prerequisite_code": "ACT127"
+    },
+    {
+      "code": "ACT067",
+      "prerequisite_code": "FAR024"
+    },
+    {
+      "code": "ACT072",
+      "prerequisite_code": "ACT128"
+    },
+    {
+      "code": "ACT077",
+      "prerequisite_code": "ACT613"
+    },
+    {
+      "code": "ACT126",
+      "prerequisite_code": "ACT125"
+    },
+    {
+      "code": "ACT132",
+      "prerequisite_code": "PAG611"
+    },
+    {
+      "code": "ACT135",
+      "prerequisite_code": "FAS012"
+    },
+    {
+      "code": "ACT136",
+      "prerequisite_code": "ACT135"
+    },
+    {
+      "code": "ACT137",
+      "prerequisite_code": "ACT128"
+    },
+    {
+      "code": "ACT139",
+      "prerequisite_code": "BIQ602"
+    },
+    {
+      "code": "ACT602",
+      "prerequisite_code": "PAG611"
+    },
+    {
+      "code": "ACT604",
+      "prerequisite_code": "ACT124"
+    },
+    {
+      "code": "ACT605",
+      "prerequisite_code": "BIQ602"
+    },
+    {
+      "code": "ACT606",
+      "prerequisite_code": "ACT128"
+    },
+    {
+      "code": "ACT613",
+      "prerequisite_code": "ACT127"
+    },
+    {
+      "code": "ALM007",
+      "prerequisite_code": "MIC122"
+    },
+    {
+      "code": "ALM028",
+      "prerequisite_code": "MIC122"
+    },
+    {
+      "code": "ALM032",
+      "prerequisite_code": "MIC122"
+    },
+    {
+      "code": "ALM039",
+      "prerequisite_code": "MIC122"
+    },
+    {
+      "code": "ALM041",
+      "prerequisite_code": "ALM126"
+    },
+    {
+      "code": "ALM058",
+      "prerequisite_code": "FAR024"
+    },
+    {
+      "code": "ALM125",
+      "prerequisite_code": "QUI207"
+    },
+    {
+      "code": "ALM127",
+      "prerequisite_code": "ALM126"
+    },
+    {
+      "code": "ALM128",
+      "prerequisite_code": "ALM126"
+    },
+    {
+      "code": "ALM138",
+      "prerequisite_code": "BIQ050"
+    },
+    {
+      "code": "BIQ058",
+      "prerequisite_code": "BIQ050"
+    },
+    {
+      "code": "FAF109",
+      "prerequisite_code": "FAF116"
+    },
+    {
+      "code": "FAF110",
+      "prerequisite_code": "FAF116"
+    },
+    {
+      "code": "FAF111",
+      "prerequisite_code": "FAF116"
+    },
+    {
+      "code": "FAF112",
+      "prerequisite_code": "FAF116"
+    },
+    {
+      "code": "FAF113",
+      "prerequisite_code": "FAF116"
+    },
+    {
+      "code": "FAS027",
+      "prerequisite_code": "FAS113"
+    },
+    {
+      "code": "FAS116",
+      "prerequisite_code": "FAS113"
+    },
+    {
+      "code": "FAS119",
+      "prerequisite_code": "FAS118"
+    },
+    {
+      "code": "FAS120",
+      "prerequisite_code": "FAS117"
+    },
+    {
+      "code": "FAS129",
+      "prerequisite_code": "FAS011"
+    },
+    {
+      "code": "FAS129",
+      "prerequisite_code": "FAS012"
+    },
+    {
+      "code": "FAS130",
+      "prerequisite_code": "FAS011"
+    },
+    {
+      "code": "FAS130",
+      "prerequisite_code": "FAS012"
+    },
+    {
+      "code": "FAS131",
+      "prerequisite_code": "FAS113"
+    },
+    {
+      "code": "FAS132",
+      "prerequisite_code": "FAS117"
+    },
+    {
+      "code": "PFA004",
+      "prerequisite_code": "PFA028"
+    },
+    {
+      "code": "PFA034",
+      "prerequisite_code": "PFA029"
+    },
+    {
+      "code": "PFA135",
+      "prerequisite_code": "PFA031"
+    },
+    {
+      "code": "PFA151",
+      "prerequisite_code": "PFA029"
+    },
+    {
+      "code": "PFA152",
+      "prerequisite_code": "PFA026"
+    },
+    {
+      "code": "PFA160",
+      "prerequisite_code": "PFA154"
+    },
+    {
+      "code": "PFA161",
+      "prerequisite_code": "PFA154"
+    },
+    {
+      "code": "PFA162",
+      "prerequisite_code": "PFA180"
+    },
+    {
+      "code": "PFA163",
+      "prerequisite_code": "PFA180"
+    },
+    {
+      "code": "PFA164",
+      "prerequisite_code": "PFA177"
+    },
+    {
+      "code": "PFA164",
+      "prerequisite_code": "QUI295"
+    },
+    {
+      "code": "PFA165",
+      "prerequisite_code": "PFA177"
+    },
+    {
+      "code": "PFA165",
+      "prerequisite_code": "QUI295"
+    },
+    {
+      "code": "PFA168",
+      "prerequisite_code": "FAR024"
+    },
+    {
+      "code": "PFA168",
+      "prerequisite_code": "QUI299"
+    },
+    {
+      "code": "PFA170",
+      "prerequisite_code": "PFA169"
+    },
+    {
+      "code": "PFA171",
+      "prerequisite_code": "QUI207"
+    },
+    {
+      "code": "PFA179",
+      "prerequisite_code": "QUI294"
+    },
+    {
+      "code": "PFA601",
+      "prerequisite_code": "PFA028"
+    },
+    {
+      "code": "PFA615",
+      "prerequisite_code": "PFA166"
+    },
+    {
+      "code": "QUI211",
+      "prerequisite_code": "QUI294"
+    }
+  ]
+}

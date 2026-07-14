@@ -1,0 +1,366 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "EEF045",
+      "name": "Tecnicas de Estudo",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "EFI041",
+      "name": "Historia e Educacao Fisica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ESP066",
+      "name": "Atividade Fisica e Saude",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ESP141",
+      "name": "Ativ Prat Monitorada: Esportes Coletivos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ESP142",
+      "name": "Ativ Prat Monitorada: Ativ Aquaticas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ESP143",
+      "name": "Antropologia e Educacao Fisica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF032",
+      "name": "Anatomia Humana Aplicada a Educ. Fisica",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "BIQ060",
+      "name": "Bioquimica Aplicada a Educacao Fisica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EEF047",
+      "name": "Atividade Academica Integradora I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EFI043",
+      "name": "Filosofia e Educacao Fisica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EFI075",
+      "name": "Ativ Prat Monitorada: Jogos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ESP144",
+      "name": "Ativ Prat Monitorada: Ginasticas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ESP145",
+      "name": "Metodologia do Ensino dos Esportes",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF001",
+      "name": "Citologia e Histologia Geral",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EFI076",
+      "name": "Educacao Fisica e Lazer",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EFI077",
+      "name": "Ativ Prat Monitorada: Dancas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ESP065",
+      "name": "Pedagogia do Esporte",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIB036",
+      "name": "Fisiologia Humana",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "PSI610",
+      "name": "Psicologia do Desenvolvimento I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EEF048",
+      "name": "Atividade Academica Integradora II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EFI049",
+      "name": "Cinesiologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EFI052",
+      "name": "Fisiologia do Exercicio",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ESP146",
+      "name": "Ativ Prat Monitorada: Lutas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "PSI611",
+      "name": "Psicologia do Desenvolvimento II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EEF049",
+      "name": "Estagio",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EFI051",
+      "name": "Comportamento Motor",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EFI078",
+      "name": "Metodologia da Pesquisa",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ESP147",
+      "name": "Biomecanica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ESP148",
+      "name": "Ativ Prat Monitorada: Atletismo",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EEF050",
+      "name": "Estagio",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EFI080",
+      "name": "Politicas Publicas de Esporte e Lazer",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ESP149",
+      "name": "Treinamento Esportivo",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ESP150",
+      "name": "Psicologia do Esporte",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ESP151",
+      "name": "Bioestatistica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EEF051",
+      "name": "Sociologia e Educacao Fisica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EEF052",
+      "name": "Estagio",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EFI081",
+      "name": "Tcc I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ESP152",
+      "name": "Musculacao",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EEF054",
+      "name": "Estagio",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ESP060",
+      "name": "Teoria da Atividade Fisica Adaptada",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EEF055",
+      "name": "Estagio",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ESP153",
+      "name": "Tcc II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "FIB036",
+      "prerequisite_code": "MOF001"
+    },
+    {
+      "code": "FIB036",
+      "prerequisite_code": "BIQ060"
+    },
+    {
+      "code": "EFI052",
+      "prerequisite_code": "FIB036"
+    },
+    {
+      "code": "ESP149",
+      "prerequisite_code": "EFI052"
+    },
+    {
+      "code": "EFI081",
+      "prerequisite_code": "EFI078"
+    },
+    {
+      "code": "ESP153",
+      "prerequisite_code": "EFI081"
+    }
+  ]
+}

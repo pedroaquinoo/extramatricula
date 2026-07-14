@@ -1,0 +1,406 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "ECN076",
+      "name": "Economia Matemática",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ECN252",
+      "name": "Introdução Às Relações Econômicas Internacionais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ECN253",
+      "name": "Introdução À Ciência Econômica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ECN254",
+      "name": "História do Sistema Econômico Internacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "HIS240",
+      "name": "História das Relações Internacionais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCP101",
+      "name": "Introducao a Analise Politica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECN080",
+      "name": "Análise Microeconômica I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECN081",
+      "name": "Fundamentos Intelectuais da Economia Política",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECN086",
+      "name": "Métodos Quantitativos Aplicados I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECN205",
+      "name": "Contabilidade Social a",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECN255",
+      "name": "História Econômica do Brasil B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DIT120",
+      "name": "Introducao Ao Direito",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECN055",
+      "name": "Economia Politica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECN079",
+      "name": "Análise Macroeconômica I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECN089",
+      "name": "Métodos Quantitativos Aplicados II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECN256",
+      "name": "Teoria de Relações Internacionais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DIP232",
+      "name": "Direito Internacional e Direitos Humanos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ECN082",
+      "name": "Análise Macroeconômica II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ECN257",
+      "name": "Economia Política Internacional I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ECN258",
+      "name": "Comércio Internacional e Crescimento",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "HIS241",
+      "name": "História da Política Exterior do Brasil",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DCP180",
+      "name": "Análise de Política Externa e Política Internacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ECN028",
+      "name": "Desenvolvimento Economico",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ECN259",
+      "name": "Economia Política Internacional II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ECN260",
+      "name": "Economia Brasileira C",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "POP019",
+      "name": "Dinâmica Demográfica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ECN084",
+      "name": "Teoria dos Jogos e Escolha Pública",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ECN203",
+      "name": "Economia Industrial",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ECN261",
+      "name": "Segurança Internacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ECN262",
+      "name": "Economia Política da América Latina",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ECN263",
+      "name": "Câmbio e Desenvolvimento",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "POP018",
+      "name": "Mobilidade Esp.pop.c.rel.internacionais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ECN087",
+      "name": "Economia Monetária e Financeira Internacional I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ECN264",
+      "name": "Instituições, Regimes e Organizações Internacionais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ECN265",
+      "name": "Sistemas Econômicos Comparados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ECN091",
+      "name": "Economia Monetária e Financeira Internacional II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ECN266",
+      "name": "Blocos Econômicos e Integração Regional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ECN267",
+      "name": "Técnicas de Pesquisa",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ECN268",
+      "name": "Monografia",
+      "description": null,
+      "credits": 16,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "ECN086",
+      "prerequisite_code": "ECN076"
+    },
+    {
+      "code": "ECN089",
+      "prerequisite_code": "ECN086"
+    },
+    {
+      "code": "ECN256",
+      "prerequisite_code": "ECN252"
+    },
+    {
+      "code": "DIP232",
+      "prerequisite_code": "DIT120"
+    },
+    {
+      "code": "ECN082",
+      "prerequisite_code": "ECN079"
+    },
+    {
+      "code": "ECN257",
+      "prerequisite_code": "ECN256"
+    },
+    {
+      "code": "ECN258",
+      "prerequisite_code": "ECN080"
+    },
+    {
+      "code": "DCP180",
+      "prerequisite_code": "DCP101"
+    },
+    {
+      "code": "ECN028",
+      "prerequisite_code": "ECN079"
+    },
+    {
+      "code": "ECN259",
+      "prerequisite_code": "ECN257"
+    },
+    {
+      "code": "ECN084",
+      "prerequisite_code": "ECN080"
+    },
+    {
+      "code": "ECN203",
+      "prerequisite_code": "ECN080"
+    },
+    {
+      "code": "ECN261",
+      "prerequisite_code": "ECN256"
+    },
+    {
+      "code": "ECN262",
+      "prerequisite_code": "ECN260"
+    },
+    {
+      "code": "POP018",
+      "prerequisite_code": "POP019"
+    },
+    {
+      "code": "ECN087",
+      "prerequisite_code": "ECN263"
+    },
+    {
+      "code": "ECN264",
+      "prerequisite_code": "ECN259"
+    },
+    {
+      "code": "ECN265",
+      "prerequisite_code": "ECN028"
+    },
+    {
+      "code": "ECN091",
+      "prerequisite_code": "ECN265"
+    },
+    {
+      "code": "ECN266",
+      "prerequisite_code": "ECN264"
+    },
+    {
+      "code": "ECN267",
+      "prerequisite_code": "ECN266"
+    },
+    {
+      "code": "ECN268",
+      "prerequisite_code": "ECN267"
+    }
+  ]
+}

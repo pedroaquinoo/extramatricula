@@ -1,0 +1,1306 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "BIG148",
+      "name": "Introducao Estudo da Genetica e Evolucao",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "BIQ062",
+      "name": "Bioquímica",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FIB037",
+      "name": "Biofísica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF052",
+      "name": "Biologia Celular",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF053",
+      "name": "Biologia do Desenvolvimento",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF054",
+      "name": "Anatomia Humana Básica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "OSP022",
+      "name": "Odontologia e Universidade",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "OSP040",
+      "name": "Ciências Sociais Articuladas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "BIQ059",
+      "name": "Imunologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "CPC026",
+      "name": "Diagnóstico Planejamento na Atenção Individual À Saúde Bucal",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIB038",
+      "name": "Fisiologia Básica",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MIC027",
+      "name": "Fundamentos da Microbiologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF055",
+      "name": "Histologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF056",
+      "name": "Anatomia Odontológica",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "OPO013",
+      "name": "Trabalho de Conclusão de Curso I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "OSP023",
+      "name": "Introdução À Epidemiologia e Bioestatística",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "CPC044",
+      "name": "Introdução À Prática Clínica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FAR032",
+      "name": "Fundamentos da Farmacologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "INU018",
+      "name": "Fundamentos da Odontologia Restauradora",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MIC028",
+      "name": "Microbiologia Aplicada À Odontologia",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ODR041",
+      "name": "Materiais Dentários I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "OPO014",
+      "name": "Prevenção Individual À Cárie e Aos Problemas de Oclusão",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "PAG016",
+      "name": "Patologia Geral",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CPC027",
+      "name": "Cirurgia Ambulatorial I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CPC028",
+      "name": "Patologia, Estomatologia e Radiologia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FAR033",
+      "name": "Farmacologia Odontológica",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "INU019",
+      "name": "Atenção Integral Ao Adolescente",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ODR042",
+      "name": "Oclusão",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "OPO015",
+      "name": "Estágio em Ações Coletivas I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CPC029",
+      "name": "Patologia, Estomatologia e Radiologia II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ODR043",
+      "name": "Dentística I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ODR044",
+      "name": "Endodontia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ODR045",
+      "name": "Práticas Laboratoriais em Restaurações Metálicas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ODR046",
+      "name": "Materiais Dentários II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "OPO016",
+      "name": "Atenção Integral À Criança I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "OSP024",
+      "name": "Integralidade do Cuidado",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CPC030",
+      "name": "Periodontia I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CPC031",
+      "name": "Cirurgia Ambulatorial II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CPC045",
+      "name": "Atenção Integral Ao Adulto I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FAO023",
+      "name": "Trabalho de Conclusão de Curso II",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ODR047",
+      "name": "Dentística II",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "OPO017",
+      "name": "Atenção Integral À Criança II",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ODR048",
+      "name": "Endodontia II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ODR049",
+      "name": "Dentística III",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ODR065",
+      "name": "Atenção Integral Ao Adulto II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "CPC032",
+      "name": "Periodontia II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ODR050",
+      "name": "Prótese Fixa I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ODR066",
+      "name": "Atenção Integral Ao Adulto e Ao Idoso",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "OSP025",
+      "name": "Estágio em Ações Coletivas II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ODR051",
+      "name": "Prótese Parcial Removível",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ODR052",
+      "name": "Prótese Total Removível",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "OSP026",
+      "name": "Organização da Prática Odontológica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CPC014",
+      "name": "Topicos Clinica, Cirurgia e Patologia",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CPC021",
+      "name": "Topicos em Implantes",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CPC022",
+      "name": "Protese Buco-maxilo-facial",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CPC023",
+      "name": "Top. em Clinica, Cirurgia e Patologia/p",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CPC033",
+      "name": "Patologia, Estomatologia e Radiologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CPC034",
+      "name": "Implantes Dentários",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CPC035",
+      "name": "Odontologia Hospitalar",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CPC036",
+      "name": "Cirurgia Oral Menor",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CPC037",
+      "name": "Práticas Integrativas Complementares",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CPC038",
+      "name": "Tópicos em Clínica, Patologia e Cirurgia Odontológica I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CPC039",
+      "name": "Tópicos em Clínica, Patologia e Cirurgia Odontológica II",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CPC040",
+      "name": "Tópicos em Clínica, Patologia e Cirurgia Odontológica III",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CPC046",
+      "name": "Urgências Odontológicas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFI601",
+      "name": "Educacao Fisica a",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFI602",
+      "name": "Educacao Fisica B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO003",
+      "name": "Programa de Iniciacao a Pesquisa I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO004",
+      "name": "Programa de Iniciacao a Pesquisa II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO005",
+      "name": "Programa de Iniciacao a Pesquisa III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO006",
+      "name": "Programa de Iniciacao a Pesquisa IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO007",
+      "name": "Programa de Iniciacao a Docencia I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO008",
+      "name": "Programa de Iniciacao a Docencia II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO009",
+      "name": "Programa de Iniciacao a Docencia III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO010",
+      "name": "Programa de Iniciacao a Docencia IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO011",
+      "name": "Programa de Extensao I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO012",
+      "name": "Programa de Extensao II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO013",
+      "name": "Programa de Extensao III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO014",
+      "name": "Programa de Extensao IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO015",
+      "name": "Programa Academico Especial I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO016",
+      "name": "Programa Academico Especial II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO017",
+      "name": "Programa Academico Especial III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO018",
+      "name": "Programa Academico Especial IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO028",
+      "name": "Trabalho de Conclusão de Curso III",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO029",
+      "name": "Tópicos em Odontologia I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO030",
+      "name": "Tópicos em Odontologia II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO031",
+      "name": "Tópicos em Odontologia III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO032",
+      "name": "Tópicos em Odontologia IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO033",
+      "name": "Discussões Temáticas",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO034",
+      "name": "Seminários",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FAO035",
+      "name": "Vivência Profissional Complementar",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "LET223",
+      "name": "Fundamentos de Libras",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ODR019",
+      "name": "Topicos em Odontologia Restauradora",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ODR033",
+      "name": "Dor Oro-facial e Oclusao",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ODR035",
+      "name": "Topicos em Estetica Restauradora",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ODR039",
+      "name": "Topicos em Odontologia Restauradora/p",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ODR040",
+      "name": "Topicos em Odontologia Restauradora",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ODR053",
+      "name": "Traumatismo Dentário I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ODR054",
+      "name": "Traumatismo Dentário II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ODR055",
+      "name": "Retratamento em Endodontia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ODR056",
+      "name": "Dor Orofacial e Oclusão",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ODR057",
+      "name": "Odontogeriatria",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ODR058",
+      "name": "Prótese Fixa II",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ODR059",
+      "name": "Prótese Sobre Implante",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ODR060",
+      "name": "Prótese Muco Implanto Suportada",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ODR061",
+      "name": "Estética",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ODR062",
+      "name": "Coroas Totais em Cerâmicas Puras",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ODR063",
+      "name": "Restaurações Inlay/onlay em Cerâmica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ODR064",
+      "name": "Endodontia Rotatórios",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OPO006",
+      "name": "Topicos em Odontopediatria e Ortodontia",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OPO012",
+      "name": "Top.em Odontopediatria e Ortodontia/p",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OPO018",
+      "name": "Tópicos em Odontopediatria",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OPO019",
+      "name": "Traumatismos Dentários na Dentição Decídua",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OPO020",
+      "name": "Odontologia Preventiva Para Bebês",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OPO021",
+      "name": "Estudos Avançados do Desenvolvimento Oclusal",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OPO022",
+      "name": "Inter. da Ortodontia Com a Fonoaudio., Otorrino. e Pediatria",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OPO023",
+      "name": "Tópicos em Ortodontia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OPO024",
+      "name": "Análise Cefalométrica: Aplicação no Diagnóstico e Pesquisa",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OPO025",
+      "name": "Aparelhos Ortodônticos Removíveis",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OPO026",
+      "name": "Noções de Odontopediatria Para Áreas Afins",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OSP012",
+      "name": "Topicos Odontologia Social e Preventiva",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OSP016",
+      "name": "Topicos em Educacao Para a Saude",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OSP021",
+      "name": "Top.em Odontologia Social e Preventiva/p",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OSP027",
+      "name": "Estágio em Ações Coletivas III",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OSP028",
+      "name": "Educação em Saúde",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OSP029",
+      "name": "Estágio Metropolitano",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OSP030",
+      "name": "Aprender a Conviver",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OSP031",
+      "name": "Integralidade do Cuidado: a Vida em Ciclos",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OSP032",
+      "name": "Promoção da Saúde e Vida Saudável",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OSP033",
+      "name": "Seminários: a Prática Profissional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OSP034",
+      "name": "Tópicos Avançados em Cariologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OSP035",
+      "name": "Perícia em Odontologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OSP036",
+      "name": "Ensino a Distância: Teleodontologia",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OSP037",
+      "name": "Organização de Serviços em S. Bucal: Experiências Relevantes",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OSP038",
+      "name": "Saúde e Ambiente",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OSP039",
+      "name": "Atenção Odont. P/ Crian./adol. Com Deficiência",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OSP041",
+      "name": "Estágio em Saúde Coletiva",
+      "description": null,
+      "credits": 20,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "BIQ059",
+      "prerequisite_code": "BIQ062"
+    },
+    {
+      "code": "BIQ059",
+      "prerequisite_code": "MOF052"
+    },
+    {
+      "code": "CPC026",
+      "prerequisite_code": "MOF054"
+    },
+    {
+      "code": "FIB038",
+      "prerequisite_code": "BIQ062"
+    },
+    {
+      "code": "FIB038",
+      "prerequisite_code": "MOF052"
+    },
+    {
+      "code": "MIC027",
+      "prerequisite_code": "BIQ062"
+    },
+    {
+      "code": "MOF055",
+      "prerequisite_code": "MOF052"
+    },
+    {
+      "code": "MOF056",
+      "prerequisite_code": "MOF054"
+    },
+    {
+      "code": "FAR032",
+      "prerequisite_code": "FIB038"
+    },
+    {
+      "code": "MIC028",
+      "prerequisite_code": "MIC027"
+    },
+    {
+      "code": "MIC028",
+      "prerequisite_code": "BIQ059"
+    },
+    {
+      "code": "PAG016",
+      "prerequisite_code": "MOF055"
+    },
+    {
+      "code": "PAG016",
+      "prerequisite_code": "FIB038"
+    },
+    {
+      "code": "CPC027",
+      "prerequisite_code": "CPC044"
+    },
+    {
+      "code": "FAR033",
+      "prerequisite_code": "FAR032"
+    },
+    {
+      "code": "ODR042",
+      "prerequisite_code": "INU018"
+    },
+    {
+      "code": "OPO015",
+      "prerequisite_code": "OSP023"
+    },
+    {
+      "code": "CPC029",
+      "prerequisite_code": "CPC028"
+    },
+    {
+      "code": "ODR043",
+      "prerequisite_code": "ODR042"
+    },
+    {
+      "code": "ODR043",
+      "prerequisite_code": "INU019"
+    },
+    {
+      "code": "ODR046",
+      "prerequisite_code": "ODR041"
+    },
+    {
+      "code": "OSP024",
+      "prerequisite_code": "INU019"
+    },
+    {
+      "code": "CPC031",
+      "prerequisite_code": "CPC027"
+    },
+    {
+      "code": "CPC045",
+      "prerequisite_code": "ODR044"
+    },
+    {
+      "code": "CPC045",
+      "prerequisite_code": "INU019"
+    },
+    {
+      "code": "FAO023",
+      "prerequisite_code": "OPO013"
+    },
+    {
+      "code": "ODR048",
+      "prerequisite_code": "ODR044"
+    },
+    {
+      "code": "ODR049",
+      "prerequisite_code": "ODR047"
+    },
+    {
+      "code": "CPC032",
+      "prerequisite_code": "CPC030"
+    },
+    {
+      "code": "ODR050",
+      "prerequisite_code": "ODR049"
+    },
+    {
+      "code": "ODR066",
+      "prerequisite_code": "ODR065"
+    },
+    {
+      "code": "OSP025",
+      "prerequisite_code": "ODR065"
+    },
+    {
+      "code": "FAO028",
+      "prerequisite_code": "FAO023"
+    },
+    {
+      "code": "OSP027",
+      "prerequisite_code": "OSP025"
+    },
+    {
+      "code": "CPC033",
+      "prerequisite_code": "CPC030"
+    },
+    {
+      "code": "CPC033",
+      "prerequisite_code": "CPC031"
+    },
+    {
+      "code": "CPC035",
+      "prerequisite_code": "CPC045"
+    },
+    {
+      "code": "CPC036",
+      "prerequisite_code": "CPC030"
+    },
+    {
+      "code": "CPC036",
+      "prerequisite_code": "CPC031"
+    },
+    {
+      "code": "ODR054",
+      "prerequisite_code": "ODR044"
+    },
+    {
+      "code": "ODR055",
+      "prerequisite_code": "ODR048"
+    },
+    {
+      "code": "ODR056",
+      "prerequisite_code": "ODR042"
+    },
+    {
+      "code": "ODR057",
+      "prerequisite_code": "ODR049"
+    },
+    {
+      "code": "ODR058",
+      "prerequisite_code": "ODR050"
+    },
+    {
+      "code": "ODR059",
+      "prerequisite_code": "ODR050"
+    },
+    {
+      "code": "ODR060",
+      "prerequisite_code": "ODR050"
+    },
+    {
+      "code": "ODR062",
+      "prerequisite_code": "ODR047"
+    },
+    {
+      "code": "ODR063",
+      "prerequisite_code": "ODR047"
+    },
+    {
+      "code": "ODR064",
+      "prerequisite_code": "ODR048"
+    },
+    {
+      "code": "OSP034",
+      "prerequisite_code": "OPO014"
+    },
+    {
+      "code": "OSP034",
+      "prerequisite_code": "INU019"
+    }
+  ]
+}

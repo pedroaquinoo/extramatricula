@@ -1,0 +1,4429 @@
+[
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Rosimar F. O."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Rosimar F. O."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Andre M. P. F."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre B. M."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TG1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Andre M. P. F."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Hormindo P. S. J."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TJ1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Hormindo P. S. J."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TK",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Juliana F. S."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TL",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marina C. A. M."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TM",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Sandro V. S. S."
+    ]
+  },
+  {
+    "course_id": "ADE066",
+    "name": "GESTÃO ESCOLAR",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Eucidio P. A."
+    ]
+  },
+  {
+    "course_id": "ADE066",
+    "name": "GESTÃO ESCOLAR",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Eucidio P. A."
+    ]
+  },
+  {
+    "course_id": "ADE066",
+    "name": "GESTÃO ESCOLAR",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Marina C. A. M."
+    ]
+  },
+  {
+    "course_id": "ADE066",
+    "name": "GESTÃO ESCOLAR",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Sandro V. S. S."
+    ]
+  },
+  {
+    "course_id": "ADE066",
+    "name": "GESTÃO ESCOLAR",
+    "availabilityCode": "TE",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Tiago A. S. J."
+    ]
+  },
+  {
+    "course_id": "BIQ041",
+    "name": "BIOQUIMICA APLICADA A EDUCACAO FISICA",
+    "availabilityCode": "PA1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ041",
+    "name": "BIOQUIMICA APLICADA A EDUCACAO FISICA",
+    "availabilityCode": "PA2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ041",
+    "name": "BIOQUIMICA APLICADA A EDUCACAO FISICA",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TA1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Tania F. R."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Maria A. A. C."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TC",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Alexandre W. B. D."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Priscila O. C."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre W. B. D."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TH",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Frederico A. C."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TK",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Brescia F. N."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TL",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TM",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre W. B. D."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TM1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TN1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TO",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre W. B. D."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Liberia R. N."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Pedro T. C."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TB1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. P."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TD",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Liberia R. N."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. P."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TE1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Raquel M. A."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Jesus A. T. M."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. P."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Maria I. A. R."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TK",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Jesus A. T. M."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TL",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Monica M. F. R."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TL1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Raquel M. A."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TL2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ivone M. M. S."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TM1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. P."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Monica Y. J."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TP",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ivone M. M. S."
+    ]
+  },
+  {
+    "course_id": "DIT121",
+    "name": "DIREITOS HUMANOS",
+    "availabilityCode": "TEF",
+    "spots": 45,
+    "times": [],
+    "teachers": [
+      "Marcella F. M. G."
+    ]
+  },
+  {
+    "course_id": "EEF021",
+    "name": "FORMACAO E ATUACAO EM EDUCACAO FISICA",
+    "availabilityCode": "TL1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Admir S. A. J."
+    ]
+  },
+  {
+    "course_id": "EEF021",
+    "name": "FORMACAO E ATUACAO EM EDUCACAO FISICA",
+    "availabilityCode": "TR1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EEF023",
+    "name": "ESTAGIO II",
+    "availabilityCode": "PSGTB",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Sarah G. T. B."
+    ]
+  },
+  {
+    "course_id": "EEF023",
+    "name": "ESTAGIO II",
+    "availabilityCode": "PSILV",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Silvia R. S. A."
+    ]
+  },
+  {
+    "course_id": "EEF023",
+    "name": "ESTAGIO II",
+    "availabilityCode": "P_ASM",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Andressa S. M."
+    ]
+  },
+  {
+    "course_id": "EEF023",
+    "name": "ESTAGIO II",
+    "availabilityCode": "P_GUS",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Gustavo H. C. P. C."
+    ]
+  },
+  {
+    "course_id": "EEF023",
+    "name": "ESTAGIO II",
+    "availabilityCode": "P_IVA",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Ivana M. S. A."
+    ]
+  },
+  {
+    "course_id": "EEF023",
+    "name": "ESTAGIO II",
+    "availabilityCode": "P_MM",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marcio M. V."
+    ]
+  },
+  {
+    "course_id": "EEF023",
+    "name": "ESTAGIO II",
+    "availabilityCode": "P_MVP",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Marcio V. P."
+    ]
+  },
+  {
+    "course_id": "EEF023",
+    "name": "ESTAGIO II",
+    "availabilityCode": "P_NMR",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Nathalia M. R."
+    ]
+  },
+  {
+    "course_id": "EEF024",
+    "name": "CRESCIMENTO E DESENVOLVIMENTO HUMANO",
+    "availabilityCode": "TR7",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Guilherme M. L."
+    ]
+  },
+  {
+    "course_id": "EEF025",
+    "name": "ESTAGIO IV",
+    "availabilityCode": "PSILV",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Silvia R. S. A."
+    ]
+  },
+  {
+    "course_id": "EEF025",
+    "name": "ESTAGIO IV",
+    "availabilityCode": "P_GUS",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Gustavo H. C. P. C."
+    ]
+  },
+  {
+    "course_id": "EEF025",
+    "name": "ESTAGIO IV",
+    "availabilityCode": "P_IVA",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Ivana M. S. A."
+    ]
+  },
+  {
+    "course_id": "EEF025",
+    "name": "ESTAGIO IV",
+    "availabilityCode": "P_LSS",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Lucas S. F."
+    ]
+  },
+  {
+    "course_id": "EEF025",
+    "name": "ESTAGIO IV",
+    "availabilityCode": "P_MM",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Marcio M. V."
+    ]
+  },
+  {
+    "course_id": "EEF025",
+    "name": "ESTAGIO IV",
+    "availabilityCode": "P_MVP",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marcio V. P."
+    ]
+  },
+  {
+    "course_id": "EEF025",
+    "name": "ESTAGIO IV",
+    "availabilityCode": "P_NMR",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marcio V. P."
+    ]
+  },
+  {
+    "course_id": "EEF025",
+    "name": "ESTAGIO IV",
+    "availabilityCode": "P_REG",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Reginaldo G."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - ASPECTOS BIOMECÂNICOS NO ENVELHECIMENTO",
+    "availabilityCode": "TABME",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Eliane C. G."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - AVALIAÇÃO EM VOLEIBOL",
+    "availabilityCode": "TAVOL",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Andre S. R."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - BIOMECÂNICA BÁSICA",
+    "availabilityCode": "TBMB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Eliane C. G."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - CICLISMO",
+    "availabilityCode": "TCICL",
+    "spots": 33,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Reginaldo G."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - CINESIOLOGIA II: DISFUNÇÕES DO MOVIMENTO",
+    "availabilityCode": "TCINE",
+    "spots": 26,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Ricardo L. C."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - COMPORTAMENTO MOTOR E TRANSTORNOS DO DESENVOLVIMENTO: TDAH, TDC, TEA E DISLEXIA",
+    "availabilityCode": "TCMTD",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Guilherme M. L."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - ESPORTE PARALÍMPICO",
+    "availabilityCode": "TESPN",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - ESPORTE PARALÍMPICO",
+    "availabilityCode": "TESPP",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - FORMAÇÃO E ATUAÇÃO EM EDUCAÇÃO FÍSICA",
+    "availabilityCode": "TFAEF",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - GENETICA APLICADA AO ESPORTE",
+    "availabilityCode": "TGAES",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Eduardo M. P."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - GESTÃO NO ESPORTE",
+    "availabilityCode": "TGESN",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Eduardo M. P."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - GESTÃO NO ESPORTE",
+    "availabilityCode": "TGESP",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Cristina C. M."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - HISTÓRIA EM QUADRINHO E EDUCAÇÃO FÍSICA ESCOLAR: POSSIBILIDADES METODOLÓGICAS",
+    "availabilityCode": "THQ",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Admir S. A. J."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - INICIAÇÃO AO BEACH TENNIS",
+    "availabilityCode": "TIBT",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Silvia R. S. A."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - INTRODUÇÃO AO LEVANTAMENTO DE PESOS",
+    "availabilityCode": "TILTP",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - PSICOLOGIA DAS ATIVIDADES FISICAS E DO ESPORTE II",
+    "availabilityCode": "TPAFE",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Cristina C. M."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - PEDAGOGIA NO ESPORTE",
+    "availabilityCode": "TPDES",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Cristina C. M."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - PREPARAÇÃO FÍSICA NO BASQUETE",
+    "availabilityCode": "TPFB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Sarah G. T. B."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - SEMINÁRIO DE ESTUDOS E PESQUISA EM POLÍTICAS PÚBLICAS DE ESPORTE E LAZER",
+    "availabilityCode": "TSEPP",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:20",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Natascha S. N. A."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - TREINAMENTO EM ATLETISMO II",
+    "availabilityCode": "TTAII",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Marcio V. P."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - TREINAMENTO EM ATLETISMO II",
+    "availabilityCode": "TTAN",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marcio V. P."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - TERMORREGULAÇÃO E EXERCÍCIO FÍSICO",
+    "availabilityCode": "TTERM",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Samuel P. W."
+    ]
+  },
+  {
+    "course_id": "EEF026",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES A - TREINAMENTO TÁTICO E TÉCNICO NO FUTEBOL",
+    "availabilityCode": "TTTTF",
+    "spots": 33,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Gibson M. P."
+    ]
+  },
+  {
+    "course_id": "EEF027",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES B - ADAPTAÇÕES MUSCULOESQUELÉTICA S NA SAÚDE E NA DOENÇA",
+    "availabilityCode": "TADAP",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "21:50"
+      }
+    ],
+    "teachers": [
+      "Dawit A. P. G."
+    ]
+  },
+  {
+    "course_id": "EEF027",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES B - TÓPICOS AVANÇADOS EM FISIOLOGIA DO EXERCÍCIO: EXERCÍCIO FÍSICO E DOENÇAS CRÔNICAS NÃO TRANSMISSÍVEIS",
+    "availabilityCode": "TAFE",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Danusa D. S."
+    ]
+  },
+  {
+    "course_id": "EEF027",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES B - ATIVIDADE FÍSICA E SAÚDE: PROJETOS SOCIAIS",
+    "availabilityCode": "TAFSN",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "21:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EEF027",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES B - ATIVIDADE FÍSICA E SAÚDE: PROJETOS SOCIAIS",
+    "availabilityCode": "TAFSP",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:30",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EEF027",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES B - CONTROLE E MONITORAMENTO DA CARGA APLICADO AO JUDÔ E JIU-JITSU",
+    "availabilityCode": "TCMJJ",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Bruno T. C."
+    ]
+  },
+  {
+    "course_id": "EEF027",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES B - TREINAMENTO ESPORTIVO LUTAS",
+    "availabilityCode": "TESPL",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "21:50"
+      }
+    ],
+    "teachers": [
+      "Bruno T. C."
+    ]
+  },
+  {
+    "course_id": "EEF027",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES B - TREINAMENTO DE FORÇA",
+    "availabilityCode": "TFOR",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Mauro H. C."
+    ]
+  },
+  {
+    "course_id": "EEF027",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES B - PLANEJAMENTO, GESTÃO E AVALIAÇÃO DE PROJETOS DE ESPORTE E LAZER",
+    "availabilityCode": "TPGAN",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "21:50"
+      }
+    ],
+    "teachers": [
+      "Natascha S. N. A."
+    ]
+  },
+  {
+    "course_id": "EEF027",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES B - PLANEJAMENTO, GESTÃO E AVALIAÇÃO DE PROJETOS DE ESPORTE E LAZER",
+    "availabilityCode": "TPGAP",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Natascha S. N. A."
+    ]
+  },
+  {
+    "course_id": "EEF027",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES B - MÉTODO PILATES- CONTROLOGIA",
+    "availabilityCode": "TPILA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:30",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Cristina C. M."
+    ]
+  },
+  {
+    "course_id": "EEF027",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES B - PREVENÇÃO E REABILITAÇÃO DE LESÕES ESPORTIVAS",
+    "availabilityCode": "TPREV",
+    "spots": 26,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "21:50"
+      }
+    ],
+    "teachers": [
+      "Ricardo L. C."
+    ]
+  },
+  {
+    "course_id": "EEF027",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES B - RELAÇÕES PESSOA- AMBIENTE, SAÚDE E NATUREZA",
+    "availabilityCode": "TRPSN",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EEF027",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES B - AVALIAÇÃO, PRESCRICAO E CONTROLE DO TREINAMENTO DE FORÇA PARA DIFERENTES PÚBLICOS",
+    "availabilityCode": "T_APC",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "21:50"
+      }
+    ],
+    "teachers": [
+      "Rodrigo C. R. D."
+    ]
+  },
+  {
+    "course_id": "EEF027",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES B - AVALIAÇÃO FÍSICA",
+    "availabilityCode": "T_AVF",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:50",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Reginaldo G."
+    ]
+  },
+  {
+    "course_id": "EEF028",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES C - AVALIAÇÃO FÍSICA",
+    "availabilityCode": "TAVF",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EEF028",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES C - BEACH TENNIS - TÓPICOS AVANÇADOS",
+    "availabilityCode": "TBT",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "11:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Silvia R. S. A."
+    ]
+  },
+  {
+    "course_id": "EEF028",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES C - EDUCAÇÃO FÍSICA ESCOLAR: DIÁLOGOS TEÓRICO- METODOLÓGICOS COM O PIBID/EF/UFMG",
+    "availabilityCode": "TEFES",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Admir S. A. J."
+    ]
+  },
+  {
+    "course_id": "EEF028",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES C - TREINAMENTO ESPORTIVO II",
+    "availabilityCode": "TESP2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EEF028",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES C - PROCESSOS PEDAGÓGICOS E TÉCNICAS DE MANIPULAÇÃO EM GINÁSTICA ARTÍSTICA",
+    "availabilityCode": "TGA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marcio M. V."
+    ]
+  },
+  {
+    "course_id": "EEF028",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES C - HISTÓRIAS DO FUTEBOL DE MULHERES",
+    "availabilityCode": "THFTM",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Christiane G. M."
+    ]
+  },
+  {
+    "course_id": "EEF028",
+    "name": "TOPICOS EM EDUCACAO FISICA E ESPORTES C - PRÁTICAS DE PREPARAÇÃO FÍSICA APLICADAS AS LUTAS DE AGARRE",
+    "availabilityCode": "TPFLA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:30",
+        "end": "17:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Bruno T. C."
+    ]
+  },
+  {
+    "course_id": "EEF044",
+    "name": "ESTAGIO I",
+    "availabilityCode": "PSGTB",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Sarah G. T. B."
+    ]
+  },
+  {
+    "course_id": "EEF044",
+    "name": "ESTAGIO I",
+    "availabilityCode": "PSILV",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Silvia R. S. A."
+    ]
+  },
+  {
+    "course_id": "EEF044",
+    "name": "ESTAGIO I",
+    "availabilityCode": "P_GUS",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Gustavo H. C. P. C."
+    ]
+  },
+  {
+    "course_id": "EEF044",
+    "name": "ESTAGIO I",
+    "availabilityCode": "P_IVA",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Ivana M. S. A."
+    ]
+  },
+  {
+    "course_id": "EEF044",
+    "name": "ESTAGIO I",
+    "availabilityCode": "P_MMV",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Marcio M. V."
+    ]
+  },
+  {
+    "course_id": "EEF044",
+    "name": "ESTAGIO I",
+    "availabilityCode": "P_MVP",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Marcio V. P."
+    ]
+  },
+  {
+    "course_id": "EEF044",
+    "name": "ESTAGIO I",
+    "availabilityCode": "P_NMR",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Nathalia M. R."
+    ]
+  },
+  {
+    "course_id": "EEF045",
+    "name": "TECNICAS DE ESTUDO",
+    "availabilityCode": "TR1",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "19:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EEF049",
+    "name": "ESTAGIO",
+    "availabilityCode": "TN5",
+    "spots": 33,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EEF051",
+    "name": "SOCIOLOGIA E EDUCACAO FISICA",
+    "availabilityCode": "TN7",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "21:50"
+      }
+    ],
+    "teachers": [
+      "Cristina C. M."
+    ]
+  },
+  {
+    "course_id": "EEF052",
+    "name": "ESTAGIO",
+    "availabilityCode": "TN7",
+    "spots": 33,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Rodrigo C. R. D."
+    ]
+  },
+  {
+    "course_id": "EEF055",
+    "name": "ESTAGIO",
+    "availabilityCode": "TN9",
+    "spots": 33,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EFI041",
+    "name": "HISTORIA E EDUCACAO FISICA",
+    "availabilityCode": "L1",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Meily A. L."
+    ]
+  },
+  {
+    "course_id": "EFI041",
+    "name": "HISTORIA E EDUCACAO FISICA",
+    "availabilityCode": "R1",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Christiane G. M."
+    ]
+  },
+  {
+    "course_id": "EFI041",
+    "name": "HISTORIA E EDUCACAO FISICA",
+    "availabilityCode": "TN1",
+    "spots": 41,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:50",
+        "end": "22:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EFI042",
+    "name": "JOGOS, BRINQUEDOS E BRINCADEIRAS",
+    "availabilityCode": "TL1",
+    "spots": 42,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Jose A. O. D."
+    ]
+  },
+  {
+    "course_id": "EFI042",
+    "name": "JOGOS, BRINQUEDOS E BRINCADEIRAS",
+    "availabilityCode": "TR1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Jose A. O. D."
+    ]
+  },
+  {
+    "course_id": "EFI043",
+    "name": "FILOSOFIA E EDUCACAO FISICA",
+    "availabilityCode": "TB2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EFI043",
+    "name": "FILOSOFIA E EDUCACAO FISICA",
+    "availabilityCode": "TL2",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Christiane G. M."
+    ]
+  },
+  {
+    "course_id": "EFI044",
+    "name": "DANCAS",
+    "availabilityCode": "L2",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Gustavo P. C."
+    ]
+  },
+  {
+    "course_id": "EFI044",
+    "name": "DANCAS",
+    "availabilityCode": "R2",
+    "spots": 37,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Gustavo P. C."
+    ]
+  },
+  {
+    "course_id": "EFI045",
+    "name": "SEMINARIO DE PESQUISA I",
+    "availabilityCode": "L2",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Natascha S. N. A."
+    ]
+  },
+  {
+    "course_id": "EFI045",
+    "name": "SEMINARIO DE PESQUISA I",
+    "availabilityCode": "R2",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Danusa D. S."
+    ]
+  },
+  {
+    "course_id": "EFI046",
+    "name": "EDUCACAO FISICA E LAZER",
+    "availabilityCode": "L3",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Denise F."
+    ]
+  },
+  {
+    "course_id": "EFI046",
+    "name": "EDUCACAO FISICA E LAZER",
+    "availabilityCode": "R3",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Flavia C. S."
+    ]
+  },
+  {
+    "course_id": "EFI047",
+    "name": "EDUCACAO FISICA, INFANCIA E JUVENTUDE",
+    "availabilityCode": "L3",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Denise F."
+    ]
+  },
+  {
+    "course_id": "EFI047",
+    "name": "EDUCACAO FISICA, INFANCIA E JUVENTUDE",
+    "availabilityCode": "R3",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EFI048",
+    "name": "EDUCACAO FISICA E VELHICE",
+    "availabilityCode": "TL3R3",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Vitor L. S. P."
+    ]
+  },
+  {
+    "course_id": "EFI049",
+    "name": "CINESIOLOGIA",
+    "availabilityCode": "TL3R3",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ricardo L. C."
+    ]
+  },
+  {
+    "course_id": "EFI050",
+    "name": "ENSINO DE EDUCACAO FISICA NA EDUCACAO INFANTIL",
+    "availabilityCode": "L4",
+    "spots": 37,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Jose A. O. D."
+    ]
+  },
+  {
+    "course_id": "EFI051",
+    "name": "COMPORTAMENTO MOTOR",
+    "availabilityCode": "TL4",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Vitor L. S. P."
+    ]
+  },
+  {
+    "course_id": "EFI051",
+    "name": "COMPORTAMENTO MOTOR",
+    "availabilityCode": "TN5",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "21:30"
+      }
+    ],
+    "teachers": [
+      "Vitor L. S. P."
+    ]
+  },
+  {
+    "course_id": "EFI051",
+    "name": "COMPORTAMENTO MOTOR",
+    "availabilityCode": "TR4",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Vitor L. S. P."
+    ]
+  },
+  {
+    "course_id": "EFI052",
+    "name": "FISIOLOGIA DO EXERCICIO",
+    "availabilityCode": "TL4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Dawit A. P. G."
+    ]
+  },
+  {
+    "course_id": "EFI052",
+    "name": "FISIOLOGIA DO EXERCICIO",
+    "availabilityCode": "TR4",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Luciano S. P."
+    ]
+  },
+  {
+    "course_id": "EFI053",
+    "name": "FORMACAO E ATUACAO PROFISSIONAL EM LAZER",
+    "availabilityCode": "R5",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Helder F. I."
+    ]
+  },
+  {
+    "course_id": "EFI054",
+    "name": "ENSINO DE EDUCACAO FISICA NO ENSINO FUNDAMENTAL E MEDIO",
+    "availabilityCode": "L5",
+    "spots": 33,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Jose A. G."
+    ]
+  },
+  {
+    "course_id": "EFI055",
+    "name": "EDUCACAO FISICA, CORPO E CULTURA",
+    "availabilityCode": "L5",
+    "spots": 33,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Meily A. L."
+    ]
+  },
+  {
+    "course_id": "EFI056",
+    "name": "ENSINO DE JOGOS, BRINQUEDOS E BRINCADEIRAS",
+    "availabilityCode": "L5",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Admir S. A. J."
+    ]
+  },
+  {
+    "course_id": "EFI057",
+    "name": "ENSINO DE DANCAS BRASILEIRAS",
+    "availabilityCode": "L6",
+    "spots": 33,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Gustavo P. C."
+    ]
+  },
+  {
+    "course_id": "EFI058",
+    "name": "ENSINO DE DANCAS CONTEMPORANEAS",
+    "availabilityCode": "L7",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Vina C."
+    ]
+  },
+  {
+    "course_id": "EFI059",
+    "name": "ESTAGIO III",
+    "availabilityCode": "P_GUS",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Gustavo H. C. P. C."
+    ]
+  },
+  {
+    "course_id": "EFI059",
+    "name": "ESTAGIO III",
+    "availabilityCode": "P_IVA",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Ivana M. S. A."
+    ]
+  },
+  {
+    "course_id": "EFI059",
+    "name": "ESTAGIO III",
+    "availabilityCode": "P_LSS",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Ivana M. S. A."
+    ]
+  },
+  {
+    "course_id": "EFI059",
+    "name": "ESTAGIO III",
+    "availabilityCode": "P_MMV",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marcio M. V."
+    ]
+  },
+  {
+    "course_id": "EFI059",
+    "name": "ESTAGIO III",
+    "availabilityCode": "P_MVP",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marcio V. P."
+    ]
+  },
+  {
+    "course_id": "EFI059",
+    "name": "ESTAGIO III",
+    "availabilityCode": "P_NMR",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Nathalia M. R."
+    ]
+  },
+  {
+    "course_id": "EFI059",
+    "name": "ESTAGIO III",
+    "availabilityCode": "P_SIL",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Silvia R. S. A."
+    ]
+  },
+  {
+    "course_id": "EFI073",
+    "name": "ANALISE DA PRATICA E ESTAGIO EM EDUCACAO FISICA II",
+    "availabilityCode": "TLJA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Vina C."
+    ]
+  },
+  {
+    "course_id": "EFI076",
+    "name": "EDUCACAO FISICA E LAZER",
+    "availabilityCode": "TN3",
+    "spots": 33,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Cleber A. G. D."
+    ]
+  },
+  {
+    "course_id": "EFI077",
+    "name": "ATIVIDADE PRATICA MONITORADA: DANCAS",
+    "availabilityCode": "PR3",
+    "spots": 33,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Vina C."
+    ]
+  },
+  {
+    "course_id": "EFI078",
+    "name": "METODOLOGIA DA PESQUISA",
+    "availabilityCode": "TN5",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:50",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Natascha S. N. A."
+    ]
+  },
+  {
+    "course_id": "ESP020",
+    "name": "SOCIOLOGIA DO ESPORTE",
+    "availabilityCode": "R4",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Cristina C. M."
+    ]
+  },
+  {
+    "course_id": "ESP042",
+    "name": "BIOMECANICA",
+    "availabilityCode": "R41",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "15:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Eliane C. G."
+    ]
+  },
+  {
+    "course_id": "ESP054",
+    "name": "ANTROPOLOGIA E EDUCACAO FISICA",
+    "availabilityCode": "TL1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Denise F."
+    ]
+  },
+  {
+    "course_id": "ESP054",
+    "name": "ANTROPOLOGIA E EDUCACAO FISICA",
+    "availabilityCode": "TR1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Denise F."
+    ]
+  },
+  {
+    "course_id": "ESP055",
+    "name": "GINASTICA",
+    "availabilityCode": "L1",
+    "spots": 41,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ivana M. S. A."
+    ]
+  },
+  {
+    "course_id": "ESP055",
+    "name": "GINASTICA",
+    "availabilityCode": "R1",
+    "spots": 42,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ivana M. S. A."
+    ]
+  },
+  {
+    "course_id": "ESP057",
+    "name": "TEORIA E PRATICA DOS ESPORTES",
+    "availabilityCode": "L2",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Sarah G. T. B."
+    ]
+  },
+  {
+    "course_id": "ESP057",
+    "name": "TEORIA E PRATICA DOS ESPORTES",
+    "availabilityCode": "R2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Gibson M. P."
+    ]
+  },
+  {
+    "course_id": "ESP058",
+    "name": "PSICOLOGIA DAS ATIVIDADES FISICAS E DO ESPORTE",
+    "availabilityCode": "TL3",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Varley T. C."
+    ]
+  },
+  {
+    "course_id": "ESP058",
+    "name": "PSICOLOGIA DAS ATIVIDADES FISICAS E DO ESPORTE",
+    "availabilityCode": "TR3",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Varley T. C."
+    ]
+  },
+  {
+    "course_id": "ESP059",
+    "name": "TEORIA DO TREINAMENTO",
+    "availabilityCode": "L3",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Fernando V. L."
+    ]
+  },
+  {
+    "course_id": "ESP059",
+    "name": "TEORIA DO TREINAMENTO",
+    "availabilityCode": "R3",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Gustavo H. C. P. C."
+    ]
+  },
+  {
+    "course_id": "ESP060",
+    "name": "TEORIA DA ATIVIDADE FISICA ADAPTADA",
+    "availabilityCode": "L3",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Andressa S. M."
+    ]
+  },
+  {
+    "course_id": "ESP060",
+    "name": "TEORIA DA ATIVIDADE FISICA ADAPTADA",
+    "availabilityCode": "R3",
+    "spots": 39,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Andressa S. M."
+    ]
+  },
+  {
+    "course_id": "ESP061",
+    "name": "CAPOEIRA",
+    "availabilityCode": "L4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Marcio M. V."
+    ]
+  },
+  {
+    "course_id": "ESP062",
+    "name": "LUTAS",
+    "availabilityCode": "L4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Maicon R. A."
+    ]
+  },
+  {
+    "course_id": "ESP063",
+    "name": "SEMINARIO DE PESQUISA II",
+    "availabilityCode": "L4",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Cesar T. C."
+    ]
+  },
+  {
+    "course_id": "ESP063",
+    "name": "SEMINARIO DE PESQUISA II",
+    "availabilityCode": "R4",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Nathalia M. R."
+    ]
+  },
+  {
+    "course_id": "ESP064",
+    "name": "TREINAMENTO ESPORTIVO I",
+    "availabilityCode": "R5",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Mauro H. C."
+    ]
+  },
+  {
+    "course_id": "ESP065",
+    "name": "PEDAGOGIA DO ESPORTE",
+    "availabilityCode": "R5",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo S. F."
+    ]
+  },
+  {
+    "course_id": "ESP065",
+    "name": "PEDAGOGIA DO ESPORTE",
+    "availabilityCode": "TR3",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "19:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Leonardo S. F."
+    ]
+  },
+  {
+    "course_id": "ESP066",
+    "name": "ATIVIDADE FISICA E SAUDE",
+    "availabilityCode": "TL5",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Reginaldo G."
+    ]
+  },
+  {
+    "course_id": "ESP066",
+    "name": "ATIVIDADE FISICA E SAUDE",
+    "availabilityCode": "TN1",
+    "spots": 38,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Gustavo H. C. P. C."
+    ]
+  },
+  {
+    "course_id": "ESP066",
+    "name": "ATIVIDADE FISICA E SAUDE",
+    "availabilityCode": "TR5",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Reginaldo G."
+    ]
+  },
+  {
+    "course_id": "ESP067",
+    "name": "ENSINO DE GINASTICA ARTISTICA",
+    "availabilityCode": "L5",
+    "spots": 33,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marcio M. V."
+    ]
+  },
+  {
+    "course_id": "ESP068",
+    "name": "ENSINO DE VOLEIBOL",
+    "availabilityCode": "L5",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Herbert U."
+    ]
+  },
+  {
+    "course_id": "ESP069",
+    "name": "ENSINO DE FUTEBOL",
+    "availabilityCode": "L5",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:20",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Eduardo M. P."
+    ]
+  },
+  {
+    "course_id": "ESP069",
+    "name": "ENSINO DE FUTEBOL",
+    "availabilityCode": "TB",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Eduardo M. P."
+    ]
+  },
+  {
+    "course_id": "ESP070",
+    "name": "MUSCULACAO",
+    "availabilityCode": "R6",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "15:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Fernando V. L."
+    ]
+  },
+  {
+    "course_id": "ESP071",
+    "name": "ENSINO DE FUTSAL",
+    "availabilityCode": "L6",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "15:10"
+      }
+    ],
+    "teachers": [
+      "Eduardo M. P."
+    ]
+  },
+  {
+    "course_id": "ESP072",
+    "name": "ENSINO DE ATLETISMO",
+    "availabilityCode": "L6",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Marcio V. P."
+    ]
+  },
+  {
+    "course_id": "ESP073",
+    "name": "ENSINO DE GINASTICA RITMICA",
+    "availabilityCode": "L6",
+    "spots": 32,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Katia L. M. L."
+    ]
+  },
+  {
+    "course_id": "ESP074",
+    "name": "TREINAMENTO ESPORTIVO II",
+    "availabilityCode": "R6",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Mauro H. C."
+    ]
+  },
+  {
+    "course_id": "ESP075",
+    "name": "AVALIACAO FISICA",
+    "availabilityCode": "R6",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Reginaldo G."
+    ]
+  },
+  {
+    "course_id": "ESP076",
+    "name": "ENSINO DE HANDEBOL",
+    "availabilityCode": "L7",
+    "spots": 29,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Lucas S. F."
+    ]
+  },
+  {
+    "course_id": "ESP077",
+    "name": "ENSINO DE BASQUETEBOL",
+    "availabilityCode": "L7",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Sarah G. T. B."
+    ]
+  },
+  {
+    "course_id": "ESP078",
+    "name": "ENSINO DE LUTAS",
+    "availabilityCode": "L7",
+    "spots": 26,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Maicon R. A."
+    ]
+  },
+  {
+    "course_id": "ESP079",
+    "name": "ENSINO DE NATACAO",
+    "availabilityCode": "L7",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Silvia R. S. A."
+    ]
+  },
+  {
+    "course_id": "ESP080",
+    "name": "SEMINARIO DE ORIENTACAO TCC I",
+    "availabilityCode": "TL7R7",
+    "spots": 73,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "14:20"
+      }
+    ],
+    "teachers": [
+      "Nathalia M. R."
+    ]
+  },
+  {
+    "course_id": "ESP081",
+    "name": "PSICOLOGIA DAS ATIVIDADES FISICAS E DO ESPORTE II",
+    "availabilityCode": "R8",
+    "spots": 32,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "15:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Franco N."
+    ]
+  },
+  {
+    "course_id": "ESP082",
+    "name": "SEMINARIO DE ORIENTACAO TCC II",
+    "availabilityCode": "TL8R8",
+    "spots": 75,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:30",
+        "end": "15:20"
+      }
+    ],
+    "teachers": [
+      "Nathalia M. R."
+    ]
+  },
+  {
+    "course_id": "ESP083",
+    "name": "ENSINO DE GINASTICA ARTISTICA",
+    "availabilityCode": "G32",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marcio M. V."
+    ]
+  },
+  {
+    "course_id": "ESP087",
+    "name": "ENSINO DE ATLETISMO",
+    "availabilityCode": "G37",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marcio V. P."
+    ]
+  },
+  {
+    "course_id": "ESP089",
+    "name": "ENSINO DE HANDEBOL",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Lucas S. F."
+    ]
+  },
+  {
+    "course_id": "ESP091",
+    "name": "ENSINO DE LUTAS",
+    "availabilityCode": "TG31",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Maicon R. A."
+    ]
+  },
+  {
+    "course_id": "ESP092",
+    "name": "ENSINO DE NATACAO",
+    "availabilityCode": "TG35",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Silvia R. S. A."
+    ]
+  },
+  {
+    "course_id": "ESP141",
+    "name": "ATIVIDADE PRATICA MONITORADA: ESPORTES COLETIVOS",
+    "availabilityCode": "PR1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Lucas S. F."
+    ]
+  },
+  {
+    "course_id": "ESP142",
+    "name": "ATIVIDADE PRATICA MONITORADA: ATIVIDADES AQUATICAS",
+    "availabilityCode": "PR1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Silvia R. S. A."
+    ]
+  },
+  {
+    "course_id": "ESP143",
+    "name": "ANTROPOLOGIA E EDUCACAO FISICA",
+    "availabilityCode": "TR1",
+    "spots": 42,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:50",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Cleber A. G. D."
+    ]
+  },
+  {
+    "course_id": "ESP147",
+    "name": "BIOMECANICA",
+    "availabilityCode": "TN5",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:50",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Eliane C. G."
+    ]
+  },
+  {
+    "course_id": "ESP148",
+    "name": "ATIVIDADE PRATICA MONITORADA: ATLETISMO",
+    "availabilityCode": "PR5",
+    "spots": 32,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Marcio V. P."
+    ]
+  },
+  {
+    "course_id": "ESP152",
+    "name": "MUSCULACAO",
+    "availabilityCode": "TN7",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "21:50"
+      }
+    ],
+    "teachers": [
+      "Rodrigo C. R. D."
+    ]
+  },
+  {
+    "course_id": "ESP153",
+    "name": "TCC II",
+    "availabilityCode": "TN9",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Nathalia M. R."
+    ]
+  },
+  {
+    "course_id": "FAE483",
+    "name": "TOPICOS DE ENSINO D - Religião, Educação e Raça",
+    "availabilityCode": "TOP1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Edgar R. B. N."
+    ]
+  },
+  {
+    "course_id": "FAE483",
+    "name": "TOPICOS DE ENSINO D - O ensinar, o aprender e suas relações",
+    "availabilityCode": "TOP2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Renata P. L. A."
+    ]
+  },
+  {
+    "course_id": "FAE483",
+    "name": "TOPICOS DE ENSINO D - História da Educação, gênero e feminismos: abordagens decoloniais e africanas",
+    "availabilityCode": "TOP3",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Renata G. C. D."
+    ]
+  },
+  {
+    "course_id": "FAE483",
+    "name": "TOPICOS DE ENSINO D - O conceito de experiência em John Dewey e uma proposta didático- metodológica com obras de arte",
+    "availabilityCode": "TOP4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "16:40"
+      }
+    ],
+    "teachers": [
+      "Debora M."
+    ]
+  },
+  {
+    "course_id": "FAE483",
+    "name": "TOPICOS DE ENSINO D - TRANSFORMAÇÃO DIDÁTICO-PEDAGÓGICA DO ESPORTE",
+    "availabilityCode": "TOP5",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Claudio M. O."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Adriana A. P. B."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Jaima P. O."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TC",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Adriana A. P. B."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Jaima P. O."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Celio S. J.",
+      "Marina A. F."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Celio S. J.",
+      "Marina A. F."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TH",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Celio S. J.",
+      "Marina A. F."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Celio S. J.",
+      "Marina A. F."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TM",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Icaro B. H."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Icaro B. H."
+    ]
+  },
+  {
+    "course_id": "FIB018",
+    "name": "FISIOLOGIA E BIOFISICA APLICADA A EDUCACAO FISICA",
+    "availabilityCode": "PA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB018",
+    "name": "FISIOLOGIA E BIOFISICA APLICADA A EDUCACAO FISICA",
+    "availabilityCode": "PA2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB018",
+    "name": "FISIOLOGIA E BIOFISICA APLICADA A EDUCACAO FISICA",
+    "availabilityCode": "PA3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB018",
+    "name": "FISIOLOGIA E BIOFISICA APLICADA A EDUCACAO FISICA",
+    "availabilityCode": "PB",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB018",
+    "name": "FISIOLOGIA E BIOFISICA APLICADA A EDUCACAO FISICA",
+    "availabilityCode": "PB2",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB018",
+    "name": "FISIOLOGIA E BIOFISICA APLICADA A EDUCACAO FISICA",
+    "availabilityCode": "PB3",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB018",
+    "name": "FISIOLOGIA E BIOFISICA APLICADA A EDUCACAO FISICA",
+    "availabilityCode": "TA1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Diogo B. P."
+    ]
+  },
+  {
+    "course_id": "FIB018",
+    "name": "FISIOLOGIA E BIOFISICA APLICADA A EDUCACAO FISICA",
+    "availabilityCode": "TB1",
+    "spots": 63,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Diogo B. P."
+    ]
+  },
+  {
+    "course_id": "FIB036",
+    "name": "FISIOLOGIA HUMANA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:35"
+      }
+    ],
+    "teachers": [
+      "Diogo B. P."
+    ]
+  },
+  {
+    "course_id": "ICB001",
+    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+    "availabilityCode": "TN1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB001",
+    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+    "availabilityCode": "TN2",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB001",
+    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+    "availabilityCode": "TR1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB001",
+    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+    "availabilityCode": "TR2",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MOF032",
+    "name": "ANATOMIA HUMANA APLICADA A EDUCACAO FISICA",
+    "availabilityCode": "PA1",
+    "spots": 42,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:30",
+        "end": "16:45"
+      },
+      {
+        "day": "Quinta",
+        "start": "15:30",
+        "end": "16:45"
+      }
+    ],
+    "teachers": [
+      "Giselle F. F.",
+      "Micena R. M. A. S."
+    ]
+  },
+  {
+    "course_id": "MOF032",
+    "name": "ANATOMIA HUMANA APLICADA A EDUCACAO FISICA",
+    "availabilityCode": "PA2",
+    "spots": 42,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:30",
+        "end": "16:45"
+      },
+      {
+        "day": "Quinta",
+        "start": "15:30",
+        "end": "16:45"
+      }
+    ],
+    "teachers": [
+      "Giselle F. F.",
+      "Micena R. M. A. S."
+    ]
+  },
+  {
+    "course_id": "MOF032",
+    "name": "ANATOMIA HUMANA APLICADA A EDUCACAO FISICA",
+    "availabilityCode": "TA",
+    "spots": 84,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:45",
+        "end": "15:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:45",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Micena R. M. A. S.",
+      "Giselle F. F."
+    ]
+  },
+  {
+    "course_id": "MOF032",
+    "name": "ANATOMIA HUMANA APLICADA A EDUCACAO FISICA",
+    "availabilityCode": "TN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Adla B. M. T."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Carmem L. E."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TC1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Carmem L. E."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Suzana S. G."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TF2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Adla B. M. T."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Suzana S. G."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TK",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Joana D. A. V."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TK1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Claudia S. B."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TL",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Analise J. S."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TL1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Claudia S. B."
+    ]
+  },
+  {
+    "course_id": "MTE199",
+    "name": "ANALISE DA PRATICA E ESTAGIO DE EDUCACAO FISICA I",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:00",
+        "end": "11:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "11:30"
+      }
+    ],
+    "teachers": [
+      "Luciano S. C.",
+      "Claudio M. O."
+    ]
+  },
+  {
+    "course_id": "MTE208",
+    "name": "ANALISE DA PRATICA E ESTAGIO EM EDUCACAO FISICA III",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:00",
+        "end": "11:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "11:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": [
+      "Andrea M."
+    ]
+  },
+  {
+    "course_id": "PSI610",
+    "name": "PSICOLOGIA DO DESENVOLVIMENTO I",
+    "availabilityCode": "TN3",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Thais B. V."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  }
+]

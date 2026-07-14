@@ -1,0 +1,390 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "DCC208",
+      "name": "Introdução À Programação de Computadores",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FIS065",
+      "name": "Fundamentos de Mecanica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FIS151",
+      "name": "Física Experimental Básica: Mecânica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FIS615",
+      "name": "Seminários: Física e Sociedade",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS003",
+      "name": "Evolucao das Ideias da Fisica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS152",
+      "name": "Fundamentos de Mecânica dos Fluidos e Termodinâmica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS154",
+      "name": "Física Experimental Básica: Termodinâmica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS616",
+      "name": "Introdução À Computação em Física",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT039",
+      "name": "Cálculo Diferencial e Integral II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS069",
+      "name": "Fundamentos de Eletromagnetismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS153",
+      "name": "Física Experimental Básica: Eletromagnetismo",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT002",
+      "name": "Calculo Diferencial e Integral III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT015",
+      "name": "Equações Diferenciais a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIS034",
+      "name": "Mecanica I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIS086",
+      "name": "Fundamentos de Oscilações,ondas e Óptica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIS091",
+      "name": "Fundamentos da Teoria da Relatividade",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIS155",
+      "name": "Física Experimental Básica - Ondas e Óptica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "MAT016",
+      "name": "Equações Diferenciais B",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FIS036",
+      "name": "Mecanica II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FIS073",
+      "name": "Introducao a Fisica Quantica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FIS618",
+      "name": "Métodos da Física Teórica I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FIS653",
+      "name": "Física Experimental: Eletromagnetismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FIS037",
+      "name": "Eletromagnetismo I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FIS120",
+      "name": "Fisica Quantica I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FIS622",
+      "name": "Estrutura da Matéria",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FIS654",
+      "name": "Física Experimental: Oscilações, Ondas e Ótica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FIS039",
+      "name": "Eletromagnetismo II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FIS627",
+      "name": "Física Experimental: Física Moderna",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FIS628",
+      "name": "Termodinâmica e Introdução À Física Estatística",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "FIS003",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS152",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS152",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "FIS154",
+      "prerequisite_code": "FIS151"
+    },
+    {
+      "code": "FIS154",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "MAT039",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "FIS153",
+      "prerequisite_code": "FIS151"
+    },
+    {
+      "code": "FIS153",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "MAT002",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "MAT015",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "FIS034",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS034",
+      "prerequisite_code": "MAT015"
+    },
+    {
+      "code": "FIS086",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "FIS086",
+      "prerequisite_code": "MAT015"
+    },
+    {
+      "code": "FIS091",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "FIS155",
+      "prerequisite_code": "FIS151"
+    },
+    {
+      "code": "FIS155",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "MAT016",
+      "prerequisite_code": "MAT015"
+    },
+    {
+      "code": "FIS036",
+      "prerequisite_code": "FIS034"
+    },
+    {
+      "code": "FIS073",
+      "prerequisite_code": "FIS086"
+    },
+    {
+      "code": "FIS618",
+      "prerequisite_code": "MAT015"
+    },
+    {
+      "code": "FIS653",
+      "prerequisite_code": "FIS086"
+    },
+    {
+      "code": "FIS653",
+      "prerequisite_code": "FIS155"
+    },
+    {
+      "code": "FIS037",
+      "prerequisite_code": "MAT002"
+    },
+    {
+      "code": "FIS037",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "FIS120",
+      "prerequisite_code": "FIS073"
+    },
+    {
+      "code": "FIS120",
+      "prerequisite_code": "FIS618"
+    },
+    {
+      "code": "FIS622",
+      "prerequisite_code": "FIS073"
+    },
+    {
+      "code": "FIS654",
+      "prerequisite_code": "FIS086"
+    },
+    {
+      "code": "FIS654",
+      "prerequisite_code": "FIS155"
+    },
+    {
+      "code": "FIS039",
+      "prerequisite_code": "FIS037"
+    },
+    {
+      "code": "FIS628",
+      "prerequisite_code": "FIS622"
+    }
+  ]
+}

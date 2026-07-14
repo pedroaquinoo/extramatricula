@@ -1,0 +1,2762 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "BIQ119",
+      "name": "Bioquímica I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "GEE060",
+      "name": "Genética",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "IMA175",
+      "name": "Anatomia Sistêmica",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MED143",
+      "name": "Introdução À Pesquisa Científica I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MED144",
+      "name": "Atendimento Pré-hospitalar e Primeiros Socorros",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF057",
+      "name": "Biologia Celular Aplicada À Medicina",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF611",
+      "name": "Embriologia Medica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MPS118",
+      "name": "Ciências Sociais Aplicadas À Saúde",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "BIQ608",
+      "name": "Imunologia Medica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIB124",
+      "name": "Biofísica e Fisiologia",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MED145",
+      "name": "Iniciação À Atenção Primária À Saúde I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MED146",
+      "name": "Tutoria",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF005",
+      "name": "Neuroanatomia Medica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF058",
+      "name": "Histofisiologia dos Sistemas Aplicada À Medicina",
+      "description": null,
+      "credits": 7,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "PSQ001",
+      "name": "Bases Humanísticas e Introdução À Psicologia Médica",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "BIQ064",
+      "name": "Bioquímica II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FAR120",
+      "name": "Farmacologia Médica I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIB125",
+      "name": "Fisiologia Médica",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MED147",
+      "name": "Iniciação À Atenção Primária À Saúde II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MIC121",
+      "name": "Microbiologia Médica",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "PAR025",
+      "name": "Parasitologia Médica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CLM145",
+      "name": "Clínica Médica I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FAR121",
+      "name": "Farmacologia Médica II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "IMA176",
+      "name": "Anatomia Topográfica e Imagem",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "MED148",
+      "name": "Iniciação À Atenção Primária À Saúde III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "MED149",
+      "name": "Introdução À Pesquisa Científica II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "PAG017",
+      "name": "Patologia Geral",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "PED035",
+      "name": "Pediatria I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "APM001",
+      "name": "Anatomia Patologica I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CIR014",
+      "name": "Cirurgia I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CLM146",
+      "name": "Clínica Médica II",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "IMA177",
+      "name": "Imagem I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "MPS119",
+      "name": "Epidemiologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "PED036",
+      "name": "Pediatria II",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "PRO075",
+      "name": "Patologia Clínica I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "PSQ002",
+      "name": "Semiologia e Nosologia Psiquiátrica",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "APM002",
+      "name": "Anatomia Patologica II",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CIR035",
+      "name": "Cirurgia II",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CLM147",
+      "name": "Clínica Médica III",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "GOB015",
+      "name": "Ginecologia Básica",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "IMA178",
+      "name": "Imagem II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "MED070",
+      "name": "Conferências de Ética e Bioética",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "PED037",
+      "name": "Pediatria III",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "PRO076",
+      "name": "Patologia Clínica II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CIR036",
+      "name": "Cirurgia III",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CLM148",
+      "name": "Clínica Médica IV",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "GOB016",
+      "name": "Obstetrícia Básica",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "MED150",
+      "name": "Ética Médica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "MPS006",
+      "name": "Saude do Trabalhador",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "PED038",
+      "name": "Pediatria IV",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "PSQ003",
+      "name": "Psicologia Médica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "APM010",
+      "name": "Medicina Legal",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "CIR037",
+      "name": "Cirurgia IV",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "CLM149",
+      "name": "Clínica Médica V",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "GOB017",
+      "name": "Atenção Primária À Saúde da Mulher",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "MED151",
+      "name": "Suporte de Vida em Urgência e Emergência",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "MPS120",
+      "name": "Política de Saúde e Planejamento",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "PED039",
+      "name": "Pediatria V",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "PSQ004",
+      "name": "Psiquiatria na Atenção Primária",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "CLM150",
+      "name": "Atenção Secundária em Dermatologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "CLM151",
+      "name": "Atenção Secundária em Neurologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "CLM152",
+      "name": "Estágio em Clínica Médica",
+      "description": null,
+      "credits": 18,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "MED152",
+      "name": "Propedêutica Contextualizada I: Clínica Médica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "MED153",
+      "name": "Propedêutica Contextualizada Ii: Clínica Pediátrica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "PED040",
+      "name": "Estágio em Clínica Pediátrica",
+      "description": null,
+      "credits": 18,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "PSQ005",
+      "name": "Interconsulta Psiquiátrica I: Clínica Médica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "PSQ006",
+      "name": "Interconsulta Psiquiátrica Ii: Pediatria",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ALO012",
+      "name": "Atenção Secundária em Reumatologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ALO013",
+      "name": "Atenção Secundária em Ortopedia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CIR025",
+      "name": "Estágio em Clínica Cirúrgica",
+      "description": null,
+      "credits": 18,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "GOB018",
+      "name": "Estágio em Ginecologia e Obstetrícia",
+      "description": null,
+      "credits": 18,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "MED154",
+      "name": "Propedêutica Contextualizada Iii: Ginecologia e Obstetrícia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "MED155",
+      "name": "Propedêutica Contextualizada Iv: Clínica Cirúrgica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OFT046",
+      "name": "Atenção Secundária em Oftalmologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "OFT047",
+      "name": "Atenção Secundária em Otorrinolaringologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 11,
+      "code": "MED156",
+      "name": "Estágio em Urgência e Emergência I",
+      "description": null,
+      "credits": 26,
+      "elective": false
+    },
+    {
+      "ref_period": 11,
+      "code": "MPS040",
+      "name": "Gestão do Sistema de Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 11,
+      "code": "MPS121",
+      "name": "Estágio em Saúde Coletiva",
+      "description": null,
+      "credits": 22,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALO002",
+      "name": "Ortopedia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALO004",
+      "name": "Reumatologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALO014",
+      "name": "Tópicos em Ortopedia a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALO015",
+      "name": "Tópicos em Ortopedia B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALO016",
+      "name": "Tópicos em Ortopedia C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALO017",
+      "name": "Tópicos em Ortopedia D",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALO018",
+      "name": "Tópicos em Reumatologia a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALO019",
+      "name": "Tópicos em Reumatologia B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALO020",
+      "name": "Tópicos em Reumatologia C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ALO021",
+      "name": "Tópicos em Reumatologia D",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "APM004",
+      "name": "Medicina Legal e Deontologia Medica II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "APM011",
+      "name": "Tópicos em Anatomia Patológica a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "APM012",
+      "name": "Tópicos em Anatomia Patológica B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "APM013",
+      "name": "Tópicos em Anatomia Patológica C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "APM014",
+      "name": "Tópicos em Anatomia Patológica D",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "APM015",
+      "name": "Patologia das Doenças Bacterianas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "APM016",
+      "name": "Patologia das Doenças Fúngicas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "APM017",
+      "name": "Patologia das Doenças Virais",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "APM018",
+      "name": "Patologia das Doenças Parasitárias",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "BIG015",
+      "name": "Topicos em Ecologia e Saude",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CIR005",
+      "name": "Anestesiologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CIR009",
+      "name": "Anatomia Cirurgica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CIR026",
+      "name": "Tópicos em Cirurgia a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CIR027",
+      "name": "Tópicos em Cirurgia B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CIR028",
+      "name": "Tópicos em Cirurgia C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CIR029",
+      "name": "Tópicos em Cirurgia D",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CIR030",
+      "name": "Cirurgia Pediátrica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CIR031",
+      "name": "Cirurgia Cardiovascular",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CIR032",
+      "name": "Abdômen Agudo Não Traumático",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CIR033",
+      "name": "Cirurgia Vascular",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CIR034",
+      "name": "Estágio de Sutura",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CIR038",
+      "name": "Coloproctologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CIR039",
+      "name": "Neurocirurgia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CIR040",
+      "name": "Urologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CLM008",
+      "name": "Dermatologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CLM009",
+      "name": "Oncologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CLM019",
+      "name": "Endocrinologia do Adulto",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CLM020",
+      "name": "Curso Bas. Interp. Eletrocard. Repouso",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CLM035",
+      "name": "Tópicos em Clínica Médica a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CLM036",
+      "name": "Tópicos em Clínica Médica B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CLM037",
+      "name": "Tópicos em Clínica Médica C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CLM038",
+      "name": "Tópicos em Clínica Médica D",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CLM039",
+      "name": "Arte Ensino Aprendizagem em Medicina",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CLM040",
+      "name": "Logosofia e Humanização na Área da Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CLM041",
+      "name": "Toxicologia Básica",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CLM042",
+      "name": "Estágio em Toxicologia Clínica",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CLM043",
+      "name": "Geriatria",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CLM044",
+      "name": "Terapêutica Clínica I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CLM045",
+      "name": "Terapêutica Clínica II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CLM046",
+      "name": "Terapêutica Clínica III",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "CLM047",
+      "name": "Terapêutica Clínica IV",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "GOB006",
+      "name": "Mastologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "GOB019",
+      "name": "Tópicos em Ginecologia e Obstetrícia a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "GOB020",
+      "name": "Tópicos em Ginecologia e Obstetrícia B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "GOB021",
+      "name": "Tópicos em Ginecologia e Obstetrícia C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "GOB022",
+      "name": "Tópicos em Ginecologia e Obstetrícia D",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "GOB023",
+      "name": "Gestação de Alto Risco",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "GOB024",
+      "name": "Informação e Decisão em Saúde",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "GOB025",
+      "name": "Medicina Fetal",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "GOB026",
+      "name": "Mindfulness e Gestão do Estresse",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "ICB001",
+      "name": "Bases Ecológicas Para o Desenvolvimento Sustentável",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "IMA005",
+      "name": "Imagem III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "IMA006",
+      "name": "Medicina Nuclear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "IMA179",
+      "name": "Tópicos em Anatomia e Imagem a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "IMA180",
+      "name": "Tópicos em Anatomia e Imagem B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "IMA181",
+      "name": "Tópicos em Anatomia e Imagem C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "IMA182",
+      "name": "Tópicos em Anatomia e Imagem D",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "LET223",
+      "name": "Fundamentos de Libras",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED007",
+      "name": "Doencas Infecciosas e Parasitarias",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED010",
+      "name": "Gastroenterologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED011",
+      "name": "Hematologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED014",
+      "name": "Neurologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED015",
+      "name": "Pneumologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED017",
+      "name": "Transplante de Orgaos e Tecidos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED020",
+      "name": "Historia da Medicina",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED049",
+      "name": "Nefrologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED050",
+      "name": "Cardiologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED157",
+      "name": "Estágio em Urgência e Emergência II",
+      "description": null,
+      "credits": 18,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED158",
+      "name": "Extensão em Saúde e Medicina",
+      "description": null,
+      "credits": 17,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED159",
+      "name": "Endoscopia do Sistema Digestivo",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED160",
+      "name": "Informática Médica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED161",
+      "name": "Estágio Curricular",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED162",
+      "name": "Atividades Acadêmicas Culturais e Esportivas a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED163",
+      "name": "Atividades Acadêmicas Culturais e Esportivas B",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED164",
+      "name": "Atividades Acadêmicas Especiais a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED165",
+      "name": "Atividades Acadêmicas Especiais B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED166",
+      "name": "Atividades Acadêmicas Especiais C",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED167",
+      "name": "Estágio Não Obrigatório a",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED168",
+      "name": "Estágio Não Obrigatório B",
+      "description": null,
+      "credits": 12,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED169",
+      "name": "Proficiência em Língua Estrangeira",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED170",
+      "name": "Participação em Eventos a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED171",
+      "name": "Participação em Eventos B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED172",
+      "name": "Participação em Liga Acadêmica a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED173",
+      "name": "Participação em Liga Acadêmica B",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED174",
+      "name": "Participação em Grupo de Estudos a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED175",
+      "name": "Participação em Grupo de Estudos B",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED176",
+      "name": "Coordenação Estudantil em Liga Acadêmica Ou Grupo de Estudo",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED177",
+      "name": "Programa de Iniciação À Docência a",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED178",
+      "name": "Programa de Iniciação À Docência B",
+      "description": null,
+      "credits": 12,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED179",
+      "name": "Programa de Iniciação À Extensão a",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED180",
+      "name": "Programa de Iniciação À Extensão B",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED181",
+      "name": "Programa de Iniciação À Pesquisa a",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED182",
+      "name": "Programa de Iniciação À Pesquisa B",
+      "description": null,
+      "credits": 12,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED183",
+      "name": "Publicação de Trabalho Científico a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED184",
+      "name": "Publicação de Trabalho Científico B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED185",
+      "name": "Publicação de Trabalho Científico C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED186",
+      "name": "Representação Estudantil a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED187",
+      "name": "Representação Estudantil B",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED188",
+      "name": "Tópicos Ead em Medicina a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED189",
+      "name": "Tópicos Ead em Medicina B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED190",
+      "name": "Tópicos Ead em Medicina C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED191",
+      "name": "Tópicos Ead em Medicina D",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED192",
+      "name": "Tópicos Especiais a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED193",
+      "name": "Tópicos Especiais B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED194",
+      "name": "Tópicos Especiais C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED195",
+      "name": "Tópicos Especiais D",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED196",
+      "name": "Tutoria B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED197",
+      "name": "Tópicos Avançados I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED198",
+      "name": "Tópicos Avançados II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED199",
+      "name": "Tópicos Avançados III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MED200",
+      "name": "Tópicos Avançados IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MPS008",
+      "name": "Sociologia Medica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MPS009",
+      "name": "Tecnica Pesq.bibl.planej.trab.cientifico",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MPS010",
+      "name": "Fundamentos Pensam.cientif.saber Medico",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MPS024",
+      "name": "Etica e Direito Medico",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MPS025",
+      "name": "Economia da Saude",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MPS034",
+      "name": "Tópicos em Saude Coletiva a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MPS035",
+      "name": "Tópicos em Saude Coletiva B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MPS036",
+      "name": "Tópicos em Saude Coletiva C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MPS037",
+      "name": "Tópicos em Saude Coletiva D",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MPS038",
+      "name": "Violência Contra a Mulher",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "MPS039",
+      "name": "Physicians Health And Medical Profession",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "OFT035",
+      "name": "Otorrinolaringologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "OFT048",
+      "name": "Tópicos em Oftalmologia a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "OFT049",
+      "name": "Tópicos em Oftalmologia B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "OFT050",
+      "name": "Tópicos em Oftalmologia C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "OFT051",
+      "name": "Tópicos em Oftalmologia D",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "OFT052",
+      "name": "Tópicos em Otorrinolaringologia a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "OFT053",
+      "name": "Tópicos em Otorrinolaringologia B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "OFT054",
+      "name": "Tópicos em Otorrinolaringologia C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "OFT055",
+      "name": "Tópicos em Otorrinolaringologia D",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "OFT056",
+      "name": "Doenças da Retina e Vítreo",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "OFT057",
+      "name": "Infecções Intraoculares",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "OFT058",
+      "name": "Otoneurologia",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "OFT059",
+      "name": "Otorrinolaringologia Pediátrica",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "OFT060",
+      "name": "Tumores dos Anexos Oculares",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "OFT061",
+      "name": "Urgência em Otorrinolaringologia",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "OFT106",
+      "name": "Oftalmologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PED015",
+      "name": "Endocrinologia Pediatrica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PED041",
+      "name": "Pneumologia Pediátrica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PED042",
+      "name": "Nefrologia Pediátrica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PED043",
+      "name": "Cardiologia Pediátrica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PED044",
+      "name": "Tópicos em Pediatria a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PED045",
+      "name": "Tópicos em Pediatria B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PED046",
+      "name": "Tópicos em Pediatria C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PED047",
+      "name": "Tópicos em Pediatria D",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PED048",
+      "name": "Gastroenterologia Pediátrica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PED049",
+      "name": "Hematologia Pediátrica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PED050",
+      "name": "Neurologia Pediátrica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PED051",
+      "name": "Educação e Saúde em Creches",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PED052",
+      "name": "Medicina do Adolescente",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PRO011",
+      "name": "Patologia Clinica III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PRO077",
+      "name": "Tópicos em Propedêutica Complementar a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PRO078",
+      "name": "Tópicos em Propedêutica Complementar B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PRO079",
+      "name": "Tópicos em Propedêutica Complementar C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PRO080",
+      "name": "Tópicos em Propedêutica Complementar D",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PRO081",
+      "name": "Coleta de Sangue Venoso Periférico",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PRO082",
+      "name": "Hemoterapia",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PSQ007",
+      "name": "Tópicos em Psiquiatria a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PSQ008",
+      "name": "Tópicos em Psiquiatria B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PSQ009",
+      "name": "Tópicos em Psiquiatria C",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PSQ010",
+      "name": "Tópicos em Psiquiatria D",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PSQ011",
+      "name": "Farmacologia do Sistema Nervoso Central",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PSQ012",
+      "name": "Ciência Cognitiva e Aprendizagem Escolar",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PSQ013",
+      "name": "Empreendedorismo e Inovação em Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 12,
+      "code": "PSQ014",
+      "name": "Medicina do Sono",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "BIQ608",
+      "prerequisite_code": "MOF057"
+    },
+    {
+      "code": "BIQ608",
+      "prerequisite_code": "BIQ119"
+    },
+    {
+      "code": "FIB124",
+      "prerequisite_code": "BIQ119"
+    },
+    {
+      "code": "FIB124",
+      "prerequisite_code": "IMA175"
+    },
+    {
+      "code": "BIQ064",
+      "prerequisite_code": "FIB124"
+    },
+    {
+      "code": "FAR120",
+      "prerequisite_code": "FIB124"
+    },
+    {
+      "code": "FIB125",
+      "prerequisite_code": "MOF058"
+    },
+    {
+      "code": "FIB125",
+      "prerequisite_code": "FIB124"
+    },
+    {
+      "code": "MED147",
+      "prerequisite_code": "MED145"
+    },
+    {
+      "code": "MIC121",
+      "prerequisite_code": "BIQ608"
+    },
+    {
+      "code": "PAR025",
+      "prerequisite_code": "MOF058"
+    },
+    {
+      "code": "PAR025",
+      "prerequisite_code": "BIQ608"
+    },
+    {
+      "code": "CLM145",
+      "prerequisite_code": "FIB125"
+    },
+    {
+      "code": "FAR121",
+      "prerequisite_code": "FIB125"
+    },
+    {
+      "code": "FAR121",
+      "prerequisite_code": "FAR120"
+    },
+    {
+      "code": "IMA176",
+      "prerequisite_code": "IMA175"
+    },
+    {
+      "code": "IMA176",
+      "prerequisite_code": "FIB125"
+    },
+    {
+      "code": "MED149",
+      "prerequisite_code": "MED143"
+    },
+    {
+      "code": "PED035",
+      "prerequisite_code": "FIB125"
+    },
+    {
+      "code": "APM001",
+      "prerequisite_code": "PAG017"
+    },
+    {
+      "code": "CIR014",
+      "prerequisite_code": "PED035"
+    },
+    {
+      "code": "CIR014",
+      "prerequisite_code": "IMA176"
+    },
+    {
+      "code": "CLM146",
+      "prerequisite_code": "CLM145"
+    },
+    {
+      "code": "PED036",
+      "prerequisite_code": "PED035"
+    },
+    {
+      "code": "APM002",
+      "prerequisite_code": "APM001"
+    },
+    {
+      "code": "CIR035",
+      "prerequisite_code": "CIR014"
+    },
+    {
+      "code": "CLM147",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "GOB015",
+      "prerequisite_code": "FAR121"
+    },
+    {
+      "code": "IMA178",
+      "prerequisite_code": "IMA177"
+    },
+    {
+      "code": "PRO076",
+      "prerequisite_code": "PRO075"
+    },
+    {
+      "code": "CIR036",
+      "prerequisite_code": "CIR035"
+    },
+    {
+      "code": "CLM148",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "GOB016",
+      "prerequisite_code": "GOB015"
+    },
+    {
+      "code": "MPS006",
+      "prerequisite_code": "MPS119"
+    },
+    {
+      "code": "PED038",
+      "prerequisite_code": "PED037"
+    },
+    {
+      "code": "PSQ003",
+      "prerequisite_code": "PSQ002"
+    },
+    {
+      "code": "APM010",
+      "prerequisite_code": "MED150"
+    },
+    {
+      "code": "CIR037",
+      "prerequisite_code": "CIR036"
+    },
+    {
+      "code": "CLM149",
+      "prerequisite_code": "CLM148"
+    },
+    {
+      "code": "GOB017",
+      "prerequisite_code": "GOB016"
+    },
+    {
+      "code": "MED151",
+      "prerequisite_code": "MED144"
+    },
+    {
+      "code": "MPS120",
+      "prerequisite_code": "MPS119"
+    },
+    {
+      "code": "PED039",
+      "prerequisite_code": "PED038"
+    },
+    {
+      "code": "CLM150",
+      "prerequisite_code": "CLM149"
+    },
+    {
+      "code": "CLM151",
+      "prerequisite_code": "CLM149"
+    },
+    {
+      "code": "CLM152",
+      "prerequisite_code": "CLM149"
+    },
+    {
+      "code": "MED152",
+      "prerequisite_code": "IMA178"
+    },
+    {
+      "code": "MED153",
+      "prerequisite_code": "PED039"
+    },
+    {
+      "code": "PED040",
+      "prerequisite_code": "PED039"
+    },
+    {
+      "code": "PSQ005",
+      "prerequisite_code": "PSQ004"
+    },
+    {
+      "code": "PSQ006",
+      "prerequisite_code": "PSQ004"
+    },
+    {
+      "code": "ALO012",
+      "prerequisite_code": "CLM149"
+    },
+    {
+      "code": "ALO013",
+      "prerequisite_code": "CLM149"
+    },
+    {
+      "code": "ALO013",
+      "prerequisite_code": "CIR036"
+    },
+    {
+      "code": "CIR025",
+      "prerequisite_code": "CIR037"
+    },
+    {
+      "code": "GOB018",
+      "prerequisite_code": "GOB017"
+    },
+    {
+      "code": "MED154",
+      "prerequisite_code": "IMA178"
+    },
+    {
+      "code": "MED155",
+      "prerequisite_code": "CIR037"
+    },
+    {
+      "code": "OFT046",
+      "prerequisite_code": "CLM149"
+    },
+    {
+      "code": "OFT046",
+      "prerequisite_code": "CIR036"
+    },
+    {
+      "code": "OFT047",
+      "prerequisite_code": "CLM149"
+    },
+    {
+      "code": "OFT047",
+      "prerequisite_code": "CIR036"
+    },
+    {
+      "code": "MED156",
+      "prerequisite_code": "ALO012"
+    },
+    {
+      "code": "MED156",
+      "prerequisite_code": "ALO013"
+    },
+    {
+      "code": "MPS040",
+      "prerequisite_code": "MPS120"
+    },
+    {
+      "code": "MED157",
+      "prerequisite_code": "ALO012"
+    },
+    {
+      "code": "MED157",
+      "prerequisite_code": "ALO013"
+    },
+    {
+      "code": "MED158",
+      "prerequisite_code": "GOB018"
+    },
+    {
+      "code": "ALO002",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "ALO004",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "ALO014",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "ALO015",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "ALO016",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "ALO017",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "ALO018",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "ALO018",
+      "prerequisite_code": "PRO075"
+    },
+    {
+      "code": "ALO019",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "ALO019",
+      "prerequisite_code": "PRO075"
+    },
+    {
+      "code": "ALO020",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "ALO020",
+      "prerequisite_code": "PRO075"
+    },
+    {
+      "code": "ALO021",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "ALO021",
+      "prerequisite_code": "PRO075"
+    },
+    {
+      "code": "APM011",
+      "prerequisite_code": "APM001"
+    },
+    {
+      "code": "APM012",
+      "prerequisite_code": "APM001"
+    },
+    {
+      "code": "APM013",
+      "prerequisite_code": "APM001"
+    },
+    {
+      "code": "APM014",
+      "prerequisite_code": "APM001"
+    },
+    {
+      "code": "APM015",
+      "prerequisite_code": "APM001"
+    },
+    {
+      "code": "APM015",
+      "prerequisite_code": "APM002"
+    },
+    {
+      "code": "APM016",
+      "prerequisite_code": "APM001"
+    },
+    {
+      "code": "APM016",
+      "prerequisite_code": "APM002"
+    },
+    {
+      "code": "APM017",
+      "prerequisite_code": "APM001"
+    },
+    {
+      "code": "APM017",
+      "prerequisite_code": "APM002"
+    },
+    {
+      "code": "APM018",
+      "prerequisite_code": "APM001"
+    },
+    {
+      "code": "APM018",
+      "prerequisite_code": "APM002"
+    },
+    {
+      "code": "CIR005",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "CIR009",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "CIR026",
+      "prerequisite_code": "CIR014"
+    },
+    {
+      "code": "CIR027",
+      "prerequisite_code": "CIR014"
+    },
+    {
+      "code": "CIR028",
+      "prerequisite_code": "CIR014"
+    },
+    {
+      "code": "CIR029",
+      "prerequisite_code": "CIR014"
+    },
+    {
+      "code": "CIR031",
+      "prerequisite_code": "APM002"
+    },
+    {
+      "code": "CIR031",
+      "prerequisite_code": "FIB125"
+    },
+    {
+      "code": "CIR032",
+      "prerequisite_code": "CIR035"
+    },
+    {
+      "code": "CIR032",
+      "prerequisite_code": "CIR014"
+    },
+    {
+      "code": "CIR033",
+      "prerequisite_code": "CIR014"
+    },
+    {
+      "code": "CIR034",
+      "prerequisite_code": "CIR014"
+    },
+    {
+      "code": "CIR038",
+      "prerequisite_code": "CIR014"
+    },
+    {
+      "code": "CIR039",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "CIR040",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "CLM008",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "CLM009",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "CLM019",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "CLM020",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "CLM035",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "CLM036",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "CLM037",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "CLM038",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "CLM041",
+      "prerequisite_code": "CLM148"
+    },
+    {
+      "code": "CLM042",
+      "prerequisite_code": "CLM148"
+    },
+    {
+      "code": "CLM043",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "CLM045",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "CLM046",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "CLM047",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "GOB006",
+      "prerequisite_code": "GOB015"
+    },
+    {
+      "code": "GOB019",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "GOB020",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "GOB021",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "GOB022",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "GOB023",
+      "prerequisite_code": "GOB016"
+    },
+    {
+      "code": "GOB025",
+      "prerequisite_code": "GOB016"
+    },
+    {
+      "code": "IMA005",
+      "prerequisite_code": "IMA178"
+    },
+    {
+      "code": "IMA006",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "MED007",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "MED010",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "MED011",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "MED014",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "MED015",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "MED017",
+      "prerequisite_code": "CIR014"
+    },
+    {
+      "code": "MED049",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "MED050",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "MED159",
+      "prerequisite_code": "CLM147"
+    },
+    {
+      "code": "MED160",
+      "prerequisite_code": "MPS119"
+    },
+    {
+      "code": "MED161",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "MED196",
+      "prerequisite_code": "MED146"
+    },
+    {
+      "code": "MPS008",
+      "prerequisite_code": "MPS118"
+    },
+    {
+      "code": "MPS010",
+      "prerequisite_code": "MPS118"
+    },
+    {
+      "code": "MPS024",
+      "prerequisite_code": "PED035"
+    },
+    {
+      "code": "OFT035",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "OFT048",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "OFT049",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "OFT050",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "OFT051",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "OFT052",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "OFT053",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "OFT054",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "OFT055",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "OFT056",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "OFT057",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "OFT058",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "OFT059",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "OFT060",
+      "prerequisite_code": "PED037"
+    },
+    {
+      "code": "OFT061",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "OFT106",
+      "prerequisite_code": "CLM146"
+    },
+    {
+      "code": "PED015",
+      "prerequisite_code": "PED037"
+    },
+    {
+      "code": "PED041",
+      "prerequisite_code": "PED036"
+    },
+    {
+      "code": "PED042",
+      "prerequisite_code": "PED036"
+    },
+    {
+      "code": "PED043",
+      "prerequisite_code": "PED036"
+    },
+    {
+      "code": "PED044",
+      "prerequisite_code": "PED036"
+    },
+    {
+      "code": "PED045",
+      "prerequisite_code": "PED036"
+    },
+    {
+      "code": "PED046",
+      "prerequisite_code": "PED036"
+    },
+    {
+      "code": "PED047",
+      "prerequisite_code": "PED036"
+    },
+    {
+      "code": "PED048",
+      "prerequisite_code": "PED036"
+    },
+    {
+      "code": "PED049",
+      "prerequisite_code": "PED036"
+    },
+    {
+      "code": "PED050",
+      "prerequisite_code": "PED036"
+    },
+    {
+      "code": "PED051",
+      "prerequisite_code": "PED036"
+    },
+    {
+      "code": "PED052",
+      "prerequisite_code": "PED037"
+    },
+    {
+      "code": "PRO011",
+      "prerequisite_code": "PRO076"
+    },
+    {
+      "code": "PRO081",
+      "prerequisite_code": "PRO076"
+    },
+    {
+      "code": "PRO082",
+      "prerequisite_code": "PRO076"
+    },
+    {
+      "code": "PSQ011",
+      "prerequisite_code": "PSQ002"
+    },
+    {
+      "code": "PSQ011",
+      "prerequisite_code": "FAR121"
+    }
+  ]
+}

@@ -1,0 +1,1374 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "ACR609",
+      "name": "Introdução À Análise Crítica da Arquitetura e do Urbanismo",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ARQ112",
+      "name": "Oficina de Integração de Saberes I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "PRJ098",
+      "name": "Fundamentos Para o Projeto de Arquitetura e Urbanismo I",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "TAU521",
+      "name": "Introdução Ao Conforto Ambiental",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "URB605",
+      "name": "Introdução Ao Urbanismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ARQ113",
+      "name": "Oficina de Integração de Saberes II",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "CRT614",
+      "name": "Cartografia e Topografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DSO011",
+      "name": "Estudos Sociais: Espaço e Sociedade",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "PRJ099",
+      "name": "Fundamentos Para o Projeto de Arquitetura e Urbanismo II",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "TAU522",
+      "name": "Modelagem dos Sistemas Estruturais",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ACR610",
+      "name": "História da Arquitetura e do Urbanismo I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ACR611",
+      "name": "Estética",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EES631",
+      "name": "Análise Estrutural",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "TAU523",
+      "name": "Materiais de Construção I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "TAU524",
+      "name": "Legislação e Prática Profissional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "TAU525",
+      "name": "Conforto Térmico",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "URB606",
+      "name": "Sistemas de Informações Aplicadas Ao Planejamento Territoria",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ACR612",
+      "name": "História da Arquitetura e do Urbanismo II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ACR613",
+      "name": "Teoria Urbana",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EES632",
+      "name": "Resistência dos Materiais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EHR039",
+      "name": "Instalações Hidráulico-sanitárias Prediais",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "TAU526",
+      "name": "Materiais de Construção II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "URB607",
+      "name": "História do Urbanismo e da Urbanização",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ACR614",
+      "name": "História da Arquitetura e do Urbanismo III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ACR615",
+      "name": "Arquitetura Brasileira",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ARQ114",
+      "name": "Seminário de Portfólio I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ELE017",
+      "name": "Instal. Prediais Elet. e de Comunicacoes",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "TAU527",
+      "name": "Técnicas Retrospectivas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "TAU528",
+      "name": "Materiais de Construção III",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "TAU529",
+      "name": "Concepção Estrutural",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ACR023",
+      "name": "Patrimonio Cultural",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ACR616",
+      "name": "História da Arquitetura e do Urbanismo IV",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ESA618",
+      "name": "Saneamento e Estudos Ambientais",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "TAU530",
+      "name": "Conforto Acústico",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ACR617",
+      "name": "Teoria da Arquitetura",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ARQ115",
+      "name": "Seminário de Portfólio II",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "TAU531",
+      "name": "Tecnologia da Construção",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "TAU532",
+      "name": "Planejamento de Obras",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ARQ116",
+      "name": "Estágio Supervisionado Obrigatório",
+      "description": null,
+      "credits": 24,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ARQ117",
+      "name": "Introdução Ao Trabalho de Conclusão de Curso",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ACR618",
+      "name": "Tópicos em Teoria da Arquitetura",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ACR619",
+      "name": "Tópicos em Patrimônio Cultural",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ACR620",
+      "name": "Tópicos Extensionistas em Teoria da Arquitetura",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ACR621",
+      "name": "Tópicos em Arquitetura Brasileira",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ACR622",
+      "name": "Tópicos Extensionistas em Patrimônio Cultural",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ACR623",
+      "name": "Tópicos em História da Arquitetura",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ACR624",
+      "name": "Tópicos Extensionistas em História da Arquitetura",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ACR625",
+      "name": "Tópicos em Análise Crítica da Arquitetura, Cidade e Cultura",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ACR626",
+      "name": "Tópicos Extensionistas em Arquitetura",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ACR628",
+      "name": "Tópicos Extensionistas em Análise Crítica da Arquitetura, Ci",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ017",
+      "name": "Of. Tematica de Concursos de Arq. e Urb.",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ118",
+      "name": "Trabalho de Conclusão de Curso",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ119",
+      "name": "Oficina Integrada",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ120",
+      "name": "Oficina Integrada Extensionista",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ121",
+      "name": "Espaço Virtual",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ122",
+      "name": "Estudio Colaborativo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ123",
+      "name": "Participação em Evento Científico I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ124",
+      "name": "Participação em Evento Científico II",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ125",
+      "name": "Participação em Ações Institucionais de Extensão I",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ126",
+      "name": "Participação em Ações Institucionais de Extensão II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ127",
+      "name": "Participação em Ações Institucionais de Extensão III",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ128",
+      "name": "Participação em Projetos Institucionais de Pesquisa",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ129",
+      "name": "Viagem de Estudos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ130",
+      "name": "Viagem de Estudos Extensionista I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ131",
+      "name": "Viagem de Estudos Extensionista II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ132",
+      "name": "Estágio Curricular Supervisionado Não Obrigatório",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ133",
+      "name": "Cátedra Arquisur",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ134",
+      "name": "Participação em Projetos Institucionais de Monitoria",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ135",
+      "name": "Oficina Temática Integrada",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ARQ136",
+      "name": "Oficina Temática Integrada Extensionista",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EES633",
+      "name": "Estruturas de Concreto Armado",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EES634",
+      "name": "Estruturas de Aço",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EES635",
+      "name": "Estruturas de Madeira",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EES636",
+      "name": "Sistemas Estruturais Aplicados À Arquitetura",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EES637",
+      "name": "Sistemas Estruturais Industrializados",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EES638",
+      "name": "Estruturas Aplicadas em Projetos de",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EES639",
+      "name": "Segurança Contra Incêndio em Edifícios",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ETG053",
+      "name": "Contenções e Fundações",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ETG054",
+      "name": "Transporte Urbano",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ETG055",
+      "name": "Tópicos Especiais em Transporte Urbano",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "GEL670",
+      "name": "Geologia Urbana",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "GEO079",
+      "name": "Geografia Urbana",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "GEO688",
+      "name": "Geografia Urbana",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICB001",
+      "name": "Bases Ecológicas Para o Desenvolvimento Sustentável",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "LET223",
+      "name": "Fundamentos de Libras",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "PRJ100",
+      "name": "Projeto de Arquitetura e Urbanismo a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "PRJ101",
+      "name": "Projeto de Arquitetura e Urbanismo a - Extensionista",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "PRJ102",
+      "name": "Projeto de Arquitetura e Urbanismo B",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "PRJ103",
+      "name": "Projeto de Arquitetura e Urbanismo B - Extensionista",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "PRJ104",
+      "name": "Tópicos em Projeto",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "PRJ105",
+      "name": "Tópicos em Teoria Projeto",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "PRJ106",
+      "name": "Tópicos em Instrumentação Para o Projeto",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU533",
+      "name": "Oficina Temática de Construção Com Terra",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU534",
+      "name": "Oficina Temática em Construção Industrializada",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU535",
+      "name": "Oficina Temática de Sustentabilidade na Construção",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU536",
+      "name": "Oficina Temática em Conforto Ambiental",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU537",
+      "name": "Patologia das Edificações e Coleções",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU538",
+      "name": "Orçamento e Gerenciamento de Obras",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU539",
+      "name": "Canteiro Experimental",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU540",
+      "name": "Ciência do Incêndio",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU541",
+      "name": "Iluminação Natural e Artificial",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU542",
+      "name": "Conforto Térmico em Áreas Urbanas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU543",
+      "name": "Acústica de Ambientes",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU544",
+      "name": "Etiqueta Procel - Edificações Comerciais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU545",
+      "name": "Etiqueta Procel - Edificações Residenciais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU546",
+      "name": "Tópicos em Conforto Ambiental I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU547",
+      "name": "Tópicos em Conforto Ambiental II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU548",
+      "name": "Tópicos em Tecnologia da Construção I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU549",
+      "name": "Tópicos em Tecnologia da Construção II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU560",
+      "name": "Tópicos em Tecnologia da Construção III",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU561",
+      "name": "Tópicos em Conforto Ambiental I - Extensionista",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU562",
+      "name": "Tópicos em Conforto Ambiental II - Extensionista",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU563",
+      "name": "Tópicos em Tecnologia da Construção I - Extensionista",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU564",
+      "name": "Tópicos em Tecnologia da Construção II - Extensionista",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TAU565",
+      "name": "Tópicos em Tecnologia da Construção III - Extensionista",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "URB608",
+      "name": "Oficina de Projeto e Planejamento Urbano",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "URB609",
+      "name": "Oficina Extensionista de Urbanismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "URB610",
+      "name": "Oficina Temática de Urbanismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "URB611",
+      "name": "Práticas de Investigação Urbana",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "URB612",
+      "name": "Práticas Extensionistas de Investigação Urbana",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "URB613",
+      "name": "Tópicos em Estudos Urbanos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "ARQ113",
+      "prerequisite_code": "ARQ112"
+    },
+    {
+      "code": "PRJ099",
+      "prerequisite_code": "PRJ098"
+    },
+    {
+      "code": "ACR610",
+      "prerequisite_code": "ACR609"
+    },
+    {
+      "code": "ACR611",
+      "prerequisite_code": "ACR609"
+    },
+    {
+      "code": "EES631",
+      "prerequisite_code": "TAU522"
+    },
+    {
+      "code": "TAU525",
+      "prerequisite_code": "TAU521"
+    },
+    {
+      "code": "URB606",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "ACR612",
+      "prerequisite_code": "ACR610"
+    },
+    {
+      "code": "ACR613",
+      "prerequisite_code": "ACR609"
+    },
+    {
+      "code": "EES632",
+      "prerequisite_code": "EES631"
+    },
+    {
+      "code": "TAU526",
+      "prerequisite_code": "TAU523"
+    },
+    {
+      "code": "URB607",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "ACR614",
+      "prerequisite_code": "ACR612"
+    },
+    {
+      "code": "ACR615",
+      "prerequisite_code": "ACR612"
+    },
+    {
+      "code": "TAU527",
+      "prerequisite_code": "TAU523"
+    },
+    {
+      "code": "TAU528",
+      "prerequisite_code": "TAU526"
+    },
+    {
+      "code": "TAU529",
+      "prerequisite_code": "EES632"
+    },
+    {
+      "code": "ACR023",
+      "prerequisite_code": "ACR615"
+    },
+    {
+      "code": "ACR616",
+      "prerequisite_code": "ACR614"
+    },
+    {
+      "code": "TAU530",
+      "prerequisite_code": "TAU525"
+    },
+    {
+      "code": "ACR617",
+      "prerequisite_code": "ACR616"
+    },
+    {
+      "code": "TAU531",
+      "prerequisite_code": "TAU528"
+    },
+    {
+      "code": "TAU532",
+      "prerequisite_code": "TAU528"
+    },
+    {
+      "code": "ARQ116",
+      "prerequisite_code": "ESA618"
+    },
+    {
+      "code": "ARQ118",
+      "prerequisite_code": "ARQ117"
+    },
+    {
+      "code": "ACR618",
+      "prerequisite_code": "ACR617"
+    },
+    {
+      "code": "ACR619",
+      "prerequisite_code": "ACR023"
+    },
+    {
+      "code": "ACR620",
+      "prerequisite_code": "ACR617"
+    },
+    {
+      "code": "ACR621",
+      "prerequisite_code": "ACR615"
+    },
+    {
+      "code": "ACR622",
+      "prerequisite_code": "ACR023"
+    },
+    {
+      "code": "ACR623",
+      "prerequisite_code": "ACR610"
+    },
+    {
+      "code": "ACR624",
+      "prerequisite_code": "ACR609"
+    },
+    {
+      "code": "ACR625",
+      "prerequisite_code": "ACR609"
+    },
+    {
+      "code": "ACR626",
+      "prerequisite_code": "ACR615"
+    },
+    {
+      "code": "ACR628",
+      "prerequisite_code": "ACR609"
+    },
+    {
+      "code": "ARQ017",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "ARQ017",
+      "prerequisite_code": "PRJ099"
+    },
+    {
+      "code": "ARQ119",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "ARQ119",
+      "prerequisite_code": "PRJ099"
+    },
+    {
+      "code": "ARQ120",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "ARQ120",
+      "prerequisite_code": "PRJ099"
+    },
+    {
+      "code": "ARQ121",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "ARQ121",
+      "prerequisite_code": "PRJ099"
+    },
+    {
+      "code": "ARQ122",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "ARQ122",
+      "prerequisite_code": "PRJ099"
+    },
+    {
+      "code": "ARQ132",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "ARQ132",
+      "prerequisite_code": "PRJ099"
+    },
+    {
+      "code": "ARQ133",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "ARQ133",
+      "prerequisite_code": "PRJ099"
+    },
+    {
+      "code": "ARQ135",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "ARQ135",
+      "prerequisite_code": "PRJ099"
+    },
+    {
+      "code": "ARQ136",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "ARQ136",
+      "prerequisite_code": "PRJ099"
+    },
+    {
+      "code": "EES633",
+      "prerequisite_code": "TAU529"
+    },
+    {
+      "code": "EES634",
+      "prerequisite_code": "TAU529"
+    },
+    {
+      "code": "EES635",
+      "prerequisite_code": "TAU529"
+    },
+    {
+      "code": "EES636",
+      "prerequisite_code": "TAU529"
+    },
+    {
+      "code": "EES637",
+      "prerequisite_code": "TAU529"
+    },
+    {
+      "code": "EES638",
+      "prerequisite_code": "TAU529"
+    },
+    {
+      "code": "EES639",
+      "prerequisite_code": "TAU529"
+    },
+    {
+      "code": "ETG053",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "ETG054",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "ETG055",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "GEO079",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "GEO688",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "PRJ100",
+      "prerequisite_code": "PRJ099"
+    },
+    {
+      "code": "PRJ101",
+      "prerequisite_code": "PRJ099"
+    },
+    {
+      "code": "PRJ102",
+      "prerequisite_code": "PRJ099"
+    },
+    {
+      "code": "PRJ103",
+      "prerequisite_code": "PRJ099"
+    },
+    {
+      "code": "PRJ104",
+      "prerequisite_code": "PRJ099"
+    },
+    {
+      "code": "TAU533",
+      "prerequisite_code": "TAU523"
+    },
+    {
+      "code": "TAU534",
+      "prerequisite_code": "TAU528"
+    },
+    {
+      "code": "TAU535",
+      "prerequisite_code": "TAU523"
+    },
+    {
+      "code": "TAU536",
+      "prerequisite_code": "TAU525"
+    },
+    {
+      "code": "TAU537",
+      "prerequisite_code": "TAU528"
+    },
+    {
+      "code": "TAU538",
+      "prerequisite_code": "TAU528"
+    },
+    {
+      "code": "TAU539",
+      "prerequisite_code": "TAU523"
+    },
+    {
+      "code": "TAU540",
+      "prerequisite_code": "TAU523"
+    },
+    {
+      "code": "TAU541",
+      "prerequisite_code": "TAU525"
+    },
+    {
+      "code": "TAU542",
+      "prerequisite_code": "TAU525"
+    },
+    {
+      "code": "TAU543",
+      "prerequisite_code": "TAU530"
+    },
+    {
+      "code": "TAU544",
+      "prerequisite_code": "TAU525"
+    },
+    {
+      "code": "TAU545",
+      "prerequisite_code": "TAU525"
+    },
+    {
+      "code": "TAU546",
+      "prerequisite_code": "TAU525"
+    },
+    {
+      "code": "TAU547",
+      "prerequisite_code": "TAU525"
+    },
+    {
+      "code": "TAU548",
+      "prerequisite_code": "TAU523"
+    },
+    {
+      "code": "TAU549",
+      "prerequisite_code": "TAU523"
+    },
+    {
+      "code": "TAU560",
+      "prerequisite_code": "TAU523"
+    },
+    {
+      "code": "TAU561",
+      "prerequisite_code": "TAU525"
+    },
+    {
+      "code": "TAU562",
+      "prerequisite_code": "TAU525"
+    },
+    {
+      "code": "TAU563",
+      "prerequisite_code": "TAU523"
+    },
+    {
+      "code": "TAU564",
+      "prerequisite_code": "TAU523"
+    },
+    {
+      "code": "TAU565",
+      "prerequisite_code": "TAU523"
+    },
+    {
+      "code": "URB608",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "URB608",
+      "prerequisite_code": "URB606"
+    },
+    {
+      "code": "URB609",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "URB610",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "URB611",
+      "prerequisite_code": "TAU525"
+    },
+    {
+      "code": "URB612",
+      "prerequisite_code": "URB605"
+    },
+    {
+      "code": "URB613",
+      "prerequisite_code": "URB605"
+    }
+  ]
+}

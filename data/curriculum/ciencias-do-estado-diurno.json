@@ -1,0 +1,253 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "DIP081",
+      "name": "Iniciação À Universidade",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DIR108",
+      "name": "Introdução À Política",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DIT074",
+      "name": "Introd.ao Conhec.cient.do Dir.e do Estado",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DIT094",
+      "name": "História do Estado e da Cidadania",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "SOA050",
+      "name": "Modernidade e Mudanca Social",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DIP082",
+      "name": "Teoria do Estado I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DIP201",
+      "name": "Introducao a Governanca Social",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DIP202",
+      "name": "Historia e Teoria da Const. Brasileira",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DIT076",
+      "name": "Pensamento Juridico-politico Brasileiro",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECN052",
+      "name": "História do Pensamento Econômico",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DIC081",
+      "name": "Cidadania e Pessoalidade",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DIP203",
+      "name": "Cidadania Politica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DIP204",
+      "name": "Cidadania Social e Economica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DIT077",
+      "name": "Cidadania Cultural",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DIT078",
+      "name": "Cidadania Trabalhista",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DIN022",
+      "name": "Criminologia e Sistemas Penais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DIP083",
+      "name": "Direito Internacional Público na Era Global",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DIP205",
+      "name": "Organiz. dos Poderes do Est. Brasileiro",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DIP206",
+      "name": "Teoria da Gestao Publica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DIP207",
+      "name": "Espaco Urbano e Direito das Cidades",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DIC082",
+      "name": "Estrutura Juridica das Organiz Sociais",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DIP211",
+      "name": "Gestao do Terceiro Setor",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DIP216",
+      "name": "Estatuto da Cidade",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DIP215",
+      "name": "Parcerias Publico-privadas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DIP217",
+      "name": "Tributacao e Organizacoes Sociais",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DIP223",
+      "name": "Direito e Meio Ambiente",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DIR110",
+      "name": "Elaboração de Projeto de Tcc I Ou Iniciação Científica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DIC083",
+      "name": "Teoria da Empresa",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DIR111",
+      "name": "Elaboração de Projeto de Tcc II Ou Iniciação Científica",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DIT082",
+      "name": "Trabalho e Organizacoes Socias",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DIT084",
+      "name": "Filosofia Social",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    }
+  ],
+  "prerequisites": []
+}

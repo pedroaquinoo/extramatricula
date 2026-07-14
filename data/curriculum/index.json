@@ -172,5 +172,101 @@
     "name": "Direito",
     "offerId": "direito",
     "shift": "noturno"
+  },
+  {
+    "id": "administracao-matutino",
+    "name": "Administração",
+    "offerId": "administracao",
+    "shift": "matutino"
+  },
+  {
+    "id": "administracao-noturno",
+    "name": "Administração",
+    "offerId": "administracao",
+    "shift": "noturno"
+  },
+  {
+    "id": "arquitetura-diurno",
+    "name": "Arquitetura e Urbanismo",
+    "offerId": "arquitetura",
+    "shift": "diurno"
+  },
+  {
+    "id": "arquitetura-noturno",
+    "name": "Arquitetura e Urbanismo",
+    "offerId": "arquitetura",
+    "shift": "noturno"
+  },
+  {
+    "id": "ciencias-atuariais-diurno",
+    "name": "Ciências Atuariais",
+    "offerId": "ciencias-atuariais",
+    "shift": "diurno"
+  },
+  {
+    "id": "ciencias-do-estado-diurno",
+    "name": "Ciências do Estado",
+    "offerId": "ciencias-do-estado",
+    "shift": "diurno"
+  },
+  {
+    "id": "educacao-fisica-diurno",
+    "name": "Educação Física",
+    "offerId": "educacao-fisica",
+    "shift": "diurno"
+  },
+  {
+    "id": "educacao-fisica-noturno",
+    "name": "Educação Física",
+    "offerId": "educacao-fisica",
+    "shift": "noturno"
+  },
+  {
+    "id": "farmacia-diurno",
+    "name": "Farmácia",
+    "offerId": "farmacia",
+    "shift": "diurno"
+  },
+  {
+    "id": "farmacia-noturno",
+    "name": "Farmácia",
+    "offerId": "farmacia",
+    "shift": "noturno"
+  },
+  {
+    "id": "medicina-diurno",
+    "name": "Medicina",
+    "offerId": "medicina",
+    "shift": "diurno"
+  },
+  {
+    "id": "odontologia-diurno",
+    "name": "Odontologia",
+    "offerId": "odontologia",
+    "shift": "diurno"
+  },
+  {
+    "id": "psicologia-diurno",
+    "name": "Psicologia",
+    "offerId": "psicologia",
+    "shift": "diurno"
+  },
+  {
+    "id": "relacoes-economicas-internacionais-noturno",
+    "name": "Relações Econômicas Internacionais",
+    "offerId": "relacoes-economicas-internacionais",
+    "shift": "noturno"
+  },
+  {
+    "id": "fisica-diurno",
+    "name": "Física",
+    "offerId": "fisica",
+    "shift": "diurno"
+  },
+  {
+    "id": "fisica-noturno",
+    "name": "Física",
+    "offerId": "fisica",
+    "shift": "noturno"
   }
 ]

@@ -1,0 +1,1957 @@
+[
+  {
+    "course_id": "EST084",
+    "name": "ESTATISTICA APLICADA A PSICOLOGIA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Camila C. L. P."
+    ]
+  },
+  {
+    "course_id": "EST084",
+    "name": "ESTATISTICA APLICADA A PSICOLOGIA",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Ilka A. R."
+    ]
+  },
+  {
+    "course_id": "FIB026",
+    "name": "PSICOFISIOLOGIA",
+    "availabilityCode": "PA1",
+    "spots": 41,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB026",
+    "name": "PSICOFISIOLOGIA",
+    "availabilityCode": "PB1",
+    "spots": 41,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB026",
+    "name": "PSICOFISIOLOGIA",
+    "availabilityCode": "TAB",
+    "spots": 82,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Bruno R. S."
+    ]
+  },
+  {
+    "course_id": "FIL029",
+    "name": "INTRODUÇÃO A FILOSOFIA: FILOSOFIA DA CIÊNCIA E EPISTEMOLOGIA",
+    "availabilityCode": "TG",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Jose R. M. N."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MOF038",
+    "name": "ANATOMIA APLICADA A PSICOLOGIA",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Paula R. M.",
+      "Joao V. S."
+    ]
+  },
+  {
+    "course_id": "MOF038",
+    "name": "ANATOMIA APLICADA A PSICOLOGIA",
+    "availabilityCode": "TBM",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "16:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Aline S. M.",
+      "Giselle F. F.",
+      "Joao V. S.",
+      "Paula R. M."
+    ]
+  },
+  {
+    "course_id": "PSI019",
+    "name": "ETICA PROFISSIONAL",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Juliana V. S."
+    ]
+  },
+  {
+    "course_id": "PSI041",
+    "name": "METODOS QUANTITATIVOS EM PSICOLOGIA",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Mariuche R. A. G."
+    ]
+  },
+  {
+    "course_id": "PSI042",
+    "name": "PSICANALISE I",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Fabio R. R. B."
+    ]
+  },
+  {
+    "course_id": "PSI044",
+    "name": "HISTORIA DAS IDEIAS PSICOLOGICAS",
+    "availabilityCode": "TB",
+    "spots": 86,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Renata G. O."
+    ]
+  },
+  {
+    "course_id": "PSI045",
+    "name": "PROCESSOS PSICOLOGICOS BASICOS",
+    "availabilityCode": "TB",
+    "spots": 86,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Renato B."
+    ]
+  },
+  {
+    "course_id": "PSI047",
+    "name": "PSICOLOGIA NO BRASIL: HISTORIA E CAMPOS DE ATUACAO",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Camila B. F."
+    ]
+  },
+  {
+    "course_id": "PSI049",
+    "name": "METODOS QUALITATIVOS EM PSICOLOGIA",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Camila B. F."
+    ]
+  },
+  {
+    "course_id": "PSI051",
+    "name": "PSICANALISE II",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Guilherme M. R."
+    ]
+  },
+  {
+    "course_id": "PSI052",
+    "name": "PSICOLOGIA COGNITIVA",
+    "availabilityCode": "TB",
+    "spots": 86,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Antonio J."
+    ]
+  },
+  {
+    "course_id": "PSI053",
+    "name": "INTRODUCAO A PSICOLOGIA CLINICA",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Pricila C. C. R.",
+      "Claudia M. F. P."
+    ]
+  },
+  {
+    "course_id": "PSI054",
+    "name": "INTRODUCAO A PSICOTERAPIA",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Shyrlleen C. A. A."
+    ]
+  },
+  {
+    "course_id": "PSI055",
+    "name": "SEMINARIO INTERDISCIPLINAR I",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Nadia L. L.",
+      "Antonio M. R. T."
+    ]
+  },
+  {
+    "course_id": "PSI056",
+    "name": "SEMINARIO INTERDISCIPLINAR II",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Liliam P. P. P."
+    ]
+  },
+  {
+    "course_id": "PSI057",
+    "name": "SEMINARIO INTERDISCIPLINAR III",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ingrid F. G. N."
+    ]
+  },
+  {
+    "course_id": "PSI058",
+    "name": "ESTAGIO BASICO: PRATICAS DE INVESTIGACAO E INTERVERCAO I",
+    "availabilityCode": "PA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Renata G. O."
+    ]
+  },
+  {
+    "course_id": "PSI059",
+    "name": "ESTAGIO BASICO: PRATICAS DE INVESTIGACAO E INTERVENCAO II",
+    "availabilityCode": "PA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Shyrlleen C. A. A."
+    ]
+  },
+  {
+    "course_id": "PSI060",
+    "name": "ESTAGIO CURRICULAR PROCESSOS PSICOSSOCIAIS - Preparação para Aposentadoria.",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Silvia M. A."
+    ]
+  },
+  {
+    "course_id": "PSI060",
+    "name": "ESTAGIO CURRICULAR PROCESSOS PSICOSSOCIAIS - Psicologia Social e Institucional.",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Edson M. H."
+    ]
+  },
+  {
+    "course_id": "PSI063",
+    "name": "ESTAGIO CURRICULAR PROCESSOS DE DESENVOLVIMENTO E AVALIACAO PSICOLOGICA - Avaliação Neuropsicológica Infantil.",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Mariuche R. A. G."
+    ]
+  },
+  {
+    "course_id": "PSI066",
+    "name": "ESTAGIO CURRICULAR PROCESSOS CLINICOS - Terapias Cognitivo- Comportamentais para Casais e Indivíduos com Demandas de Relacionamento.",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Bruno L. A. C."
+    ]
+  },
+  {
+    "course_id": "PSI066",
+    "name": "ESTAGIO CURRICULAR PROCESSOS CLINICOS - Adultos e Adolescentes.",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Fabio R. R. B."
+    ]
+  },
+  {
+    "course_id": "PSI066",
+    "name": "ESTAGIO CURRICULAR PROCESSOS CLINICOS - Psicanálise de Crianças.",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:15",
+        "end": "12:45"
+      }
+    ],
+    "teachers": [
+      "Fabio R. R. B."
+    ]
+  },
+  {
+    "course_id": "PSI066",
+    "name": "ESTAGIO CURRICULAR PROCESSOS CLINICOS - Terapia Comportamental.",
+    "availabilityCode": "PD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Viviane V. R."
+    ]
+  },
+  {
+    "course_id": "PSI066",
+    "name": "ESTAGIO CURRICULAR PROCESSOS CLINICOS - Terapia Cognitivo- comportamental.",
+    "availabilityCode": "PE",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "10:30"
+      }
+    ],
+    "teachers": [
+      "Maycoln L. M. T."
+    ]
+  },
+  {
+    "course_id": "PSI066",
+    "name": "ESTAGIO CURRICULAR PROCESSOS CLINICOS - Clínica Psicanalítica com Crianças e Adolescentes.",
+    "availabilityCode": "PF",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Nadia L. L."
+    ]
+  },
+  {
+    "course_id": "PSI066",
+    "name": "ESTAGIO CURRICULAR PROCESSOS CLINICOS - Psicoterapia Gestalt.",
+    "availabilityCode": "PG",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Liliam P. P. P."
+    ]
+  },
+  {
+    "course_id": "PSI066",
+    "name": "ESTAGIO CURRICULAR PROCESSOS CLINICOS - Psicoterapia Gestalt 2.",
+    "availabilityCode": "PH",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:40",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Liliam P. P. P."
+    ]
+  },
+  {
+    "course_id": "PSI066",
+    "name": "ESTAGIO CURRICULAR PROCESSOS CLINICOS - Clínica Ampliada de Atenção Primária a Saúde.",
+    "availabilityCode": "PI",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Claudia M. F. P."
+    ]
+  },
+  {
+    "course_id": "PSI066",
+    "name": "ESTAGIO CURRICULAR PROCESSOS CLINICOS - Psicologia Hospitalar.",
+    "availabilityCode": "PJ",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Tereza C. P."
+    ]
+  },
+  {
+    "course_id": "PSI066",
+    "name": "ESTAGIO CURRICULAR PROCESSOS CLINICOS - Inclusão Precoce no TEA.",
+    "availabilityCode": "PK",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Maria L. M. N."
+    ]
+  },
+  {
+    "course_id": "PSI066",
+    "name": "ESTAGIO CURRICULAR PROCESSOS CLINICOS - Práticas Psicológicas na RAPS-BH.",
+    "availabilityCode": "PL",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Tuliola A. S. L."
+    ]
+  },
+  {
+    "course_id": "PSI066",
+    "name": "ESTAGIO CURRICULAR PROCESSOS CLINICOS - Terapias Contextuais, Avaliação de Caso e Intervenção em Saúde.",
+    "availabilityCode": "PM",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Thais B. V."
+    ]
+  },
+  {
+    "course_id": "PSI066",
+    "name": "ESTAGIO CURRICULAR PROCESSOS CLINICOS - Clínica Psicanalítica com Adultos.",
+    "availabilityCode": "PN",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:00",
+        "end": "11:50"
+      }
+    ],
+    "teachers": [
+      "Gilson P. M. I."
+    ]
+  },
+  {
+    "course_id": "PSI069",
+    "name": "TOPICOS ESPECIAIS EM PROCESSOS CLINICOS - A Clínica Gestáltica na Adolescência.",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Shyrlleen C. A. A."
+    ]
+  },
+  {
+    "course_id": "PSI069",
+    "name": "TOPICOS ESPECIAIS EM PROCESSOS CLINICOS - Terapia Cognitivo- comportamental.",
+    "availabilityCode": "TB",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Maycoln L. M. T."
+    ]
+  },
+  {
+    "course_id": "PSI069",
+    "name": "TOPICOS ESPECIAIS EM PROCESSOS CLINICOS - Psicopatologia Lacaniana - Nosologia.",
+    "availabilityCode": "TC",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Antonio M. R. T."
+    ]
+  },
+  {
+    "course_id": "PSI069",
+    "name": "TOPICOS ESPECIAIS EM PROCESSOS CLINICOS - Psicologia e Dor: Práticas Clínicas e Modelos de Intervenção.",
+    "availabilityCode": "TD",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Thais B. V."
+    ]
+  },
+  {
+    "course_id": "PSI069",
+    "name": "TOPICOS ESPECIAIS EM PROCESSOS CLINICOS - Prática Clínica em Saúde do Idoso.",
+    "availabilityCode": "TE",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Pricila C. C. R."
+    ]
+  },
+  {
+    "course_id": "PSI069",
+    "name": "TOPICOS ESPECIAIS EM PROCESSOS CLINICOS - Psicologia de Viktor Frankl.",
+    "availabilityCode": "TF",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Liliam P. P. P."
+    ]
+  },
+  {
+    "course_id": "PSI069",
+    "name": "TOPICOS ESPECIAIS EM PROCESSOS CLINICOS - Humanização no SUS e a Atuação da Psicologia nos Hospitais.",
+    "availabilityCode": "TG",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Tereza C. P."
+    ]
+  },
+  {
+    "course_id": "PSI069",
+    "name": "TOPICOS ESPECIAIS EM PROCESSOS CLINICOS - Modalidades da Escrita e da Leitura em Psicanálise.",
+    "availabilityCode": "TH",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Gilson P. M. I."
+    ]
+  },
+  {
+    "course_id": "PSI069",
+    "name": "TOPICOS ESPECIAIS EM PROCESSOS CLINICOS - Clínica Psicanalítica com Adolescentes.",
+    "availabilityCode": "TI",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Nadia L. L."
+    ]
+  },
+  {
+    "course_id": "PSI070",
+    "name": "TOPICOS ESPECIAIS EM PSICANALISE - Impasses da Posição do Psicanalista no Contemporâneo: Coletivo. Dispositivos e Clínica.",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Andrea M. C. G."
+    ]
+  },
+  {
+    "course_id": "PSI071",
+    "name": "TOPICOS ESPECIAIS EM PSICOLOGIA SOCIAL - Psicologia Social do Racismo.",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Edson M. H."
+    ]
+  },
+  {
+    "course_id": "PSI071",
+    "name": "TOPICOS ESPECIAIS EM PSICOLOGIA SOCIAL - Psicologia e Cannabis, Pressupostos Éticos",
+    "availabilityCode": "TB",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Claudia A. M. B."
+    ]
+  },
+  {
+    "course_id": "PSI072",
+    "name": "TOPICOS ESPECIAIS EM TECNICAS DE EXAME PSICOLOGICO - Processos de Mudança em Personalidade e Desfechos de Saúde.",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcela M. A."
+    ]
+  },
+  {
+    "course_id": "PSI072",
+    "name": "TOPICOS ESPECIAIS EM TECNICAS DE EXAME PSICOLOGICO - Técnica Gráfica Específica: Novo HTP (Contexto Brasileiro).",
+    "availabilityCode": "TB",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Larissa A. R."
+    ]
+  },
+  {
+    "course_id": "PSI175",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA I - Introdução à Vida Acadêmica.",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Erika L."
+    ]
+  },
+  {
+    "course_id": "PSI176",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA II - Introdução à Daseinsanalyse.",
+    "availabilityCode": "TA",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Paulo E. R. A. E."
+    ]
+  },
+  {
+    "course_id": "PSI176",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA II - Corpo, Movimento e Práticas Corporais: introdução à psicologia do Exercício.",
+    "availabilityCode": "TB",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Emmi M."
+    ]
+  },
+  {
+    "course_id": "PSI176",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA II - Recrutamento e Seleção de Pessoas.",
+    "availabilityCode": "TC",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Silvia M. A."
+    ]
+  },
+  {
+    "course_id": "PSI176",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA II - Práticas Baseadas em Evidências no Transtorno do Espectro do Autismo.",
+    "availabilityCode": "TD",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Renato B."
+    ]
+  },
+  {
+    "course_id": "PSI176",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA II - Ferenczi e a Violência Sexual Contra Crianças e Adolescentes II.",
+    "availabilityCode": "TE",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Cassandra P. F."
+    ]
+  },
+  {
+    "course_id": "PSI176",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA II - Entrevista Narrativa e Método Narrativo de Base Fenomenológica para Psicologia.",
+    "availabilityCode": "TF",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ingrid F. G. N."
+    ]
+  },
+  {
+    "course_id": "PSI176",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA II - Introdução a Avaliação Psicológica.",
+    "availabilityCode": "TG",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Larissa A. R."
+    ]
+  },
+  {
+    "course_id": "PSI176",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA II - Avaliação e Intervenção do Comportamento Suicida.",
+    "availabilityCode": "TH",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Maycoln L. M. T."
+    ]
+  },
+  {
+    "course_id": "PSI176",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA II - Saúde Mental Antimanicolonial.",
+    "availabilityCode": "TI",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Tuliola A. S. L."
+    ]
+  },
+  {
+    "course_id": "PSI176",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA II - Cartografia: Pesquisa, Clínica/Política e Práticas Grupais na Saúde.",
+    "availabilityCode": "TJ",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Tereza C. P."
+    ]
+  },
+  {
+    "course_id": "PSI176",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA II - Psicologia e Violências no Brasil: Aspectos Psicossociais e Processos de Subjetivação.",
+    "availabilityCode": "TK",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Edson M. H."
+    ]
+  },
+  {
+    "course_id": "PSI177",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA III - Psicologia do Esporte.",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Franco N."
+    ]
+  },
+  {
+    "course_id": "PSI177",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA III - Psicologia do Envelhecimento.",
+    "availabilityCode": "TB",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Pricila C. C. R."
+    ]
+  },
+  {
+    "course_id": "PSI177",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA III - Consultas Terapêuticas.",
+    "availabilityCode": "TC",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Fabio R. R. B."
+    ]
+  },
+  {
+    "course_id": "PSI314",
+    "name": "TECNICAS DE EXAME PSICOLOGICO I",
+    "availabilityCode": "PA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Drielle B. P."
+    ]
+  },
+  {
+    "course_id": "PSI314",
+    "name": "TECNICAS DE EXAME PSICOLOGICO I",
+    "availabilityCode": "PB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Drielle B. P."
+    ]
+  },
+  {
+    "course_id": "PSI314",
+    "name": "TECNICAS DE EXAME PSICOLOGICO I",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcela M. A."
+    ]
+  },
+  {
+    "course_id": "PSI324",
+    "name": "TOPICOS ESPECIAIS EM PROCESSOS PSICOSSOCIAIS - Bell Hooks e a trilogia do Amor .",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Adriano R. A. N."
+    ]
+  },
+  {
+    "course_id": "PSI324",
+    "name": "TOPICOS ESPECIAIS EM PROCESSOS PSICOSSOCIAIS - Cárcere e Direitos Humanos.",
+    "availabilityCode": "TB",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Carolyne R. B."
+    ]
+  },
+  {
+    "course_id": "PSI328",
+    "name": "ANALISE EXPERIMENTAL DO COMPORTAMENTO I",
+    "availabilityCode": "PB",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:50",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Edson M. H."
+    ]
+  },
+  {
+    "course_id": "PSI328",
+    "name": "ANALISE EXPERIMENTAL DO COMPORTAMENTO I",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Viviane V. R."
+    ]
+  },
+  {
+    "course_id": "PSI329",
+    "name": "TECNICAS DE EXAME PSICOLOGICO II",
+    "availabilityCode": "PA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Drielle B. P."
+    ]
+  },
+  {
+    "course_id": "PSI329",
+    "name": "TECNICAS DE EXAME PSICOLOGICO II",
+    "availabilityCode": "PB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Drielle B. P."
+    ]
+  },
+  {
+    "course_id": "PSI329",
+    "name": "TECNICAS DE EXAME PSICOLOGICO II",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Marcela M. A."
+    ]
+  },
+  {
+    "course_id": "PSI330",
+    "name": "ANALISE EXPERIMENTAL DO COMPORTAMENTO II",
+    "availabilityCode": "PA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:50",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Edson M. H."
+    ]
+  },
+  {
+    "course_id": "PSI330",
+    "name": "ANALISE EXPERIMENTAL DO COMPORTAMENTO II",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Edson M. H."
+    ]
+  },
+  {
+    "course_id": "PSI331",
+    "name": "PSICOPATOLOGIA GERAL I",
+    "availabilityCode": "PA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Shyrlleen C. A. A."
+    ]
+  },
+  {
+    "course_id": "PSI331",
+    "name": "PSICOPATOLOGIA GERAL I",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Antonio M. R. T."
+    ]
+  },
+  {
+    "course_id": "PSI334",
+    "name": "PSICOLOGIA DO TRABALHO",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Silvia M. A."
+    ]
+  },
+  {
+    "course_id": "PSI353",
+    "name": "PSICOLOGIA ESCOLAR",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Erika L."
+    ]
+  },
+  {
+    "course_id": "PSI358",
+    "name": "PSICOPATOLOGIA GERAL II",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Tuliola A. S. L."
+    ]
+  },
+  {
+    "course_id": "PSI365",
+    "name": "TÓPICOS ESPECIAIS EM PROCESSOS DE DESENVOLVIMENTO E AVALIAÇÃO PSICOLÓGICA - Comportamento: A Interface Entre Neurônios e a Experiência Humana.",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Carmen E. F. M. P."
+    ]
+  },
+  {
+    "course_id": "PSI365",
+    "name": "TÓPICOS ESPECIAIS EM PROCESSOS DE DESENVOLVIMENTO E AVALIAÇÃO PSICOLÓGICA - Zulliger Teste: Escola de Paris.",
+    "availabilityCode": "TB",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Larissa A. R."
+    ]
+  },
+  {
+    "course_id": "PSI601",
+    "name": "PSICOLOGIA SOCIAL I",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Marco A. M. P."
+    ]
+  },
+  {
+    "course_id": "PSI604",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA - Questões Contemporâneas em psicologia Cognitiva.",
+    "availabilityCode": "TB",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Antonio J."
+    ]
+  },
+  {
+    "course_id": "PSI604",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA - Elaboração de Documentos Psicológicos.",
+    "availabilityCode": "TC",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Larissa A. R."
+    ]
+  },
+  {
+    "course_id": "PSI604",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA - As Práticas da Psicologia Jurídica.",
+    "availabilityCode": "TD",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Laura C. E. C. S."
+    ]
+  },
+  {
+    "course_id": "PSI604",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA - Casos Clínicos e Treinos de Competências em Terapias Cognitivos- Comportamentais.",
+    "availabilityCode": "TE",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Bruno L. A. C."
+    ]
+  },
+  {
+    "course_id": "PSI604",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA - Eleições 2026: Democracia Brasileira e Subjetividades.",
+    "availabilityCode": "TF",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Camila B. F."
+    ]
+  },
+  {
+    "course_id": "PSI604",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA - Branquitudes/Masculinidad es: Teoria e Pesquisa.",
+    "availabilityCode": "TG",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Adriano R. A. N."
+    ]
+  },
+  {
+    "course_id": "PSI604",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA - Colonialidade de Gênero: Processos de Subjetivação e Resistência.",
+    "availabilityCode": "TH",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Paula R. B. G."
+    ]
+  },
+  {
+    "course_id": "PSI604",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA - Saúde Mental e Coletiva.",
+    "availabilityCode": "TI",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Tuliola A. S. L.",
+      "Claudia M. F. P."
+    ]
+  },
+  {
+    "course_id": "PSI604",
+    "name": "TÓPICOS EM TEORIA PSICOLÓGICA CONTEMPORÂNEA - Diversidade, Diferença e Críticas à Colonialidade.",
+    "availabilityCode": "TJ",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Juliana V. S."
+    ]
+  },
+  {
+    "course_id": "PSI610",
+    "name": "PSICOLOGIA DO DESENVOLVIMENTO I",
+    "availabilityCode": "TB",
+    "spots": 86,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Julia B. L. S."
+    ]
+  },
+  {
+    "course_id": "PSI611",
+    "name": "PSICOLOGIA DO DESENVOLVIMENTO II",
+    "availabilityCode": "TB",
+    "spots": 90,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Mariuche R. A. G."
+    ]
+  },
+  {
+    "course_id": "PSI612",
+    "name": "PSICOLOGIA SOCIAL II",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Edson M. H."
+    ]
+  },
+  {
+    "course_id": "SOA079",
+    "name": "FUNDAMENTOS DE ANALISE SOCIOLOGICA",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ana P. V. G."
+    ]
+  },
+  {
+    "course_id": "SOA080",
+    "name": "ANTROPOLOGIA CULTURAL",
+    "availabilityCode": "TA",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Erica R. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "UNI100",
+    "name": "TRANSTORNOS DO ESPECTRO DO AUTISMO - RECURSOS PARA INCLUSÃO ESCOLAR",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:45",
+        "end": "17:50"
+      }
+    ],
+    "teachers": [
+      "Maria L. M. N.",
+      "Adriana A. P. B."
+    ]
+  },
+  {
+    "course_id": "UNI106",
+    "name": "TÓPICOS EM GÊNERO E SEXUALIDADE A - Sexualidade, religião e subjetividade",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:50"
+      }
+    ],
+    "teachers": [
+      "Marco A. M. P."
+    ]
+  },
+  {
+    "course_id": "UNI230",
+    "name": "TÓPICOS EM COMUNICAÇÃO PÚBLICA DA CIÊNCIA B - Divulgação Científica para a efetivação de direitos",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Maria F. S. R.",
+      "Andre L. F. D."
+    ]
+  },
+  {
+    "course_id": "UNI249",
+    "name": "TÓPICOS EM CULTURAS EM MOVIMENTO D2 - Artes e Saúde Mental: experimentação de intersecções entre arte e loucura",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Tuliola A. S. L.",
+      "Marina R. B."
+    ]
+  },
+  {
+    "course_id": "UNI270",
+    "name": "TÓPICOS EM GÊNERO E SEXUALIDADE D - Ciclo de Debates sobre Diversidade Sexual e de Gênero",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Marco A. M. P."
+    ]
+  }
+]

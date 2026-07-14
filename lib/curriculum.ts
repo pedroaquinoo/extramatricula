@@ -10,12 +10,24 @@ import type {
 import { compareShifts, formatShiftLabel, getShift, type Shift } from "@/lib/shift"
 
 const curriculumLoaders: Record<string, () => Promise<{ default: CurriculumData }>> = {
+  "administracao-matutino": () =>
+    import("@/data/curriculum/administracao-matutino.json"),
+  "administracao-noturno": () =>
+    import("@/data/curriculum/administracao-noturno.json"),
+  "arquitetura-diurno": () =>
+    import("@/data/curriculum/arquitetura-diurno.json"),
+  "arquitetura-noturno": () =>
+    import("@/data/curriculum/arquitetura-noturno.json"),
   "ciencia-computacao-diurno": () =>
     import("@/data/curriculum/ciencia-computacao-diurno.json"),
   "ciencia-computacao-vespertino": () =>
     import("@/data/curriculum/ciencia-computacao-vespertino.json"),
+  "ciencias-atuariais-diurno": () =>
+    import("@/data/curriculum/ciencias-atuariais-diurno.json"),
   "ciencias-contabeis-noturno": () =>
     import("@/data/curriculum/ciencias-contabeis-noturno.json"),
+  "ciencias-do-estado-diurno": () =>
+    import("@/data/curriculum/ciencias-do-estado-diurno.json"),
   "ciencias-economicas-matutino": () =>
     import("@/data/curriculum/ciencias-economicas-matutino.json"),
   "controladoria-financas-diurno": () =>
@@ -30,6 +42,10 @@ const curriculumLoaders: Record<string, () => Promise<{ default: CurriculumData 
     import("@/data/curriculum/direito-diurno.json"),
   "direito-noturno": () =>
     import("@/data/curriculum/direito-noturno.json"),
+  "educacao-fisica-diurno": () =>
+    import("@/data/curriculum/educacao-fisica-diurno.json"),
+  "educacao-fisica-noturno": () =>
+    import("@/data/curriculum/educacao-fisica-noturno.json"),
   "eng-aeroespacial-diurno": () =>
     import("@/data/curriculum/eng-aeroespacial-diurno.json"),
   "eng-agricola-ambiental-diurno": () =>
@@ -64,6 +80,22 @@ const curriculumLoaders: Record<string, () => Promise<{ default: CurriculumData 
     import("@/data/curriculum/eng-sistemas-noturno.json"),
   "estatistica-diurno": () =>
     import("@/data/curriculum/estatistica-diurno.json"),
+  "farmacia-diurno": () =>
+    import("@/data/curriculum/farmacia-diurno.json"),
+  "farmacia-noturno": () =>
+    import("@/data/curriculum/farmacia-noturno.json"),
+  "fisica-diurno": () =>
+    import("@/data/curriculum/fisica-diurno.json"),
+  "fisica-noturno": () =>
+    import("@/data/curriculum/fisica-noturno.json"),
+  "medicina-diurno": () =>
+    import("@/data/curriculum/medicina-diurno.json"),
+  "odontologia-diurno": () =>
+    import("@/data/curriculum/odontologia-diurno.json"),
+  "psicologia-diurno": () =>
+    import("@/data/curriculum/psicologia-diurno.json"),
+  "relacoes-economicas-internacionais-noturno": () =>
+    import("@/data/curriculum/relacoes-economicas-internacionais-noturno.json"),
   "sistemas-informacao-noturno": () =>
     import("@/data/curriculum/sistemas-informacao-noturno.json"),
   "sistemas-informacao-vespertino": () =>
