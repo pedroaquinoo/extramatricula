@@ -56,9 +56,7 @@ export default function SimulationPage() {
     if (!classes || !semester) return []
 
     const filtered = classes.filter(
-      (cls) =>
-        cls.ref_period === semester ||
-        (cls.ref_period < semester && !passedSet.has(cls.code)),
+      (cls) => cls.ref_period <= semester && !passedSet.has(cls.code),
     )
 
     const grouped = new Map<number, string[]>()
