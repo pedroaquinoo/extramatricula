@@ -137,7 +137,11 @@ export default function SimulationPage() {
   }, [classes, planner.state.plannedClasses])
 
   const handleClassSelect = useCallback(
-    (classData: AvailableClass, source: "list" | "search" = "list") => {
+    (
+      classData: AvailableClass,
+      source: "list" | "search" = "list",
+      fromOtherOffer = false,
+    ) => {
       const isOptional = !userProgramCodes.has(classData.course_id)
       if (planner.isClassSelected(classData)) {
         captureEvent(AnalyticsEvents.CLASS_REMOVED, {
@@ -158,7 +162,13 @@ export default function SimulationPage() {
           is_optional: isOptional,
           source,
         })
-        planner.addClass(classData)
+        // A cross-offer turma replaces the student's own selection for this discipline
+        // outright; a normal pick keeps a lecture/lab pair together.
+        if (fromOtherOffer) {
+          planner.selectCourseExclusive(classData)
+        } else {
+          planner.addClass(classData)
+        }
       }
     },
     [planner, userProgramCodes],
@@ -225,7 +235,7 @@ export default function SimulationPage() {
             <h1 className="font-semibold">Simulação de grade</h1>
             <CourseChip className="mt-0.5" />
           </div>
-          <div className="bg-secondary p-2 sm:p-0 rounded-md sm:bg-transparent grid grid-cols-2 sm:flex sm:flex-row shrink-0 sm:items-center gap-2">
+          <div className="bg-secondary p-2 sm:p-0 rounded-md sm:bg-transparent flex flex-wrap items-center sm:flex-nowrap shrink-0 gap-2">
             <Button
               size="sm"
               variant="outline"
@@ -241,11 +251,15 @@ export default function SimulationPage() {
                 })
               }
               aria-pressed={leftView === "magic"}
-              className={cn("gap-2 col-span-1", leftView === "magic" ? "text-inherit" : "text-primary hover:text-primary/80")}
+              aria-label={leftView === "magic" ? "Voltar ao modo normal" : "Modo mágico"}
+              className={cn(
+                "gap-2 w-8 px-0 has-[>svg]:px-0 sm:w-auto sm:px-3 sm:has-[>svg]:px-2.5",
+                leftView === "magic" ? "text-inherit" : "text-primary hover:text-primary/80",
+              )}
             >
               {leftView === "magic" ? <ArrowLeft className="size-4 shrink-0" /> : <Sparkles className="size-4 shrink-0" />}
-              <span className="whitespace-nowrap">{leftView === "magic" ? "Voltar ao modo normal" : "Modo mágico"}</span>
-            </Button> 
+              <span className="hidden whitespace-nowrap sm:inline">{leftView === "magic" ? "Voltar ao modo normal" : "Modo mágico"}</span>
+            </Button>
             <Tooltip>
               <TooltipTrigger asChild>
                 <label

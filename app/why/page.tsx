@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 }
 
 // Roughly how many students planned their semester in the current cycle. Update per cycle.
-const USERS_THIS_CYCLE = 326
+const USERS_THIS_CYCLE = 361
 
 export default function PorquePage() {
   const cycle = getCurrentOfferTerm()

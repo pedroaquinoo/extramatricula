@@ -88,17 +88,16 @@ export function ShareSimulationButton({
       disabled={isSharing || simulationState.plannedClasses.length === 0}
       variant="outline"
       size="sm"
-      className={cn("gap-2 col-span-1", className)}
+      aria-label="Compartilhar com amigos"
+      className={cn(
+        "gap-2 w-8 px-0 has-[>svg]:px-0 sm:w-auto sm:px-3 sm:has-[>svg]:px-2.5",
+        className,
+      )}
     >
       {isCopied ? <Check className="h-4 w-4" /> : <UploadIcon className="h-4 w-4" />}
-      {isCopied ? (
-        "Copiado!"
-      ) : (
-        <>
-          <span className="sm:hidden">Compartilhar</span>
-          <span className="hidden sm:inline">Compartilhar com amigos</span>
-        </>
-      )}
+      <span className="hidden sm:inline">
+        {isCopied ? "Copiado!" : "Compartilhar com amigos"}
+      </span>
     </Button>
   )
 }

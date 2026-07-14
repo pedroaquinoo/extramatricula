@@ -16,7 +16,11 @@ interface AvailableClassListProps {
   loading: boolean
   error: string | null
   selectedClasses?: AvailableClass[]
-  onSelectClass?: (availableClass: AvailableClass) => void
+  onSelectClass?: (
+    availableClass: AvailableClass,
+    source?: "list" | "search",
+    fromOtherOffer?: boolean,
+  ) => void
   title?: string
   isClickable?: boolean
   isCourseSelected?: (courseId: string) => boolean
@@ -141,7 +145,7 @@ export function AvailableClassList({
                     disciplineName={sections[0].name}
                     ownCodes={new Set(sections.map((s) => s.availabilityCode))}
                     selectedClasses={selectedClasses}
-                    onSelectClass={onSelectClass}
+                    onSelectClass={(cls) => onSelectClass(cls, "list", true)}
                     shift={shift}
                   />
                 )}

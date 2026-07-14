@@ -37,13 +37,14 @@ export function SubmissionWarning({
         size="sm"
         disabled
         aria-disabled
+        aria-label="Tudo ok!"
         className={cn(
-          "gap-2 col-span-1 text-muted-foreground disabled:opacity-100",
+          "gap-2 w-8 px-0 has-[>svg]:px-0 text-muted-foreground disabled:opacity-100 sm:w-auto sm:px-3 sm:has-[>svg]:px-2.5",
           className,
         )}
       >
         <CheckCircle2 className="h-4 w-4" />
-        Tudo ok!
+        <span className="hidden sm:inline">Tudo ok!</span>
       </Button>
     )
   }
@@ -54,13 +55,14 @@ export function SubmissionWarning({
         onClick={() => handleOpenChange(true)}
         variant="outline"
         size="sm"
+        aria-label="Atenção!"
         className={cn(
-          "gap-2 col-span-1 border-amber-500/50 text-amber-700 hover:bg-amber-500/10 hover:text-amber-800 dark:text-amber-300 dark:hover:text-amber-200",
+          "gap-2 w-8 px-0 has-[>svg]:px-0 border-amber-500/50 text-amber-700 hover:bg-amber-500/10 hover:text-amber-800 dark:text-amber-300 dark:hover:text-amber-200 sm:w-auto sm:px-3 sm:has-[>svg]:px-2.5",
           className,
         )}
       >
         <AlertTriangle className="h-4 w-4" />
-        Atenção!
+        <span className="hidden sm:inline">Atenção!</span>
       </Button>
 
       <DialogContent className="sm:max-w-md">

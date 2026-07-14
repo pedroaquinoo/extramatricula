@@ -5,6 +5,9 @@ import { AvailableClass } from "./use-available-classes"
 
 export interface PlannedClass extends AvailableClass {
   id: string
+  // Picked from another course's offer (the "Outras turmas" dialog). A foreign turma is a
+  // standalone alternative and never coexists with any other turma of the same discipline.
+  fromOtherOffer?: boolean
 }
 
 export interface WeeklyPlannerState {
@@ -65,9 +68,11 @@ export function useWeeklyPlanner() {
       }
 
       // A course keeps at most one lecture and one lab section: picking another of the
-      // same kind replaces it, while lecture and lab coexist.
+      // same kind replaces it, while lecture and lab coexist. A foreign turma (from the
+      // "Outras turmas" dialog) never coexists, so it's always evicted here.
       const filtered = prev.plannedClasses.filter((c) => {
         if (c.course_id !== availableClass.course_id) return true
+        if (c.fromOtherOffer) return false
         return isP
           ? !c.availabilityCode.startsWith("P")
           : c.availabilityCode.startsWith("P")
@@ -75,6 +80,23 @@ export function useWeeklyPlanner() {
 
       return { plannedClasses: [...filtered, planned] }
     })
+  }, [])
+
+  // Cross-offer pick: a turma from another course's offer is a standalone alternative section,
+  // so it replaces every turma already selected for this discipline instead of trying to coexist
+  // as a lecture/lab pair (the availabilityCode P-heuristic in addClass is unreliable across
+  // offers and would otherwise leave the student's own turma selected).
+  const selectCourseExclusive = useCallback((availableClass: AvailableClass) => {
+    setState((prev) => ({
+      plannedClasses: [
+        ...prev.plannedClasses.filter((c) => c.course_id !== availableClass.course_id),
+        {
+          ...availableClass,
+          id: `${availableClass.course_id}-${availableClass.availabilityCode}`,
+          fromOtherOffer: true,
+        },
+      ],
+    }))
   }, [])
 
   // Replace the whole plan in one shot — used when loading a full schedule (magic mode, share)
@@ -116,6 +138,7 @@ export function useWeeklyPlanner() {
   return {
     state,
     addClass,
+    selectCourseExclusive,
     setPlan,
     removeClass,
     clearPlanner,
