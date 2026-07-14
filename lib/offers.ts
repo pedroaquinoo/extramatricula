@@ -67,6 +67,8 @@ const offerLoaders: Record<string, () => Promise<{ default: AvailableClass[] }>>
     import("@/data/offers/2026-2/farmacia.json"),
   "2026/2:fisica": () =>
     import("@/data/offers/2026-2/fisica.json"),
+  "2026/2:geologia": () =>
+    import("@/data/offers/2026-2/geologia.json"),
   "2026/2:medicina": () =>
     import("@/data/offers/2026-2/medicina.json"),
   "2026/2:odontologia": () =>

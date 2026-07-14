@@ -88,6 +88,8 @@ const curriculumLoaders: Record<string, () => Promise<{ default: CurriculumData 
     import("@/data/curriculum/fisica-diurno.json"),
   "fisica-noturno": () =>
     import("@/data/curriculum/fisica-noturno.json"),
+  "geologia-diurno": () =>
+    import("@/data/curriculum/geologia-diurno.json"),
   "medicina-diurno": () =>
     import("@/data/curriculum/medicina-diurno.json"),
   "odontologia-diurno": () =>

@@ -1,0 +1,530 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "GEL071",
+      "name": "Geologia Geral",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI628",
+      "name": "Química Geral e",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS065",
+      "name": "Fundamentos de Mecanica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "GEL072",
+      "name": "Cristalografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "GEL073",
+      "name": "Instrumentação e Desenho Geológico",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "GEL074",
+      "name": "Paleontologia",
+      "description": null,
+      "credits": 7,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT039",
+      "name": "Cálculo Diferencial e Integral II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "CRT118",
+      "name": "Topografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCC208",
+      "name": "Introdução À Programação de Computadores",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS152",
+      "name": "Fundamentos de Mecânica dos Fluidos e Termodinâmica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "GEL075",
+      "name": "Mineralogia Geral",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "GEO211",
+      "name": "Geomorfologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "QUI129",
+      "name": "Físico-química",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CRT016",
+      "name": "Sensoriamento Remoto",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EST773",
+      "name": "Fundamentos de Estatística e Ciência de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIS069",
+      "name": "Fundamentos de Eletromagnetismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "GEL076",
+      "name": "Geoquímica I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "GEL077",
+      "name": "Mineralogia Óptica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "GEO020",
+      "name": "Pedologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "GEL079",
+      "name": "Geoquímica II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "GEL080",
+      "name": "Petrologia Ígnea",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "GEL081",
+      "name": "Sedimentologia e Petrologia Sedimentar",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "GEL082",
+      "name": "Princípios da Deformação das Rochas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "GEL083",
+      "name": "Petrologia Metamórfica",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "GEL084",
+      "name": "Estratigrafia Geral",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "GEL085",
+      "name": "Geologia Estrutural",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "GEL086",
+      "name": "Geologia Global",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "GEL087",
+      "name": "Mapeamento Geológico I",
+      "description": null,
+      "credits": 7,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "GEL088",
+      "name": "Geofísica",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "GEL089",
+      "name": "Hidrogeologia",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "GEL090",
+      "name": "Geologia Econômica",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "GEL091",
+      "name": "Mapeamento Geológico II",
+      "description": null,
+      "credits": 7,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "GEL092",
+      "name": "Geologia da Engenharia",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "GEL093",
+      "name": "Geologia Ambiental",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "GEL094",
+      "name": "Recursos Energéticos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "GEL095",
+      "name": "Geologia do Brasil",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "GEL096",
+      "name": "Prospecção e Exploração Mineral",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "GEL097",
+      "name": "Mapeamento Geológico III",
+      "description": null,
+      "credits": 7,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "GEL098",
+      "name": "Trabalho Geológico de Graduação I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "GEL099",
+      "name": "Campo Multidisciplinar Integrado",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "GEL100",
+      "name": "Economia e Legislação Mineral",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "GEL144",
+      "name": "Estágio Supervisionado Obrigatório",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "GEL197",
+      "name": "Trabalho Geológico de Graduação II",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "FIS065",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "GEL072",
+      "prerequisite_code": "QUI628"
+    },
+    {
+      "code": "GEL073",
+      "prerequisite_code": "GEL071"
+    },
+    {
+      "code": "GEL074",
+      "prerequisite_code": "GEL071"
+    },
+    {
+      "code": "FIS152",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "GEL075",
+      "prerequisite_code": "GEL072"
+    },
+    {
+      "code": "QUI129",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "QUI129",
+      "prerequisite_code": "QUI628"
+    },
+    {
+      "code": "EST773",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "MAT039"
+    },
+    {
+      "code": "GEL076",
+      "prerequisite_code": "GEL075"
+    },
+    {
+      "code": "GEL076",
+      "prerequisite_code": "QUI129"
+    },
+    {
+      "code": "GEL077",
+      "prerequisite_code": "GEL075"
+    },
+    {
+      "code": "GEO020",
+      "prerequisite_code": "GEO211"
+    },
+    {
+      "code": "GEL079",
+      "prerequisite_code": "GEL076"
+    },
+    {
+      "code": "GEL080",
+      "prerequisite_code": "GEL076"
+    },
+    {
+      "code": "GEL080",
+      "prerequisite_code": "GEL077"
+    },
+    {
+      "code": "GEL081",
+      "prerequisite_code": "GEL077"
+    },
+    {
+      "code": "GEL082",
+      "prerequisite_code": "GEL073"
+    },
+    {
+      "code": "GEL083",
+      "prerequisite_code": "GEL080"
+    },
+    {
+      "code": "GEL084",
+      "prerequisite_code": "GEL081"
+    },
+    {
+      "code": "GEL085",
+      "prerequisite_code": "GEL082"
+    },
+    {
+      "code": "GEL086",
+      "prerequisite_code": "GEL083"
+    },
+    {
+      "code": "GEL086",
+      "prerequisite_code": "GEL085"
+    },
+    {
+      "code": "GEL087",
+      "prerequisite_code": "CRT016"
+    },
+    {
+      "code": "GEL088",
+      "prerequisite_code": "GEL085"
+    },
+    {
+      "code": "GEL088",
+      "prerequisite_code": "CRT016"
+    },
+    {
+      "code": "GEL089",
+      "prerequisite_code": "GEL085"
+    },
+    {
+      "code": "GEL090",
+      "prerequisite_code": "GEL086"
+    },
+    {
+      "code": "GEL091",
+      "prerequisite_code": "GEL087"
+    },
+    {
+      "code": "GEL092",
+      "prerequisite_code": "GEL088"
+    },
+    {
+      "code": "GEL093",
+      "prerequisite_code": "GEL089"
+    },
+    {
+      "code": "GEL094",
+      "prerequisite_code": "GEL090"
+    },
+    {
+      "code": "GEL095",
+      "prerequisite_code": "GEL090"
+    },
+    {
+      "code": "GEL096",
+      "prerequisite_code": "GEL090"
+    },
+    {
+      "code": "GEL097",
+      "prerequisite_code": "GEL091"
+    },
+    {
+      "code": "GEL098",
+      "prerequisite_code": "GEL091"
+    },
+    {
+      "code": "GEL099",
+      "prerequisite_code": "GEL095"
+    },
+    {
+      "code": "GEL100",
+      "prerequisite_code": "GEL096"
+    },
+    {
+      "code": "GEL197",
+      "prerequisite_code": "GEL098"
+    }
+  ]
+}

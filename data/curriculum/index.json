@@ -268,5 +268,11 @@
     "name": "Física",
     "offerId": "fisica",
     "shift": "noturno"
+  },
+  {
+    "id": "geologia-diurno",
+    "name": "Geologia",
+    "offerId": "geologia",
+    "shift": "diurno"
   }
 ]
