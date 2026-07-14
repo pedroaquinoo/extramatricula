@@ -96,7 +96,7 @@ export function MagicModePanel({
 }: {
   // Load the chosen schedule into the live weekly planner. Returns nothing; the panel keeps its
   // results visible so the student can try another option.
-  onApply: (schedule: MagicSchedule) => void
+  onApply: (schedule: MagicSchedule) => void | Promise<void>
 }) {
   const { courseId, classes, passedSet } = useCourseData()
   const { semester } = useAppStore()

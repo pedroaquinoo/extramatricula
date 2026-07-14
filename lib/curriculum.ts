@@ -1,27 +1,5 @@
 import coursesIndexData from "@/data/curriculum/index.json"
-import cienciaComputacaoDiurno from "@/data/curriculum/ciencia-computacao-diurno.json"
-import cienciaComputacaoVespertino from "@/data/curriculum/ciencia-computacao-vespertino.json"
-import controleAutomacaoDiurno from "@/data/curriculum/controle-automacao-diurno.json"
-import controleAutomacaoNoturno from "@/data/curriculum/controle-automacao-noturno.json"
-import engAeroespacialDiurno from "@/data/curriculum/eng-aeroespacial-diurno.json"
-import engAgricolaAmbientalDiurno from "@/data/curriculum/eng-agricola-ambiental-diurno.json"
-import engAlimentosDiurno from "@/data/curriculum/eng-alimentos-diurno.json"
-import engAlimentosNoturno from "@/data/curriculum/eng-alimentos-noturno.json"
-import engAmbientalDiurno from "@/data/curriculum/eng-ambiental-diurno.json"
-import engCivilDiurno from "@/data/curriculum/eng-civil-diurno.json"
-import engComputacaoVespertino from "@/data/curriculum/eng-computacao-vespertino.json"
-import engEletricaDiurno from "@/data/curriculum/eng-eletrica-diurno.json"
-import engMateriaisDiurno from "@/data/curriculum/eng-materiais-diurno.json"
-import engMecanicaDiurno from "@/data/curriculum/eng-mecanica-diurno.json"
-import engMecanicaNoturno from "@/data/curriculum/eng-mecanica-noturno.json"
-import engMetalurgicaDiurno from "@/data/curriculum/eng-metalurgica-diurno.json"
-import engMinasDiurno from "@/data/curriculum/eng-minas-diurno.json"
-import engProducaoDiurno from "@/data/curriculum/eng-producao-diurno.json"
-import engQuimicaDiurno from "@/data/curriculum/eng-quimica-diurno.json"
-import engSistemasNoturno from "@/data/curriculum/eng-sistemas-noturno.json"
-import estatisticaDiurno from "@/data/curriculum/estatistica-diurno.json"
-import sistemasInformacaoNoturno from "@/data/curriculum/sistemas-informacao-noturno.json"
-import sistemasInformacaoVespertino from "@/data/curriculum/sistemas-informacao-vespertino.json"
+import creditsByCodeData from "@/data/curriculum/credits.json"
 import type {
   Class,
   ClassPrerequisite,
@@ -31,33 +9,104 @@ import type {
 } from "@/lib/types/curriculum"
 import { compareShifts, formatShiftLabel, getShift, type Shift } from "@/lib/shift"
 
-const curriculumByCourseId: Record<string, CurriculumData> = {
-  "ciencia-computacao-diurno": cienciaComputacaoDiurno,
-  "ciencia-computacao-vespertino": cienciaComputacaoVespertino,
-  "controle-automacao-diurno": controleAutomacaoDiurno,
-  "controle-automacao-noturno": controleAutomacaoNoturno,
-  "eng-aeroespacial-diurno": engAeroespacialDiurno,
-  "eng-agricola-ambiental-diurno": engAgricolaAmbientalDiurno,
-  "eng-alimentos-diurno": engAlimentosDiurno,
-  "eng-alimentos-noturno": engAlimentosNoturno,
-  "eng-ambiental-diurno": engAmbientalDiurno,
-  "eng-civil-diurno": engCivilDiurno,
-  "eng-computacao-vespertino": engComputacaoVespertino,
-  "eng-eletrica-diurno": engEletricaDiurno,
-  "eng-materiais-diurno": engMateriaisDiurno,
-  "eng-mecanica-diurno": engMecanicaDiurno,
-  "eng-mecanica-noturno": engMecanicaNoturno,
-  "eng-metalurgica-diurno": engMetalurgicaDiurno,
-  "eng-minas-diurno": engMinasDiurno,
-  "eng-producao-diurno": engProducaoDiurno,
-  "eng-quimica-diurno": engQuimicaDiurno,
-  "eng-sistemas-noturno": engSistemasNoturno,
-  "estatistica-diurno": estatisticaDiurno,
-  "sistemas-informacao-noturno": sistemasInformacaoNoturno,
-  "sistemas-informacao-vespertino": sistemasInformacaoVespertino,
+const curriculumLoaders: Record<string, () => Promise<{ default: CurriculumData }>> = {
+  "ciencia-computacao-diurno": () =>
+    import("@/data/curriculum/ciencia-computacao-diurno.json"),
+  "ciencia-computacao-vespertino": () =>
+    import("@/data/curriculum/ciencia-computacao-vespertino.json"),
+  "controle-automacao-diurno": () =>
+    import("@/data/curriculum/controle-automacao-diurno.json"),
+  "controle-automacao-noturno": () =>
+    import("@/data/curriculum/controle-automacao-noturno.json"),
+  "eng-aeroespacial-diurno": () =>
+    import("@/data/curriculum/eng-aeroespacial-diurno.json"),
+  "eng-agricola-ambiental-diurno": () =>
+    import("@/data/curriculum/eng-agricola-ambiental-diurno.json"),
+  "eng-alimentos-diurno": () =>
+    import("@/data/curriculum/eng-alimentos-diurno.json"),
+  "eng-alimentos-noturno": () =>
+    import("@/data/curriculum/eng-alimentos-noturno.json"),
+  "eng-ambiental-diurno": () =>
+    import("@/data/curriculum/eng-ambiental-diurno.json"),
+  "eng-civil-diurno": () =>
+    import("@/data/curriculum/eng-civil-diurno.json"),
+  "eng-computacao-vespertino": () =>
+    import("@/data/curriculum/eng-computacao-vespertino.json"),
+  "eng-eletrica-diurno": () =>
+    import("@/data/curriculum/eng-eletrica-diurno.json"),
+  "eng-materiais-diurno": () =>
+    import("@/data/curriculum/eng-materiais-diurno.json"),
+  "eng-mecanica-diurno": () =>
+    import("@/data/curriculum/eng-mecanica-diurno.json"),
+  "eng-mecanica-noturno": () =>
+    import("@/data/curriculum/eng-mecanica-noturno.json"),
+  "eng-metalurgica-diurno": () =>
+    import("@/data/curriculum/eng-metalurgica-diurno.json"),
+  "eng-minas-diurno": () =>
+    import("@/data/curriculum/eng-minas-diurno.json"),
+  "eng-producao-diurno": () =>
+    import("@/data/curriculum/eng-producao-diurno.json"),
+  "eng-quimica-diurno": () =>
+    import("@/data/curriculum/eng-quimica-diurno.json"),
+  "eng-sistemas-noturno": () =>
+    import("@/data/curriculum/eng-sistemas-noturno.json"),
+  "estatistica-diurno": () =>
+    import("@/data/curriculum/estatistica-diurno.json"),
+  "sistemas-informacao-noturno": () =>
+    import("@/data/curriculum/sistemas-informacao-noturno.json"),
+  "sistemas-informacao-vespertino": () =>
+    import("@/data/curriculum/sistemas-informacao-vespertino.json"),
 }
 
+const curriculumCache = new Map<string, CurriculumData>()
+const curriculumLoading = new Map<string, Promise<CurriculumData | null>>()
+
+// A discipline code carries the same credits in every program, so a single global
+// map covers all of them. Seeded eagerly from a generated code→credits index (tiny,
+// unlike the full curricula which load lazily) so credits are available for turmas
+// from programs whose curriculum hasn't been loaded — e.g. optional/cross-offer classes.
+const creditsByCode = new Map<string, number>(
+  Object.entries(creditsByCodeData as Record<string, number>),
+)
+
 const coursesIndex = coursesIndexData as Course[]
+
+function indexCredits(data: CurriculumData) {
+  for (const cls of data.classes) {
+    if (!creditsByCode.has(cls.code)) creditsByCode.set(cls.code, cls.credits)
+  }
+}
+
+export function isCurriculumLoaded(courseId: string): boolean {
+  return curriculumCache.has(courseId)
+}
+
+export async function loadCurriculum(courseId: string): Promise<CurriculumData | null> {
+  if (!courseId) return null
+  const cached = curriculumCache.get(courseId)
+  if (cached) return cached
+
+  const inFlight = curriculumLoading.get(courseId)
+  if (inFlight) return inFlight
+
+  const loader = curriculumLoaders[courseId]
+  if (!loader) return null
+
+  const promise = loader()
+    .then((module) => {
+      const data = module.default
+      curriculumCache.set(courseId, data)
+      indexCredits(data)
+      return data
+    })
+    .catch(() => null)
+    .finally(() => {
+      curriculumLoading.delete(courseId)
+    })
+
+  curriculumLoading.set(courseId, promise)
+  return promise
+}
 
 export interface CourseGroup {
   offerId: string
@@ -126,16 +175,7 @@ export function getOfferId(courseId: string): string {
 }
 
 export function getClasses(courseId: string): Class[] {
-  return curriculumByCourseId[courseId]?.classes ?? []
-}
-
-// A discipline code can appear in many programs; credits are the same wherever it
-// shows up, so a single global lookup built from every curriculum is enough.
-const creditsByCode = new Map<string, number>()
-for (const data of Object.values(curriculumByCourseId)) {
-  for (const cls of data.classes) {
-    if (!creditsByCode.has(cls.code)) creditsByCode.set(cls.code, cls.credits)
-  }
+  return curriculumCache.get(courseId)?.classes ?? []
 }
 
 export function getCreditsByCode(code: string): number {
@@ -143,7 +183,7 @@ export function getCreditsByCode(code: string): number {
 }
 
 export function getPrerequisites(courseId: string): ClassPrerequisite[] {
-  return curriculumByCourseId[courseId]?.prerequisites ?? []
+  return curriculumCache.get(courseId)?.prerequisites ?? []
 }
 
 export function getClassesWithPrerequisites(courseId: string): ClassWithPrerequisites[] {
@@ -167,3 +207,4 @@ export function isLocked(code: string, courseId: string, passed: Set<string>): b
   if (prerequisites.length === 0) return false
   return !prerequisites.every((prereq) => passed.has(prereq.prerequisite_code))
 }
+

@@ -3,7 +3,8 @@
 import { useCallback, useSyncExternalStore } from "react"
 
 import { trackCourseProgressUpdated } from "@/lib/analytics"
-import { getClasses } from "@/lib/curriculum"
+import { getClasses, isCurriculumLoaded } from "@/lib/curriculum"
+import { safeSetItem } from "@/lib/storage"
 
 const STORAGE_KEY = "extramatricula:v1"
 
@@ -44,8 +45,7 @@ function readStorage(): AppState {
 }
 
 function writeStorage(next: AppState) {
-  if (typeof window === "undefined") return
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(next))
+  safeSetItem(STORAGE_KEY, JSON.stringify(next))
 }
 
 function emit() {
@@ -76,7 +76,7 @@ export function subscribe(listener: () => void) {
 }
 
 function emitCourseProgressUpdated(courseId: string, passedCount: number) {
-  if (!courseId) return
+  if (!courseId || !isCurriculumLoaded(courseId)) return
   trackCourseProgressUpdated(passedCount, getClasses(courseId).length)
 }
 

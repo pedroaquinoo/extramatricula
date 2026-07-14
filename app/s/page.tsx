@@ -6,12 +6,19 @@ import { LoadingScreen } from "@/components/extra/loading-screen"
 import { captureEvent } from "@/lib/analytics"
 import { AnalyticsEvents } from "@/lib/analytics-events"
 import { decodeSharePayload, resolveShareCourseId } from "@/lib/share"
-import { findTurma, findTurmasAcrossOffers, getCurrentOfferTerm } from "@/lib/offers"
+import {
+  findTurma,
+  findTurmasAcrossOffers,
+  getCurrentOfferTerm,
+  loadTermOffers,
+} from "@/lib/offers"
 import type { PlannedClass } from "@/hooks/use-weekly-planner"
 
 export default function SharedSchedulePage() {
   const [hash, setHash] = useState("")
   const [ready, setReady] = useState(false)
+  const [plannedClasses, setPlannedClasses] = useState<PlannedClass[]>([])
+  const [resolving, setResolving] = useState(false)
   const tracked = useRef(false)
 
   useEffect(() => {
@@ -22,36 +29,63 @@ export default function SharedSchedulePage() {
   const decoded = useMemo(() => decodeSharePayload(hash), [hash])
   const currentTerm = getCurrentOfferTerm()
 
-  const plannedClasses: PlannedClass[] = useMemo(() => {
-    if (!decoded || decoded.term !== currentTerm) return []
-    const programId = resolveShareCourseId(decoded)
-    return decoded.picks
-      .map((pick) => {
-        // Prefer the sharer's own program offer, but fall back to any program that lists
-        // this turma — the sharer may have picked a turma from another course's offer.
-        const turma =
-          findTurma(decoded.term, programId, pick.course_id, pick.availabilityCode) ??
-          findTurmasAcrossOffers(decoded.term, pick.course_id).find(
-            (t) => t.availabilityCode === pick.availabilityCode,
-          )
-        if (!turma) return null
-        return {
-          ...turma,
-          id: `${turma.course_id}-${turma.availabilityCode}`,
-        }
-      })
-      .filter((cls): cls is PlannedClass => cls !== null)
+  useEffect(() => {
+    if (!decoded || decoded.term !== currentTerm) {
+      setPlannedClasses([])
+      setResolving(false)
+      return
+    }
+
+    let cancelled = false
+    setResolving(true)
+
+    async function resolve() {
+      await loadTermOffers(decoded!.term)
+      const programId = resolveShareCourseId(decoded!)
+      const classes = (
+        await Promise.all(
+          decoded!.picks.map(async (pick) => {
+            const turma =
+              findTurma(
+                decoded!.term,
+                programId,
+                pick.course_id,
+                pick.availabilityCode,
+              ) ??
+              (await findTurmasAcrossOffers(decoded!.term, pick.course_id)).find(
+                (t) => t.availabilityCode === pick.availabilityCode,
+              )
+            if (!turma) return null
+            return {
+              ...turma,
+              id: `${turma.course_id}-${turma.availabilityCode}`,
+            }
+          }),
+        )
+      ).filter((cls): cls is PlannedClass => cls !== null)
+
+      if (!cancelled) {
+        setPlannedClasses(classes)
+        setResolving(false)
+      }
+    }
+
+    resolve()
+    return () => {
+      cancelled = true
+    }
   }, [decoded, currentTerm])
 
   useEffect(() => {
     if (!ready || !decoded || decoded.term !== currentTerm || tracked.current) return
+    if (resolving) return
     tracked.current = true
     captureEvent(AnalyticsEvents.SHARED_SCHEDULE_VIEWED, {
       planned_count: plannedClasses.length,
     })
-  }, [ready, decoded, currentTerm, plannedClasses.length])
+  }, [ready, decoded, currentTerm, plannedClasses.length, resolving])
 
-  if (!ready) {
+  if (!ready || resolving) {
     return <LoadingScreen className="min-h-screen" />
   }
 

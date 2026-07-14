@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect, useCallback, useRef } from "react"
+import { safeSetItem } from "@/lib/storage"
 import { AvailableClass } from "./use-available-classes"
 
 export interface PlannedClass extends AvailableClass {
@@ -44,7 +45,7 @@ export function useWeeklyPlanner() {
 
   useEffect(() => {
     if (!hydrated.current) return
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+    safeSetItem(STORAGE_KEY, JSON.stringify(state))
   }, [state])
 
   const addClass = useCallback((availableClass: AvailableClass) => {

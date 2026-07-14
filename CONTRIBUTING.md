@@ -22,7 +22,7 @@ A manutenção recorrente mais importante do projeto, e um ótimo primeiro PR.
 
 1. Faça a ingestão do PDF da oferta (manual ou via `scripts/ingest/`).
 2. Rode `pnpm ingest 2026/1 controle-automacao ./caminho/para/oferta.json` (veja [`scripts/ingest/how-to-ingest.md`](scripts/ingest/how-to-ingest.md)).
-3. Adicione o import do novo arquivo ao mapa `offersByTermAndOfferId` em [lib/offers.ts](lib/offers.ts).
+3. Rode `pnpm ingest` para atualizar os loader maps em [lib/offers.ts](lib/offers.ts) (ou adicione manualmente a entrada em `offerLoaders`).
 4. Atualize `current` em [`data/offers/index.json`](data/offers/index.json) se este for o semestre ativo.
 5. Confira o formato contra o snapshot anterior: mesmas chaves, mesmos tipos, mesma convenção de horário. Turmas com código prefixado por `P` são práticas/laboratórios.
 6. Rode `pnpm build` e teste a simulação no app.

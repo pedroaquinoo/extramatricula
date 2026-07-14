@@ -1,5 +1,8 @@
-import { useMemo } from "react"
-import { getCurrentOfferForProgram } from "@/lib/offers"
+"use client"
+
+import { useEffect, useMemo, useState } from "react"
+import { getOfferId } from "@/lib/curriculum"
+import { getCurrentOfferTerm, getOfferForProgram, loadOffer } from "@/lib/offers"
 import { useAppStore } from "@/lib/store"
 
 export interface AvailableClass {
@@ -15,28 +18,48 @@ export interface AvailableClass {
   teachers: string[]
 }
 
-const cache = new Map<string, AvailableClass[]>()
-
 export function useAvailableClasses() {
   const { courseId } = useAppStore()
+  const [loading, setLoading] = useState(false)
+  const [loadedCourseId, setLoadedCourseId] = useState("")
 
-  const availableClasses = useMemo(() => {
-    if (!courseId) return []
-    if (!cache.has(courseId)) {
-      cache.set(courseId, getCurrentOfferForProgram(courseId))
+  useEffect(() => {
+    if (!courseId) {
+      setLoadedCourseId("")
+      setLoading(false)
+      return
     }
-    return cache.get(courseId) ?? []
+
+    let cancelled = false
+    setLoading(true)
+    const term = getCurrentOfferTerm()
+    const offerId = getOfferId(courseId)
+
+    loadOffer(term, offerId).then(() => {
+      if (cancelled) return
+      setLoadedCourseId(courseId)
+      setLoading(false)
+    })
+
+    return () => {
+      cancelled = true
+    }
   }, [courseId])
 
+  const availableClasses = useMemo(() => {
+    if (!courseId || loadedCourseId !== courseId) return []
+    return getOfferForProgram(getCurrentOfferTerm(), courseId)
+  }, [courseId, loadedCourseId])
+
   const error = useMemo(() => {
-    if (!courseId) return null
+    if (!courseId || loading || loadedCourseId !== courseId) return null
     if (availableClasses.length > 0) return null
     return "Nenhuma oferta encontrada para este curso no semestre atual."
-  }, [courseId, availableClasses.length])
+  }, [courseId, loading, loadedCourseId, availableClasses.length])
 
   return {
     availableClasses,
-    loading: false,
+    loading,
     error,
   }
 }

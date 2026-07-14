@@ -1,6 +1,6 @@
 "use client"
 
-import { useMemo, useState } from "react"
+import { useEffect, useState } from "react"
 import {
   Dialog,
   DialogContent,
@@ -13,7 +13,11 @@ import { Alert, AlertDescription } from "@/components/ui/alert"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Clock, User, Check, Globe, TriangleAlert } from "lucide-react"
-import { findTurmasAcrossOffers, getCurrentOfferTerm } from "@/lib/offers"
+import {
+  findTurmasAcrossOffers,
+  getCurrentOfferTerm,
+  type TurmaAcrossOffers,
+} from "@/lib/offers"
 import { getCourseGroups } from "@/lib/curriculum"
 import { isOffShift, type Shift } from "@/lib/shift"
 import { OffShiftBadge } from "@/components/extra/off-shift-badge"
@@ -24,8 +28,6 @@ import type { AvailableClass } from "@/hooks/use-available-classes"
 interface OtherOfferingsDialogProps {
   disciplineCode: string
   disciplineName: string
-  // Availability codes already listed in the student's own program offer, so we only
-  // surface the turmas they can't already see.
   ownCodes: Set<string>
   selectedClasses: AvailableClass[]
   onSelectClass: (cls: AvailableClass) => void
@@ -45,17 +47,30 @@ export function OtherOfferingsDialog({
   shift,
 }: OtherOfferingsDialogProps) {
   const [open, setOpen] = useState(false)
+  const [otherTurmas, setOtherTurmas] = useState<TurmaAcrossOffers[]>([])
+  const [loaded, setLoaded] = useState(false)
   const term = getCurrentOfferTerm()
+  const ownCodesKey = [...ownCodes].sort().join(",")
 
-  const otherTurmas = useMemo(
-    () =>
-      findTurmasAcrossOffers(term, disciplineCode).filter(
-        (turma) => !ownCodes.has(turma.availabilityCode),
-      ),
-    [term, disciplineCode, ownCodes],
-  )
+  useEffect(() => {
+    let cancelled = false
+    setLoaded(false)
 
-  if (otherTurmas.length === 0) return null
+    findTurmasAcrossOffers(term, disciplineCode).then((turmas) => {
+      if (cancelled) return
+      setOtherTurmas(turmas.filter((turma) => !ownCodes.has(turma.availabilityCode)))
+      setLoaded(true)
+    })
+
+    return () => {
+      cancelled = true
+    }
+    // ownCodes is read via ownCodesKey (a stable string); depending on the Set
+    // itself would re-run this on every parent render since it's created inline.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [term, disciplineCode, ownCodesKey])
+
+  if (!loaded || otherTurmas.length === 0) return null
 
   const isSelected = (cls: AvailableClass) =>
     selectedClasses.some(

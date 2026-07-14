@@ -1,50 +1,94 @@
-import offersIndex from "@/data/offers/index.json"
-import offer20261ControleAutomacao from "@/data/offers/2026-1/controle-automacao.json"
-import offer20262CienciaComputacao from "@/data/offers/2026-2/ciencia-computacao.json"
-import offer20262ControleAutomacao from "@/data/offers/2026-2/controle-automacao.json"
-import offer20262EngAeroespacial from "@/data/offers/2026-2/eng-aeroespacial.json"
-import offer20262EngAgricolaAmbiental from "@/data/offers/2026-2/eng-agricola-ambiental.json"
-import offer20262EngAlimentos from "@/data/offers/2026-2/eng-alimentos.json"
-import offer20262EngAmbiental from "@/data/offers/2026-2/eng-ambiental.json"
-import offer20262EngCivil from "@/data/offers/2026-2/eng-civil.json"
-import offer20262EngComputacao from "@/data/offers/2026-2/eng-computacao.json"
-import offer20262EngEletrica from "@/data/offers/2026-2/eng-eletrica.json"
-import offer20262EngMateriais from "@/data/offers/2026-2/eng-materiais.json"
-import offer20262EngMecanica from "@/data/offers/2026-2/eng-mecanica.json"
-import offer20262EngMetalurgica from "@/data/offers/2026-2/eng-metalurgica.json"
-import offer20262EngMinas from "@/data/offers/2026-2/eng-minas.json"
-import offer20262EngProducao from "@/data/offers/2026-2/eng-producao.json"
-import offer20262EngQuimica from "@/data/offers/2026-2/eng-quimica.json"
-import offer20262EngSistemas from "@/data/offers/2026-2/eng-sistemas.json"
-import offer20262Estatistica from "@/data/offers/2026-2/estatistica.json"
-import offer20262SistemasInformacao from "@/data/offers/2026-2/sistemas-informacao.json"
+import offersIndexData from "@/data/offers/index.json"
 import { getOfferId } from "@/lib/curriculum"
 import type { AvailableClass } from "@/hooks/use-available-classes"
 
-const offersByTermAndOfferId: Record<string, Record<string, AvailableClass[]>> = {
-  "2026/1": {
-    "controle-automacao": offer20261ControleAutomacao as AvailableClass[],
-  },
-  "2026/2": {
-    "ciencia-computacao": offer20262CienciaComputacao as AvailableClass[],
-    "controle-automacao": offer20262ControleAutomacao as AvailableClass[],
-    "eng-aeroespacial": offer20262EngAeroespacial as AvailableClass[],
-    "eng-agricola-ambiental": offer20262EngAgricolaAmbiental as AvailableClass[],
-    "eng-alimentos": offer20262EngAlimentos as AvailableClass[],
-    "eng-ambiental": offer20262EngAmbiental as AvailableClass[],
-    "eng-civil": offer20262EngCivil as AvailableClass[],
-    "eng-computacao": offer20262EngComputacao as AvailableClass[],
-    "eng-eletrica": offer20262EngEletrica as AvailableClass[],
-    "eng-materiais": offer20262EngMateriais as AvailableClass[],
-    "eng-mecanica": offer20262EngMecanica as AvailableClass[],
-    "eng-metalurgica": offer20262EngMetalurgica as AvailableClass[],
-    "eng-minas": offer20262EngMinas as AvailableClass[],
-    "eng-producao": offer20262EngProducao as AvailableClass[],
-    "eng-quimica": offer20262EngQuimica as AvailableClass[],
-    "eng-sistemas": offer20262EngSistemas as AvailableClass[],
-    estatistica: offer20262Estatistica as AvailableClass[],
-    "sistemas-informacao": offer20262SistemasInformacao as AvailableClass[],
-  },
+const offersIndex = offersIndexData as {
+  current: string
+  terms: string[]
+  programsByTerm?: Record<string, string[]>
+}
+
+const offerLoaders: Record<string, () => Promise<{ default: AvailableClass[] }>> = {
+  "2026/1:controle-automacao": () =>
+    import("@/data/offers/2026-1/controle-automacao.json"),
+  "2026/2:ciencia-computacao": () =>
+    import("@/data/offers/2026-2/ciencia-computacao.json"),
+  "2026/2:controle-automacao": () =>
+    import("@/data/offers/2026-2/controle-automacao.json"),
+  "2026/2:eng-aeroespacial": () => import("@/data/offers/2026-2/eng-aeroespacial.json"),
+  "2026/2:eng-agricola-ambiental": () =>
+    import("@/data/offers/2026-2/eng-agricola-ambiental.json"),
+  "2026/2:eng-alimentos": () => import("@/data/offers/2026-2/eng-alimentos.json"),
+  "2026/2:eng-ambiental": () => import("@/data/offers/2026-2/eng-ambiental.json"),
+  "2026/2:eng-civil": () => import("@/data/offers/2026-2/eng-civil.json"),
+  "2026/2:eng-computacao": () => import("@/data/offers/2026-2/eng-computacao.json"),
+  "2026/2:eng-eletrica": () => import("@/data/offers/2026-2/eng-eletrica.json"),
+  "2026/2:eng-materiais": () => import("@/data/offers/2026-2/eng-materiais.json"),
+  "2026/2:eng-mecanica": () => import("@/data/offers/2026-2/eng-mecanica.json"),
+  "2026/2:eng-metalurgica": () => import("@/data/offers/2026-2/eng-metalurgica.json"),
+  "2026/2:eng-minas": () => import("@/data/offers/2026-2/eng-minas.json"),
+  "2026/2:eng-producao": () => import("@/data/offers/2026-2/eng-producao.json"),
+  "2026/2:eng-quimica": () => import("@/data/offers/2026-2/eng-quimica.json"),
+  "2026/2:eng-sistemas": () => import("@/data/offers/2026-2/eng-sistemas.json"),
+  "2026/2:estatistica": () => import("@/data/offers/2026-2/estatistica.json"),
+  "2026/2:sistemas-informacao": () =>
+    import("@/data/offers/2026-2/sistemas-informacao.json"),
+}
+
+const offerCache = new Map<string, AvailableClass[]>()
+const offerLoading = new Map<string, Promise<AvailableClass[]>>()
+const termLoading = new Map<string, Promise<void>>()
+
+function offerKey(term: string, offerId: string): string {
+  return `${term}:${offerId}`
+}
+
+export function isOfferLoaded(term: string, offerId: string): boolean {
+  return offerCache.has(offerKey(term, offerId))
+}
+
+export async function loadOffer(
+  term: string,
+  offerId: string,
+): Promise<AvailableClass[]> {
+  const key = offerKey(term, offerId)
+  const cached = offerCache.get(key)
+  if (cached) return cached
+
+  const inFlight = offerLoading.get(key)
+  if (inFlight) return inFlight
+
+  const loader = offerLoaders[key]
+  if (!loader) return []
+
+  const promise = loader()
+    .then((module) => {
+      const data = module.default
+      offerCache.set(key, data)
+      return data
+    })
+    .catch(() => [] as AvailableClass[])
+    .finally(() => {
+      offerLoading.delete(key)
+    })
+
+  offerLoading.set(key, promise)
+  return promise
+}
+
+export async function loadTermOffers(term: string): Promise<void> {
+  const programs = offersIndex.programsByTerm?.[term] ?? []
+  if (programs.length === 0) return
+
+  const inFlight = termLoading.get(term)
+  if (inFlight) return inFlight
+
+  const promise = Promise.all(programs.map((offerId) => loadOffer(term, offerId))).then(
+    () => undefined,
+  )
+  termLoading.set(term, promise)
+  await promise
+  termLoading.delete(term)
 }
 
 export function getCurrentOfferTerm(): string {
@@ -58,7 +102,7 @@ export function getOfferTerms(): string[] {
 export function getOfferForProgram(term: string, courseId: string): AvailableClass[] {
   if (!courseId) return []
   const offerId = getOfferId(courseId)
-  return offersByTermAndOfferId[term]?.[offerId] ?? []
+  return offerCache.get(offerKey(term, offerId)) ?? []
 }
 
 export function getCurrentOfferForProgram(courseId: string): AvailableClass[] {
@@ -79,15 +123,17 @@ export function findTurma(
 
 export type TurmaAcrossOffers = AvailableClass & { offerIds: string[] }
 
-// Collects every turma of a discipline across all program offers in a term,
-// deduplicating by availability code and tracking which offers list each one.
-export function findTurmasAcrossOffers(
+export async function findTurmasAcrossOffers(
   term: string,
   disciplineCode: string,
-): TurmaAcrossOffers[] {
-  const byAvailabilityCode = new Map<string, TurmaAcrossOffers>()
+): Promise<TurmaAcrossOffers[]> {
+  await loadTermOffers(term)
 
-  for (const [offerId, classes] of Object.entries(offersByTermAndOfferId[term] ?? {})) {
+  const byAvailabilityCode = new Map<string, TurmaAcrossOffers>()
+  const programs = offersIndex.programsByTerm?.[term] ?? []
+
+  for (const offerId of programs) {
+    const classes = offerCache.get(offerKey(term, offerId)) ?? []
     for (const cls of classes) {
       if (cls.course_id !== disciplineCode) continue
       const existing = byAvailabilityCode.get(cls.availabilityCode)

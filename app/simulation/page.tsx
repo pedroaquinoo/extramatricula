@@ -36,7 +36,13 @@ type Pane = "classes" | "schedule"
 type LeftView = "classes" | "magic"
 
 export default function SimulationPage() {
-  const { classes, hasData, courseId, passedSet } = useCourseData()
+  const {
+    classes,
+    hasData,
+    courseId,
+    passedSet,
+    isLoading: courseLoading,
+  } = useCourseData()
   const { semester } = useAppStore()
   const planner = useWeeklyPlanner()
 
@@ -177,23 +183,26 @@ export default function SimulationPage() {
   // Load a magic-mode result straight into the weekly planner. Picks come from this program's
   // offer, but fall back to a cross-offer lookup for turmas that live in another course's offer.
   const applySchedule = useCallback(
-    (schedule: MagicSchedule) => {
-      const resolved = schedule.picks
-        .map(
-          (pick) =>
-            availableClasses.find(
-              (cls) =>
-                cls.course_id === pick.course_id &&
-                cls.availabilityCode === pick.availabilityCode,
-            ) ??
-            findTurmasAcrossOffers(getCurrentOfferTerm(), pick.course_id).find(
-              (t) => t.availabilityCode === pick.availabilityCode,
-            ) ??
-            null,
+    async (schedule: MagicSchedule) => {
+      const term = getCurrentOfferTerm()
+      const resolved = (
+        await Promise.all(
+          schedule.picks.map(async (pick) => {
+            const own =
+              availableClasses.find(
+                (cls) =>
+                  cls.course_id === pick.course_id &&
+                  cls.availabilityCode === pick.availabilityCode,
+              ) ?? null
+            if (own) return own
+            const across = await findTurmasAcrossOffers(term, pick.course_id)
+            return (
+              across.find((t) => t.availabilityCode === pick.availabilityCode) ?? null
+            )
+          }),
         )
-        .filter((cls): cls is AvailableClass => cls !== null)
+      ).filter((cls): cls is AvailableClass => cls !== null)
       planner.setPlan(resolved)
-      // On phones the planner is a separate tab — surface the loaded grade right away.
       setPane("schedule")
     },
     [availableClasses, planner],
@@ -217,7 +226,7 @@ export default function SimulationPage() {
     return <SetupPrompt />
   }
 
-  if (!hasData || !classes) {
+  if (!hasData || !classes || courseLoading || loading) {
     return <LoadingScreen className="p-4" />
   }
 
@@ -254,11 +263,19 @@ export default function SimulationPage() {
               aria-label={leftView === "magic" ? "Voltar ao modo normal" : "Modo mágico"}
               className={cn(
                 "gap-2 w-8 px-0 has-[>svg]:px-0 sm:w-auto sm:px-3 sm:has-[>svg]:px-2.5",
-                leftView === "magic" ? "text-inherit" : "text-primary hover:text-primary/80",
+                leftView === "magic"
+                  ? "text-inherit"
+                  : "text-primary hover:text-primary/80",
               )}
             >
-              {leftView === "magic" ? <ArrowLeft className="size-4 shrink-0" /> : <Sparkles className="size-4 shrink-0" />}
-              <span className="hidden whitespace-nowrap sm:inline">{leftView === "magic" ? "Voltar ao modo normal" : "Modo mágico"}</span>
+              {leftView === "magic" ? (
+                <ArrowLeft className="size-4 shrink-0" />
+              ) : (
+                <Sparkles className="size-4 shrink-0" />
+              )}
+              <span className="hidden whitespace-nowrap sm:inline">
+                {leftView === "magic" ? "Voltar ao modo normal" : "Modo mágico"}
+              </span>
             </Button>
             <Tooltip>
               <TooltipTrigger asChild>

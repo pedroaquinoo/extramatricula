@@ -28,6 +28,8 @@ import {
   getDegreeTitle,
   getOfferId,
   getProgramVariants,
+  isCurriculumLoaded,
+  loadCurriculum,
   resolveCourseId,
 } from "@/lib/curriculum"
 import { formatShiftLabel, getShift, type Shift } from "@/lib/shift"
@@ -152,15 +154,22 @@ function SemesterStep({
   courseId,
   selected,
   onSelect,
+  ready,
 }: {
   courseId: string
   selected: number | null
   onSelect: (semester: number) => void
+  ready: boolean
 }) {
   const semesters = useMemo(() => {
+    if (!ready) return []
     const periods = getClasses(courseId).map((cls) => cls.ref_period)
     return [...new Set(periods)].sort((a, b) => a - b)
-  }, [courseId])
+  }, [courseId, ready])
+
+  if (!ready) {
+    return <p className="text-sm text-muted-foreground">Carregando grade...</p>
+  }
 
   return (
     <div className="grid grid-cols-5 gap-2">
@@ -196,13 +205,34 @@ function SetupBody({ onDone }: { onDone: () => void }) {
     return courseId
   }, [draftOfferId, draftShift, courseId])
   const [draftSemester, setDraftSemester] = useState<number | null>(semester)
+  const [curriculumReady, setCurriculumReady] = useState(false)
+
+  useEffect(() => {
+    if (!draftCourse) {
+      setCurriculumReady(false)
+      return
+    }
+    if (isCurriculumLoaded(draftCourse)) {
+      setCurriculumReady(true)
+      return
+    }
+
+    let cancelled = false
+    setCurriculumReady(false)
+    loadCurriculum(draftCourse).then((data) => {
+      if (!cancelled) setCurriculumReady(Boolean(data))
+    })
+    return () => {
+      cancelled = true
+    }
+  }, [draftCourse])
 
   const predicted = useMemo(() => {
-    if (!draftCourse || !draftSemester) return []
+    if (!draftCourse || !draftSemester || !curriculumReady) return []
     return getClasses(draftCourse).filter(
       (cls) => !cls.elective && cls.ref_period < draftSemester,
     )
-  }, [draftCourse, draftSemester])
+  }, [draftCourse, draftSemester, curriculumReady])
 
   const confirm = () => {
     if (!draftCourse || !draftSemester) return
@@ -259,6 +289,7 @@ function SetupBody({ onDone }: { onDone: () => void }) {
             courseId={draftCourse}
             selected={draftSemester}
             onSelect={setDraftSemester}
+            ready={curriculumReady}
           />
 
           <p className="text-sm text-pretty text-muted-foreground" aria-live="polite">
@@ -282,7 +313,7 @@ function SetupBody({ onDone }: { onDone: () => void }) {
             <Button
               size="lg"
               className="flex-1 sm:size-default"
-              disabled={!draftSemester}
+              disabled={!draftSemester || !curriculumReady}
               onClick={confirm}
             >
               Começar
