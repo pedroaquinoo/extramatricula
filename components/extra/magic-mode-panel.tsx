@@ -269,10 +269,15 @@ export function MagicModePanel({
 
       {/* Stepper */}
       <div className="flex items-center gap-2 text-xs font-medium">
-        <span
+        <button
+          type="button"
+          onClick={() => setStep("config")}
+          disabled={step === "config"}
+          aria-current={step === "config" ? "step" : undefined}
           className={cn(
-            "flex items-center gap-1.5",
+            "flex items-center gap-1.5 rounded-md text-left transition-colors focus-visible:outline-none focus-visible:ring-[3px] focus-visible:ring-ring/50",
             step === "config" ? "text-foreground" : "text-muted-foreground",
+            step === "results" && "hover:text-foreground",
           )}
         >
           <span
@@ -286,7 +291,7 @@ export function MagicModePanel({
             1
           </span>
           Configurar
-        </span>
+        </button>
         <span className="h-px flex-1 bg-border" />
         <span
           className={cn(
@@ -495,6 +500,11 @@ export function MagicModePanel({
         </div>
       ) : (
         <div className="flex flex-col gap-4">
+          <Button variant="outline" onClick={() => setStep("config")} className="w-full">
+            <ArrowLeft className="size-4" />
+            Voltar e ajustar
+          </Button>
+
           {running && (
             <div className="flex flex-col items-center gap-2 py-10 text-center">
               <Loader2 className="size-6 animate-spin text-muted-foreground" />
@@ -586,17 +596,6 @@ export function MagicModePanel({
                 })}
               </div>
             </div>
-          )}
-
-          {!running && (
-            <Button
-              variant="outline"
-              onClick={() => setStep("config")}
-              className="w-full"
-            >
-              <ArrowLeft className="size-4" />
-              Voltar e ajustar
-            </Button>
           )}
         </div>
       )}
