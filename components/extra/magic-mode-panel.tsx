@@ -41,9 +41,9 @@ const HOURS_STEP = 30
 const DEFAULT_EARLIEST = "07:00"
 const DEFAULT_LATEST = "23:00"
 
-// Selectable hours of the day for the class-window filter (07:00 … 22:00).
+// Selectable hours of the day for the class-window filter (07:00 … 23:00).
 const DAY_HOURS = Array.from(
-  { length: 16 },
+  { length: 17 },
   (_, i) => `${String(7 + i).padStart(2, "0")}:00`,
 )
 
