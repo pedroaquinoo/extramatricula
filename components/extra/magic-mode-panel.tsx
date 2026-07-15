@@ -39,7 +39,7 @@ const MIN_HOURS = 120
 const MAX_HOURS = 450
 const HOURS_STEP = 30
 const DEFAULT_EARLIEST = "07:00"
-const DEFAULT_LATEST = "22:00"
+const DEFAULT_LATEST = "23:00"
 
 // Selectable hours of the day for the class-window filter (07:00 … 22:00).
 const DAY_HOURS = Array.from(
