@@ -1,0 +1,2716 @@
+[
+  {
+    "course_id": "EST031",
+    "name": "ESTATISTICA E PROBABILIDADES",
+    "availabilityCode": "TE1",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Frederico R. B. C."
+    ]
+  },
+  {
+    "course_id": "EST031",
+    "name": "ESTATISTICA E PROBABILIDADES",
+    "availabilityCode": "TE2",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Adrian P. H. L."
+    ]
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TE1",
+    "spots": 125,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TE2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TF1",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TF2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TOL1",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TOL2",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TOL3",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS065",
+    "name": "FUNDAMENTOS DE MECANICA",
+    "availabilityCode": "TOL4",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TE1",
+    "spots": 100,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TE2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TOL1",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TOL2",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TOL3",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS069",
+    "name": "FUNDAMENTOS DE ELETROMAGNETISMO",
+    "availabilityCode": "TOL4",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS151",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: MECÂNICA",
+    "availabilityCode": "PS8A",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS151",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: MECÂNICA",
+    "availabilityCode": "PU9A",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS151",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: MECÂNICA",
+    "availabilityCode": "PU9B",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS151",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: MECÂNICA",
+    "availabilityCode": "PX9A",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS151",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: MECÂNICA",
+    "availabilityCode": "PX9B",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS152",
+    "name": "FUNDAMENTOS DE MECÂNICA DOS FLUIDOS E TERMODINÂMICA",
+    "availabilityCode": "TOL4",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS153",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: ELETROMAGNETISMO",
+    "availabilityCode": "PU8A",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS153",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA: ELETROMAGNETISMO",
+    "availabilityCode": "PU8B",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS155",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA - ONDAS E ÓPTICA",
+    "availabilityCode": "PU9A",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS155",
+    "name": "FÍSICA EXPERIMENTAL BÁSICA - ONDAS E ÓPTICA",
+    "availabilityCode": "PU9B",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "GEL054",
+    "name": "INTRODUCAO AO ESTUDO DE MINERAIS",
+    "availabilityCode": "PEF",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:45",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Raissa S. M."
+    ]
+  },
+  {
+    "course_id": "GEL054",
+    "name": "INTRODUCAO AO ESTUDO DE MINERAIS",
+    "availabilityCode": "TEF",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "21:30"
+      }
+    ],
+    "teachers": [
+      "Raissa S. M."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TD2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TE1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TE2",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TF1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TF2",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TOL1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TOL2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TG",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TOL1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TOL2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT039",
+    "name": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+    "availabilityCode": "TOL",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT040",
+    "name": "EQUACOES DIFERENCIAIS C",
+    "availabilityCode": "TE1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT040",
+    "name": "EQUACOES DIFERENCIAIS C",
+    "availabilityCode": "TE2",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT042",
+    "name": "CÁLCULO DE VÁRIAS VARIÁVEIS",
+    "availabilityCode": "TE",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT042",
+    "name": "CÁLCULO DE VÁRIAS VARIÁVEIS",
+    "availabilityCode": "TF",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI014",
+    "name": "TOPICOS EM QUIMICA B - MÉTODOS AVANÇADOS DE SINTESE: MICROONDAS, ULTRASSOM, MECANOQUÍMICA, FOTOQUÍMICA, ELETROQUÍMICA, TRANSFÊRENCIA DE FASE",
+    "availabilityCode": "TW",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI014",
+    "name": "TOPICOS EM QUIMICA B - ESTATÍSTICA PARA QUIMICA ANALÍTICA",
+    "availabilityCode": "TZ",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI022",
+    "name": "QUIMICA INORGANICA EXPERIMENTAL",
+    "availabilityCode": "PA1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI022",
+    "name": "QUIMICA INORGANICA EXPERIMENTAL",
+    "availabilityCode": "PA2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI022",
+    "name": "QUIMICA INORGANICA EXPERIMENTAL",
+    "availabilityCode": "PA3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI022",
+    "name": "QUIMICA INORGANICA EXPERIMENTAL",
+    "availabilityCode": "PA4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI022",
+    "name": "QUIMICA INORGANICA EXPERIMENTAL",
+    "availabilityCode": "PE1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI022",
+    "name": "QUIMICA INORGANICA EXPERIMENTAL",
+    "availabilityCode": "PE2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI022",
+    "name": "QUIMICA INORGANICA EXPERIMENTAL",
+    "availabilityCode": "PE3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI031",
+    "name": "QUIMICA ORGANICA EXPERIMENTAL",
+    "availabilityCode": "PF1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI031",
+    "name": "QUIMICA ORGANICA EXPERIMENTAL",
+    "availabilityCode": "PF2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI031",
+    "name": "QUIMICA ORGANICA EXPERIMENTAL",
+    "availabilityCode": "PF3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI035",
+    "name": "INTRODUCAO A BIOQUIMICA",
+    "availabilityCode": "TA1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI035",
+    "name": "INTRODUCAO A BIOQUIMICA",
+    "availabilityCode": "TA2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI051",
+    "name": "FUNDAMENTOS DE QUIMICA ANALITICA",
+    "availabilityCode": "TE1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:50",
+        "end": "22:20"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI051",
+    "name": "FUNDAMENTOS DE QUIMICA ANALITICA",
+    "availabilityCode": "TE2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:50",
+        "end": "22:20"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI053",
+    "name": "ANALISE QUALITATIVA",
+    "availabilityCode": "PB1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:25",
+        "end": "11:55"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI053",
+    "name": "ANALISE QUALITATIVA",
+    "availabilityCode": "PB2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:55"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI053",
+    "name": "ANALISE QUALITATIVA",
+    "availabilityCode": "PB3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:50",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI053",
+    "name": "ANALISE QUALITATIVA",
+    "availabilityCode": "PE1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "21:45"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI053",
+    "name": "ANALISE QUALITATIVA",
+    "availabilityCode": "PE2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "21:45"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI055",
+    "name": "ANALISE QUANTITATIVA",
+    "availabilityCode": "PE1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "21:45"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI055",
+    "name": "ANALISE QUANTITATIVA",
+    "availabilityCode": "PE2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "21:45"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI055",
+    "name": "ANALISE QUANTITATIVA",
+    "availabilityCode": "PE3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "21:45"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI055",
+    "name": "ANALISE QUANTITATIVA",
+    "availabilityCode": "TE",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI059",
+    "name": "QUIMICA ORGANICA III",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI060",
+    "name": "METODOS FISICOS DE ANALISE I",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI062",
+    "name": "HISTORIA DA QUIMICA A",
+    "availabilityCode": "TN",
+    "spots": 41,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI084",
+    "name": "TOPICOS EM QUIMICA C - CONCEITOS DE FÍSICO- QUIMICA NO ENSINO MÉDIO",
+    "availabilityCode": "TW",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Amary C. F."
+    ]
+  },
+  {
+    "course_id": "QUI084",
+    "name": "TOPICOS EM QUIMICA C - MODELOS E MODELAGEM NO ENSINO DE QUIMICA II",
+    "availabilityCode": "TZ",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Monique A. R. S."
+    ]
+  },
+  {
+    "course_id": "QUI091",
+    "name": "TOPICOS EM QUIMICA J - LABORATÓRIO DE OPERAÇÕES UNITÁRIAS E PROCESSOS QUÍMICOS INDUSTRIAIS",
+    "availabilityCode": "PE",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Renata C. S. A.",
+      "Camila N. C. C.",
+      "Cinthia C. O."
+    ]
+  },
+  {
+    "course_id": "QUI093",
+    "name": "TOPICOS EM QUIMICA L - INTRODUÇÃO A TECNOLOGIA CERVEJEIRA",
+    "availabilityCode": "TF",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI093",
+    "name": "TOPICOS EM QUIMICA L - INTRODUÇÃO ÀS REDES NEURAIS ARTIFICIAIS APLICADAS À QUÍMICA",
+    "availabilityCode": "TM",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI093",
+    "name": "TOPICOS EM QUIMICA L - ESTRUTURA ELETRÔNICA, ESPECTROS E FOTOQUÍMICA DE MOLÉCULAS PEQUENAS",
+    "availabilityCode": "TN",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI093",
+    "name": "TOPICOS EM QUIMICA L - PROGRAMAÇÃO APLICADA À QUÍMICA",
+    "availabilityCode": "TZ",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI094",
+    "name": "TOPICOS EM QUIMICA M - QUÍMICA VERDE APLICADA ÀS TÉCNICAS DE PREPARO DE AMOSTRAS",
+    "availabilityCode": "TE",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI097",
+    "name": "HISTORIA DA QUIMICA B",
+    "availabilityCode": "TE",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI143",
+    "name": "QUIMICA GERAL C",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI143",
+    "name": "QUIMICA GERAL C",
+    "availabilityCode": "TF1",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI143",
+    "name": "QUIMICA GERAL C",
+    "availabilityCode": "TF2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI144",
+    "name": "QUIMICA GERAL EXPERIMENTAL C",
+    "availabilityCode": "PF1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI144",
+    "name": "QUIMICA GERAL EXPERIMENTAL C",
+    "availabilityCode": "PF2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI144",
+    "name": "QUIMICA GERAL EXPERIMENTAL C",
+    "availabilityCode": "PF3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI144",
+    "name": "QUIMICA GERAL EXPERIMENTAL C",
+    "availabilityCode": "PF4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI145",
+    "name": "CICLO DE PALESTRAS A",
+    "availabilityCode": "TF",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI147",
+    "name": "QUIMICA INORGANICA CI",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI147",
+    "name": "QUIMICA INORGANICA CI",
+    "availabilityCode": "TF1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI147",
+    "name": "QUIMICA INORGANICA CI",
+    "availabilityCode": "TF2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI149",
+    "name": "CICLO DE PALESTRAS B",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:15",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI149",
+    "name": "CICLO DE PALESTRAS B",
+    "availabilityCode": "TE",
+    "spots": 72,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI150",
+    "name": "QUIMICA ORGANICA CI",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI150",
+    "name": "QUIMICA ORGANICA CI",
+    "availabilityCode": "TF1",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI150",
+    "name": "QUIMICA ORGANICA CI",
+    "availabilityCode": "TF2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI151",
+    "name": "FISICO-QUIMICA CI",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI151",
+    "name": "FISICO-QUIMICA CI",
+    "availabilityCode": "TF1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI151",
+    "name": "FISICO-QUIMICA CI",
+    "availabilityCode": "TF2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI189",
+    "name": "QUIMICA ORGANICA CII",
+    "availabilityCode": "TA1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI189",
+    "name": "QUIMICA ORGANICA CII",
+    "availabilityCode": "TA2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI190",
+    "name": "FISICO-QUIMICA CII",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI190",
+    "name": "FISICO-QUIMICA CII",
+    "availabilityCode": "TE",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI192",
+    "name": "OPERACOES UNITARIAS A",
+    "availabilityCode": "TZ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI193",
+    "name": "CARACTERIZACAO DE MATERIAIS",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI198",
+    "name": "CINETICA QUIMICA",
+    "availabilityCode": "PE1",
+    "spots": 13,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI198",
+    "name": "CINETICA QUIMICA",
+    "availabilityCode": "PE2",
+    "spots": 13,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI198",
+    "name": "CINETICA QUIMICA",
+    "availabilityCode": "PE3",
+    "spots": 14,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI198",
+    "name": "CINETICA QUIMICA",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI199",
+    "name": "INTRODUCAO A ESTRUTURA DA MATERIA",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI200",
+    "name": "INSTRUMENTACAO PARA O ENSINO DE QUIMICA CI",
+    "availabilityCode": "TE",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI201",
+    "name": "OPERACOES UNITARIAS B",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI215",
+    "name": "QUIMICA AMBIENTAL C",
+    "availabilityCode": "TB",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI215",
+    "name": "QUIMICA AMBIENTAL C",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI216",
+    "name": "QUIMICA INORGANICA CII",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI216",
+    "name": "QUIMICA INORGANICA CII",
+    "availabilityCode": "TM",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI217",
+    "name": "INSTRUMENTACAO PARA O ENSINO DE QUIMICA CII",
+    "availabilityCode": "TN",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "16:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI218",
+    "name": "METODOS FISICOS DE ANALISE II",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI219",
+    "name": "ESPECTROSCOPIA",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "21:45"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI221",
+    "name": "ANALISE INSTRUMENTAL A",
+    "availabilityCode": "PB1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:25",
+        "end": "11:55"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI221",
+    "name": "ANALISE INSTRUMENTAL A",
+    "availabilityCode": "PM1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI221",
+    "name": "ANALISE INSTRUMENTAL A",
+    "availabilityCode": "PM2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI221",
+    "name": "ANALISE INSTRUMENTAL A",
+    "availabilityCode": "PM3",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:00",
+        "end": "18:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI221",
+    "name": "ANALISE INSTRUMENTAL A",
+    "availabilityCode": "TB",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI222",
+    "name": "ANALISE INSTRUMENTAL B",
+    "availabilityCode": "PN1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI222",
+    "name": "ANALISE INSTRUMENTAL B",
+    "availabilityCode": "PN2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI222",
+    "name": "ANALISE INSTRUMENTAL B",
+    "availabilityCode": "PN3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI222",
+    "name": "ANALISE INSTRUMENTAL B",
+    "availabilityCode": "PN4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI222",
+    "name": "ANALISE INSTRUMENTAL B",
+    "availabilityCode": "TM1",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:50",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI222",
+    "name": "ANALISE INSTRUMENTAL B",
+    "availabilityCode": "TM2",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "13:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI223",
+    "name": "QUIMICA INORGANICA CIII",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI225",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO I - BACHARELADO",
+    "availabilityCode": "PE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI234",
+    "name": "INTRODUCAO AOS POLIMEROS",
+    "availabilityCode": "TZ",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI238",
+    "name": "INTRODUCAO A QUIMICA DE PRODUTOS NATURAIS",
+    "availabilityCode": "TB",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:20",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI245",
+    "name": "NANOCIÊNCIA E NANOTECNOLOGIA",
+    "availabilityCode": "TZ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI253",
+    "name": "QUIMICA ORGANICA AMBIENTAL",
+    "availabilityCode": "TZ",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI254",
+    "name": "RADIOATIVIDADE E O MEIO AMBIENTE",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:55",
+        "end": "16:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI262",
+    "name": "ESTAGIO CURRICULAR",
+    "availabilityCode": "PB",
+    "spots": 40,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI263",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO II - BACHARELADO",
+    "availabilityCode": "PA",
+    "spots": 40,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI266",
+    "name": "SEGURANÇA E TÉCNICAS BÁSICAS DE LABORATÓRIO",
+    "availabilityCode": "PB1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI266",
+    "name": "SEGURANÇA E TÉCNICAS BÁSICAS DE LABORATÓRIO",
+    "availabilityCode": "PB2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI266",
+    "name": "SEGURANÇA E TÉCNICAS BÁSICAS DE LABORATÓRIO",
+    "availabilityCode": "PB3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI266",
+    "name": "SEGURANÇA E TÉCNICAS BÁSICAS DE LABORATÓRIO",
+    "availabilityCode": "PB4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI267",
+    "name": "FISICO-QUIMICA EXPERIMENTAL CI",
+    "availabilityCode": "PE1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI267",
+    "name": "FISICO-QUIMICA EXPERIMENTAL CI",
+    "availabilityCode": "PE2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI267",
+    "name": "FISICO-QUIMICA EXPERIMENTAL CI",
+    "availabilityCode": "PE3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI267",
+    "name": "FISICO-QUIMICA EXPERIMENTAL CI",
+    "availabilityCode": "PE4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI268",
+    "name": "FISICO-QUIMICA EXPERIMENTAL CII",
+    "availabilityCode": "PE1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:50",
+        "end": "21:45"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI268",
+    "name": "FISICO-QUIMICA EXPERIMENTAL CII",
+    "availabilityCode": "PE2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:50",
+        "end": "21:45"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI268",
+    "name": "FISICO-QUIMICA EXPERIMENTAL CII",
+    "availabilityCode": "PE3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:50",
+        "end": "21:45"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI268",
+    "name": "FISICO-QUIMICA EXPERIMENTAL CII",
+    "availabilityCode": "PM1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI268",
+    "name": "FISICO-QUIMICA EXPERIMENTAL CII",
+    "availabilityCode": "PM2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI268",
+    "name": "FISICO-QUIMICA EXPERIMENTAL CII",
+    "availabilityCode": "PM3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI279",
+    "name": "TECNOLOGIA DE GESTAO DA QUALIDADE E DO MEIO AMBIENTE",
+    "availabilityCode": "TF",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Camila N. C. C."
+    ]
+  },
+  {
+    "course_id": "QUI280",
+    "name": "TOPICOS EM QUIMICA INDUSTRIAL A - FUNDAMENTOS DE FENÔMENOS DE TRANSPORTE",
+    "availabilityCode": "TE",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Renata C. S. A."
+    ]
+  },
+  {
+    "course_id": "QUI280",
+    "name": "TOPICOS EM QUIMICA INDUSTRIAL A - REATORES QUÍMICOS INDUSTRIAIS",
+    "availabilityCode": "TZ",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Cinthia C. O."
+    ]
+  },
+  {
+    "course_id": "QUI289",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO LI",
+    "availabilityCode": "PF",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI290",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO LII",
+    "availabilityCode": "PA",
+    "spots": 40,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  }
+]

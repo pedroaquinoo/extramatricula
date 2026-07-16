@@ -1,0 +1,7253 @@
+[
+  {
+    "course_id": "BIG057",
+    "name": "ECOLOGIA E DESENVOLVIMENTO SUSTENTAVEL",
+    "availabilityCode": "TV",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIG601",
+    "name": "GENETICA E EVOLUCAO",
+    "availabilityCode": "TV1",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "16:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIG601",
+    "name": "GENETICA E EVOLUCAO",
+    "availabilityCode": "TV2",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "16:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ061",
+    "name": "IMUNOLOGIA",
+    "availabilityCode": "TV",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "11:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ601",
+    "name": "BIOQUIMICA CELULAR",
+    "availabilityCode": "PV1",
+    "spots": 38,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ601",
+    "name": "BIOQUIMICA CELULAR",
+    "availabilityCode": "PV2",
+    "spots": 37,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ601",
+    "name": "BIOQUIMICA CELULAR",
+    "availabilityCode": "TV",
+    "spots": 75,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CCV002",
+    "name": "SEMIOLOGIA VETERINARIA",
+    "availabilityCode": "PA1",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:10",
+        "end": "16:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Pedro A. B. P.",
+      "Priscila F.",
+      "Renata P. A. M.",
+      "Luiz A. L.",
+      "Ana L. S. M."
+    ]
+  },
+  {
+    "course_id": "CCV002",
+    "name": "SEMIOLOGIA VETERINARIA",
+    "availabilityCode": "PA2",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:10",
+        "end": "16:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Pedro A. B. P.",
+      "Priscila F.",
+      "Renata P. A. M.",
+      "Luiz A. L.",
+      "Ana L. S. M."
+    ]
+  },
+  {
+    "course_id": "CCV002",
+    "name": "SEMIOLOGIA VETERINARIA",
+    "availabilityCode": "PA3",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "10:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Pedro A. B. P.",
+      "Priscila F.",
+      "Renata P. A. M.",
+      "Luiz A. L.",
+      "Ana L. S. M."
+    ]
+  },
+  {
+    "course_id": "CCV002",
+    "name": "SEMIOLOGIA VETERINARIA",
+    "availabilityCode": "PB1",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:10",
+        "end": "12:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Pedro A. B. P.",
+      "Priscila F.",
+      "Renata P. A. M.",
+      "Luiz A. L.",
+      "Ana L. S. M."
+    ]
+  },
+  {
+    "course_id": "CCV002",
+    "name": "SEMIOLOGIA VETERINARIA",
+    "availabilityCode": "PB2",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:10",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Pedro A. B. P.",
+      "Priscila F.",
+      "Renata P. A. M.",
+      "Luiz A. L.",
+      "Ana L. S. M."
+    ]
+  },
+  {
+    "course_id": "CCV002",
+    "name": "SEMIOLOGIA VETERINARIA",
+    "availabilityCode": "PB3",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:10",
+        "end": "12:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Pedro A. B. P.",
+      "Priscila F.",
+      "Renata P. A. M.",
+      "Luiz A. L.",
+      "Ana L. S. M."
+    ]
+  },
+  {
+    "course_id": "CCV002",
+    "name": "SEMIOLOGIA VETERINARIA",
+    "availabilityCode": "T",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Pedro A. B. P.",
+      "Priscila F.",
+      "Renata P. A. M.",
+      "Luiz A. L.",
+      "Ana L. S. M."
+    ]
+  },
+  {
+    "course_id": "CCV006",
+    "name": "PATOLOGIA E CLINICA CIRURGICA VETERINARIAS",
+    "availabilityCode": "PA1",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Andressa B. S. X.",
+      "Scarlath O. P. S.",
+      "Armando M. C.",
+      "Eliane G. M.",
+      "Leticia O. C.",
+      "Suzane L. B."
+    ]
+  },
+  {
+    "course_id": "CCV006",
+    "name": "PATOLOGIA E CLINICA CIRURGICA VETERINARIAS",
+    "availabilityCode": "PA2",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Andressa B. S. X.",
+      "Scarlath O. P. S.",
+      "Armando M. C.",
+      "Eliane G. M.",
+      "Leticia O. C.",
+      "Suzane L. B."
+    ]
+  },
+  {
+    "course_id": "CCV006",
+    "name": "PATOLOGIA E CLINICA CIRURGICA VETERINARIAS",
+    "availabilityCode": "PA3",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Andressa B. S. X.",
+      "Scarlath O. P. S.",
+      "Armando M. C.",
+      "Eliane G. M.",
+      "Leticia O. C.",
+      "Suzane L. B."
+    ]
+  },
+  {
+    "course_id": "CCV006",
+    "name": "PATOLOGIA E CLINICA CIRURGICA VETERINARIAS",
+    "availabilityCode": "PA4",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Scarlath O. P. S.",
+      "Armando M. C.",
+      "Eliane G. M.",
+      "Leticia O. C.",
+      "Suzane L. B.",
+      "Andressa B. S. X."
+    ]
+  },
+  {
+    "course_id": "CCV006",
+    "name": "PATOLOGIA E CLINICA CIRURGICA VETERINARIAS",
+    "availabilityCode": "PA5",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Scarlath O. P. S.",
+      "Armando M. C.",
+      "Eliane G. M.",
+      "Leticia O. C.",
+      "Suzane L. B.",
+      "Andressa B. S. X."
+    ]
+  },
+  {
+    "course_id": "CCV006",
+    "name": "PATOLOGIA E CLINICA CIRURGICA VETERINARIAS",
+    "availabilityCode": "PB1",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Suzane L. B.",
+      "Andressa B. S. X.",
+      "Scarlath O. P. S.",
+      "Armando M. C.",
+      "Eliane G. M.",
+      "Leticia O. C."
+    ]
+  },
+  {
+    "course_id": "CCV006",
+    "name": "PATOLOGIA E CLINICA CIRURGICA VETERINARIAS",
+    "availabilityCode": "PB2",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Andressa B. S. X.",
+      "Scarlath O. P. S.",
+      "Armando M. C.",
+      "Eliane G. M.",
+      "Leticia O. C.",
+      "Suzane L. B."
+    ]
+  },
+  {
+    "course_id": "CCV006",
+    "name": "PATOLOGIA E CLINICA CIRURGICA VETERINARIAS",
+    "availabilityCode": "PB3",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Andressa B. S. X.",
+      "Scarlath O. P. S.",
+      "Armando M. C.",
+      "Eliane G. M.",
+      "Leticia O. C.",
+      "Suzane L. B."
+    ]
+  },
+  {
+    "course_id": "CCV006",
+    "name": "PATOLOGIA E CLINICA CIRURGICA VETERINARIAS",
+    "availabilityCode": "PB4",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Andressa B. S. X.",
+      "Scarlath O. P. S.",
+      "Armando M. C.",
+      "Eliane G. M.",
+      "Leticia O. C.",
+      "Suzane L. B."
+    ]
+  },
+  {
+    "course_id": "CCV006",
+    "name": "PATOLOGIA E CLINICA CIRURGICA VETERINARIAS",
+    "availabilityCode": "PB5",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Scarlath O. P. S.",
+      "Armando M. C.",
+      "Eliane G. M.",
+      "Leticia O. C.",
+      "Suzane L. B.",
+      "Andressa B. S. X."
+    ]
+  },
+  {
+    "course_id": "CCV006",
+    "name": "PATOLOGIA E CLINICA CIRURGICA VETERINARIAS",
+    "availabilityCode": "T",
+    "spots": 82,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Andressa B. S. X.",
+      "Scarlath O. P. S.",
+      "Armando M. C.",
+      "Eliane G. M.",
+      "Leticia O. C.",
+      "Suzane L. B."
+    ]
+  },
+  {
+    "course_id": "CCV009",
+    "name": "CLINICA DE RUMINANTES I",
+    "availabilityCode": "PA1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Tiago F. M.",
+      "Ronaldo A. M.",
+      "Elias J. F. F.",
+      "Rodrigo M. M."
+    ]
+  },
+  {
+    "course_id": "CCV009",
+    "name": "CLINICA DE RUMINANTES I",
+    "availabilityCode": "PA2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Ronaldo A. M.",
+      "Elias J. F. F.",
+      "Rodrigo M. M.",
+      "Tiago F. M."
+    ]
+  },
+  {
+    "course_id": "CCV009",
+    "name": "CLINICA DE RUMINANTES I",
+    "availabilityCode": "PA3",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Ronaldo A. M.",
+      "Elias J. F. F.",
+      "Rodrigo M. M.",
+      "Tiago F. M."
+    ]
+  },
+  {
+    "course_id": "CCV009",
+    "name": "CLINICA DE RUMINANTES I",
+    "availabilityCode": "PB1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Tiago F. M.",
+      "Ronaldo A. M.",
+      "Elias J. F. F.",
+      "Rodrigo M. M."
+    ]
+  },
+  {
+    "course_id": "CCV009",
+    "name": "CLINICA DE RUMINANTES I",
+    "availabilityCode": "PB2",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Tiago F. M.",
+      "Ronaldo A. M.",
+      "Elias J. F. F.",
+      "Rodrigo M. M."
+    ]
+  },
+  {
+    "course_id": "CCV009",
+    "name": "CLINICA DE RUMINANTES I",
+    "availabilityCode": "PB3",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Ronaldo A. M.",
+      "Elias J. F. F.",
+      "Rodrigo M. M.",
+      "Tiago F. M."
+    ]
+  },
+  {
+    "course_id": "CCV009",
+    "name": "CLINICA DE RUMINANTES I",
+    "availabilityCode": "TT",
+    "spots": 94,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ronaldo A. M.",
+      "Elias J. F. F.",
+      "Rodrigo M. M.",
+      "Tiago F. M."
+    ]
+  },
+  {
+    "course_id": "CCV014",
+    "name": "OBSTETRICIA VETERINARIA",
+    "availabilityCode": "PA1",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leticia O. C.",
+      "Valentim A. G.",
+      "Andressa B. S. X.",
+      "Christina M.",
+      "Scarlath O. P. S.",
+      "Armando M. C."
+    ]
+  },
+  {
+    "course_id": "CCV014",
+    "name": "OBSTETRICIA VETERINARIA",
+    "availabilityCode": "PA2",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leticia O. C.",
+      "Valentim A. G.",
+      "Andressa B. S. X.",
+      "Christina M.",
+      "Scarlath O. P. S.",
+      "Armando M. C."
+    ]
+  },
+  {
+    "course_id": "CCV014",
+    "name": "OBSTETRICIA VETERINARIA",
+    "availabilityCode": "PA3",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Valentim A. G.",
+      "Andressa B. S. X.",
+      "Christina M.",
+      "Scarlath O. P. S.",
+      "Armando M. C.",
+      "Leticia O. C."
+    ]
+  },
+  {
+    "course_id": "CCV014",
+    "name": "OBSTETRICIA VETERINARIA",
+    "availabilityCode": "PA4",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Valentim A. G.",
+      "Andressa B. S. X.",
+      "Christina M.",
+      "Scarlath O. P. S.",
+      "Armando M. C.",
+      "Leticia O. C."
+    ]
+  },
+  {
+    "course_id": "CCV014",
+    "name": "OBSTETRICIA VETERINARIA",
+    "availabilityCode": "PB1",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leticia O. C.",
+      "Valentim A. G.",
+      "Andressa B. S. X.",
+      "Christina M.",
+      "Scarlath O. P. S.",
+      "Armando M. C."
+    ]
+  },
+  {
+    "course_id": "CCV014",
+    "name": "OBSTETRICIA VETERINARIA",
+    "availabilityCode": "PB2",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leticia O. C.",
+      "Valentim A. G.",
+      "Andressa B. S. X.",
+      "Christina M.",
+      "Scarlath O. P. S.",
+      "Armando M. C."
+    ]
+  },
+  {
+    "course_id": "CCV014",
+    "name": "OBSTETRICIA VETERINARIA",
+    "availabilityCode": "PB3",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leticia O. C.",
+      "Valentim A. G.",
+      "Andressa B. S. X.",
+      "Christina M.",
+      "Scarlath O. P. S.",
+      "Armando M. C."
+    ]
+  },
+  {
+    "course_id": "CCV014",
+    "name": "OBSTETRICIA VETERINARIA",
+    "availabilityCode": "PB4",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Valentim A. G.",
+      "Andressa B. S. X.",
+      "Christina M.",
+      "Scarlath O. P. S.",
+      "Armando M. C.",
+      "Leticia O. C."
+    ]
+  },
+  {
+    "course_id": "CCV014",
+    "name": "OBSTETRICIA VETERINARIA",
+    "availabilityCode": "TT",
+    "spots": 85,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Leticia O. C.",
+      "Valentim A. G.",
+      "Andressa B. S. X.",
+      "Christina M.",
+      "Scarlath O. P. S.",
+      "Armando M. C."
+    ]
+  },
+  {
+    "course_id": "CCV016",
+    "name": "CLINICA DE EQUIDEOS",
+    "availabilityCode": "PA1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Priscila F.",
+      "Renata P. A. M.",
+      "Ana L. S. M."
+    ]
+  },
+  {
+    "course_id": "CCV016",
+    "name": "CLINICA DE EQUIDEOS",
+    "availabilityCode": "PA2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Priscila F.",
+      "Renata P. A. M.",
+      "Ana L. S. M."
+    ]
+  },
+  {
+    "course_id": "CCV016",
+    "name": "CLINICA DE EQUIDEOS",
+    "availabilityCode": "PA3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Priscila F.",
+      "Renata P. A. M.",
+      "Ana L. S. M."
+    ]
+  },
+  {
+    "course_id": "CCV016",
+    "name": "CLINICA DE EQUIDEOS",
+    "availabilityCode": "PA4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Priscila F.",
+      "Renata P. A. M.",
+      "Ana L. S. M."
+    ]
+  },
+  {
+    "course_id": "CCV016",
+    "name": "CLINICA DE EQUIDEOS",
+    "availabilityCode": "PB1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Priscila F.",
+      "Renata P. A. M.",
+      "Ana L. S. M."
+    ]
+  },
+  {
+    "course_id": "CCV016",
+    "name": "CLINICA DE EQUIDEOS",
+    "availabilityCode": "PB2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Priscila F.",
+      "Renata P. A. M.",
+      "Ana L. S. M."
+    ]
+  },
+  {
+    "course_id": "CCV016",
+    "name": "CLINICA DE EQUIDEOS",
+    "availabilityCode": "PB3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Priscila F.",
+      "Renata P. A. M.",
+      "Ana L. S. M."
+    ]
+  },
+  {
+    "course_id": "CCV016",
+    "name": "CLINICA DE EQUIDEOS",
+    "availabilityCode": "PB4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Priscila F.",
+      "Renata P. A. M.",
+      "Ana L. S. M."
+    ]
+  },
+  {
+    "course_id": "CCV016",
+    "name": "CLINICA DE EQUIDEOS",
+    "availabilityCode": "TT",
+    "spots": 96,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Priscila F.",
+      "Renata P. A. M.",
+      "Ana L. S. M."
+    ]
+  },
+  {
+    "course_id": "CCV030",
+    "name": "PATOLOGIA VETERINARIA",
+    "availabilityCode": "PA1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:10",
+        "end": "16:30"
+      },
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Thaynara P. C.",
+      "Natalia M. O.",
+      "Rogeria S.",
+      "Roselene E.",
+      "Roberto M. C. G.",
+      "Renato L. S.",
+      "Ayisa R. O."
+    ]
+  },
+  {
+    "course_id": "CCV030",
+    "name": "PATOLOGIA VETERINARIA",
+    "availabilityCode": "PA2",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:10",
+        "end": "16:30"
+      },
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Rogeria S.",
+      "Thaynara P. C.",
+      "Natalia M. O.",
+      "Roselene E.",
+      "Ayisa R. O.",
+      "Roberto M. C. G.",
+      "Renato L. S."
+    ]
+  },
+  {
+    "course_id": "CCV030",
+    "name": "PATOLOGIA VETERINARIA",
+    "availabilityCode": "PA3",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:10",
+        "end": "16:30"
+      },
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Natalia M. O.",
+      "Thaynara P. C.",
+      "Rogeria S.",
+      "Roselene E.",
+      "Renato L. S.",
+      "Roberto M. C. G.",
+      "Ayisa R. O."
+    ]
+  },
+  {
+    "course_id": "CCV030",
+    "name": "PATOLOGIA VETERINARIA",
+    "availabilityCode": "PA4",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:10",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Thaynara P. C.",
+      "Natalia M. O.",
+      "Rogeria S.",
+      "Roselene E.",
+      "Ayisa R. O.",
+      "Roberto M. C. G.",
+      "Renato L. S."
+    ]
+  },
+  {
+    "course_id": "CCV030",
+    "name": "PATOLOGIA VETERINARIA",
+    "availabilityCode": "PB1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:10",
+        "end": "11:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Thaynara P. C.",
+      "Natalia M. O.",
+      "Rogeria S.",
+      "Roselene E.",
+      "Ayisa R. O.",
+      "Roberto M. C. G.",
+      "Renato L. S."
+    ]
+  },
+  {
+    "course_id": "CCV030",
+    "name": "PATOLOGIA VETERINARIA",
+    "availabilityCode": "PB2",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:10",
+        "end": "11:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Rogeria S.",
+      "Thaynara P. C.",
+      "Natalia M. O.",
+      "Roselene E.",
+      "Ayisa R. O.",
+      "Roberto M. C. G.",
+      "Renato L. S."
+    ]
+  },
+  {
+    "course_id": "CCV030",
+    "name": "PATOLOGIA VETERINARIA",
+    "availabilityCode": "PB3",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:10",
+        "end": "11:30"
+      }
+    ],
+    "teachers": [
+      "Natalia M. O.",
+      "Rogeria S.",
+      "Thaynara P. C.",
+      "Roselene E.",
+      "Ayisa R. O.",
+      "Roberto M. C. G.",
+      "Renato L. S."
+    ]
+  },
+  {
+    "course_id": "CCV030",
+    "name": "PATOLOGIA VETERINARIA",
+    "availabilityCode": "PB4",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:10",
+        "end": "11:30"
+      }
+    ],
+    "teachers": [
+      "Thaynara P. C.",
+      "Rogeria S.",
+      "Natalia M. O.",
+      "Roselene E.",
+      "Renato L. S.",
+      "Roberto M. C. G.",
+      "Ayisa R. O."
+    ]
+  },
+  {
+    "course_id": "CCV030",
+    "name": "PATOLOGIA VETERINARIA",
+    "availabilityCode": "TT",
+    "spots": 76,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:10",
+        "end": "10:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:10",
+        "end": "09:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Renato L. S.",
+      "Ayisa R. O.",
+      "Roberto M. C. G.",
+      "Natalia M. O.",
+      "Rogeria S.",
+      "Thaynara P. C.",
+      "Roselene E."
+    ]
+  },
+  {
+    "course_id": "CCV031",
+    "name": "PATOLOGIA CLINICA VETERINARIA",
+    "availabilityCode": "PA1",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Fabiola O. P. L.",
+      "Paulo R. O. P.",
+      "Mariana P. C."
+    ]
+  },
+  {
+    "course_id": "CCV031",
+    "name": "PATOLOGIA CLINICA VETERINARIA",
+    "availabilityCode": "PA2",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Fabiola O. P. L.",
+      "Paulo R. O. P.",
+      "Mariana P. C."
+    ]
+  },
+  {
+    "course_id": "CCV031",
+    "name": "PATOLOGIA CLINICA VETERINARIA",
+    "availabilityCode": "PB1",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Mariana P. C.",
+      "Fabiola O. P. L.",
+      "Paulo R. O. P."
+    ]
+  },
+  {
+    "course_id": "CCV031",
+    "name": "PATOLOGIA CLINICA VETERINARIA",
+    "availabilityCode": "PB2",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Fabiola O. P. L.",
+      "Paulo R. O. P.",
+      "Mariana P. C."
+    ]
+  },
+  {
+    "course_id": "CCV031",
+    "name": "PATOLOGIA CLINICA VETERINARIA",
+    "availabilityCode": "TT",
+    "spots": 74,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:10",
+        "end": "09:00"
+      }
+    ],
+    "teachers": [
+      "Paulo R. O. P.",
+      "Mariana P. C.",
+      "Fabiola O. P. L."
+    ]
+  },
+  {
+    "course_id": "CCV032",
+    "name": "TOXICOLOGIA VETERINARIA",
+    "availabilityCode": "PA1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Benito S. B."
+    ]
+  },
+  {
+    "course_id": "CCV032",
+    "name": "TOXICOLOGIA VETERINARIA",
+    "availabilityCode": "PA2",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Benito S. B."
+    ]
+  },
+  {
+    "course_id": "CCV032",
+    "name": "TOXICOLOGIA VETERINARIA",
+    "availabilityCode": "PB1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Benito S. B."
+    ]
+  },
+  {
+    "course_id": "CCV032",
+    "name": "TOXICOLOGIA VETERINARIA",
+    "availabilityCode": "PB2",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Benito S. B."
+    ]
+  },
+  {
+    "course_id": "CCV032",
+    "name": "TOXICOLOGIA VETERINARIA",
+    "availabilityCode": "PC1",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Benito S. B."
+    ]
+  },
+  {
+    "course_id": "CCV032",
+    "name": "TOXICOLOGIA VETERINARIA",
+    "availabilityCode": "PC2",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Benito S. B."
+    ]
+  },
+  {
+    "course_id": "CCV032",
+    "name": "TOXICOLOGIA VETERINARIA",
+    "availabilityCode": "TT",
+    "spots": 74,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:10",
+        "end": "14:00"
+      }
+    ],
+    "teachers": [
+      "Benito S. B."
+    ]
+  },
+  {
+    "course_id": "CCV033",
+    "name": "ANESTESIOLOGIA VETERINARIA",
+    "availabilityCode": "PA1",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Patricia M. C. F.",
+      "Suzane L. B.",
+      "Scarlath O. P. S."
+    ]
+  },
+  {
+    "course_id": "CCV033",
+    "name": "ANESTESIOLOGIA VETERINARIA",
+    "availabilityCode": "PA2",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Patricia M. C. F.",
+      "Suzane L. B.",
+      "Scarlath O. P. S."
+    ]
+  },
+  {
+    "course_id": "CCV033",
+    "name": "ANESTESIOLOGIA VETERINARIA",
+    "availabilityCode": "PA3",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Patricia M. C. F.",
+      "Suzane L. B.",
+      "Scarlath O. P. S."
+    ]
+  },
+  {
+    "course_id": "CCV033",
+    "name": "ANESTESIOLOGIA VETERINARIA",
+    "availabilityCode": "PB1",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Patricia M. C. F.",
+      "Suzane L. B.",
+      "Scarlath O. P. S."
+    ]
+  },
+  {
+    "course_id": "CCV033",
+    "name": "ANESTESIOLOGIA VETERINARIA",
+    "availabilityCode": "PB2",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Patricia M. C. F.",
+      "Suzane L. B.",
+      "Scarlath O. P. S."
+    ]
+  },
+  {
+    "course_id": "CCV033",
+    "name": "ANESTESIOLOGIA VETERINARIA",
+    "availabilityCode": "PB3",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Patricia M. C. F.",
+      "Suzane L. B.",
+      "Scarlath O. P. S."
+    ]
+  },
+  {
+    "course_id": "CCV033",
+    "name": "ANESTESIOLOGIA VETERINARIA",
+    "availabilityCode": "PC1",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Patricia M. C. F.",
+      "Suzane L. B.",
+      "Scarlath O. P. S."
+    ]
+  },
+  {
+    "course_id": "CCV033",
+    "name": "ANESTESIOLOGIA VETERINARIA",
+    "availabilityCode": "PC2",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Patricia M. C. F.",
+      "Suzane L. B.",
+      "Scarlath O. P. S."
+    ]
+  },
+  {
+    "course_id": "CCV033",
+    "name": "ANESTESIOLOGIA VETERINARIA",
+    "availabilityCode": "PC3",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Patricia M. C. F.",
+      "Suzane L. B.",
+      "Scarlath O. P. S."
+    ]
+  },
+  {
+    "course_id": "CCV033",
+    "name": "ANESTESIOLOGIA VETERINARIA",
+    "availabilityCode": "TT",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Scarlath O. P. S.",
+      "Patricia M. C. F.",
+      "Suzane L. B."
+    ]
+  },
+  {
+    "course_id": "CCV034",
+    "name": "TECNICA CIRURGICA VETERINARIA",
+    "availabilityCode": "PA1",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Leticia O. C.",
+      "Patricia M. C. F.",
+      "Suzane L. B.",
+      "Scarlath O. P. S.",
+      "Armando M. C."
+    ]
+  },
+  {
+    "course_id": "CCV034",
+    "name": "TECNICA CIRURGICA VETERINARIA",
+    "availabilityCode": "PA2",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Patricia M. C. F.",
+      "Leticia O. C.",
+      "Suzane L. B.",
+      "Scarlath O. P. S.",
+      "Armando M. C."
+    ]
+  },
+  {
+    "course_id": "CCV034",
+    "name": "TECNICA CIRURGICA VETERINARIA",
+    "availabilityCode": "PA3",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Leticia O. C.",
+      "Patricia M. C. F.",
+      "Suzane L. B.",
+      "Scarlath O. P. S.",
+      "Armando M. C."
+    ]
+  },
+  {
+    "course_id": "CCV034",
+    "name": "TECNICA CIRURGICA VETERINARIA",
+    "availabilityCode": "PB1",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Patricia M. C. F.",
+      "Leticia O. C.",
+      "Suzane L. B.",
+      "Scarlath O. P. S.",
+      "Armando M. C."
+    ]
+  },
+  {
+    "course_id": "CCV034",
+    "name": "TECNICA CIRURGICA VETERINARIA",
+    "availabilityCode": "PB2",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Leticia O. C.",
+      "Patricia M. C. F.",
+      "Suzane L. B.",
+      "Scarlath O. P. S.",
+      "Armando M. C."
+    ]
+  },
+  {
+    "course_id": "CCV034",
+    "name": "TECNICA CIRURGICA VETERINARIA",
+    "availabilityCode": "PB3",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Leticia O. C.",
+      "Patricia M. C. F.",
+      "Suzane L. B.",
+      "Scarlath O. P. S.",
+      "Armando M. C."
+    ]
+  },
+  {
+    "course_id": "CCV034",
+    "name": "TECNICA CIRURGICA VETERINARIA",
+    "availabilityCode": "PC1",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Leticia O. C.",
+      "Patricia M. C. F.",
+      "Suzane L. B.",
+      "Scarlath O. P. S.",
+      "Armando M. C."
+    ]
+  },
+  {
+    "course_id": "CCV034",
+    "name": "TECNICA CIRURGICA VETERINARIA",
+    "availabilityCode": "PC2",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Patricia M. C. F.",
+      "Leticia O. C.",
+      "Suzane L. B.",
+      "Scarlath O. P. S.",
+      "Armando M. C."
+    ]
+  },
+  {
+    "course_id": "CCV034",
+    "name": "TECNICA CIRURGICA VETERINARIA",
+    "availabilityCode": "PC3",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Patricia M. C. F.",
+      "Leticia O. C.",
+      "Suzane L. B.",
+      "Scarlath O. P. S.",
+      "Armando M. C."
+    ]
+  },
+  {
+    "course_id": "CCV034",
+    "name": "TECNICA CIRURGICA VETERINARIA",
+    "availabilityCode": "TT",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Suzane L. B.",
+      "Scarlath O. P. S.",
+      "Armando M. C.",
+      "Leticia O. C.",
+      "Patricia M. C. F."
+    ]
+  },
+  {
+    "course_id": "CCV035",
+    "name": "CLINICA DE PEQUENOS ANIMAIS",
+    "availabilityCode": "PA3",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Pedro A. B. P.",
+      "Stephanie E. M. T. B.",
+      "Luiz E. D. O.",
+      "Roberto B. A.",
+      "Fernanda V. A. C."
+    ]
+  },
+  {
+    "course_id": "CCV035",
+    "name": "CLINICA DE PEQUENOS ANIMAIS",
+    "availabilityCode": "PB1",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Roberto B. A.",
+      "Fernanda V. A. C.",
+      "Pedro A. B. P.",
+      "Stephanie E. M. T. B.",
+      "Luiz E. D. O."
+    ]
+  },
+  {
+    "course_id": "CCV035",
+    "name": "CLINICA DE PEQUENOS ANIMAIS",
+    "availabilityCode": "PB2",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Roberto B. A.",
+      "Fernanda V. A. C.",
+      "Pedro A. B. P.",
+      "Stephanie E. M. T. B.",
+      "Luiz E. D. O."
+    ]
+  },
+  {
+    "course_id": "CCV035",
+    "name": "CLINICA DE PEQUENOS ANIMAIS",
+    "availabilityCode": "PB3",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Fernanda V. A. C.",
+      "Pedro A. B. P.",
+      "Stephanie E. M. T. B.",
+      "Luiz E. D. O.",
+      "Roberto B. A."
+    ]
+  },
+  {
+    "course_id": "CCV035",
+    "name": "CLINICA DE PEQUENOS ANIMAIS",
+    "availabilityCode": "PC1",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Roberto B. A.",
+      "Fernanda V. A. C.",
+      "Pedro A. B. P.",
+      "Stephanie E. M. T. B.",
+      "Luiz E. D. O."
+    ]
+  },
+  {
+    "course_id": "CCV035",
+    "name": "CLINICA DE PEQUENOS ANIMAIS",
+    "availabilityCode": "PC2",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Roberto B. A.",
+      "Fernanda V. A. C.",
+      "Pedro A. B. P.",
+      "Stephanie E. M. T. B.",
+      "Luiz E. D. O."
+    ]
+  },
+  {
+    "course_id": "CCV035",
+    "name": "CLINICA DE PEQUENOS ANIMAIS",
+    "availabilityCode": "PC3",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Roberto B. A.",
+      "Fernanda V. A. C.",
+      "Pedro A. B. P.",
+      "Stephanie E. M. T. B.",
+      "Luiz E. D. O."
+    ]
+  },
+  {
+    "course_id": "CCV035",
+    "name": "CLINICA DE PEQUENOS ANIMAIS",
+    "availabilityCode": "TT",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Pedro A. B. P.",
+      "Stephanie E. M. T. B.",
+      "Luiz E. D. O.",
+      "Roberto B. A.",
+      "Fernanda V. A. C."
+    ]
+  },
+  {
+    "course_id": "CCV036",
+    "name": "DIAGNOSTICO POR IMAGEM EM VETERINARIA",
+    "availabilityCode": "PA1",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Anelise C. N.",
+      "Bruno F."
+    ]
+  },
+  {
+    "course_id": "CCV036",
+    "name": "DIAGNOSTICO POR IMAGEM EM VETERINARIA",
+    "availabilityCode": "PA2",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Bruno F.",
+      "Anelise C. N."
+    ]
+  },
+  {
+    "course_id": "CCV036",
+    "name": "DIAGNOSTICO POR IMAGEM EM VETERINARIA",
+    "availabilityCode": "PA3",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Bruno F.",
+      "Anelise C. N."
+    ]
+  },
+  {
+    "course_id": "CCV036",
+    "name": "DIAGNOSTICO POR IMAGEM EM VETERINARIA",
+    "availabilityCode": "PA4",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Bruno F.",
+      "Anelise C. N."
+    ]
+  },
+  {
+    "course_id": "CCV036",
+    "name": "DIAGNOSTICO POR IMAGEM EM VETERINARIA",
+    "availabilityCode": "PB1",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Bruno F.",
+      "Anelise C. N."
+    ]
+  },
+  {
+    "course_id": "CCV036",
+    "name": "DIAGNOSTICO POR IMAGEM EM VETERINARIA",
+    "availabilityCode": "PB2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Anelise C. N.",
+      "Bruno F."
+    ]
+  },
+  {
+    "course_id": "CCV036",
+    "name": "DIAGNOSTICO POR IMAGEM EM VETERINARIA",
+    "availabilityCode": "PB3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Bruno F.",
+      "Anelise C. N."
+    ]
+  },
+  {
+    "course_id": "CCV036",
+    "name": "DIAGNOSTICO POR IMAGEM EM VETERINARIA",
+    "availabilityCode": "PB4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Bruno F.",
+      "Anelise C. N."
+    ]
+  },
+  {
+    "course_id": "CCV036",
+    "name": "DIAGNOSTICO POR IMAGEM EM VETERINARIA",
+    "availabilityCode": "TT",
+    "spots": 100,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Anelise C. N.",
+      "Bruno F."
+    ]
+  },
+  {
+    "course_id": "CCV037",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE FEMEA",
+    "availabilityCode": "PA1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Patricia A. D.",
+      "Leticia Z. O.",
+      "Ana C. L. A.",
+      "Alan M. B."
+    ]
+  },
+  {
+    "course_id": "CCV037",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE FEMEA",
+    "availabilityCode": "PA2",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Patricia A. D.",
+      "Leticia Z. O.",
+      "Alan M. B.",
+      "Ana C. L. A."
+    ]
+  },
+  {
+    "course_id": "CCV037",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE FEMEA",
+    "availabilityCode": "PA3",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leticia Z. O.",
+      "Ana C. L. A.",
+      "Alan M. B.",
+      "Patricia A. D."
+    ]
+  },
+  {
+    "course_id": "CCV037",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE FEMEA",
+    "availabilityCode": "PA4",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leticia Z. O.",
+      "Alan M. B.",
+      "Ana C. L. A.",
+      "Patricia A. D."
+    ]
+  },
+  {
+    "course_id": "CCV037",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE FEMEA",
+    "availabilityCode": "PB1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Patricia A. D.",
+      "Leticia Z. O.",
+      "Ana C. L. A.",
+      "Alan M. B."
+    ]
+  },
+  {
+    "course_id": "CCV037",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE FEMEA",
+    "availabilityCode": "PB2",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Patricia A. D.",
+      "Leticia Z. O.",
+      "Alan M. B.",
+      "Ana C. L. A."
+    ]
+  },
+  {
+    "course_id": "CCV037",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE FEMEA",
+    "availabilityCode": "PB3",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Patricia A. D.",
+      "Leticia Z. O.",
+      "Alan M. B.",
+      "Ana C. L. A."
+    ]
+  },
+  {
+    "course_id": "CCV037",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE FEMEA",
+    "availabilityCode": "PB4",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leticia Z. O.",
+      "Alan M. B.",
+      "Ana C. L. A.",
+      "Patricia A. D."
+    ]
+  },
+  {
+    "course_id": "CCV037",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE FEMEA",
+    "availabilityCode": "TT",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Patricia A. D.",
+      "Leticia Z. O.",
+      "Ana C. L. A.",
+      "Alan M. B."
+    ]
+  },
+  {
+    "course_id": "CCV038",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE MACHO",
+    "availabilityCode": "PA1",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Patricia A. D.",
+      "Marcelo R. L.",
+      "Monique A. L."
+    ]
+  },
+  {
+    "course_id": "CCV038",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE MACHO",
+    "availabilityCode": "PA2",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. L.",
+      "Monique A. L.",
+      "Patricia A. D."
+    ]
+  },
+  {
+    "course_id": "CCV038",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE MACHO",
+    "availabilityCode": "PA3",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. L.",
+      "Monique A. L.",
+      "Patricia A. D."
+    ]
+  },
+  {
+    "course_id": "CCV038",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE MACHO",
+    "availabilityCode": "PA4",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. L.",
+      "Monique A. L.",
+      "Patricia A. D."
+    ]
+  },
+  {
+    "course_id": "CCV038",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE MACHO",
+    "availabilityCode": "PB1",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Patricia A. D.",
+      "Marcelo R. L.",
+      "Monique A. L."
+    ]
+  },
+  {
+    "course_id": "CCV038",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE MACHO",
+    "availabilityCode": "PB2",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Patricia A. D.",
+      "Marcelo R. L.",
+      "Monique A. L."
+    ]
+  },
+  {
+    "course_id": "CCV038",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE MACHO",
+    "availabilityCode": "PB3",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. L.",
+      "Monique A. L.",
+      "Patricia A. D."
+    ]
+  },
+  {
+    "course_id": "CCV038",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE MACHO",
+    "availabilityCode": "PB4",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. L.",
+      "Monique A. L.",
+      "Patricia A. D."
+    ]
+  },
+  {
+    "course_id": "CCV038",
+    "name": "FISIOPATOLOGIA DA REPRODUCAO DE MACHO",
+    "availabilityCode": "TT",
+    "spots": 85,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Monique A. L.",
+      "Patricia A. D.",
+      "Marcelo R. L."
+    ]
+  },
+  {
+    "course_id": "CCV039",
+    "name": "CLINICA DE RUMINANTES II",
+    "availabilityCode": "PA1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Elias J. F. F.",
+      "Rodrigo M. M.",
+      "Tiago F. M.",
+      "Ronaldo A. M."
+    ]
+  },
+  {
+    "course_id": "CCV039",
+    "name": "CLINICA DE RUMINANTES II",
+    "availabilityCode": "PA2",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Rodrigo M. M.",
+      "Tiago F. M.",
+      "Ronaldo A. M.",
+      "Elias J. F. F."
+    ]
+  },
+  {
+    "course_id": "CCV039",
+    "name": "CLINICA DE RUMINANTES II",
+    "availabilityCode": "PA3",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Tiago F. M.",
+      "Ronaldo A. M.",
+      "Elias J. F. F.",
+      "Rodrigo M. M."
+    ]
+  },
+  {
+    "course_id": "CCV039",
+    "name": "CLINICA DE RUMINANTES II",
+    "availabilityCode": "PB1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Elias J. F. F.",
+      "Rodrigo M. M.",
+      "Tiago F. M.",
+      "Ronaldo A. M."
+    ]
+  },
+  {
+    "course_id": "CCV039",
+    "name": "CLINICA DE RUMINANTES II",
+    "availabilityCode": "PB2",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Elias J. F. F.",
+      "Rodrigo M. M.",
+      "Tiago F. M.",
+      "Ronaldo A. M."
+    ]
+  },
+  {
+    "course_id": "CCV039",
+    "name": "CLINICA DE RUMINANTES II",
+    "availabilityCode": "PB3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Rodrigo M. M.",
+      "Tiago F. M.",
+      "Ronaldo A. M.",
+      "Elias J. F. F."
+    ]
+  },
+  {
+    "course_id": "CCV039",
+    "name": "CLINICA DE RUMINANTES II",
+    "availabilityCode": "TT",
+    "spots": 95,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Ronaldo A. M.",
+      "Elias J. F. F.",
+      "Rodrigo M. M.",
+      "Tiago F. M."
+    ]
+  },
+  {
+    "course_id": "CCV040",
+    "name": "TERAPEUTICA VETERINARIA",
+    "availabilityCode": "P1",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Gilcinea C. S."
+    ]
+  },
+  {
+    "course_id": "CCV040",
+    "name": "TERAPEUTICA VETERINARIA",
+    "availabilityCode": "P2",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Gilcinea C. S."
+    ]
+  },
+  {
+    "course_id": "CCV040",
+    "name": "TERAPEUTICA VETERINARIA",
+    "availabilityCode": "P3",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Gilcinea C. S."
+    ]
+  },
+  {
+    "course_id": "CCV040",
+    "name": "TERAPEUTICA VETERINARIA",
+    "availabilityCode": "TT",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Gilcinea C. S."
+    ]
+  },
+  {
+    "course_id": "CCV041",
+    "name": "CLINICA DE ANIMAIS SILVESTRES E EXOTICOS",
+    "availabilityCode": "PP",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo P. N. C.",
+      "Andreise C. P."
+    ]
+  },
+  {
+    "course_id": "CCV041",
+    "name": "CLINICA DE ANIMAIS SILVESTRES E EXOTICOS",
+    "availabilityCode": "PP1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CCV042",
+    "name": "PRATICA EM CLINICA CIRURGICA DE PEQUENOS ANIMAIS",
+    "availabilityCode": "PA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Christina M."
+    ]
+  },
+  {
+    "course_id": "CCV045",
+    "name": "PRATICA HOSPITALAR EM CLINICA MEDICA DE PEQUENOS ANIMAIS",
+    "availabilityCode": "PPEQ",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CCV045",
+    "name": "PRATICA HOSPITALAR EM CLINICA MEDICA DE PEQUENOS ANIMAIS",
+    "availabilityCode": "TPEQ",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CCV046",
+    "name": "PRATICA HOSPITALAR EM PATOLOGIA CLINICA VETERINARIA",
+    "availabilityCode": "PCL",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Mariana P. C.",
+      "Fabiola O. P. L.",
+      "Paulo R. O. P."
+    ]
+  },
+  {
+    "course_id": "CCV046",
+    "name": "PRATICA HOSPITALAR EM PATOLOGIA CLINICA VETERINARIA",
+    "availabilityCode": "TCL",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Mariana P. C.",
+      "Fabiola O. P. L.",
+      "Paulo R. O. P."
+    ]
+  },
+  {
+    "course_id": "CCV051",
+    "name": "MEDICINA DA PRODUÇÃO",
+    "availabilityCode": "PP",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FAR031",
+    "name": "FARMACOLOGIA VETERINARIA",
+    "availabilityCode": "PV1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FAR031",
+    "name": "FARMACOLOGIA VETERINARIA",
+    "availabilityCode": "PV2",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FAR031",
+    "name": "FARMACOLOGIA VETERINARIA",
+    "availabilityCode": "PV3",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FAR031",
+    "name": "FARMACOLOGIA VETERINARIA",
+    "availabilityCode": "TV",
+    "spots": 68,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "15:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "PV1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "PV2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "PV3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "PV4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "TV",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Frederic J. G. F."
+    ]
+  },
+  {
+    "course_id": "FIB003",
+    "name": "FISIOLOGIA VETERINARIA",
+    "availabilityCode": "PV1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB003",
+    "name": "FISIOLOGIA VETERINARIA",
+    "availabilityCode": "PV2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB003",
+    "name": "FISIOLOGIA VETERINARIA",
+    "availabilityCode": "PV3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB003",
+    "name": "FISIOLOGIA VETERINARIA",
+    "availabilityCode": "PV4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB003",
+    "name": "FISIOLOGIA VETERINARIA",
+    "availabilityCode": "TV",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Andre G. O."
+    ]
+  },
+  {
+    "course_id": "INU021",
+    "name": "DIAGNÓSTICO, EPIDEMIOLOGIA E CONTROLE DE HEMOPARASITOSES ANIMAIS",
+    "availabilityCode": "PP",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Julia A. G. S.",
+      "Camila V. B. C."
+    ]
+  },
+  {
+    "course_id": "INU021",
+    "name": "DIAGNÓSTICO, EPIDEMIOLOGIA E CONTROLE DE HEMOPARASITOSES ANIMAIS",
+    "availabilityCode": "TT",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Camila V. B. C.",
+      "Julia A. G. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MIC002",
+    "name": "MICROBIOLOGIA VETERINARIA",
+    "availabilityCode": "PV1",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Rodrigo A. L. R."
+    ]
+  },
+  {
+    "course_id": "MIC002",
+    "name": "MICROBIOLOGIA VETERINARIA",
+    "availabilityCode": "PV2",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Rodrigo A. L. R.",
+      "Aristoteles G. N."
+    ]
+  },
+  {
+    "course_id": "MIC002",
+    "name": "MICROBIOLOGIA VETERINARIA",
+    "availabilityCode": "PV3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Rodrigo A. L. R.",
+      "Giliane S. T."
+    ]
+  },
+  {
+    "course_id": "MIC002",
+    "name": "MICROBIOLOGIA VETERINARIA",
+    "availabilityCode": "TV",
+    "spots": 62,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Flaviano S. M.",
+      "Douglas B. S. N.",
+      "Daniel A. S.",
+      "Rodrigo A. L. R."
+    ]
+  },
+  {
+    "course_id": "MOF001",
+    "name": "CITOLOGIA E HISTOLOGIA GERAL",
+    "availabilityCode": "TV1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Aristobolo M. S."
+    ]
+  },
+  {
+    "course_id": "MOF001",
+    "name": "CITOLOGIA E HISTOLOGIA GERAL",
+    "availabilityCode": "TV2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Rodolfo C. G."
+    ]
+  },
+  {
+    "course_id": "MOF047",
+    "name": "ANATOMIA VETERINARIA I",
+    "availabilityCode": "PV1",
+    "spots": 38,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "15:30",
+        "end": "18:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Gleide F. A.",
+      "Joana P. C. D.",
+      "Guilherme M. J. C."
+    ]
+  },
+  {
+    "course_id": "MOF047",
+    "name": "ANATOMIA VETERINARIA I",
+    "availabilityCode": "PV2",
+    "spots": 37,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "15:30",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Gleide F. A.",
+      "Joana P. C. D.",
+      "Guilherme M. J. C."
+    ]
+  },
+  {
+    "course_id": "MOF047",
+    "name": "ANATOMIA VETERINARIA I",
+    "availabilityCode": "TV",
+    "spots": 77,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Joana P. C. D.",
+      "Guilherme M. J. C.",
+      "Gleide F. A."
+    ]
+  },
+  {
+    "course_id": "MOF048",
+    "name": "ANATOMIA VETERINARIA II",
+    "availabilityCode": "PV1",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "15:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Victor K. Y.",
+      "Joana P. C. D.",
+      "Samyra M. S. N. L.",
+      "Guilherme M. J. C."
+    ]
+  },
+  {
+    "course_id": "MOF048",
+    "name": "ANATOMIA VETERINARIA II",
+    "availabilityCode": "PV2",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "15:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Victor K. Y.",
+      "Joana P. C. D.",
+      "Samyra M. S. N. L.",
+      "Guilherme M. J. C."
+    ]
+  },
+  {
+    "course_id": "MOF048",
+    "name": "ANATOMIA VETERINARIA II",
+    "availabilityCode": "TV",
+    "spots": 68,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "15:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Joana P. C. D.",
+      "Samyra M. S. N. L.",
+      "Guilherme M. J. C.",
+      "Victor K. Y."
+    ]
+  },
+  {
+    "course_id": "MOF049",
+    "name": "HISTOLOGIA VETERINARIA",
+    "availabilityCode": "THV1",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Fernanda R. C. L. A."
+    ]
+  },
+  {
+    "course_id": "MOF049",
+    "name": "HISTOLOGIA VETERINARIA",
+    "availabilityCode": "THV2",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Fernanda R. C. L. A."
+    ]
+  },
+  {
+    "course_id": "MOF050",
+    "name": "EMBRIOLOGIA VETERINARIA",
+    "availabilityCode": "TV1",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Enrrico B.",
+      "Claudia R. C."
+    ]
+  },
+  {
+    "course_id": "MOF050",
+    "name": "EMBRIOLOGIA VETERINARIA",
+    "availabilityCode": "TV2",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Enrrico B."
+    ]
+  },
+  {
+    "course_id": "MVP010",
+    "name": "SANIDADE ANIMAL",
+    "availabilityCode": "PA1",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "12:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Camila V. B. C.",
+      "Erica A. C.",
+      "Flavia F. A.",
+      "Maria I. M. C. G.",
+      "Rodrigo O. S. S.",
+      "Andrey P. L.",
+      "Henrique C. P. F.",
+      "Carlos A. O. J.",
+      "Julia A. G. S.",
+      "Eduardo B.",
+      "Jenner K. P. R.",
+      "Lorena L. F."
+    ]
+  },
+  {
+    "course_id": "MVP010",
+    "name": "SANIDADE ANIMAL",
+    "availabilityCode": "PA2",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "12:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Flavia F. A.",
+      "Maria I. M. C. G.",
+      "Rodrigo O. S. S.",
+      "Henrique C. P. F.",
+      "Andrey P. L.",
+      "Carlos A. O. J.",
+      "Julia A. G. S.",
+      "Eduardo B.",
+      "Jenner K. P. R.",
+      "Lorena L. F.",
+      "Erica A. C.",
+      "Camila V. B. C."
+    ]
+  },
+  {
+    "course_id": "MVP010",
+    "name": "SANIDADE ANIMAL",
+    "availabilityCode": "PB1",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "12:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Lorena L. F.",
+      "Camila V. B. C.",
+      "Erica A. C.",
+      "Flavia F. A.",
+      "Maria I. M. C. G.",
+      "Rodrigo O. S. S.",
+      "Henrique C. P. F.",
+      "Andrey P. L.",
+      "Carlos A. O. J.",
+      "Eduardo B.",
+      "Julia A. G. S.",
+      "Jenner K. P. R."
+    ]
+  },
+  {
+    "course_id": "MVP010",
+    "name": "SANIDADE ANIMAL",
+    "availabilityCode": "PB2",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "12:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Erica A. C.",
+      "Camila V. B. C.",
+      "Flavia F. A.",
+      "Maria I. M. C. G.",
+      "Rodrigo O. S. S.",
+      "Andrey P. L.",
+      "Henrique C. P. F.",
+      "Carlos A. O. J.",
+      "Eduardo B.",
+      "Julia A. G. S.",
+      "Jenner K. P. R.",
+      "Lorena L. F."
+    ]
+  },
+  {
+    "course_id": "MVP010",
+    "name": "SANIDADE ANIMAL",
+    "availabilityCode": "PC1",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "16:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Lorena L. F.",
+      "Erica A. C.",
+      "Camila V. B. C.",
+      "Flavia F. A.",
+      "Maria I. M. C. G.",
+      "Rodrigo O. S. S.",
+      "Andrey P. L.",
+      "Henrique C. P. F.",
+      "Carlos A. O. J.",
+      "Eduardo B.",
+      "Julia A. G. S.",
+      "Jenner K. P. R."
+    ]
+  },
+  {
+    "course_id": "MVP010",
+    "name": "SANIDADE ANIMAL",
+    "availabilityCode": "PC2",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "12:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Lorena L. F.",
+      "Erica A. C.",
+      "Camila V. B. C.",
+      "Flavia F. A.",
+      "Maria I. M. C. G.",
+      "Rodrigo O. S. S.",
+      "Andrey P. L.",
+      "Henrique C. P. F.",
+      "Carlos A. O. J.",
+      "Julia A. G. S.",
+      "Eduardo B.",
+      "Jenner K. P. R."
+    ]
+  },
+  {
+    "course_id": "MVP011",
+    "name": "DOENCAS BACTERIANAS",
+    "availabilityCode": "TT",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Andrey P. L.",
+      "Carlos A. O. J.",
+      "Rodrigo O. S. S."
+    ]
+  },
+  {
+    "course_id": "MVP012",
+    "name": "DOENCAS VIRAIS",
+    "availabilityCode": "TT",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Erica A. C.",
+      "Maria I. M. C. G."
+    ]
+  },
+  {
+    "course_id": "MVP014",
+    "name": "SANIDADE DE AVES",
+    "availabilityCode": "PA1",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Nelson R. S. M."
+    ]
+  },
+  {
+    "course_id": "MVP014",
+    "name": "SANIDADE DE AVES",
+    "availabilityCode": "PA2",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Nelson R. S. M."
+    ]
+  },
+  {
+    "course_id": "MVP014",
+    "name": "SANIDADE DE AVES",
+    "availabilityCode": "PB1",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Oliveiro C. F. N."
+    ]
+  },
+  {
+    "course_id": "MVP014",
+    "name": "SANIDADE DE AVES",
+    "availabilityCode": "PB2",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Oliveiro C. F. N."
+    ]
+  },
+  {
+    "course_id": "MVP014",
+    "name": "SANIDADE DE AVES",
+    "availabilityCode": "TT",
+    "spots": 84,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Nelson R. S. M.",
+      "Oliveiro C. F. N."
+    ]
+  },
+  {
+    "course_id": "MVP017",
+    "name": "SANIDADE DE ANIMAIS AQUATICOS",
+    "availabilityCode": "PP",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Guilherme C. T.",
+      "Carlos A. G. L."
+    ]
+  },
+  {
+    "course_id": "MVP017",
+    "name": "SANIDADE DE ANIMAIS AQUATICOS",
+    "availabilityCode": "TT",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Carlos A. G. L.",
+      "Guilherme C. T."
+    ]
+  },
+  {
+    "course_id": "MVP018",
+    "name": "SANIDADE DE ANIMAIS SILVESTRES E EXOTICOS",
+    "availabilityCode": "P1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Nelson R. S. M.",
+      "Leonardo B. L.",
+      "Julia A. G. S.",
+      "Roselene E.",
+      "Erica A. C.",
+      "Marcelo P. N. C."
+    ]
+  },
+  {
+    "course_id": "MVP018",
+    "name": "SANIDADE DE ANIMAIS SILVESTRES E EXOTICOS",
+    "availabilityCode": "TT",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Erica A. C.",
+      "Marcelo P. N. C.",
+      "Nelson R. S. M.",
+      "Leonardo B. L.",
+      "Roselene E.",
+      "Julia A. G. S."
+    ]
+  },
+  {
+    "course_id": "MVP021",
+    "name": "MICOLOGIA VETERINÁRIA",
+    "availabilityCode": "PA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Maria I. A.",
+      "Kelly M. K."
+    ]
+  },
+  {
+    "course_id": "MVP021",
+    "name": "MICOLOGIA VETERINÁRIA",
+    "availabilityCode": "PP",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Kelly M. K.",
+      "Maria I. A."
+    ]
+  },
+  {
+    "course_id": "MVP021",
+    "name": "MICOLOGIA VETERINÁRIA",
+    "availabilityCode": "TT",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Kelly M. K.",
+      "Maria I. A."
+    ]
+  },
+  {
+    "course_id": "MVP023",
+    "name": "DOENÇAS PARASITÁRIAS E MICÓTICAS",
+    "availabilityCode": "TT",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Eduardo B.",
+      "Kelly M. K.",
+      "Lorena L. F.",
+      "Camila V. B. C."
+    ]
+  },
+  {
+    "course_id": "MVP601",
+    "name": "EPIDEMIOLOGIA",
+    "availabilityCode": "PA",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Fernanda C. M.",
+      "Rafael R. N.",
+      "Joao P. A. H.",
+      "Camila S. F. O."
+    ]
+  },
+  {
+    "course_id": "MVP601",
+    "name": "EPIDEMIOLOGIA",
+    "availabilityCode": "PA1",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Joao P. A. H.",
+      "Camila S. F. O.",
+      "Fernanda C. M.",
+      "Rafael R. N."
+    ]
+  },
+  {
+    "course_id": "MVP601",
+    "name": "EPIDEMIOLOGIA",
+    "availabilityCode": "PB",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Fernanda C. M.",
+      "Rafael R. N.",
+      "Joao P. A. H.",
+      "Camila S. F. O."
+    ]
+  },
+  {
+    "course_id": "MVP601",
+    "name": "EPIDEMIOLOGIA",
+    "availabilityCode": "PB1",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Rafael R. N.",
+      "Joao P. A. H.",
+      "Camila S. F. O.",
+      "Fernanda C. M."
+    ]
+  },
+  {
+    "course_id": "MVP601",
+    "name": "EPIDEMIOLOGIA",
+    "availabilityCode": "T",
+    "spots": 84,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Joao P. A. H.",
+      "Camila S. F. O.",
+      "Fernanda C. M.",
+      "Rafael R. N."
+    ]
+  },
+  {
+    "course_id": "MVP605",
+    "name": "SANEAMENTO",
+    "availabilityCode": "PA",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Luciano S. R."
+    ]
+  },
+  {
+    "course_id": "MVP605",
+    "name": "SANEAMENTO",
+    "availabilityCode": "PB",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Luciano S. R."
+    ]
+  },
+  {
+    "course_id": "MVP605",
+    "name": "SANEAMENTO",
+    "availabilityCode": "PC",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Luciano S. R."
+    ]
+  },
+  {
+    "course_id": "MVP605",
+    "name": "SANEAMENTO",
+    "availabilityCode": "PD",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Luciano S. R."
+    ]
+  },
+  {
+    "course_id": "MVP605",
+    "name": "SANEAMENTO",
+    "availabilityCode": "T",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Luciano S. R."
+    ]
+  },
+  {
+    "course_id": "MVP607",
+    "name": "PLANIFICACAO EM SAUDE ANIMAL",
+    "availabilityCode": "PA1",
+    "spots": 27,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Danielle F. M. S.",
+      "Camila S. F. O.",
+      "Fernanda C. M."
+    ]
+  },
+  {
+    "course_id": "MVP607",
+    "name": "PLANIFICACAO EM SAUDE ANIMAL",
+    "availabilityCode": "PA2",
+    "spots": 27,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Danielle F. M. S.",
+      "Camila S. F. O.",
+      "Fernanda C. M."
+    ]
+  },
+  {
+    "course_id": "MVP607",
+    "name": "PLANIFICACAO EM SAUDE ANIMAL",
+    "availabilityCode": "PB1",
+    "spots": 27,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Danielle F. M. S.",
+      "Camila S. F. O.",
+      "Fernanda C. M."
+    ]
+  },
+  {
+    "course_id": "MVP607",
+    "name": "PLANIFICACAO EM SAUDE ANIMAL",
+    "availabilityCode": "TT",
+    "spots": 81,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Danielle F. M. S.",
+      "Camila S. F. O.",
+      "Fernanda C. M."
+    ]
+  },
+  {
+    "course_id": "MVP608",
+    "name": "PRODUCAO E CONTROLE DE PRODUTOS BIOLOGICOS",
+    "availabilityCode": "P",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Jenner K. P. R."
+    ]
+  },
+  {
+    "course_id": "MVP608",
+    "name": "PRODUCAO E CONTROLE DE PRODUTOS BIOLOGICOS",
+    "availabilityCode": "T",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Jenner K. P. R."
+    ]
+  },
+  {
+    "course_id": "PAG015",
+    "name": "PATOLOGIA GERAL E TECNICAS DE NECROPSIA EM VETERINARIA",
+    "availabilityCode": "TV1",
+    "spots": 32,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "11:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Tatiane A. P."
+    ]
+  },
+  {
+    "course_id": "PAG015",
+    "name": "PATOLOGIA GERAL E TECNICAS DE NECROPSIA EM VETERINARIA",
+    "availabilityCode": "TV2",
+    "spots": 32,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "11:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Amanda M. S. R."
+    ]
+  },
+  {
+    "course_id": "PAR601",
+    "name": "PARASITOLOGIA VETERINARIA",
+    "availabilityCode": "PV1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Walter S. L."
+    ]
+  },
+  {
+    "course_id": "PAR601",
+    "name": "PARASITOLOGIA VETERINARIA",
+    "availabilityCode": "PV2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "10:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Ricardo N. A."
+    ]
+  },
+  {
+    "course_id": "PAR601",
+    "name": "PARASITOLOGIA VETERINARIA",
+    "availabilityCode": "PV3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "10:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Cintia A. J. P."
+    ]
+  },
+  {
+    "course_id": "PAR601",
+    "name": "PARASITOLOGIA VETERINARIA",
+    "availabilityCode": "PV4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Weslen F. P. T."
+    ]
+  },
+  {
+    "course_id": "PAR601",
+    "name": "PARASITOLOGIA VETERINARIA",
+    "availabilityCode": "TV",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Cintia A. J. P.",
+      "Walter S. L.",
+      "Weslen F. P. T.",
+      "Ricardo N. A."
+    ]
+  },
+  {
+    "course_id": "TEI007",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS I",
+    "availabilityCode": "PA1",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Leorges M. F.",
+      "Bruna M. S. S.",
+      "Marcelo R. S.",
+      "Leticia G. O.",
+      "Elisa H. P. A.",
+      "Claudia F. A. M. P."
+    ]
+  },
+  {
+    "course_id": "TEI007",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS I",
+    "availabilityCode": "PA2",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. S.",
+      "Leticia G. O.",
+      "Elisa H. P. A.",
+      "Claudia F. A. M. P.",
+      "Leorges M. F.",
+      "Bruna M. S. S."
+    ]
+  },
+  {
+    "course_id": "TEI007",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS I",
+    "availabilityCode": "PA3",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. S.",
+      "Leticia G. O.",
+      "Elisa H. P. A.",
+      "Claudia F. A. M. P.",
+      "Leorges M. F.",
+      "Bruna M. S. S."
+    ]
+  },
+  {
+    "course_id": "TEI007",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS I",
+    "availabilityCode": "PB1",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Leorges M. F.",
+      "Bruna M. S. S.",
+      "Leticia G. O.",
+      "Marcelo R. S.",
+      "Elisa H. P. A.",
+      "Claudia F. A. M. P."
+    ]
+  },
+  {
+    "course_id": "TEI007",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS I",
+    "availabilityCode": "PB2",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Bruna M. S. S.",
+      "Leorges M. F.",
+      "Leticia G. O.",
+      "Marcelo R. S.",
+      "Elisa H. P. A.",
+      "Claudia F. A. M. P."
+    ]
+  },
+  {
+    "course_id": "TEI007",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS I",
+    "availabilityCode": "PB3",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. S.",
+      "Leticia G. O.",
+      "Elisa H. P. A.",
+      "Claudia F. A. M. P.",
+      "Leorges M. F.",
+      "Bruna M. S. S."
+    ]
+  },
+  {
+    "course_id": "TEI007",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS I",
+    "availabilityCode": "PC1",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Leorges M. F.",
+      "Bruna M. S. S.",
+      "Leticia G. O.",
+      "Marcelo R. S.",
+      "Elisa H. P. A.",
+      "Claudia F. A. M. P."
+    ]
+  },
+  {
+    "course_id": "TEI007",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS I",
+    "availabilityCode": "PC2",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Leorges M. F.",
+      "Bruna M. S. S.",
+      "Marcelo R. S.",
+      "Leticia G. O.",
+      "Elisa H. P. A.",
+      "Claudia F. A. M. P."
+    ]
+  },
+  {
+    "course_id": "TEI007",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS I",
+    "availabilityCode": "PC3",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Leorges M. F.",
+      "Bruna M. S. S.",
+      "Leticia G. O.",
+      "Marcelo R. S.",
+      "Elisa H. P. A.",
+      "Claudia F. A. M. P."
+    ]
+  },
+  {
+    "course_id": "TEI007",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS I",
+    "availabilityCode": "TT",
+    "spots": 81,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Claudia F. A. M. P.",
+      "Leorges M. F.",
+      "Bruna M. S. S.",
+      "Marcelo R. S.",
+      "Leticia G. O.",
+      "Elisa H. P. A."
+    ]
+  },
+  {
+    "course_id": "TEI008",
+    "name": "INSPECAO DE CARNES E PRODUTOS DERIVADOS",
+    "availabilityCode": "PA1",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Debora C. S. A.",
+      "Cleia B. D.",
+      "Wagner L. M. S."
+    ]
+  },
+  {
+    "course_id": "TEI008",
+    "name": "INSPECAO DE CARNES E PRODUTOS DERIVADOS",
+    "availabilityCode": "PA2",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Debora C. S. A.",
+      "Cleia B. D.",
+      "Wagner L. M. S."
+    ]
+  },
+  {
+    "course_id": "TEI008",
+    "name": "INSPECAO DE CARNES E PRODUTOS DERIVADOS",
+    "availabilityCode": "PA3",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Debora C. S. A.",
+      "Cleia B. D.",
+      "Wagner L. M. S."
+    ]
+  },
+  {
+    "course_id": "TEI008",
+    "name": "INSPECAO DE CARNES E PRODUTOS DERIVADOS",
+    "availabilityCode": "PB1",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Debora C. S. A.",
+      "Cleia B. D.",
+      "Wagner L. M. S."
+    ]
+  },
+  {
+    "course_id": "TEI008",
+    "name": "INSPECAO DE CARNES E PRODUTOS DERIVADOS",
+    "availabilityCode": "PB2",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Debora C. S. A.",
+      "Cleia B. D.",
+      "Wagner L. M. S."
+    ]
+  },
+  {
+    "course_id": "TEI008",
+    "name": "INSPECAO DE CARNES E PRODUTOS DERIVADOS",
+    "availabilityCode": "PB3",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Debora C. S. A.",
+      "Cleia B. D.",
+      "Wagner L. M. S."
+    ]
+  },
+  {
+    "course_id": "TEI008",
+    "name": "INSPECAO DE CARNES E PRODUTOS DERIVADOS",
+    "availabilityCode": "TT",
+    "spots": 78,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Wagner L. M. S.",
+      "Debora C. S. A.",
+      "Cleia B. D."
+    ]
+  },
+  {
+    "course_id": "TEI009",
+    "name": "TECNOLOGIA E INSPECAO DE AVES, OVOS, MEL E PESCADO",
+    "availabilityCode": "PA1",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Lilian V. T.",
+      "Silvana V. C."
+    ]
+  },
+  {
+    "course_id": "TEI009",
+    "name": "TECNOLOGIA E INSPECAO DE AVES, OVOS, MEL E PESCADO",
+    "availabilityCode": "PA2",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Debora C. S. A.",
+      "Lilian V. T.",
+      "Silvana V. C."
+    ]
+  },
+  {
+    "course_id": "TEI009",
+    "name": "TECNOLOGIA E INSPECAO DE AVES, OVOS, MEL E PESCADO",
+    "availabilityCode": "PB1",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Debora C. S. A.",
+      "Lilian V. T.",
+      "Silvana V. C."
+    ]
+  },
+  {
+    "course_id": "TEI009",
+    "name": "TECNOLOGIA E INSPECAO DE AVES, OVOS, MEL E PESCADO",
+    "availabilityCode": "PB2",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Debora C. S. A.",
+      "Lilian V. T.",
+      "Silvana V. C."
+    ]
+  },
+  {
+    "course_id": "TEI009",
+    "name": "TECNOLOGIA E INSPECAO DE AVES, OVOS, MEL E PESCADO",
+    "availabilityCode": "TT",
+    "spots": 84,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Silvana V. C.",
+      "Debora C. S. A.",
+      "Lilian V. T."
+    ]
+  },
+  {
+    "course_id": "TEI010",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS II",
+    "availabilityCode": "PA1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Claudia F. A. M. P.",
+      "Leorges M. F.",
+      "Bruna M. S. S.",
+      "Marcelo R. S.",
+      "Leticia G. O.",
+      "Elisa H. P. A."
+    ]
+  },
+  {
+    "course_id": "TEI010",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS II",
+    "availabilityCode": "PA2",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Claudia F. A. M. P.",
+      "Leorges M. F.",
+      "Bruna M. S. S.",
+      "Marcelo R. S.",
+      "Leticia G. O.",
+      "Elisa H. P. A."
+    ]
+  },
+  {
+    "course_id": "TEI010",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS II",
+    "availabilityCode": "PA3",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Claudia F. A. M. P.",
+      "Leorges M. F.",
+      "Bruna M. S. S.",
+      "Marcelo R. S.",
+      "Leticia G. O.",
+      "Elisa H. P. A."
+    ]
+  },
+  {
+    "course_id": "TEI010",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS II",
+    "availabilityCode": "PB1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Claudia F. A. M. P.",
+      "Leorges M. F.",
+      "Bruna M. S. S.",
+      "Leticia G. O.",
+      "Marcelo R. S.",
+      "Elisa H. P. A."
+    ]
+  },
+  {
+    "course_id": "TEI010",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS II",
+    "availabilityCode": "PB2",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Claudia F. A. M. P.",
+      "Bruna M. S. S.",
+      "Leorges M. F.",
+      "Marcelo R. S.",
+      "Leticia G. O.",
+      "Elisa H. P. A."
+    ]
+  },
+  {
+    "course_id": "TEI010",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS II",
+    "availabilityCode": "PB3",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Claudia F. A. M. P.",
+      "Leorges M. F.",
+      "Bruna M. S. S.",
+      "Leticia G. O.",
+      "Marcelo R. S.",
+      "Elisa H. P. A."
+    ]
+  },
+  {
+    "course_id": "TEI010",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS II",
+    "availabilityCode": "TT",
+    "spots": 96,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. S.",
+      "Leticia G. O.",
+      "Elisa H. P. A.",
+      "Claudia F. A. M. P.",
+      "Leorges M. F.",
+      "Bruna M. S. S."
+    ]
+  },
+  {
+    "course_id": "TEI011",
+    "name": "TECNOLOGIA DE CARNES E PRODUTOS DERIVADOS",
+    "availabilityCode": "PA1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Carla F. S.",
+      "Tadeu C. F."
+    ]
+  },
+  {
+    "course_id": "TEI011",
+    "name": "TECNOLOGIA DE CARNES E PRODUTOS DERIVADOS",
+    "availabilityCode": "PA2",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Carla F. S.",
+      "Tadeu C. F."
+    ]
+  },
+  {
+    "course_id": "TEI011",
+    "name": "TECNOLOGIA DE CARNES E PRODUTOS DERIVADOS",
+    "availabilityCode": "PA3",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Carla F. S.",
+      "Tadeu C. F."
+    ]
+  },
+  {
+    "course_id": "TEI011",
+    "name": "TECNOLOGIA DE CARNES E PRODUTOS DERIVADOS",
+    "availabilityCode": "PB1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Carla F. S.",
+      "Tadeu C. F."
+    ]
+  },
+  {
+    "course_id": "TEI011",
+    "name": "TECNOLOGIA DE CARNES E PRODUTOS DERIVADOS",
+    "availabilityCode": "PB2",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Carla F. S.",
+      "Tadeu C. F."
+    ]
+  },
+  {
+    "course_id": "TEI011",
+    "name": "TECNOLOGIA DE CARNES E PRODUTOS DERIVADOS",
+    "availabilityCode": "PB3",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Carla F. S.",
+      "Tadeu C. F."
+    ]
+  },
+  {
+    "course_id": "TEI011",
+    "name": "TECNOLOGIA DE CARNES E PRODUTOS DERIVADOS",
+    "availabilityCode": "TT",
+    "spots": 96,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Tadeu C. F.",
+      "Carla F. S."
+    ]
+  },
+  {
+    "course_id": "TEI016",
+    "name": "TECNOLOGIA E INSPECAO DE LEITE E PRODUTOS DERIVADOS III",
+    "availabilityCode": "TT",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:00",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Claudia F. A. M. P.",
+      "Marcelo R. S."
+    ]
+  },
+  {
+    "course_id": "TEI019",
+    "name": "COACHING E GESTÃO DE CARREIRA",
+    "availabilityCode": "TT",
+    "spots": 32,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:10",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Elisa H. P. A.",
+      "Debora C. S. A.",
+      "Cleia B. D."
+    ]
+  },
+  {
+    "course_id": "TEI020",
+    "name": "TECNOLOGIA E PROCESSAMENTO DE PESCADO",
+    "availabilityCode": "PPA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Carla F. S."
+    ]
+  },
+  {
+    "course_id": "TEI020",
+    "name": "TECNOLOGIA E PROCESSAMENTO DE PESCADO",
+    "availabilityCode": "PPB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Leticia G. O."
+    ]
+  },
+  {
+    "course_id": "TEI020",
+    "name": "TECNOLOGIA E PROCESSAMENTO DE PESCADO",
+    "availabilityCode": "TT",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Leticia G. O.",
+      "Carla F. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "VET026",
+    "name": "PROFISSIOGRAFIA DO MEDICO VETERINARIO",
+    "availabilityCode": "P1",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Fernanda C. M.",
+      "Carlos A. O. J.",
+      "Ricardo R. S.",
+      "Bruna M. S. S.",
+      "Julia A. G. S.",
+      "Guilherme C. T.",
+      "Jessica M. S. C.",
+      "Benito S. B.",
+      "Armando M. C.",
+      "Fabiola O. P. L.",
+      "Monique A. L.",
+      "Daniela C. M. H.",
+      "Thaynara P. C."
+    ]
+  },
+  {
+    "course_id": "VET026",
+    "name": "PROFISSIOGRAFIA DO MEDICO VETERINARIO",
+    "availabilityCode": "P2",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Fernanda C. M.",
+      "Carlos A. O. J.",
+      "Ricardo R. S.",
+      "Bruna M. S. S.",
+      "Julia A. G. S.",
+      "Guilherme C. T.",
+      "Jessica M. S. C.",
+      "Benito S. B.",
+      "Armando M. C.",
+      "Fabiola O. P. L.",
+      "Monique A. L.",
+      "Daniela C. M. H.",
+      "Claudia F. A. M. P."
+    ]
+  },
+  {
+    "course_id": "VET026",
+    "name": "PROFISSIOGRAFIA DO MEDICO VETERINARIO",
+    "availabilityCode": "P3",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Julia A. G. S.",
+      "Guilherme C. T.",
+      "Jessica M. S. C.",
+      "Benito S. B.",
+      "Armando M. C.",
+      "Fabiola O. P. L.",
+      "Monique A. L.",
+      "Daniela C. M. H.",
+      "Claudia F. A. M. P.",
+      "Thaynara P. C.",
+      "Carla F. S.",
+      "Anelise C. N.",
+      "Carlos A. O. J."
+    ]
+  },
+  {
+    "course_id": "VET026",
+    "name": "PROFISSIOGRAFIA DO MEDICO VETERINARIO",
+    "availabilityCode": "P4",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Julia A. G. S.",
+      "Guilherme C. T.",
+      "Jessica M. S. C.",
+      "Benito S. B.",
+      "Armando M. C.",
+      "Fabiola O. P. L.",
+      "Monique A. L.",
+      "Daniela C. M. H.",
+      "Thaynara P. C.",
+      "Claudia F. A. M. P.",
+      "Anelise C. N.",
+      "Carla F. S.",
+      "Bruna M. S. S."
+    ]
+  },
+  {
+    "course_id": "VET026",
+    "name": "PROFISSIOGRAFIA DO MEDICO VETERINARIO",
+    "availabilityCode": "TT",
+    "spots": 69,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Thaynara P. C.",
+      "Claudia F. A. M. P.",
+      "Anelise C. N.",
+      "Carla F. S.",
+      "Fernanda C. M.",
+      "Ricardo R. S.",
+      "Carlos A. O. J.",
+      "Bruna M. S. S.",
+      "Julia A. G. S.",
+      "Guilherme C. T.",
+      "Jessica M. S. C.",
+      "Benito S. B.",
+      "Armando M. C.",
+      "Monique A."
+    ]
+  },
+  {
+    "course_id": "VET027",
+    "name": "METODOLOGIA DA PESQUISA CIENTIFICA",
+    "availabilityCode": "TT",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Lagares",
+      "Fabiola O. P. L.",
+      "Daniela C. M. H.",
+      "Eduardo B."
+    ]
+  },
+  {
+    "course_id": "VET028",
+    "name": "ESTATISTICA APLICADA A MEDICINA VETERINARIA",
+    "availabilityCode": "TT",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Camila S. F. O.",
+      "Rafael R. N.",
+      "Joao P. A. H."
+    ]
+  },
+  {
+    "course_id": "VET029",
+    "name": "COMPORTAMENTO E BEM-ESTAR ANIMAL",
+    "availabilityCode": "P1",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo B. L.",
+      "Christina M.",
+      "Jessica M. S. C.",
+      "Tadeu C. F.",
+      "Oliveiro C. F. N.",
+      "Luiz A. L.",
+      "Danielle F. M. S.",
+      "Fernanda V. A. C."
+    ]
+  },
+  {
+    "course_id": "VET029",
+    "name": "COMPORTAMENTO E BEM-ESTAR ANIMAL",
+    "availabilityCode": "P2",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo B. L.",
+      "Christina M.",
+      "Tadeu C. F.",
+      "Jessica M. S. C.",
+      "Oliveiro C. F. N.",
+      "Luiz A. L.",
+      "Danielle F. M. S.",
+      "Fernanda V. A. C."
+    ]
+  },
+  {
+    "course_id": "VET029",
+    "name": "COMPORTAMENTO E BEM-ESTAR ANIMAL",
+    "availabilityCode": "P3",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo B. L.",
+      "Christina M.",
+      "Jessica M. S. C.",
+      "Tadeu C. F.",
+      "Oliveiro C. F. N.",
+      "Luiz A. L.",
+      "Danielle F. M. S.",
+      "Fernanda V. A. C."
+    ]
+  },
+  {
+    "course_id": "VET029",
+    "name": "COMPORTAMENTO E BEM-ESTAR ANIMAL",
+    "availabilityCode": "P4",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo B. L.",
+      "Christina M.",
+      "Tadeu C. F.",
+      "Jessica M. S. C.",
+      "Oliveiro C. F. N.",
+      "Luiz A. L.",
+      "Danielle F. M. S.",
+      "Fernanda V. A. C."
+    ]
+  },
+  {
+    "course_id": "VET029",
+    "name": "COMPORTAMENTO E BEM-ESTAR ANIMAL",
+    "availabilityCode": "TT",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Danielle F. M. S.",
+      "Fernanda V. A. C.",
+      "Leonardo B. L.",
+      "Christina M.",
+      "Tadeu C. F.",
+      "Jessica M. S. C.",
+      "Oliveiro C. F. N.",
+      "Luiz A. L."
+    ]
+  },
+  {
+    "course_id": "VET030",
+    "name": "ATIVIDADES INTEGRADORAS DE FORMACAO I",
+    "availabilityCode": "PA",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Oliveiro C. F. N.",
+      "Ronaldo A. M.",
+      "Patricia A. D.",
+      "Helena F. L.",
+      "Carlos A. O. J.",
+      "Leorges M. F.",
+      "Fernanda C. M.",
+      "Julia A. G. S.",
+      "Eduardo B.",
+      "Leonardo J. C. L."
+    ]
+  },
+  {
+    "course_id": "VET030",
+    "name": "ATIVIDADES INTEGRADORAS DE FORMACAO I",
+    "availabilityCode": "PB",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Oliveiro C. F. N.",
+      "Marcelo P. N. C.",
+      "Ronaldo A. M.",
+      "Patricia A. D.",
+      "Leorges M. F.",
+      "Helena F. L.",
+      "Carlos A. O. J.",
+      "Fernanda C. M.",
+      "Julia A. G. S.",
+      "Eduardo B.",
+      "Leonardo J. C. L."
+    ]
+  },
+  {
+    "course_id": "VET030",
+    "name": "ATIVIDADES INTEGRADORAS DE FORMACAO I",
+    "availabilityCode": "PC",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Oliveiro C. F. N.",
+      "Ronaldo A. M.",
+      "Marcelo P. N. C.",
+      "Patricia A. D.",
+      "Leorges M. F.",
+      "Helena F. L.",
+      "Carlos A. O. J.",
+      "Fernanda C. M.",
+      "Julia A. G. S.",
+      "Eduardo B.",
+      "Leonardo J. C. L."
+    ]
+  },
+  {
+    "course_id": "VET030",
+    "name": "ATIVIDADES INTEGRADORAS DE FORMACAO I",
+    "availabilityCode": "PD",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Ronaldo A. M.",
+      "Marcelo P. N. C.",
+      "Patricia A. D.",
+      "Fernanda C. M.",
+      "Leorges M. F.",
+      "Helena F. L.",
+      "Carlos A. O. J.",
+      "Julia A. G. S.",
+      "Eduardo B.",
+      "Leonardo J. C. L.",
+      "Oliveiro C. F. N."
+    ]
+  },
+  {
+    "course_id": "VET031",
+    "name": "ATIVIDADES INTEGRADORAS DE FORMACAO II",
+    "availabilityCode": "P1",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "13:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "13:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "VET031",
+    "name": "ATIVIDADES INTEGRADORAS DE FORMACAO II",
+    "availabilityCode": "P2",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "13:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "13:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "VET031",
+    "name": "ATIVIDADES INTEGRADORAS DE FORMACAO II",
+    "availabilityCode": "P3",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "13:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "13:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "VET031",
+    "name": "ATIVIDADES INTEGRADORAS DE FORMACAO II",
+    "availabilityCode": "P4",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "13:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "13:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "VET032",
+    "name": "ETICA E DEONTOLOGIA VETERINARIA",
+    "availabilityCode": "TT",
+    "spots": 75,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Luiz A. L.",
+      "Roberto B. A."
+    ]
+  },
+  {
+    "course_id": "VET033",
+    "name": "PLANEJAMENTO E GESTAO EM VETERINARIA",
+    "availabilityCode": "PA",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Jessica M. S. C.",
+      "Hemilly C. M. S.",
+      "Rodrigo A. C. P."
+    ]
+  },
+  {
+    "course_id": "VET033",
+    "name": "PLANEJAMENTO E GESTAO EM VETERINARIA",
+    "availabilityCode": "PB",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Hemilly C. M. S.",
+      "Rodrigo A. C. P.",
+      "Jessica M. S. C."
+    ]
+  },
+  {
+    "course_id": "VET033",
+    "name": "PLANEJAMENTO E GESTAO EM VETERINARIA",
+    "availabilityCode": "PC",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Hemilly C. M. S.",
+      "Rodrigo A. C. P.",
+      "Jessica M. S. C."
+    ]
+  },
+  {
+    "course_id": "VET033",
+    "name": "PLANEJAMENTO E GESTAO EM VETERINARIA",
+    "availabilityCode": "PD",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Hemilly C. M. S.",
+      "Rodrigo A. C. P.",
+      "Jessica M. S. C."
+    ]
+  },
+  {
+    "course_id": "VET033",
+    "name": "PLANEJAMENTO E GESTAO EM VETERINARIA",
+    "availabilityCode": "TT",
+    "spots": 88,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Jessica M. S. C.",
+      "Hemilly C. M. S.",
+      "Rodrigo A. C. P."
+    ]
+  },
+  {
+    "course_id": "VET034",
+    "name": "ESTAGIO SUPERVISIONADO",
+    "availabilityCode": "PA",
+    "spots": 110,
+    "times": [],
+    "teachers": [
+      "Daniela C. M. H.",
+      "Anelise C. N."
+    ]
+  },
+  {
+    "course_id": "VET035",
+    "name": "CINOTECNIA",
+    "availabilityCode": "P1",
+    "spots": 10,
+    "times": [],
+    "teachers": [
+      "Leonardo B. L."
+    ]
+  },
+  {
+    "course_id": "VET035",
+    "name": "CINOTECNIA",
+    "availabilityCode": "P2",
+    "spots": 10,
+    "times": [],
+    "teachers": [
+      "Leonardo B. L."
+    ]
+  },
+  {
+    "course_id": "VET035",
+    "name": "CINOTECNIA",
+    "availabilityCode": "P3",
+    "spots": 10,
+    "times": [],
+    "teachers": [
+      "Leonardo B. L."
+    ]
+  },
+  {
+    "course_id": "VET035",
+    "name": "CINOTECNIA",
+    "availabilityCode": "P4",
+    "spots": 15,
+    "times": [],
+    "teachers": [
+      "Leonardo B. L."
+    ]
+  },
+  {
+    "course_id": "VET035",
+    "name": "CINOTECNIA",
+    "availabilityCode": "TT",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo B. L."
+    ]
+  },
+  {
+    "course_id": "VET036",
+    "name": "AULAS PRATICAS INTEGRADAS DE CAMPO I - -",
+    "availabilityCode": "TP1",
+    "spots": 7,
+    "times": [],
+    "teachers": [
+      "Luiz E. D. O.",
+      "Lorena L. F.",
+      "Camila V. B. C.",
+      "Erica A. C.",
+      "Maria I. M. C. G."
+    ]
+  },
+  {
+    "course_id": "VET036",
+    "name": "AULAS PRATICAS INTEGRADAS DE CAMPO I - -",
+    "availabilityCode": "TP2",
+    "spots": 7,
+    "times": [],
+    "teachers": [
+      "Luiz E. D. O.",
+      "Lorena L. F.",
+      "Camila V. B. C.",
+      "Erica A. C.",
+      "Maria I. M. C. G."
+    ]
+  },
+  {
+    "course_id": "VET036",
+    "name": "AULAS PRATICAS INTEGRADAS DE CAMPO I - -",
+    "availabilityCode": "TP3",
+    "spots": 7,
+    "times": [],
+    "teachers": [
+      "Luiz E. D. O.",
+      "Lorena L. F.",
+      "Camila V. B. C.",
+      "Erica A. C.",
+      "Camila S. F. O.",
+      "Maria I. M. C. G."
+    ]
+  },
+  {
+    "course_id": "VET036",
+    "name": "AULAS PRATICAS INTEGRADAS DE CAMPO I - -",
+    "availabilityCode": "TP4",
+    "spots": 7,
+    "times": [],
+    "teachers": [
+      "Luiz E. D. O.",
+      "Danielle F. M. S.",
+      "Lorena L. F.",
+      "Camila V. B. C.",
+      "Erica A. C.",
+      "Maria I. M. C. G."
+    ]
+  },
+  {
+    "course_id": "VET036",
+    "name": "AULAS PRATICAS INTEGRADAS DE CAMPO I - -",
+    "availabilityCode": "TP5",
+    "spots": 7,
+    "times": [],
+    "teachers": [
+      "Luiz E. D. O.",
+      "Lorena L. F.",
+      "Erica A. C.",
+      "Camila V. B. C.",
+      "Maria I. M. C. G.",
+      "Fernanda C. M."
+    ]
+  },
+  {
+    "course_id": "VET037",
+    "name": "AULAS PRATICAS INTEGRADAS DE CAMPO II - -",
+    "availabilityCode": "TP1",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Lorena L. F.",
+      "Camila V. B. C.",
+      "Erica A. C.",
+      "Maria I. M. C. G."
+    ]
+  },
+  {
+    "course_id": "VET037",
+    "name": "AULAS PRATICAS INTEGRADAS DE CAMPO II - -",
+    "availabilityCode": "TP2",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Elias J. F. F.",
+      "Lorena L. F.",
+      "Camila V. B. C.",
+      "Erica A. C.",
+      "Maria I. M. C. G."
+    ]
+  },
+  {
+    "course_id": "VET037",
+    "name": "AULAS PRATICAS INTEGRADAS DE CAMPO II - -",
+    "availabilityCode": "TP3",
+    "spots": 6,
+    "times": [],
+    "teachers": [
+      "Lucio C. G.",
+      "Lorena L. F.",
+      "Erica A. C.",
+      "Camila V. B. C.",
+      "Maria I. M. C. G."
+    ]
+  },
+  {
+    "course_id": "VET037",
+    "name": "AULAS PRATICAS INTEGRADAS DE CAMPO II - -",
+    "availabilityCode": "TP4",
+    "spots": 6,
+    "times": [],
+    "teachers": [
+      "Lorena L. F.",
+      "Camila V. B. C.",
+      "Erica A. C.",
+      "Hemilly C. M. S.",
+      "Maria I. M. C. G."
+    ]
+  },
+  {
+    "course_id": "VET037",
+    "name": "AULAS PRATICAS INTEGRADAS DE CAMPO II - -",
+    "availabilityCode": "TP5",
+    "spots": 6,
+    "times": [],
+    "teachers": [
+      "Lorena L. F.",
+      "Erica A. C.",
+      "Camila V. B. C.",
+      "Rodrigo A. C. P.",
+      "Maria I. M. C. G.",
+      "Ricardo R. S."
+    ]
+  },
+  {
+    "course_id": "VET037",
+    "name": "AULAS PRATICAS INTEGRADAS DE CAMPO II - -",
+    "availabilityCode": "TP6",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Lorena L. F.",
+      "Erica A. C.",
+      "Camila V. B. C.",
+      "Hemilly C. M. S.",
+      "Rodrigo A. C. P.",
+      "Maria I. M. C. G.",
+      "Elias J. F. F."
+    ]
+  },
+  {
+    "course_id": "VET037",
+    "name": "AULAS PRATICAS INTEGRADAS DE CAMPO II - -",
+    "availabilityCode": "TP7",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Lorena L. F.",
+      "Camila V. B. C.",
+      "Erica A. C.",
+      "Maria I. M. C. G."
+    ]
+  },
+  {
+    "course_id": "VET040",
+    "name": "AULAS PRÁTICAS INTEGRADAS DE CAMPO III - Praticas de campo na área de produção e Medicina Veterinária",
+    "availabilityCode": "TP1",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Lorena L. F.",
+      "Camila V. B. C.",
+      "Erica A. C.",
+      "Maria I. M. C. G."
+    ]
+  },
+  {
+    "course_id": "VET040",
+    "name": "AULAS PRÁTICAS INTEGRADAS DE CAMPO III - Praticas de campo na área de produção e Medicina Veterinária",
+    "availabilityCode": "TP2",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Lorena L. F.",
+      "Camila V. B. C.",
+      "Erica A. C.",
+      "Maria I. M. C. G.",
+      "Helena F. L."
+    ]
+  },
+  {
+    "course_id": "VET040",
+    "name": "AULAS PRÁTICAS INTEGRADAS DE CAMPO III - Praticas de campo na área de produção e Medicina Veterinária",
+    "availabilityCode": "TP3",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Lorena L. F.",
+      "Erica A. C.",
+      "Camila V. B. C.",
+      "Maria I. M. C. G.",
+      "Armando M. C."
+    ]
+  },
+  {
+    "course_id": "VET040",
+    "name": "AULAS PRÁTICAS INTEGRADAS DE CAMPO III - Praticas de campo na área de produção e Medicina Veterinária",
+    "availabilityCode": "TP4",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Lorena L. F.",
+      "Erica A. C.",
+      "Camila V. B. C.",
+      "Maria I. M. C. G.",
+      "Roberto M. C. G.",
+      "Marcos H. S."
+    ]
+  },
+  {
+    "course_id": "VET040",
+    "name": "AULAS PRÁTICAS INTEGRADAS DE CAMPO III - Praticas de campo na área de produção e Medicina Veterinária",
+    "availabilityCode": "TP5",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Camila V. B. C.",
+      "Erica A. C.",
+      "Maria I. M. C. G.",
+      "Rodrigo M. M.",
+      "Tiago F. M.",
+      "Lorena L. F."
+    ]
+  },
+  {
+    "course_id": "VET040",
+    "name": "AULAS PRÁTICAS INTEGRADAS DE CAMPO III - -",
+    "availabilityCode": "TP6",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Luciano S. L.",
+      "Maria I. M. C. G.",
+      "Helena F. L.",
+      "Tiago F. M.",
+      "Marcos H. S.",
+      "Armando M. C.",
+      "Lorena L. F.",
+      "Erica A. C.",
+      "Camila V. B. C."
+    ]
+  },
+  {
+    "course_id": "VET040",
+    "name": "AULAS PRÁTICAS INTEGRADAS DE CAMPO III - -",
+    "availabilityCode": "TP7",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Maria I. M. C. G.",
+      "Lorena L. F.",
+      "Camila V. B. C.",
+      "Erica A. C.",
+      "Luciano S. L."
+    ]
+  },
+  {
+    "course_id": "ZOO033",
+    "name": "ALIMENTOS E ALIMENTACAO EM VETERINARIA",
+    "availabilityCode": "P1",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Luciano S. L.",
+      "Leonardo B. L."
+    ]
+  },
+  {
+    "course_id": "ZOO033",
+    "name": "ALIMENTOS E ALIMENTACAO EM VETERINARIA",
+    "availabilityCode": "P2",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Luciano S. L.",
+      "Leonardo B. L."
+    ]
+  },
+  {
+    "course_id": "ZOO033",
+    "name": "ALIMENTOS E ALIMENTACAO EM VETERINARIA",
+    "availabilityCode": "P3",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo B. L.",
+      "Luciano S. L."
+    ]
+  },
+  {
+    "course_id": "ZOO033",
+    "name": "ALIMENTOS E ALIMENTACAO EM VETERINARIA",
+    "availabilityCode": "P4",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo B. L.",
+      "Luciano S. L."
+    ]
+  },
+  {
+    "course_id": "ZOO033",
+    "name": "ALIMENTOS E ALIMENTACAO EM VETERINARIA",
+    "availabilityCode": "TT",
+    "spots": 86,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Luciano S. L.",
+      "Leonardo B. L."
+    ]
+  },
+  {
+    "course_id": "ZOO034",
+    "name": "MELHORAMENTO GENETICO ANIMAL",
+    "availabilityCode": "PA1",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Idalmo G. P."
+    ]
+  },
+  {
+    "course_id": "ZOO034",
+    "name": "MELHORAMENTO GENETICO ANIMAL",
+    "availabilityCode": "PA2",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Idalmo G. P."
+    ]
+  },
+  {
+    "course_id": "ZOO034",
+    "name": "MELHORAMENTO GENETICO ANIMAL",
+    "availabilityCode": "PB1",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Idalmo G. P."
+    ]
+  },
+  {
+    "course_id": "ZOO034",
+    "name": "MELHORAMENTO GENETICO ANIMAL",
+    "availabilityCode": "PB2",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Idalmo G. P."
+    ]
+  },
+  {
+    "course_id": "ZOO034",
+    "name": "MELHORAMENTO GENETICO ANIMAL",
+    "availabilityCode": "TT",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Idalmo G. P."
+    ]
+  },
+  {
+    "course_id": "ZOO035",
+    "name": "NUTRICAO ANIMAL",
+    "availabilityCode": "P1",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Ricardo R. S.",
+      "Marcos H. S."
+    ]
+  },
+  {
+    "course_id": "ZOO035",
+    "name": "NUTRICAO ANIMAL",
+    "availabilityCode": "P2",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Ricardo R. S.",
+      "Marcos H. S."
+    ]
+  },
+  {
+    "course_id": "ZOO035",
+    "name": "NUTRICAO ANIMAL",
+    "availabilityCode": "P3",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Ricardo R. S.",
+      "Marcos H. S."
+    ]
+  },
+  {
+    "course_id": "ZOO035",
+    "name": "NUTRICAO ANIMAL",
+    "availabilityCode": "P4",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Ricardo R. S.",
+      "Marcos H. S."
+    ]
+  },
+  {
+    "course_id": "ZOO035",
+    "name": "NUTRICAO ANIMAL",
+    "availabilityCode": "TT",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Marcos H. S.",
+      "Ricardo R. S."
+    ]
+  },
+  {
+    "course_id": "ZOO037",
+    "name": "PRODUCAO DE ANIMAIS SILVESTRES E EXOTICOS",
+    "availabilityCode": "P1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo B. L."
+    ]
+  },
+  {
+    "course_id": "ZOO037",
+    "name": "PRODUCAO DE ANIMAIS SILVESTRES E EXOTICOS",
+    "availabilityCode": "P2",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo B. L."
+    ]
+  },
+  {
+    "course_id": "ZOO037",
+    "name": "PRODUCAO DE ANIMAIS SILVESTRES E EXOTICOS",
+    "availabilityCode": "TT",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo B. L."
+    ]
+  },
+  {
+    "course_id": "ZOO038",
+    "name": "BUFALINOCULTURA",
+    "availabilityCode": "PP",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Rodrigo A. C. P.",
+      "Eduardo B."
+    ]
+  },
+  {
+    "course_id": "ZOO038",
+    "name": "BUFALINOCULTURA",
+    "availabilityCode": "TT",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Eduardo B.",
+      "Rodrigo A. C. P."
+    ]
+  },
+  {
+    "course_id": "ZOO040",
+    "name": "EQUIDEOCULTURA",
+    "availabilityCode": "P2",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Diogo G. J."
+    ]
+  },
+  {
+    "course_id": "ZOO040",
+    "name": "EQUIDEOCULTURA",
+    "availabilityCode": "PP1",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Diogo G. J."
+    ]
+  },
+  {
+    "course_id": "ZOO040",
+    "name": "EQUIDEOCULTURA",
+    "availabilityCode": "TT",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:10",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Diogo G. J."
+    ]
+  },
+  {
+    "course_id": "ZOO041",
+    "name": "TOPICOS AVANCADOS EM BOVINOCULTURA DE LEITE - Apresentar ao aluno diferentes sistemas de produção referentes à criação de bovinos especializados para produção de leite em visitas técnicas guiadas",
+    "availabilityCode": "PP",
+    "spots": 12,
+    "times": [],
+    "teachers": [
+      "Sandra G. C.",
+      "Helena F. L."
+    ]
+  },
+  {
+    "course_id": "ZOO041",
+    "name": "TOPICOS AVANCADOS EM BOVINOCULTURA DE LEITE - Apresentar ao aluno diferentes sistemas de produção referentes à criação de bovinos especializados para produção de leite em visitas técnicas guiadas",
+    "availabilityCode": "T1",
+    "spots": 12,
+    "times": [],
+    "teachers": [
+      "Sandra G. C.",
+      "Helena F. L."
+    ]
+  },
+  {
+    "course_id": "ZOO044",
+    "name": "SETOR AGRÁRIO E ORGANIZAÇÃO SOCIAL NO BRASIL",
+    "availabilityCode": "TT",
+    "spots": 74,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Lucio C. G.",
+      "Matheus A. R."
+    ]
+  },
+  {
+    "course_id": "ZOO045",
+    "name": "EXTENSÃO EM VETERINÁRIA",
+    "availabilityCode": "TA1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Lucio C. G.",
+      "Matheus A. R."
+    ]
+  },
+  {
+    "course_id": "ZOO045",
+    "name": "EXTENSÃO EM VETERINÁRIA",
+    "availabilityCode": "TA2",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Lucio C. G.",
+      "Matheus A. R."
+    ]
+  },
+  {
+    "course_id": "ZOO045",
+    "name": "EXTENSÃO EM VETERINÁRIA",
+    "availabilityCode": "TA3",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Matheus A. R.",
+      "Lucio C. G."
+    ]
+  },
+  {
+    "course_id": "ZOO045",
+    "name": "EXTENSÃO EM VETERINÁRIA",
+    "availabilityCode": "TB1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Lucio C. G.",
+      "Matheus A. R."
+    ]
+  },
+  {
+    "course_id": "ZOO045",
+    "name": "EXTENSÃO EM VETERINÁRIA",
+    "availabilityCode": "TTB3",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Lucio C. G.",
+      "Matheus A. R."
+    ]
+  },
+  {
+    "course_id": "ZOO045",
+    "name": "EXTENSÃO EM VETERINÁRIA",
+    "availabilityCode": "TTB4",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Lucio C. G.",
+      "Matheus A. R."
+    ]
+  },
+  {
+    "course_id": "ZOO046",
+    "name": "ALIMENTAÇÃO E NUTRIÇÃO DE ANIMAIS DE ESTIMAÇÃO",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo B. L."
+    ]
+  },
+  {
+    "course_id": "ZOO046",
+    "name": "ALIMENTAÇÃO E NUTRIÇÃO DE ANIMAIS DE ESTIMAÇÃO",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo B. L."
+    ]
+  },
+  {
+    "course_id": "ZOO046",
+    "name": "ALIMENTAÇÃO E NUTRIÇÃO DE ANIMAIS DE ESTIMAÇÃO",
+    "availabilityCode": "PP",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:10",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo B. L."
+    ]
+  },
+  {
+    "course_id": "ZOO046",
+    "name": "ALIMENTAÇÃO E NUTRIÇÃO DE ANIMAIS DE ESTIMAÇÃO",
+    "availabilityCode": "TT1",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo B. L."
+    ]
+  },
+  {
+    "course_id": "ZOO047",
+    "name": "PRODUÇÃO DE AVES ALTERNATIVAS",
+    "availabilityCode": "PP",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Itallo C. S. A."
+    ]
+  },
+  {
+    "course_id": "ZOO047",
+    "name": "PRODUÇÃO DE AVES ALTERNATIVAS",
+    "availabilityCode": "TT",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Itallo C. S. A."
+    ]
+  },
+  {
+    "course_id": "ZOO606",
+    "name": "SUINOCULTURA",
+    "availabilityCode": "PA1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Dalton O. F.",
+      "Jessica M. S. C."
+    ]
+  },
+  {
+    "course_id": "ZOO606",
+    "name": "SUINOCULTURA",
+    "availabilityCode": "PA2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Jessica M. S. C.",
+      "Dalton O. F."
+    ]
+  },
+  {
+    "course_id": "ZOO606",
+    "name": "SUINOCULTURA",
+    "availabilityCode": "PB1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Dalton O. F.",
+      "Jessica M. S. C."
+    ]
+  },
+  {
+    "course_id": "ZOO606",
+    "name": "SUINOCULTURA",
+    "availabilityCode": "PB2",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Dalton O. F.",
+      "Jessica M. S. C."
+    ]
+  },
+  {
+    "course_id": "ZOO606",
+    "name": "SUINOCULTURA",
+    "availabilityCode": "TA",
+    "spots": 79,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Dalton O. F.",
+      "Jessica M. S. C."
+    ]
+  },
+  {
+    "course_id": "ZOO607",
+    "name": "AVICULTURA",
+    "availabilityCode": "P1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo J. C. L.",
+      "Itallo C. S. A."
+    ]
+  },
+  {
+    "course_id": "ZOO607",
+    "name": "AVICULTURA",
+    "availabilityCode": "P2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo J. C. L.",
+      "Itallo C. S. A."
+    ]
+  },
+  {
+    "course_id": "ZOO607",
+    "name": "AVICULTURA",
+    "availabilityCode": "P3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo J. C. L.",
+      "Itallo C. S. A."
+    ]
+  },
+  {
+    "course_id": "ZOO607",
+    "name": "AVICULTURA",
+    "availabilityCode": "P4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:10",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo J. C. L.",
+      "Itallo C. S. A."
+    ]
+  },
+  {
+    "course_id": "ZOO607",
+    "name": "AVICULTURA",
+    "availabilityCode": "TT",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:10",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Itallo C. S. A.",
+      "Leonardo J. C. L."
+    ]
+  },
+  {
+    "course_id": "ZOO608",
+    "name": "BOVINOCULTURA DE LEITE",
+    "availabilityCode": "PA1",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Sandra G. C.",
+      "Helena F. L."
+    ]
+  },
+  {
+    "course_id": "ZOO608",
+    "name": "BOVINOCULTURA DE LEITE",
+    "availabilityCode": "PA2",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Sandra G. C.",
+      "Helena F. L."
+    ]
+  },
+  {
+    "course_id": "ZOO608",
+    "name": "BOVINOCULTURA DE LEITE",
+    "availabilityCode": "PB1",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Sandra G. C.",
+      "Helena F. L."
+    ]
+  },
+  {
+    "course_id": "ZOO608",
+    "name": "BOVINOCULTURA DE LEITE",
+    "availabilityCode": "PB2",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Sandra G. C.",
+      "Helena F. L."
+    ]
+  },
+  {
+    "course_id": "ZOO608",
+    "name": "BOVINOCULTURA DE LEITE",
+    "availabilityCode": "TT",
+    "spots": 75,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:10",
+        "end": "09:00"
+      }
+    ],
+    "teachers": [
+      "Sandra G. C.",
+      "Helena F. L."
+    ]
+  },
+  {
+    "course_id": "ZOO609",
+    "name": "BOVINOCULTURA DE CORTE",
+    "availabilityCode": "PA1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Rodrigo A. C. P.",
+      "Ricardo R. S."
+    ]
+  },
+  {
+    "course_id": "ZOO609",
+    "name": "BOVINOCULTURA DE CORTE",
+    "availabilityCode": "PA2",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Rodrigo A. C. P.",
+      "Ricardo R. S."
+    ]
+  },
+  {
+    "course_id": "ZOO609",
+    "name": "BOVINOCULTURA DE CORTE",
+    "availabilityCode": "PB1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Rodrigo A. C. P.",
+      "Ricardo R. S."
+    ]
+  },
+  {
+    "course_id": "ZOO609",
+    "name": "BOVINOCULTURA DE CORTE",
+    "availabilityCode": "PB2",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Rodrigo A. C. P.",
+      "Ricardo R. S."
+    ]
+  },
+  {
+    "course_id": "ZOO609",
+    "name": "BOVINOCULTURA DE CORTE",
+    "availabilityCode": "TT",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:10",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Rodrigo A. C. P.",
+      "Ricardo R. S."
+    ]
+  },
+  {
+    "course_id": "ZOO613",
+    "name": "CUNICULTURA",
+    "availabilityCode": "P1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Walter M. F."
+    ]
+  },
+  {
+    "course_id": "ZOO613",
+    "name": "CUNICULTURA",
+    "availabilityCode": "P2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Walter M. F."
+    ]
+  },
+  {
+    "course_id": "ZOO613",
+    "name": "CUNICULTURA",
+    "availabilityCode": "TT",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:10",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Walter M. F."
+    ]
+  }
+]

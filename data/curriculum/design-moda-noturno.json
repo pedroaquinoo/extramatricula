@@ -1,0 +1,166 @@
+{
+  "classes": [
+    {
+      "ref_period": 3,
+      "code": "DES035",
+      "name": "Modelagem Basica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DES036",
+      "name": "Desenho Basico do Vestuario",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DES037",
+      "name": "Estamparia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DES038",
+      "name": "Modelagem Feminina",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DES039",
+      "name": "Ilustracao de Moda",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DES040",
+      "name": "Pesquisa de Moda II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EBA043",
+      "name": "Atividade Pratica Integradora B",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DES041",
+      "name": "Modelagem Masculina",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "TAU051",
+      "name": "Tecnicas de Industrializacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DES042",
+      "name": "Moulage",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DES043",
+      "name": "Atelier de Criacao: Projeto",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EBA044",
+      "name": "Atividade Pratica Integradora C",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DES044",
+      "name": "Acabamento de Confeccao",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DES045",
+      "name": "Atelier de Criacao: Desenvolvimento",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DES046",
+      "name": "Tecnologia Textil",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DES047",
+      "name": "Tcc em Design de Moda",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EBA045",
+      "name": "Atividade Pratica Integradora D",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "DES036",
+      "prerequisite_code": "DES034"
+    },
+    {
+      "code": "DES037",
+      "prerequisite_code": "DES005"
+    },
+    {
+      "code": "DES038",
+      "prerequisite_code": "DES035"
+    },
+    {
+      "code": "DES040",
+      "prerequisite_code": "DES032"
+    },
+    {
+      "code": "DES041",
+      "prerequisite_code": "DES035"
+    },
+    {
+      "code": "DES045",
+      "prerequisite_code": "DES043"
+    }
+  ]
+}

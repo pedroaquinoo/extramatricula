@@ -1,0 +1,4050 @@
+[
+  {
+    "course_id": "BIG001",
+    "name": "FUNDAMENTOS DE GENETICA E EVOLUCAO",
+    "availabilityCode": "TE1",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIG001",
+    "name": "FUNDAMENTOS DE GENETICA E EVOLUCAO",
+    "availabilityCode": "TE2",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ004",
+    "name": "BIOQUIMICA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PE1",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ004",
+    "name": "BIOQUIMICA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PE2",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ004",
+    "name": "BIOQUIMICA APLICADA A ENFERMAGEM",
+    "availabilityCode": "TE",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ059",
+    "name": "IMUNOLOGIA",
+    "availabilityCode": "TE",
+    "spots": 76,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "15:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA1",
+    "spots": 4,
+    "times": [],
+    "teachers": [
+      "Gisele N. A.",
+      "Ed W. R. V.",
+      "Alanna G. S."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA10",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Fernanda P. M.",
+      "Gisele N. A."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA11",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Maria O. P.",
+      "Belisa V. S.",
+      "Gisele N. A."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA12",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Janaina S.",
+      "Gisele N. A."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA13",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Gisele N. A.",
+      "Janaina S."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA14",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Gisele N. A.",
+      "Lilian C. R."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA15",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Gisele N. A.",
+      "Erika G. L. R."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA16",
+    "spots": 3,
+    "times": [],
+    "teachers": [
+      "Gisele N. A.",
+      "Renata M. O."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA17",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Gisele N. A.",
+      "Solange C. B. G."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA18",
+    "spots": 3,
+    "times": [],
+    "teachers": [
+      "Silmar M. S.",
+      "Gisele N. A."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA19",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Solange C. B. G.",
+      "Gisele N. A."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA2",
+    "spots": 6,
+    "times": [],
+    "teachers": [
+      "Gisele N. A.",
+      "Alexandra D. M. D. A.",
+      "Giselle L. F."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA20",
+    "spots": 4,
+    "times": [],
+    "teachers": [
+      "Gisele N. A.",
+      "Flavia S. L. V."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA3",
+    "spots": 3,
+    "times": [],
+    "teachers": [
+      "Gisele N. A."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA4",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Francisco C. F. L.",
+      "Gisele N. A."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA5",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Erica D. P.",
+      "Gisele N. A."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA6",
+    "spots": 3,
+    "times": [],
+    "teachers": [
+      "Ana C. M. G. N. S.",
+      "Gisele N. A."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA7",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Mark A. B.",
+      "Gisele N. A."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA8",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Mariana S. F. M.",
+      "Gisele N. A."
+    ]
+  },
+  {
+    "course_id": "EFM063",
+    "name": "ESTÁGIO CURRICULAR: ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "PA9",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Alanna G. S.",
+      "Gisele N. A."
+    ]
+  },
+  {
+    "course_id": "EFM065",
+    "name": "TÓPICOS EM ENFERMAGEM I - Relações Interculturais e Formação Profissional em Saúde",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Livia S. P. E."
+    ]
+  },
+  {
+    "course_id": "EFM067",
+    "name": "TÓPICOS EM ENFERMAGEM III - Ética e Bioética em Enfermagem",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Marcia S. P."
+    ]
+  },
+  {
+    "course_id": "EFM067",
+    "name": "TÓPICOS EM ENFERMAGEM III - Tecnologias para Intervenções em Saúde Mental e com Usuários de Substâncias Psicoativas",
+    "availabilityCode": "TFER",
+    "spots": 30,
+    "times": [],
+    "teachers": [
+      "Erika G. L. R."
+    ]
+  },
+  {
+    "course_id": "EFM068",
+    "name": "TÓPICOS EM ENFERMAGEM IV - Advocacia do Paciente na Prática de Enfermagem",
+    "availabilityCode": "PC1",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Elen C. G."
+    ]
+  },
+  {
+    "course_id": "EFM068",
+    "name": "TÓPICOS EM ENFERMAGEM IV - Advocacia do Paciente na Prática de Enfermagem",
+    "availabilityCode": "PC2",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Lilian C. R.",
+      "Elen C. G."
+    ]
+  },
+  {
+    "course_id": "EFM068",
+    "name": "TÓPICOS EM ENFERMAGEM IV - Advocacia do Paciente na Prática de Enfermagem",
+    "availabilityCode": "PC3",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Rafaela S. C. S.",
+      "Elen C. G."
+    ]
+  },
+  {
+    "course_id": "EFM068",
+    "name": "TÓPICOS EM ENFERMAGEM IV - Terapias Dialíticas",
+    "availabilityCode": "TA",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Gilberto L. G."
+    ]
+  },
+  {
+    "course_id": "EFM068",
+    "name": "TÓPICOS EM ENFERMAGEM IV - Comunicação como Base na Qualidade Assistência de Enfermagem",
+    "availabilityCode": "TB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Aldenora L. P. C. C."
+    ]
+  },
+  {
+    "course_id": "EFM068",
+    "name": "TÓPICOS EM ENFERMAGEM IV - Advocacia do Paciente na Prática de Enfermagem",
+    "availabilityCode": "TC",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Elen C. G.",
+      "Lilian C. R.",
+      "Rafaela S. C. S."
+    ]
+  },
+  {
+    "course_id": "EFM069",
+    "name": "TÓPICOS EM ENFERMAGEM V - Atenção à Saúde de Crianças e Adolescentes em Condições Crônicas",
+    "availabilityCode": "PA1",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:01",
+        "end": "18:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "16:01",
+        "end": "18:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Delma A. S. S."
+    ]
+  },
+  {
+    "course_id": "EFM069",
+    "name": "TÓPICOS EM ENFERMAGEM V - Atenção à Saúde de Crianças e Adolescentes em Condições Crônicas",
+    "availabilityCode": "PA2",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:01",
+        "end": "18:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "16:01",
+        "end": "18:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Suelen R. O.",
+      "Delma A. S. S."
+    ]
+  },
+  {
+    "course_id": "EFM069",
+    "name": "TÓPICOS EM ENFERMAGEM V - Atenção à Saúde de Crianças e Adolescentes em Condições Crônicas",
+    "availabilityCode": "PA3",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:01",
+        "end": "18:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "16:01",
+        "end": "18:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Rhyquelle R. N.",
+      "Delma A. S. S."
+    ]
+  },
+  {
+    "course_id": "EFM069",
+    "name": "TÓPICOS EM ENFERMAGEM V - Atenção à Saúde de Crianças e Adolescentes em Condições Crônicas",
+    "availabilityCode": "TA",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "16:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "16:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Suelen R. O.",
+      "Rhyquelle R. N.",
+      "Delma A. S. S."
+    ]
+  },
+  {
+    "course_id": "EFM070",
+    "name": "TÓPICOS EM ENFERMAGEM VI - Estudo da Dor",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Celia M. O."
+    ]
+  },
+  {
+    "course_id": "EFM091",
+    "name": "TCC",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [],
+    "teachers": [
+      "Erika G. L. R."
+    ]
+  },
+  {
+    "course_id": "EFM092",
+    "name": "SEMINÁRIO DE INTEGRAÇÃO II",
+    "availabilityCode": "TA",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Suelen R. O."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA1",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Allana R. C.",
+      "Adriana C. O. I."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA10",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Allana R. C.",
+      "Flavia F. E."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA11",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Allana R. C.",
+      "Jaqueline A. G. B."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA12",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Tania C. M. C.",
+      "Allana R. C."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA13",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Tania C. M. C.",
+      "Allana R. C."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA14",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Allana R. C.",
+      "Bruna F. M."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA15",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Bruna F. M.",
+      "Allana R. C."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA16",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Allana R. C.",
+      "Elysangela D. D."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA17",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Eunice F. M.",
+      "Allana R. C."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA18",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Juliana O. M.",
+      "Allana R. C."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA19",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Kleyde V. S.",
+      "Allana R. C."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA2",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Allana R. C."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA20",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Allana R. C.",
+      "Livia S. P. E."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA21",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Allana R. C.",
+      "Livia S. P. E."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA22",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Allana R. C.",
+      "Torcata A."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA23",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Allana R. C.",
+      "Torcata A."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA24",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Allana R. C.",
+      "Barbara S. M. F."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA25",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Allana R. C.",
+      "Bruna D. F."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA26",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Bruna D. F.",
+      "Allana R. C."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA27",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Carolina S. C.",
+      "Allana R. C."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA28",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Isabela S. C. V.",
+      "Allana R. C."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA29",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Moema S. S.",
+      "Allana R. C."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA3",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Allana R. C."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA30",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Allana R. C.",
+      "Renata M. O."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA4",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Carla L. G. C. A.",
+      "Allana R. C."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA5",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Carla L. G. C. A.",
+      "Allana R. C."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA6",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Celia M. O.",
+      "Allana R. C."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA7",
+    "spots": 2,
+    "times": [],
+    "teachers": [
+      "Allana R. C.",
+      "Eline L. B."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA8",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Allana R. C.",
+      "Eline L. B."
+    ]
+  },
+  {
+    "course_id": "EFM093",
+    "name": "ESTÁGIO HOSPITALAR EM UNIDADES DE SAÚDE DE MÉDIA E ALTA COMPLEXIDADE",
+    "availabilityCode": "PA9",
+    "spots": 1,
+    "times": [],
+    "teachers": [
+      "Allana R. C.",
+      "Flavia F. E."
+    ]
+  },
+  {
+    "course_id": "EMI025",
+    "name": "SAUDE COLETIVA",
+    "availabilityCode": "PA1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:31",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Deborah C. M."
+    ]
+  },
+  {
+    "course_id": "EMI025",
+    "name": "SAUDE COLETIVA",
+    "availabilityCode": "PA2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:31",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Deborah C. M."
+    ]
+  },
+  {
+    "course_id": "EMI025",
+    "name": "SAUDE COLETIVA",
+    "availabilityCode": "PA3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:31",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Alanna G. S.",
+      "Tercia M. R. S."
+    ]
+  },
+  {
+    "course_id": "EMI025",
+    "name": "SAUDE COLETIVA",
+    "availabilityCode": "PA4",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:31",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Giselle L. F.",
+      "Ana C. M. G. N. S."
+    ]
+  },
+  {
+    "course_id": "EMI025",
+    "name": "SAUDE COLETIVA",
+    "availabilityCode": "TA",
+    "spots": 59,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:30"
+      }
+    ],
+    "teachers": [
+      "Deborah C. M.",
+      "Giselle L. F.",
+      "Alanna G. S.",
+      "Ana C. M. G. N. S.",
+      "Gisele N. A."
+    ]
+  },
+  {
+    "course_id": "EMI027",
+    "name": "ENFERMAGEM NA ATENCAO BASICA",
+    "availabilityCode": "PA1",
+    "spots": 4,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Alexandra D. M. D. A."
+    ]
+  },
+  {
+    "course_id": "EMI027",
+    "name": "ENFERMAGEM NA ATENCAO BASICA",
+    "availabilityCode": "PA2",
+    "spots": 4,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Gisele N. A."
+    ]
+  },
+  {
+    "course_id": "EMI027",
+    "name": "ENFERMAGEM NA ATENCAO BASICA",
+    "availabilityCode": "PA3",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Livia S. P. E."
+    ]
+  },
+  {
+    "course_id": "EMI027",
+    "name": "ENFERMAGEM NA ATENCAO BASICA",
+    "availabilityCode": "PA4",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Mark A. B."
+    ]
+  },
+  {
+    "course_id": "EMI027",
+    "name": "ENFERMAGEM NA ATENCAO BASICA",
+    "availabilityCode": "PA5",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Alanna G. S."
+    ]
+  },
+  {
+    "course_id": "EMI027",
+    "name": "ENFERMAGEM NA ATENCAO BASICA",
+    "availabilityCode": "PA6",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ana C. M. G. N. S."
+    ]
+  },
+  {
+    "course_id": "EMI027",
+    "name": "ENFERMAGEM NA ATENCAO BASICA",
+    "availabilityCode": "PA7",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Erica D. P."
+    ]
+  },
+  {
+    "course_id": "EMI027",
+    "name": "ENFERMAGEM NA ATENCAO BASICA",
+    "availabilityCode": "PA8",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Mily C. M. R."
+    ]
+  },
+  {
+    "course_id": "EMI027",
+    "name": "ENFERMAGEM NA ATENCAO BASICA",
+    "availabilityCode": "PA9",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EMI027",
+    "name": "ENFERMAGEM NA ATENCAO BASICA",
+    "availabilityCode": "TA",
+    "spots": 43,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ana C. M. G. N. S.",
+      "Gisele N. A.",
+      "Mily C. M. R.",
+      "Alexandra D. M. D. A.",
+      "Erica D. P.",
+      "Livia S. P. E.",
+      "Mark A. B.",
+      "Giselle L. F.",
+      "Alanna G. S."
+    ]
+  },
+  {
+    "course_id": "EMI036",
+    "name": "SAUDE REPRODUTIVA",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Nagela C. P. S.",
+      "Marco A. S.",
+      "Rafaela S. C. S.",
+      "Mariana S. F. M.",
+      "Gisele N. A."
+    ]
+  },
+  {
+    "course_id": "EMI041",
+    "name": "EPIDEMIOLOGIA",
+    "availabilityCode": "PA1",
+    "spots": 26,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:01",
+        "end": "18:00"
+      },
+      {
+        "day": "Terca",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Jorge G. V. M."
+    ]
+  },
+  {
+    "course_id": "EMI041",
+    "name": "EPIDEMIOLOGIA",
+    "availabilityCode": "PA2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:01",
+        "end": "18:00"
+      },
+      {
+        "day": "Terca",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Deborah C. M."
+    ]
+  },
+  {
+    "course_id": "EMI041",
+    "name": "EPIDEMIOLOGIA",
+    "availabilityCode": "TA",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "16:00"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Jorge G. V. M.",
+      "Deborah C. M."
+    ]
+  },
+  {
+    "course_id": "EMI042",
+    "name": "ENFERMAGEM DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "PA1",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": [
+      "Delma A. S. S.",
+      "Bruna F. M.",
+      "Ed W. R. V."
+    ]
+  },
+  {
+    "course_id": "EMI042",
+    "name": "ENFERMAGEM DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "PA10",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": [
+      "Tercia M. R. S.",
+      "Ed W. R. V.",
+      "Suelen R. O."
+    ]
+  },
+  {
+    "course_id": "EMI042",
+    "name": "ENFERMAGEM DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "PA2",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": [
+      "Delma A. S. S.",
+      "Bruna F. M.",
+      "Ed W. R. V."
+    ]
+  },
+  {
+    "course_id": "EMI042",
+    "name": "ENFERMAGEM DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "PA3",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": [
+      "Juliana O. M.",
+      "Ed W. R. V."
+    ]
+  },
+  {
+    "course_id": "EMI042",
+    "name": "ENFERMAGEM DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "PA4",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": [
+      "Juliana O. M.",
+      "Ed W. R. V."
+    ]
+  },
+  {
+    "course_id": "EMI042",
+    "name": "ENFERMAGEM DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "PA5",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": [
+      "Elysangela D. D.",
+      "Ed W. R. V.",
+      "Marco A. S."
+    ]
+  },
+  {
+    "course_id": "EMI042",
+    "name": "ENFERMAGEM DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "PA6",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": [
+      "Ed W. R. V.",
+      "Marco A. S.",
+      "Rhyquelle R. N."
+    ]
+  },
+  {
+    "course_id": "EMI042",
+    "name": "ENFERMAGEM DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "PA7",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": [
+      "Ed W. R. V.",
+      "Marco A. S.",
+      "Rhyquelle R. N."
+    ]
+  },
+  {
+    "course_id": "EMI042",
+    "name": "ENFERMAGEM DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "PA8",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": [
+      "Ed W. R. V.",
+      "Rhyquelle R. N.",
+      "Tercia M. R. S."
+    ]
+  },
+  {
+    "course_id": "EMI042",
+    "name": "ENFERMAGEM DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "PA9",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": [
+      "Ed W. R. V.",
+      "Suelen R. O.",
+      "Tercia M. R. S."
+    ]
+  },
+  {
+    "course_id": "EMI042",
+    "name": "ENFERMAGEM DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "TA",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "10:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "10:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": [
+      "Juliana O. M.",
+      "Ed W. R. V.",
+      "Marco A. S.",
+      "Suelen R. O.",
+      "Rhyquelle R. N.",
+      "Tercia M. R. S.",
+      "Elysangela D. D.",
+      "Delma A. S. S.",
+      "Bruna F. M."
+    ]
+  },
+  {
+    "course_id": "EMI046",
+    "name": "VIOLÊNCIA E SAÚDE",
+    "availabilityCode": "TFER",
+    "spots": 35,
+    "times": [],
+    "teachers": [
+      "Giselle L. F.",
+      "Marco A. S.",
+      "Nadia M. V.",
+      "Gisele N. A.",
+      "Kleyde V. S.",
+      "Deborah C. M."
+    ]
+  },
+  {
+    "course_id": "EMI048",
+    "name": "TÓPICOS EM ENFERMAGEM MATERNO INFANTIL E SAÚDE PÚBLICA II - Assistência de Enfermagem às Urgências e Emergências Pediátricas",
+    "availabilityCode": "PA1",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Bruna F. M.",
+      "Elysangela D. D."
+    ]
+  },
+  {
+    "course_id": "EMI048",
+    "name": "TÓPICOS EM ENFERMAGEM MATERNO INFANTIL E SAÚDE PÚBLICA II - Assistência de Enfermagem às Urgências e Emergências Pediátricas",
+    "availabilityCode": "PA2",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Bruna F. M."
+    ]
+  },
+  {
+    "course_id": "EMI048",
+    "name": "TÓPICOS EM ENFERMAGEM MATERNO INFANTIL E SAÚDE PÚBLICA II - Assistência de Enfermagem às Urgências e Emergências Pediátricas",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Bruna F. M.",
+      "Elysangela D. D."
+    ]
+  },
+  {
+    "course_id": "EMI049",
+    "name": "SAÚDE DAS MULHERES",
+    "availabilityCode": "PA1",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:31",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Eunice F. M."
+    ]
+  },
+  {
+    "course_id": "EMI049",
+    "name": "SAÚDE DAS MULHERES",
+    "availabilityCode": "PA10",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:31",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Fernanda P. M."
+    ]
+  },
+  {
+    "course_id": "EMI049",
+    "name": "SAÚDE DAS MULHERES",
+    "availabilityCode": "PA2",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:31",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Kleyde V. S."
+    ]
+  },
+  {
+    "course_id": "EMI049",
+    "name": "SAÚDE DAS MULHERES",
+    "availabilityCode": "PA3",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:31",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Mariana S. F. M."
+    ]
+  },
+  {
+    "course_id": "EMI049",
+    "name": "SAÚDE DAS MULHERES",
+    "availabilityCode": "PA4",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:31",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Nagela C. P. S."
+    ]
+  },
+  {
+    "course_id": "EMI049",
+    "name": "SAÚDE DAS MULHERES",
+    "availabilityCode": "PA5",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:31",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Rafaela S. C. S."
+    ]
+  },
+  {
+    "course_id": "EMI049",
+    "name": "SAÚDE DAS MULHERES",
+    "availabilityCode": "PA6",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:31",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Thales P. R. S."
+    ]
+  },
+  {
+    "course_id": "EMI049",
+    "name": "SAÚDE DAS MULHERES",
+    "availabilityCode": "PA7",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:31",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Torcata A."
+    ]
+  },
+  {
+    "course_id": "EMI049",
+    "name": "SAÚDE DAS MULHERES",
+    "availabilityCode": "PA8",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:31",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Mily C. M. R."
+    ]
+  },
+  {
+    "course_id": "EMI049",
+    "name": "SAÚDE DAS MULHERES",
+    "availabilityCode": "PA9",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:31",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EMI049",
+    "name": "SAÚDE DAS MULHERES",
+    "availabilityCode": "TA",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:31",
+        "end": "12:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "10:31",
+        "end": "12:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "10:31",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Torcata A.",
+      "Mily C. M. R.",
+      "Thales P. R. S.",
+      "Kleyde V. S.",
+      "Eunice F. M.",
+      "Nagela C. P. S.",
+      "Fernanda P. M.",
+      "Rafaela S. C. S.",
+      "Mariana S. F. M."
+    ]
+  },
+  {
+    "course_id": "ENA011",
+    "name": "SAUDE MENTAL E SOCIEDADE",
+    "availabilityCode": "TFER",
+    "spots": 21,
+    "times": [],
+    "teachers": [
+      "Isabel C. A. P."
+    ]
+  },
+  {
+    "course_id": "ENA018",
+    "name": "SAUDE MENTAL",
+    "availabilityCode": "TA",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Erika G. L. R.",
+      "Isabel C. A. P."
+    ]
+  },
+  {
+    "course_id": "ENA019",
+    "name": "GESTAO DO SISTEMA DE SAUDE",
+    "availabilityCode": "PA1",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Tauana W. M. S.",
+      "Moema S. S."
+    ]
+  },
+  {
+    "course_id": "ENA019",
+    "name": "GESTAO DO SISTEMA DE SAUDE",
+    "availabilityCode": "PA2",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Tauana W. M. S.",
+      "Moema S. S."
+    ]
+  },
+  {
+    "course_id": "ENA019",
+    "name": "GESTAO DO SISTEMA DE SAUDE",
+    "availabilityCode": "PA3",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Tauana W. M. S.",
+      "Mariana A. M.",
+      "Moema S. S."
+    ]
+  },
+  {
+    "course_id": "ENA019",
+    "name": "GESTAO DO SISTEMA DE SAUDE",
+    "availabilityCode": "PA4",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Tauana W. M. S.",
+      "Moema S. S.",
+      "Barbara S. M. F."
+    ]
+  },
+  {
+    "course_id": "ENA019",
+    "name": "GESTAO DO SISTEMA DE SAUDE",
+    "availabilityCode": "PA5",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Moema S. S.",
+      "Carolina S. C.",
+      "Tauana W. M. S."
+    ]
+  },
+  {
+    "course_id": "ENA019",
+    "name": "GESTAO DO SISTEMA DE SAUDE",
+    "availabilityCode": "PA6",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Moema S. S.",
+      "Isabela S. C. V.",
+      "Tauana W. M. S."
+    ]
+  },
+  {
+    "course_id": "ENA019",
+    "name": "GESTAO DO SISTEMA DE SAUDE",
+    "availabilityCode": "PA7",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Moema S. S.",
+      "Bruna D. F.",
+      "Tauana W. M. S."
+    ]
+  },
+  {
+    "course_id": "ENA019",
+    "name": "GESTAO DO SISTEMA DE SAUDE",
+    "availabilityCode": "PA8",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Sumaya G. C.",
+      "Tauana W. M. S.",
+      "Moema S. S."
+    ]
+  },
+  {
+    "course_id": "ENA019",
+    "name": "GESTAO DO SISTEMA DE SAUDE",
+    "availabilityCode": "PA9",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Isabel C. A. P.",
+      "Tauana W. M. S.",
+      "Moema S. S."
+    ]
+  },
+  {
+    "course_id": "ENA019",
+    "name": "GESTAO DO SISTEMA DE SAUDE",
+    "availabilityCode": "TA",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Tauana W. M. S.",
+      "Mariana A. M.",
+      "Moema S. S."
+    ]
+  },
+  {
+    "course_id": "ENA021",
+    "name": "GERENCIA EM SAUDE E EM ENFERMAGEM",
+    "availabilityCode": "PA1",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Carolina S. C.",
+      "Lilian C. R."
+    ]
+  },
+  {
+    "course_id": "ENA021",
+    "name": "GERENCIA EM SAUDE E EM ENFERMAGEM",
+    "availabilityCode": "PA2",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Barbara S. M. F.",
+      "Carolina S. C.",
+      "Lilian C. R."
+    ]
+  },
+  {
+    "course_id": "ENA021",
+    "name": "GERENCIA EM SAUDE E EM ENFERMAGEM",
+    "availabilityCode": "PA3",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Carolina S. C.",
+      "Lilian C. R.",
+      "Moema S. S."
+    ]
+  },
+  {
+    "course_id": "ENA021",
+    "name": "GERENCIA EM SAUDE E EM ENFERMAGEM",
+    "availabilityCode": "PA4",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Carolina S. C.",
+      "Tauana W. M. S.",
+      "Lilian C. R."
+    ]
+  },
+  {
+    "course_id": "ENA021",
+    "name": "GERENCIA EM SAUDE E EM ENFERMAGEM",
+    "availabilityCode": "PA5",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Elaine M. D. F.",
+      "Carolina S. C.",
+      "Lilian C. R."
+    ]
+  },
+  {
+    "course_id": "ENA021",
+    "name": "GERENCIA EM SAUDE E EM ENFERMAGEM",
+    "availabilityCode": "PA6",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Bruna D. F.",
+      "Carolina S. C.",
+      "Lilian C. R."
+    ]
+  },
+  {
+    "course_id": "ENA021",
+    "name": "GERENCIA EM SAUDE E EM ENFERMAGEM",
+    "availabilityCode": "PA7",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Carolina S. C.",
+      "Lilian C. R.",
+      "Sumaya G. C."
+    ]
+  },
+  {
+    "course_id": "ENA021",
+    "name": "GERENCIA EM SAUDE E EM ENFERMAGEM",
+    "availabilityCode": "TA",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Carolina S. C.",
+      "Lilian C. R."
+    ]
+  },
+  {
+    "course_id": "ENA022",
+    "name": "GERENCIA DO CUIDADO EM SAUDE E EM ENFERMAGEM",
+    "availabilityCode": "PA1",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Elaine M. D. F.",
+      "Isabela S. C. V."
+    ]
+  },
+  {
+    "course_id": "ENA022",
+    "name": "GERENCIA DO CUIDADO EM SAUDE E EM ENFERMAGEM",
+    "availabilityCode": "PA2",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Elaine M. D. F.",
+      "Isabela S. C. V.",
+      "Mariana A. M."
+    ]
+  },
+  {
+    "course_id": "ENA022",
+    "name": "GERENCIA DO CUIDADO EM SAUDE E EM ENFERMAGEM",
+    "availabilityCode": "PA3",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Sumaya G. C.",
+      "Elaine M. D. F.",
+      "Isabela S. C. V."
+    ]
+  },
+  {
+    "course_id": "ENA022",
+    "name": "GERENCIA DO CUIDADO EM SAUDE E EM ENFERMAGEM",
+    "availabilityCode": "PA4",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Elaine M. D. F.",
+      "Isabela S. C. V.",
+      "Bruna D. F."
+    ]
+  },
+  {
+    "course_id": "ENA022",
+    "name": "GERENCIA DO CUIDADO EM SAUDE E EM ENFERMAGEM",
+    "availabilityCode": "PA5",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Elaine M. D. F.",
+      "Isabela S. C. V.",
+      "Moema S. S."
+    ]
+  },
+  {
+    "course_id": "ENA022",
+    "name": "GERENCIA DO CUIDADO EM SAUDE E EM ENFERMAGEM",
+    "availabilityCode": "PA6",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Elaine M. D. F.",
+      "Isabela S. C. V.",
+      "Tauana W. M. S."
+    ]
+  },
+  {
+    "course_id": "ENA022",
+    "name": "GERENCIA DO CUIDADO EM SAUDE E EM ENFERMAGEM",
+    "availabilityCode": "PA7",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Elaine M. D. F.",
+      "Isabela S. C. V.",
+      "Viviane R. J."
+    ]
+  },
+  {
+    "course_id": "ENA022",
+    "name": "GERENCIA DO CUIDADO EM SAUDE E EM ENFERMAGEM",
+    "availabilityCode": "TA",
+    "spots": 43,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Elaine M. D. F.",
+      "Isabela S. C. V.",
+      "Carolina S. C."
+    ]
+  },
+  {
+    "course_id": "ENA029",
+    "name": "LIDERANCA E TRABALHO EM EQUIPE",
+    "availabilityCode": "TFER",
+    "spots": 34,
+    "times": [],
+    "teachers": [
+      "Elaine M. D. F."
+    ]
+  },
+  {
+    "course_id": "ENA031",
+    "name": "TOPICOS EM ENFERMAGEM APLICADA II - Saúde Mental e Uso de Álcool e outras Drogas na Gravidez e Puerpério",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Amanda M. S. R."
+    ]
+  },
+  {
+    "course_id": "ENA031",
+    "name": "TOPICOS EM ENFERMAGEM APLICADA II - Encontros com Paulo Freire: práxis do enfermeiro-educador",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Mariana A. M.",
+      "Sumaya G. C."
+    ]
+  },
+  {
+    "course_id": "ENA031",
+    "name": "TOPICOS EM ENFERMAGEM APLICADA II - Boas Práticas em Dependência Química",
+    "availabilityCode": "TFER",
+    "spots": 43,
+    "times": [],
+    "teachers": [
+      "Juliana L. R."
+    ]
+  },
+  {
+    "course_id": "ENA033",
+    "name": "METODOLOGIA CIENTIFICA",
+    "availabilityCode": "TA",
+    "spots": 59,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Barbara S. M. F.",
+      "Tauana W. M. S."
+    ]
+  },
+  {
+    "course_id": "ENA035",
+    "name": "CAPACITACAO PEDAGOGICA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PA1",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Kenia L. S.",
+      "Lilian C. R."
+    ]
+  },
+  {
+    "course_id": "ENA035",
+    "name": "CAPACITACAO PEDAGOGICA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PA2",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Kenia L. S.",
+      "Lilian C. R."
+    ]
+  },
+  {
+    "course_id": "ENA035",
+    "name": "CAPACITACAO PEDAGOGICA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PA3",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Bruna D. F.",
+      "Kenia L. S.",
+      "Lilian C. R."
+    ]
+  },
+  {
+    "course_id": "ENA035",
+    "name": "CAPACITACAO PEDAGOGICA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PA4",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Kenia L. S.",
+      "Lilian C. R.",
+      "Sumaya G. C."
+    ]
+  },
+  {
+    "course_id": "ENA035",
+    "name": "CAPACITACAO PEDAGOGICA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PA5",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Kenia L. S.",
+      "Mariana A. M.",
+      "Lilian C. R."
+    ]
+  },
+  {
+    "course_id": "ENA035",
+    "name": "CAPACITACAO PEDAGOGICA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PA6",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Barbara S. M. F.",
+      "Kenia L. S.",
+      "Lilian C. R."
+    ]
+  },
+  {
+    "course_id": "ENA035",
+    "name": "CAPACITACAO PEDAGOGICA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PA7",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Tauana W. M. S.",
+      "Kenia L. S.",
+      "Lilian C. R."
+    ]
+  },
+  {
+    "course_id": "ENA035",
+    "name": "CAPACITACAO PEDAGOGICA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PA8",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Isabel C. A. P.",
+      "Kenia L. S.",
+      "Lilian C. R."
+    ]
+  },
+  {
+    "course_id": "ENA035",
+    "name": "CAPACITACAO PEDAGOGICA APLICADA A ENFERMAGEM",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Kenia L. S.",
+      "Lilian C. R."
+    ]
+  },
+  {
+    "course_id": "ENA036",
+    "name": "ENFERMAGEM PSIQUIATRICA",
+    "availabilityCode": "PA1",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Belisa V. S."
+    ]
+  },
+  {
+    "course_id": "ENA036",
+    "name": "ENFERMAGEM PSIQUIATRICA",
+    "availabilityCode": "PA2",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Belisa V. S.",
+      "Isabel C. A. P."
+    ]
+  },
+  {
+    "course_id": "ENA036",
+    "name": "ENFERMAGEM PSIQUIATRICA",
+    "availabilityCode": "PA3",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Belisa V. S.",
+      "Amanda M. S. R."
+    ]
+  },
+  {
+    "course_id": "ENA036",
+    "name": "ENFERMAGEM PSIQUIATRICA",
+    "availabilityCode": "PA4",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Belisa V. S.",
+      "Erika G. L. R."
+    ]
+  },
+  {
+    "course_id": "ENA036",
+    "name": "ENFERMAGEM PSIQUIATRICA",
+    "availabilityCode": "PA5",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Janaina S.",
+      "Belisa V. S."
+    ]
+  },
+  {
+    "course_id": "ENA036",
+    "name": "ENFERMAGEM PSIQUIATRICA",
+    "availabilityCode": "PA6",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Maria O. P.",
+      "Belisa V. S."
+    ]
+  },
+  {
+    "course_id": "ENA036",
+    "name": "ENFERMAGEM PSIQUIATRICA",
+    "availabilityCode": "PA7",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Renata M. O.",
+      "Belisa V. S."
+    ]
+  },
+  {
+    "course_id": "ENA036",
+    "name": "ENFERMAGEM PSIQUIATRICA",
+    "availabilityCode": "PA8",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Belisa V. S."
+    ]
+  },
+  {
+    "course_id": "ENA036",
+    "name": "ENFERMAGEM PSIQUIATRICA",
+    "availabilityCode": "TA",
+    "spots": 43,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Belisa V. S.",
+      "Isabel C. A. P."
+    ]
+  },
+  {
+    "course_id": "ENA077",
+    "name": "SEMINÁRIO DE INTEGRAÇÃO I",
+    "availabilityCode": "TA",
+    "spots": 59,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Belisa V. S."
+    ]
+  },
+  {
+    "course_id": "ENA157",
+    "name": "PROJETO DE PESQUISA I",
+    "availabilityCode": "TA",
+    "spots": 44,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Erika G. L. R.",
+      "Bruna D. F."
+    ]
+  },
+  {
+    "course_id": "ENA158",
+    "name": "PROJETO DE PESQUISA II",
+    "availabilityCode": "TA",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Elaine M. D. F.",
+      "Moema S. S."
+    ]
+  },
+  {
+    "course_id": "ENA161",
+    "name": "SAÚDE DO TRABALHADOR EM SERVIÇOS DE SAÚDE",
+    "availabilityCode": "TFER",
+    "spots": 20,
+    "times": [],
+    "teachers": [
+      "Tauana W. M. S.",
+      "Moema S. S."
+    ]
+  },
+  {
+    "course_id": "ENB017",
+    "name": "PRIMEIROS SOCORROS",
+    "availabilityCode": "TA",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Miguir T. V. D."
+    ]
+  },
+  {
+    "course_id": "ENB017",
+    "name": "PRIMEIROS SOCORROS",
+    "availabilityCode": "TB",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Miguir T. V. D."
+    ]
+  },
+  {
+    "course_id": "ENB038",
+    "name": "ENFERMAGEM NO CONTEXTO HISTORICO E SOCIAL",
+    "availabilityCode": "TA",
+    "spots": 59,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Gilberto L. G."
+    ]
+  },
+  {
+    "course_id": "ENB040",
+    "name": "FUNDAMENTOS DO CUIDADO DE ENFERMAGEM",
+    "availabilityCode": "PA1",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB040",
+    "name": "FUNDAMENTOS DO CUIDADO DE ENFERMAGEM",
+    "availabilityCode": "PA2",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB040",
+    "name": "FUNDAMENTOS DO CUIDADO DE ENFERMAGEM",
+    "availabilityCode": "PA3",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB040",
+    "name": "FUNDAMENTOS DO CUIDADO DE ENFERMAGEM",
+    "availabilityCode": "PA4",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB040",
+    "name": "FUNDAMENTOS DO CUIDADO DE ENFERMAGEM",
+    "availabilityCode": "PA5",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB040",
+    "name": "FUNDAMENTOS DO CUIDADO DE ENFERMAGEM",
+    "availabilityCode": "PA6",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB040",
+    "name": "FUNDAMENTOS DO CUIDADO DE ENFERMAGEM",
+    "availabilityCode": "PA7",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB040",
+    "name": "FUNDAMENTOS DO CUIDADO DE ENFERMAGEM",
+    "availabilityCode": "PA8",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB040",
+    "name": "FUNDAMENTOS DO CUIDADO DE ENFERMAGEM",
+    "availabilityCode": "PA9",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB040",
+    "name": "FUNDAMENTOS DO CUIDADO DE ENFERMAGEM",
+    "availabilityCode": "TA",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:00",
+        "end": "12:30"
+      },
+      {
+        "day": "Terca",
+        "start": "07:00",
+        "end": "12:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:00",
+        "end": "12:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB041",
+    "name": "ENFERMAGEM CLINICA E CIRURGICA",
+    "availabilityCode": "PA1",
+    "spots": 4,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB041",
+    "name": "ENFERMAGEM CLINICA E CIRURGICA",
+    "availabilityCode": "PA2",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB041",
+    "name": "ENFERMAGEM CLINICA E CIRURGICA",
+    "availabilityCode": "PA3",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB041",
+    "name": "ENFERMAGEM CLINICA E CIRURGICA",
+    "availabilityCode": "PA4",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB041",
+    "name": "ENFERMAGEM CLINICA E CIRURGICA",
+    "availabilityCode": "PA5",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB041",
+    "name": "ENFERMAGEM CLINICA E CIRURGICA",
+    "availabilityCode": "PA6",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB041",
+    "name": "ENFERMAGEM CLINICA E CIRURGICA",
+    "availabilityCode": "PA7",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB041",
+    "name": "ENFERMAGEM CLINICA E CIRURGICA",
+    "availabilityCode": "PA8",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB041",
+    "name": "ENFERMAGEM CLINICA E CIRURGICA",
+    "availabilityCode": "PA9",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB041",
+    "name": "ENFERMAGEM CLINICA E CIRURGICA",
+    "availabilityCode": "TA",
+    "spots": 44,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:50"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB055",
+    "name": "SEMINARIO DE INTEGRACAO III",
+    "availabilityCode": "TA",
+    "spots": 43,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Allana R. C."
+    ]
+  },
+  {
+    "course_id": "ENB056",
+    "name": "SISTEMATIZACAO DA ASSISTENCIA DE ENFERMAGEM",
+    "availabilityCode": "PA1",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB056",
+    "name": "SISTEMATIZACAO DA ASSISTENCIA DE ENFERMAGEM",
+    "availabilityCode": "PA2",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB056",
+    "name": "SISTEMATIZACAO DA ASSISTENCIA DE ENFERMAGEM",
+    "availabilityCode": "PA3",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB056",
+    "name": "SISTEMATIZACAO DA ASSISTENCIA DE ENFERMAGEM",
+    "availabilityCode": "PA4",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB056",
+    "name": "SISTEMATIZACAO DA ASSISTENCIA DE ENFERMAGEM",
+    "availabilityCode": "PA5",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB056",
+    "name": "SISTEMATIZACAO DA ASSISTENCIA DE ENFERMAGEM",
+    "availabilityCode": "PA6",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB056",
+    "name": "SISTEMATIZACAO DA ASSISTENCIA DE ENFERMAGEM",
+    "availabilityCode": "PA7",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB056",
+    "name": "SISTEMATIZACAO DA ASSISTENCIA DE ENFERMAGEM",
+    "availabilityCode": "PA8",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB056",
+    "name": "SISTEMATIZACAO DA ASSISTENCIA DE ENFERMAGEM",
+    "availabilityCode": "PA9",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB056",
+    "name": "SISTEMATIZACAO DA ASSISTENCIA DE ENFERMAGEM",
+    "availabilityCode": "TA",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ENB058",
+    "name": "TELESSAÚDE/TELENFER MAGEM",
+    "availabilityCode": "TA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Solange C. B. G."
+    ]
+  },
+  {
+    "course_id": "ENB059",
+    "name": "SAÚDE DO IDOSO",
+    "availabilityCode": "PA1",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Edison V. S. J."
+    ]
+  },
+  {
+    "course_id": "ENB059",
+    "name": "SAÚDE DO IDOSO",
+    "availabilityCode": "PA2",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Camila C. C.",
+      "Edison V. S. J."
+    ]
+  },
+  {
+    "course_id": "ENB059",
+    "name": "SAÚDE DO IDOSO",
+    "availabilityCode": "PA3",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Edison V. S. J."
+    ]
+  },
+  {
+    "course_id": "ENB059",
+    "name": "SAÚDE DO IDOSO",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Edison V. S. J."
+    ]
+  },
+  {
+    "course_id": "EST612",
+    "name": "ESTATISTICA",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:15",
+        "end": "11:55"
+      }
+    ],
+    "teachers": [
+      "Glaura C. F."
+    ]
+  },
+  {
+    "course_id": "FAR012",
+    "name": "FARMACOLOGIA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PE1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Thiago R. L. R.",
+      "Miriam T. P. L.",
+      "Marina G. M. C. R.",
+      "Igor D. G. D."
+    ]
+  },
+  {
+    "course_id": "FAR012",
+    "name": "FARMACOLOGIA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PE2",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Thiago R. L. R.",
+      "Miriam T. P. L.",
+      "Marina G. M. C. R.",
+      "Igor D. G. D."
+    ]
+  },
+  {
+    "course_id": "FAR012",
+    "name": "FARMACOLOGIA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PE3",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Thiago R. L. R.",
+      "Miriam T. P. L.",
+      "Marina G. M. C. R.",
+      "Igor D. G. D."
+    ]
+  },
+  {
+    "course_id": "FAR012",
+    "name": "FARMACOLOGIA APLICADA A ENFERMAGEM",
+    "availabilityCode": "TE",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Miriam T. P. L.",
+      "Thiago R. L. R.",
+      "Marina G. M. C. R.",
+      "Igor D. G. D."
+    ]
+  },
+  {
+    "course_id": "FIB027",
+    "name": "BIOFISICA",
+    "availabilityCode": "PE1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Theo R. P. M."
+    ]
+  },
+  {
+    "course_id": "FIB027",
+    "name": "BIOFISICA",
+    "availabilityCode": "PE2",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Theo R. P. M."
+    ]
+  },
+  {
+    "course_id": "FIB027",
+    "name": "BIOFISICA",
+    "availabilityCode": "PE3",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Theo R. P. M."
+    ]
+  },
+  {
+    "course_id": "FIB027",
+    "name": "BIOFISICA",
+    "availabilityCode": "TE",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Theo R. P. M."
+    ]
+  },
+  {
+    "course_id": "FIB028",
+    "name": "FISIOLIOGIA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PE1",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "11:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB028",
+    "name": "FISIOLIOGIA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PE2",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "11:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB028",
+    "name": "FISIOLIOGIA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PE3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "11:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB028",
+    "name": "FISIOLIOGIA APLICADA A ENFERMAGEM",
+    "availabilityCode": "TE",
+    "spots": 58,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Andrea S. H."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MIC011",
+    "name": "MICROBIOLOGIA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PE1",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Ary C. J.",
+      "Jordana G. A. C. R."
+    ]
+  },
+  {
+    "course_id": "MIC011",
+    "name": "MICROBIOLOGIA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PE2",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Jordana G. A. C. R.",
+      "Elisabeth N."
+    ]
+  },
+  {
+    "course_id": "MIC011",
+    "name": "MICROBIOLOGIA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PE3",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Jordana G. A. C. R.",
+      "Mila F. M. M."
+    ]
+  },
+  {
+    "course_id": "MIC011",
+    "name": "MICROBIOLOGIA APLICADA A ENFERMAGEM",
+    "availabilityCode": "PE4",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "10:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Jordana G. A. C. R.",
+      "Santiago M. L."
+    ]
+  },
+  {
+    "course_id": "MIC011",
+    "name": "MICROBIOLOGIA APLICADA A ENFERMAGEM",
+    "availabilityCode": "TE",
+    "spots": 76,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Lida J. A. F.",
+      "Jordana G. A. C. R.",
+      "Elisabeth N.",
+      "Ary C. J."
+    ]
+  },
+  {
+    "course_id": "MOF008",
+    "name": "EMBRIOLOGIA GERAL",
+    "availabilityCode": "TE1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MOF008",
+    "name": "EMBRIOLOGIA GERAL",
+    "availabilityCode": "TE2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MOF018",
+    "name": "CITOLOGIA E HISTOLOGIA APLICADAS A ENFERMAGEM",
+    "availabilityCode": "TE",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Juliana A. S. G. E."
+    ]
+  },
+  {
+    "course_id": "MOF060",
+    "name": "ANATOMIA APLICADA A ENFERMAGEM",
+    "availabilityCode": "TE",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Camila M. A. L."
+    ]
+  },
+  {
+    "course_id": "MOF061",
+    "name": "NEUROANATOMIA APLICADA A ENFERMAGEM",
+    "availabilityCode": "TE",
+    "spots": 62,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PAG019",
+    "name": "PATOLOGIA GERAL",
+    "availabilityCode": "TE1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "15:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "16:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Enio F."
+    ]
+  },
+  {
+    "course_id": "PAG019",
+    "name": "PATOLOGIA GERAL",
+    "availabilityCode": "TE2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Barbara M. R. G."
+    ]
+  },
+  {
+    "course_id": "PAR003",
+    "name": "PARASITOLOGIA HUMANA",
+    "availabilityCode": "PE1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PAR003",
+    "name": "PARASITOLOGIA HUMANA",
+    "availabilityCode": "PE2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PAR003",
+    "name": "PARASITOLOGIA HUMANA",
+    "availabilityCode": "PE3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PAR003",
+    "name": "PARASITOLOGIA HUMANA",
+    "availabilityCode": "TE",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "UNI096",
+    "name": "OFICINA DE PROJETOS, EMPREENDEDORISMO E INOVAÇÃO",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Vanessa A."
+    ]
+  },
+  {
+    "course_id": "UNI295",
+    "name": "SEMINÁRIOS EM EMPREENDEDORISMO E INOVAÇÃO B - Inovação na Prática",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Keli B. F. Z."
+    ]
+  },
+  {
+    "course_id": "UNI309",
+    "name": "EDUCAÇÃO INTERPROFISSIONAL E DIREITO A SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 160,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:50",
+        "end": "17:50"
+      }
+    ],
+    "teachers": [
+      "Fabiane R. F."
+    ]
+  }
+]

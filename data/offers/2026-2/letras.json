@@ -1,0 +1,7212 @@
+[
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Rosimar F. O."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Rosimar F. O."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Andre M. P. F."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre B. M."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TG1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Andre M. P. F."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Hormindo P. S. J."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TJ1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Hormindo P. S. J."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TK",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Juliana F. S."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TL",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marina C. A. M."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TM",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Sandro V. S. S."
+    ]
+  },
+  {
+    "course_id": "ADE066",
+    "name": "GESTÃO ESCOLAR",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Eucidio P. A."
+    ]
+  },
+  {
+    "course_id": "ADE066",
+    "name": "GESTÃO ESCOLAR",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Eucidio P. A."
+    ]
+  },
+  {
+    "course_id": "ADE066",
+    "name": "GESTÃO ESCOLAR",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Marina C. A. M."
+    ]
+  },
+  {
+    "course_id": "ADE066",
+    "name": "GESTÃO ESCOLAR",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Sandro V. S. S."
+    ]
+  },
+  {
+    "course_id": "ADE066",
+    "name": "GESTÃO ESCOLAR",
+    "availabilityCode": "TE",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Tiago A. S. J."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TA1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Tania F. R."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Maria A. A. C."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TC",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Alexandre W. B. D."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Priscila O. C."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre W. B. D."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TH",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Frederico A. C."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TK",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Brescia F. N."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TL",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TM",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre W. B. D."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TM1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TN1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TO",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre W. B. D."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Liberia R. N."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Pedro T. C."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TB1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. P."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TD",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Liberia R. N."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. P."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TE1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Raquel M. A."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Jesus A. T. M."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. P."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Maria I. A. R."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TK",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Jesus A. T. M."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TL",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Monica M. F. R."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TL1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Raquel M. A."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TL2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ivone M. M. S."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TM1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. P."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Monica Y. J."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TP",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ivone M. M. S."
+    ]
+  },
+  {
+    "course_id": "DIT121",
+    "name": "DIREITOS HUMANOS",
+    "availabilityCode": "TTOL",
+    "spots": 200,
+    "times": [],
+    "teachers": [
+      "Marcella F. M. G."
+    ]
+  },
+  {
+    "course_id": "FAE483",
+    "name": "TOPICOS DE ENSINO D - Religião, Educação e Raça",
+    "availabilityCode": "TOP1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Edgar R. B. N."
+    ]
+  },
+  {
+    "course_id": "FAE483",
+    "name": "TOPICOS DE ENSINO D - O ensinar, o aprender e suas relações",
+    "availabilityCode": "TOP2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Renata P. L. A."
+    ]
+  },
+  {
+    "course_id": "FAE483",
+    "name": "TOPICOS DE ENSINO D - História da Educação, gênero e feminismos: abordagens decoloniais e africanas",
+    "availabilityCode": "TOP3",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Renata G. C. D."
+    ]
+  },
+  {
+    "course_id": "FAE483",
+    "name": "TOPICOS DE ENSINO D - O conceito de experiência em John Dewey e uma proposta didático- metodológica com obras de arte",
+    "availabilityCode": "TOP4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "16:40"
+      }
+    ],
+    "teachers": [
+      "Debora M."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Adriana A. P. B."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Jaima P. O."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TC",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Adriana A. P. B."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Jaima P. O."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Celio S. J.",
+      "Marina A. F."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Celio S. J.",
+      "Marina A. F."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TH",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Celio S. J.",
+      "Marina A. F."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Celio S. J.",
+      "Marina A. F."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TM",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Icaro B. H."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Icaro B. H."
+    ]
+  },
+  {
+    "course_id": "ICB001",
+    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+    "availabilityCode": "TN1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB001",
+    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+    "availabilityCode": "TN2",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB001",
+    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+    "availabilityCode": "TR1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB001",
+    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+    "availabilityCode": "TR2",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "INU020",
+    "name": "TÓPICOS DE LINGUÍSTICA APLICADA - AVALIAÇÃO",
+    "availabilityCode": "TM5",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Erika A. C."
+    ]
+  },
+  {
+    "course_id": "INU020",
+    "name": "TÓPICOS DE LINGUÍSTICA APLICADA - AVALIAÇÃO DA APRENDIZAGEM (ENSINO LINGUA INGLESA)",
+    "availabilityCode": "TN5",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Valdeni S. R."
+    ]
+  },
+  {
+    "course_id": "LET021",
+    "name": "FILOLOGIA ROMÂNICA: CRÍTICA TEXTUAL",
+    "availabilityCode": "TM5",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Cesar N. C."
+    ]
+  },
+  {
+    "course_id": "LET060",
+    "name": "INGLÊS: EXPRESSÃO ORAL",
+    "availabilityCode": "TM2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leonardo A. S."
+    ]
+  },
+  {
+    "course_id": "LET060",
+    "name": "INGLÊS: EXPRESSÃO ORAL",
+    "availabilityCode": "TN3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Ricardo A. S."
+    ]
+  },
+  {
+    "course_id": "LET061",
+    "name": "INGLÊS: FONOLOGIA",
+    "availabilityCode": "TM1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Jadson L. J. S."
+    ]
+  },
+  {
+    "course_id": "LET061",
+    "name": "INGLÊS: FONOLOGIA",
+    "availabilityCode": "TN2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ricardo A. S."
+    ]
+  },
+  {
+    "course_id": "LET062",
+    "name": "INGLÊS: SINTAXE",
+    "availabilityCode": "TM3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Ricardo A. S."
+    ]
+  },
+  {
+    "course_id": "LET062",
+    "name": "INGLÊS: SINTAXE",
+    "availabilityCode": "TN3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Leonardo N. C."
+    ]
+  },
+  {
+    "course_id": "LET063",
+    "name": "INGLÊS: PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TM4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marisa M. C."
+    ]
+  },
+  {
+    "course_id": "LET063",
+    "name": "INGLÊS: PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TM41",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Jadson L. J. S."
+    ]
+  },
+  {
+    "course_id": "LET063",
+    "name": "INGLÊS: PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TN1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Vitor C. C."
+    ]
+  },
+  {
+    "course_id": "LET108",
+    "name": "FUNDAMENTOS DE LITERATURA GREGA I",
+    "availabilityCode": "TM5",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Bernardo G. S. L. B."
+    ]
+  },
+  {
+    "course_id": "LET108",
+    "name": "FUNDAMENTOS DE LITERATURA GREGA I",
+    "availabilityCode": "TN5",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Bernardo G. S. L. B."
+    ]
+  },
+  {
+    "course_id": "LET109",
+    "name": "FUNDAMENTOS DE LITERATURA GREGA II",
+    "availabilityCode": "TM2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Bernardo G. S. L. B."
+    ]
+  },
+  {
+    "course_id": "LET212",
+    "name": "INTRODUÇÃO À LITERATURA PORTUGUESA",
+    "availabilityCode": "TM1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Sabrina S. P."
+    ]
+  },
+  {
+    "course_id": "LET212",
+    "name": "INTRODUÇÃO À LITERATURA PORTUGUESA",
+    "availabilityCode": "TM2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Sabrina S. P."
+    ]
+  },
+  {
+    "course_id": "LET212",
+    "name": "INTRODUÇÃO À LITERATURA PORTUGUESA",
+    "availabilityCode": "TN1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Raquel S. M. S."
+    ]
+  },
+  {
+    "course_id": "LET212",
+    "name": "INTRODUÇÃO À LITERATURA PORTUGUESA",
+    "availabilityCode": "TN2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Raquel S. M. S."
+    ]
+  },
+  {
+    "course_id": "LET219",
+    "name": "LÍNGUA FRANCESA IV",
+    "availabilityCode": "TM3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Izabela B. L."
+    ]
+  },
+  {
+    "course_id": "LET220",
+    "name": "LÍNGUA ITALIANA IV",
+    "availabilityCode": "TM4",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ana M. C."
+    ]
+  },
+  {
+    "course_id": "LET222",
+    "name": "LÍNGUA ITALIANA V",
+    "availabilityCode": "TM3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Ana M. C."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET232",
+    "name": "ESTUDOS TEMÁTICOS DE LINGUÍSTICA TEÓRICA E DESCRITIVA - GRAMÁTICA TRADICIONAL",
+    "availabilityCode": "TM2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Lorenzo T. V."
+    ]
+  },
+  {
+    "course_id": "LET232",
+    "name": "ESTUDOS TEMÁTICOS DE LINGUÍSTICA TEÓRICA E DESCRITIVA - LINGUÍSTICA DE CORPUS",
+    "availabilityCode": "TM5",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Bruno N. R. M. R."
+    ]
+  },
+  {
+    "course_id": "LET248",
+    "name": "ESTUDOS TEMÁTICOS DE TRADUÇÃO - OFICINA DE TRADUÇÃO LITERÁRIA DO INGLÊS E/OU DO ITALIANO",
+    "availabilityCode": "TM2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Anna P."
+    ]
+  },
+  {
+    "course_id": "LET248",
+    "name": "ESTUDOS TEMÁTICOS DE TRADUÇÃO - OFICINA DE TRADUÇÃO DE GREGO",
+    "availabilityCode": "TM5",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Teodoro R. A."
+    ]
+  },
+  {
+    "course_id": "LET248",
+    "name": "ESTUDOS TEMÁTICOS DE TRADUÇÃO - OFICINA DE TRADUÇÃO DE LATIM",
+    "availabilityCode": "TM51",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Julio C. V."
+    ]
+  },
+  {
+    "course_id": "LET248",
+    "name": "ESTUDOS TEMÁTICOS DE TRADUÇÃO - OFICINA DE TRADUÇÃO DE ALEMÃO",
+    "availabilityCode": "TN1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marcelo R."
+    ]
+  },
+  {
+    "course_id": "LET248",
+    "name": "ESTUDOS TEMÁTICOS DE TRADUÇÃO - OFICINA DE TRADUÇÃO DE ESPANHOL",
+    "availabilityCode": "TN4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Romulo M. A."
+    ]
+  },
+  {
+    "course_id": "LET250",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA ITALIANA - FAZER LITERATURA E LIVROS NA ITÁLIA DO SÉCULO XX",
+    "availabilityCode": "TM1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Ana M. C."
+    ]
+  },
+  {
+    "course_id": "LET262",
+    "name": "INTRODUÇÃO À CULTURA ALEMÃ",
+    "availabilityCode": "TN2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Volker K. L. J."
+    ]
+  },
+  {
+    "course_id": "LET263",
+    "name": "PANORAMA DA LITERATURA ESPANHOLA",
+    "availabilityCode": "TN1",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Laureny A. L. S."
+    ]
+  },
+  {
+    "course_id": "LET264",
+    "name": "LÍNGUA ALEMÃ IV",
+    "availabilityCode": "TN4",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Elcio L. C."
+    ]
+  },
+  {
+    "course_id": "LET265",
+    "name": "INTRODUCAO A LINGUISTICA DO ALEMAO",
+    "availabilityCode": "TN3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Luciane C. F."
+    ]
+  },
+  {
+    "course_id": "LET267",
+    "name": "LÍNGUA ALEMÃ V",
+    "availabilityCode": "TN2",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcelo R."
+    ]
+  },
+  {
+    "course_id": "LET268",
+    "name": "LÍNGUA ALEMÃ VI",
+    "availabilityCode": "TN4",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Luciane C. F."
+    ]
+  },
+  {
+    "course_id": "LET273",
+    "name": "ESTUDOS TEMÁTICOS DE LÍNGUA E LINGUÍSTICA ESPANHOLA - ESPANHOL PARA FINS ACADÊMICOS",
+    "availabilityCode": "TN3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Eduardo T. R. A."
+    ]
+  },
+  {
+    "course_id": "LET273",
+    "name": "ESTUDOS TEMÁTICOS DE LÍNGUA E LINGUÍSTICA ESPANHOLA - VARIAÇÃO LINGUÍSTICA NA LITERATURA DE MIGRAÇÃO",
+    "availabilityCode": "TN4",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Daniela R. C. A."
+    ]
+  },
+  {
+    "course_id": "LET278",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA ALEMÃ - DEUTSCHE EXILLITERATUR IN LATEINAMERIKA",
+    "availabilityCode": "TN3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Volker K. L. J."
+    ]
+  },
+  {
+    "course_id": "LET285",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA BRASILEIRA - NA OUTRA MARGEM DO MAR: DIÁLOGOS DA POESIA BRASILEIRA E PORTUGUESA (SÉCULOS XX E XXI)",
+    "availabilityCode": "TM1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Gustavo S. R."
+    ]
+  },
+  {
+    "course_id": "LET285",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA BRASILEIRA - O CONTO NA LITERATURA BRASILEIRA",
+    "availabilityCode": "TM5",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Carolina S. A. G."
+    ]
+  },
+  {
+    "course_id": "LET285",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA BRASILEIRA - ALGUNS NARRADORES DO ROMANCE MODERNO BRASILEIRO",
+    "availabilityCode": "TN1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Claudia C. S."
+    ]
+  },
+  {
+    "course_id": "LET285",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA BRASILEIRA - INTRODUÇÃO À OBRA DE JOÃO GUIMARÃES ROSA: O(S) DILEMA(S) DO DESTINO",
+    "availabilityCode": "TN2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Daniel R. B."
+    ]
+  },
+  {
+    "course_id": "LET285",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA BRASILEIRA - PROSA DE FICÇÃO - DE 1870 A 1920",
+    "availabilityCode": "TN5",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Daniel R. B."
+    ]
+  },
+  {
+    "course_id": "LET289",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURAS E OUTRAS ARTES - DRAMATURGIAS DE RESISTÊNCIA NA AMÉRICA LATINA - 1950- 2020. (ARGENTINA E CHILE).",
+    "availabilityCode": "TM1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Geison A. B. S."
+    ]
+  },
+  {
+    "course_id": "LET289",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURAS E OUTRAS ARTES - TEATRO BRASILEIRO",
+    "availabilityCode": "TM3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Elen M."
+    ]
+  },
+  {
+    "course_id": "LET289",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURAS E OUTRAS ARTES - ENTRE TRAGÉDIAS E DRAMAS",
+    "availabilityCode": "TM4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Geison A. B. S."
+    ]
+  },
+  {
+    "course_id": "LET289",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURAS E OUTRAS ARTES - A COMÉDIA E O CÔMICO NO TEATRO OCIDENTAL",
+    "availabilityCode": "TM41",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Elen M."
+    ]
+  },
+  {
+    "course_id": "LET289",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURAS E OUTRAS ARTES - TEORIAS DO TEXTO DRAMATÚRGICO E DO TEXTO ESPETACULAR",
+    "availabilityCode": "TV1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:40",
+        "end": "11:20"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:40",
+        "end": "11:20"
+      }
+    ],
+    "teachers": [
+      "Geison A. B. S."
+    ]
+  },
+  {
+    "course_id": "LET289",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURAS E OUTRAS ARTES - TEATROS NEGROS",
+    "availabilityCode": "TV2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "15:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Marcos A. A."
+    ]
+  },
+  {
+    "course_id": "LET314",
+    "name": "FONÉTICA E FONOLOGIA",
+    "availabilityCode": "TM2",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Luciana L."
+    ]
+  },
+  {
+    "course_id": "LET315",
+    "name": "MORFOLOGIA",
+    "availabilityCode": "TM3",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Marcia C. B. R."
+    ]
+  },
+  {
+    "course_id": "LET315",
+    "name": "MORFOLOGIA",
+    "availabilityCode": "TM4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcia C. B. R."
+    ]
+  },
+  {
+    "course_id": "LET315",
+    "name": "MORFOLOGIA",
+    "availabilityCode": "TN3",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marcia C. B. R."
+    ]
+  },
+  {
+    "course_id": "LET315",
+    "name": "MORFOLOGIA",
+    "availabilityCode": "TN4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Fabio B. D."
+    ]
+  },
+  {
+    "course_id": "LET316",
+    "name": "SEMÂNTICA",
+    "availabilityCode": "TM1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Luiz F. D."
+    ]
+  },
+  {
+    "course_id": "LET316",
+    "name": "SEMÂNTICA",
+    "availabilityCode": "TM2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Luiz F. D."
+    ]
+  },
+  {
+    "course_id": "LET316",
+    "name": "SEMÂNTICA",
+    "availabilityCode": "TN1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Larissa S. C."
+    ]
+  },
+  {
+    "course_id": "LET316",
+    "name": "SEMÂNTICA",
+    "availabilityCode": "TN3",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Magnun R. M."
+    ]
+  },
+  {
+    "course_id": "LET317",
+    "name": "SINTAXE",
+    "availabilityCode": "TM3",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Janayna M. R. C."
+    ]
+  },
+  {
+    "course_id": "LET317",
+    "name": "SINTAXE",
+    "availabilityCode": "TM4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Fabio B. D."
+    ]
+  },
+  {
+    "course_id": "LET317",
+    "name": "SINTAXE",
+    "availabilityCode": "TN2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Larissa S. C."
+    ]
+  },
+  {
+    "course_id": "LET317",
+    "name": "SINTAXE",
+    "availabilityCode": "TN3",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Fabio B. D."
+    ]
+  },
+  {
+    "course_id": "LET318",
+    "name": "ANÁLISE DO DISCURSO",
+    "availabilityCode": "TM1",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Renan B. M."
+    ]
+  },
+  {
+    "course_id": "LET318",
+    "name": "ANÁLISE DO DISCURSO",
+    "availabilityCode": "TM4",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Luciano M. T."
+    ]
+  },
+  {
+    "course_id": "LET318",
+    "name": "ANÁLISE DO DISCURSO",
+    "availabilityCode": "TN1",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Glaucia M. P. L."
+    ]
+  },
+  {
+    "course_id": "LET318",
+    "name": "ANÁLISE DO DISCURSO",
+    "availabilityCode": "TN3",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Barbara A. S."
+    ]
+  },
+  {
+    "course_id": "LET319",
+    "name": "GÊNEROS TEXTUAIS E DISCURSIVOS",
+    "availabilityCode": "TN1",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Gustavo X. C."
+    ]
+  },
+  {
+    "course_id": "LET320",
+    "name": "PRAGMÁTICA",
+    "availabilityCode": "TM4",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Fernanda R. S."
+    ]
+  },
+  {
+    "course_id": "LET320",
+    "name": "PRAGMÁTICA",
+    "availabilityCode": "TN2",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Magnun R. M."
+    ]
+  },
+  {
+    "course_id": "LET321",
+    "name": "VARIAÇÃO E MUDANÇA LINGUÍSTICA",
+    "availabilityCode": "TM5",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Aroldo L. A."
+    ]
+  },
+  {
+    "course_id": "LET321",
+    "name": "VARIAÇÃO E MUDANÇA LINGUÍSTICA",
+    "availabilityCode": "TN1",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Magnun R. M."
+    ]
+  },
+  {
+    "course_id": "LET321",
+    "name": "VARIAÇÃO E MUDANÇA LINGUÍSTICA",
+    "availabilityCode": "TN5",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Thiago C. V. L. S."
+    ]
+  },
+  {
+    "course_id": "LET322",
+    "name": "LINGUÍSTICA HISTÓRICA",
+    "availabilityCode": "TN1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Alexia T. G."
+    ]
+  },
+  {
+    "course_id": "LET323",
+    "name": "LINGUÍSTICA TEXTUAL",
+    "availabilityCode": "TM4",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Wander E. S."
+    ]
+  },
+  {
+    "course_id": "LET325",
+    "name": "RETÓRICA E ARGUMENTAÇÃO",
+    "availabilityCode": "TM1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Helcira M. R. L."
+    ]
+  },
+  {
+    "course_id": "LET334",
+    "name": "ESTUDOS TEMÁTICOS DO TEXTO E DO DISCURSO - ENSINO DE ARGUMENTAÇÃO: TEORIAS E PRÁTICAS NA ESCOLA",
+    "availabilityCode": "TM2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Helcira M. R. L."
+    ]
+  },
+  {
+    "course_id": "LET334",
+    "name": "ESTUDOS TEMÁTICOS DO TEXTO E DO DISCURSO - ANÁLISE DO DISCURSO NUMA PERSPECTIVA ENUNCIATIVA E PRAGMÁTICA",
+    "availabilityCode": "TM3",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Wander E. S."
+    ]
+  },
+  {
+    "course_id": "LET334",
+    "name": "ESTUDOS TEMÁTICOS DO TEXTO E DO DISCURSO - INTRODUÇÃO ÀS TEORIAS DE RUTH AMOSSY: ARGUMENTAÇÃO, POLÊMICA E OUTROS CONCEITOS",
+    "availabilityCode": "TN2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Barbara A. S."
+    ]
+  },
+  {
+    "course_id": "LET334",
+    "name": "ESTUDOS TEMÁTICOS DO TEXTO E DO DISCURSO - LINGUAGEM, CONFLITO E INTERAÇÕES DIGITAIS",
+    "availabilityCode": "TN3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Ana L. A. M. O."
+    ]
+  },
+  {
+    "course_id": "LET336",
+    "name": "FILOLOGIA ROMÂNICA: HISTÓRIA DAS LÍNGUAS ROMÂNICAS",
+    "availabilityCode": "TM4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Giulia B."
+    ]
+  },
+  {
+    "course_id": "LET347",
+    "name": "COMPREENSÃO E PRODUÇÃO ORAL EM ESPANHOL",
+    "availabilityCode": "TN3",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Laureny A. L. S."
+    ]
+  },
+  {
+    "course_id": "LET350",
+    "name": "ESTUDOS TEMÁTICOS DE LÍNGUA E LINGUÍSTICA DA LÍNGUA INGLESA - PSICOLINGUÍSTICA",
+    "availabilityCode": "TM5",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ricardo A. S."
+    ]
+  },
+  {
+    "course_id": "LET350",
+    "name": "ESTUDOS TEMÁTICOS DE LÍNGUA E LINGUÍSTICA DA LÍNGUA INGLESA - INTRODUCTION TO CONVERSATION ANALYSIS - THEORY, METHODS AND PRACTICE",
+    "availabilityCode": "TN2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Deise P. D."
+    ]
+  },
+  {
+    "course_id": "LET350",
+    "name": "ESTUDOS TEMÁTICOS DE LÍNGUA E LINGUÍSTICA DA LÍNGUA INGLESA - LINGUÍSTICA COGNITIVA",
+    "availabilityCode": "TN5",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Vitor C. C."
+    ]
+  },
+  {
+    "course_id": "LET351",
+    "name": "ESTUDOS TEMÁTICOS DE LÍNGUA E LINGUÍSTICA DO ALEMÃO - TEXTPRODUKTION (PRODUÇÃO DE TEXTOS)",
+    "availabilityCode": "TN1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Elcio L. C."
+    ]
+  },
+  {
+    "course_id": "LET352",
+    "name": "ESTUDOS TEMÁTICOS DE LÍNGUA E LINGUÍSTICA DO FRANCÊS - FONÉTICA E FONOLOGIA DO FRANCÊS",
+    "availabilityCode": "TM4",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Daniela A. H."
+    ]
+  },
+  {
+    "course_id": "LET352",
+    "name": "ESTUDOS TEMÁTICOS DE LÍNGUA E LINGUÍSTICA DO FRANCÊS - LÍNGUA FRANCESA V",
+    "availabilityCode": "TM5",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Larissa S. A."
+    ]
+  },
+  {
+    "course_id": "LET353",
+    "name": "ESTUDOS TEMÁTICOS DE LÍNGUA E LINGUÍSTICA DO ITALIANO - ITALIANO COM MÚSICA",
+    "availabilityCode": "TM4",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ana M. C."
+    ]
+  },
+  {
+    "course_id": "LET355",
+    "name": "ESTUDOS TEMÁTICOS DE LÍNGUA E LITERATURA GREGA B - INICIAÇÃO À LITERATURA BABILÔNICA",
+    "availabilityCode": "TV1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Jacyntho J. L. B."
+    ]
+  },
+  {
+    "course_id": "LET355",
+    "name": "ESTUDOS TEMÁTICOS DE LÍNGUA E LITERATURA GREGA B - SEMINÁRIOS DO NEAM",
+    "availabilityCode": "TV2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Bernardo G. S. L. B."
+    ]
+  },
+  {
+    "course_id": "LET357",
+    "name": "ESTUDOS TEMÁTICOS DE LÍNGUA E LITERATURA GREGA D - ODISSEU E OS FEÁCIOS NOS CANTOS VII E VIII (1- 399) DA \"ODISSEIA\": COMPREENSÃO GRAMATICAL, TRADUÇÃO E COMENTÁRIO",
+    "availabilityCode": "TM5",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Teodoro R. A."
+    ]
+  },
+  {
+    "course_id": "LET361",
+    "name": "ESTUDOS TEMÁTICOS DE LÍNGUA E LITERATURA LATINA D - VITA NERONIS (SUETÔNIO)",
+    "availabilityCode": "TM4",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Julio C. V."
+    ]
+  },
+  {
+    "course_id": "LET362",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA DE LÍNGUA FRANCESA - O SÉCULO XIX",
+    "availabilityCode": "TM2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Maria J. G. T."
+    ]
+  },
+  {
+    "course_id": "LET362",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA DE LÍNGUA FRANCESA - CONTEMPORÂNEOS",
+    "availabilityCode": "TM4",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcio V. B."
+    ]
+  },
+  {
+    "course_id": "LET363",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA ESPANHOLA - CORPO, NATUREZA E ESCRITA FEMININA CONTEMPORÂNEA",
+    "availabilityCode": "TN2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Alexia O. P."
+    ]
+  },
+  {
+    "course_id": "LET364",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA HISPANO-AMERICANA - ANTOLOGIAS AMEFRICANAS",
+    "availabilityCode": "TN3",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Daniela R. C. A."
+    ]
+  },
+  {
+    "course_id": "LET364",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA HISPANO-AMERICANA - LO MACABRO Y LO POLÍTICO EN LA OBRA DE MARIANA ENRIQUEZ",
+    "availabilityCode": "TN5",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Laureny A. L. S."
+    ]
+  },
+  {
+    "course_id": "LET365",
+    "name": "ESTUDOS TEMÁTICOS DE OUTRAS LITERATURAS DE LÍNGUA PORTUGUESA - POESIA PORTUGUESA DE AGORA: 03 CONCEITOS FUNDAMENTAIS",
+    "availabilityCode": "TM5",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Silvana M. P. O."
+    ]
+  },
+  {
+    "course_id": "LET366",
+    "name": "ESTUDOS TEMÁTICOS DE TEORIA DA LITERATURA E LITERATURA COMPARADA - CINISMO E FICÇÃO (SÉCULOS XX E XXI)",
+    "availabilityCode": "TM1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Ligia G. D."
+    ]
+  },
+  {
+    "course_id": "LET366",
+    "name": "ESTUDOS TEMÁTICOS DE TEORIA DA LITERATURA E LITERATURA COMPARADA - ARQUIVO, FICÇÃO, TEORIA DE ESCRITORES-CRÍTICOS",
+    "availabilityCode": "TM5",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Reinaldo M. M."
+    ]
+  },
+  {
+    "course_id": "LET366",
+    "name": "ESTUDOS TEMÁTICOS DE TEORIA DA LITERATURA E LITERATURA COMPARADA - CINISMO E FICÇÃO (SÉCULOS XX E XXI)",
+    "availabilityCode": "TN1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Ligia G. D."
+    ]
+  },
+  {
+    "course_id": "LET366",
+    "name": "ESTUDOS TEMÁTICOS DE TEORIA DA LITERATURA E LITERATURA COMPARADA - : LITERATURA E CULTURA POPULAR; O CASO MÁRIO DE ANDRADE",
+    "availabilityCode": "TN2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcelino R. S."
+    ]
+  },
+  {
+    "course_id": "LET366",
+    "name": "ESTUDOS TEMÁTICOS DE TEORIA DA LITERATURA E LITERATURA COMPARADA - A NARRATIVA POLICIAL E CRIMINAL DE JORGE LUIS BORGES",
+    "availabilityCode": "TN5",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Lyslei S. N."
+    ]
+  },
+  {
+    "course_id": "LET369",
+    "name": "FUNDAMENTOS DE LITERATURA FRANCESA II",
+    "availabilityCode": "TM3",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Marcio V. B."
+    ]
+  },
+  {
+    "course_id": "LET371",
+    "name": "FUNDAMENTOS DE LITERATURA LATINA II",
+    "availabilityCode": "TM2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Maira B. L."
+    ]
+  },
+  {
+    "course_id": "LET373",
+    "name": "HISTÓRIA DA LÍNGUA PORTUGUESA",
+    "availabilityCode": "TM3",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Aroldo L. A."
+    ]
+  },
+  {
+    "course_id": "LET373",
+    "name": "HISTÓRIA DA LÍNGUA PORTUGUESA",
+    "availabilityCode": "TN2",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Alexia T. G."
+    ]
+  },
+  {
+    "course_id": "LET374",
+    "name": "INGLÊS: MORFOLOGIA",
+    "availabilityCode": "TN1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Leonardo N. C."
+    ]
+  },
+  {
+    "course_id": "LET375",
+    "name": "INGLÊS: PRAGMÁTICA",
+    "availabilityCode": "TM1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Leonardo A. S."
+    ]
+  },
+  {
+    "course_id": "LET376",
+    "name": "INGLÊS: SEMÂNTICA",
+    "availabilityCode": "TM3",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Jadson L. J. S."
+    ]
+  },
+  {
+    "course_id": "LET377",
+    "name": "PROJETO DE EDIÇÃO",
+    "availabilityCode": "PN3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Emilia M. L."
+    ]
+  },
+  {
+    "course_id": "LET378",
+    "name": "INTRODUÇÃO À LINGUÍSTICA DO ITALIANO: FONOLOGIA E MORFOSSINTAXE",
+    "availabilityCode": "TM5",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Evandro L. T. P. C."
+    ]
+  },
+  {
+    "course_id": "LET380",
+    "name": "INTRODUÇÃO ÀS LITERATURAS DE EXPRESSÃO EM INGLÊS",
+    "availabilityCode": "TM1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Marcel L. S."
+    ]
+  },
+  {
+    "course_id": "LET380",
+    "name": "INTRODUÇÃO ÀS LITERATURAS DE EXPRESSÃO EM INGLÊS",
+    "availabilityCode": "TM3",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Jose P. S."
+    ]
+  },
+  {
+    "course_id": "LET380",
+    "name": "INTRODUÇÃO ÀS LITERATURAS DE EXPRESSÃO EM INGLÊS",
+    "availabilityCode": "TN2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Glaucia R. G."
+    ]
+  },
+  {
+    "course_id": "LET381",
+    "name": "LÍNGUA ESPANHOLA IV",
+    "availabilityCode": "TN4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Eduardo T. R. A."
+    ]
+  },
+  {
+    "course_id": "LET382",
+    "name": "LÍNGUA GREGA IV",
+    "availabilityCode": "TM4",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Teodoro R. A."
+    ]
+  },
+  {
+    "course_id": "LET383",
+    "name": "LÍNGUA LATINA IV",
+    "availabilityCode": "TM1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Matheus T."
+    ]
+  },
+  {
+    "course_id": "LET384",
+    "name": "LINGUÍSTICA DE CORPUS",
+    "availabilityCode": "TM3",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Adriana S. P."
+    ]
+  },
+  {
+    "course_id": "LET385",
+    "name": "LITERATURA BRASILEIRA I",
+    "availabilityCode": "TM1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Marcia R. J. M."
+    ]
+  },
+  {
+    "course_id": "LET385",
+    "name": "LITERATURA BRASILEIRA I",
+    "availabilityCode": "TM2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcos R. C. F."
+    ]
+  },
+  {
+    "course_id": "LET385",
+    "name": "LITERATURA BRASILEIRA I",
+    "availabilityCode": "TN3",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marcia R. J. M."
+    ]
+  },
+  {
+    "course_id": "LET385",
+    "name": "LITERATURA BRASILEIRA I",
+    "availabilityCode": "TN4",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcia R. J. M."
+    ]
+  },
+  {
+    "course_id": "LET386",
+    "name": "LITERATURA BRASILEIRA II",
+    "availabilityCode": "TM1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Marcos R. C. F."
+    ]
+  },
+  {
+    "course_id": "LET386",
+    "name": "LITERATURA BRASILEIRA II",
+    "availabilityCode": "TM2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Gustavo S. R."
+    ]
+  },
+  {
+    "course_id": "LET386",
+    "name": "LITERATURA BRASILEIRA II",
+    "availabilityCode": "TN3",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Daniel R. B."
+    ]
+  },
+  {
+    "course_id": "LET386",
+    "name": "LITERATURA BRASILEIRA II",
+    "availabilityCode": "TN4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Gustavo S. R."
+    ]
+  },
+  {
+    "course_id": "LET388",
+    "name": "OFICINA DE EDIÇÃO - A EDIÇÃO DE LIVROS INFANTIL-JUVENIL E DE HISTÓRIAS EM QUADRINHOS",
+    "availabilityCode": "TN1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Emilia M. L."
+    ]
+  },
+  {
+    "course_id": "LET388",
+    "name": "OFICINA DE EDIÇÃO - SOBRE OS CADERNOS: PRÁTICAS DE ESCRITA, POLÍTICAS DE EDIÇÃO",
+    "availabilityCode": "TN2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Maria C. J. F."
+    ]
+  },
+  {
+    "course_id": "LET388",
+    "name": "OFICINA DE EDIÇÃO - PENSAR O LIVRO DIDÁTICO",
+    "availabilityCode": "TN21",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Emilia M. L."
+    ]
+  },
+  {
+    "course_id": "LET388",
+    "name": "OFICINA DE EDIÇÃO - TRADUÇÕES, TRANSCRIAÇÕES E ADAPTAÇÕES",
+    "availabilityCode": "TN3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Emilia M. L."
+    ]
+  },
+  {
+    "course_id": "LET388",
+    "name": "OFICINA DE EDIÇÃO - OFICINA DE EDIÇÃO E ESCRITA DE GÊNEROS POÉTICOS",
+    "availabilityCode": "TN4",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Emilia M. L."
+    ]
+  },
+  {
+    "course_id": "LET388",
+    "name": "OFICINA DE EDIÇÃO - REVISÃO DE TEXTOS EM PERSPECTIVA",
+    "availabilityCode": "TN41",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Emilia M. L."
+    ]
+  },
+  {
+    "course_id": "LET388",
+    "name": "OFICINA DE EDIÇÃO - ENCADERNAÇÕES, COSTURAS & AFINS",
+    "availabilityCode": "TV1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Emilia M. L."
+    ]
+  },
+  {
+    "course_id": "LET391",
+    "name": "OFICINA DE TRADUÇÃO DE ALEMÃO",
+    "availabilityCode": "TN1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marcelo R."
+    ]
+  },
+  {
+    "course_id": "LET392",
+    "name": "OFICINA DE TRADUÇÃO DE ESPANHOL",
+    "availabilityCode": "TN4",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Romulo M. A."
+    ]
+  },
+  {
+    "course_id": "LET401",
+    "name": "SEMINÁRIO DE HISTÓRIA DA EDIÇÃO",
+    "availabilityCode": "TN1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Maria C. J. F."
+    ]
+  },
+  {
+    "course_id": "LET402",
+    "name": "TENDÊNCIAS CRÍTICAS DA TEORIA DA LITERATURA",
+    "availabilityCode": "TM4",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Roberto A. C. S."
+    ]
+  },
+  {
+    "course_id": "LET402",
+    "name": "TENDÊNCIAS CRÍTICAS DA TEORIA DA LITERATURA",
+    "availabilityCode": "TN3",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Leandro G. R."
+    ]
+  },
+  {
+    "course_id": "LET404",
+    "name": "TÓPICOS EM LETRAS B - SEMIÓTICA DISCURSIVA II",
+    "availabilityCode": "TOL1",
+    "spots": 15,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "LET404",
+    "name": "TÓPICOS EM LETRAS B - CRÍTICA TEXTUAL",
+    "availabilityCode": "TV1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Julio C. V."
+    ]
+  },
+  {
+    "course_id": "LET404",
+    "name": "TÓPICOS EM LETRAS B - (RE)DESIGN DE PRÁTICAS PEDAGÓGICAS COM INTELIGÊNCIA ARTIFICIAL GENERATIVA NO ENSINO DE LÍNGUAS",
+    "availabilityCode": "TV2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "LET405",
+    "name": "TÓPICOS EM LETRAS C - COREANO PARA ESTRANGEIROS I",
+    "availabilityCode": "TV1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:20",
+        "end": "13:50"
+      }
+    ],
+    "teachers": [
+      "Seung H. L."
+    ]
+  },
+  {
+    "course_id": "LET405",
+    "name": "TÓPICOS EM LETRAS C - COREANO PARA ESTRANGEIROS IV",
+    "availabilityCode": "TV2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:20",
+        "end": "13:50"
+      }
+    ],
+    "teachers": [
+      "Seung H. L."
+    ]
+  },
+  {
+    "course_id": "LET406",
+    "name": "TÓPICOS EM LETRAS D - CHINÊS 1",
+    "availabilityCode": "TM21",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Miriam P. M. A."
+    ]
+  },
+  {
+    "course_id": "LET406",
+    "name": "TÓPICOS EM LETRAS D - CHINÊS 2",
+    "availabilityCode": "TM22",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Miriam P. M. A."
+    ]
+  },
+  {
+    "course_id": "LET406",
+    "name": "TÓPICOS EM LETRAS D - LÍNGUA E CULTURA RUSSA I",
+    "availabilityCode": "TM3",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Ana L. A. M. O."
+    ]
+  },
+  {
+    "course_id": "LET406",
+    "name": "TÓPICOS EM LETRAS D - CHINÊS 3",
+    "availabilityCode": "TM43",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Miriam P. M. A."
+    ]
+  },
+  {
+    "course_id": "LET406",
+    "name": "TÓPICOS EM LETRAS D - CHINÊS 1",
+    "availabilityCode": "TN11",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Miriam P. M. A."
+    ]
+  },
+  {
+    "course_id": "LET406",
+    "name": "TÓPICOS EM LETRAS D - CHINÊS 2",
+    "availabilityCode": "TN12",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Miriam P. M. A."
+    ]
+  },
+  {
+    "course_id": "LET406",
+    "name": "TÓPICOS EM LETRAS D - CHINÊS 4",
+    "availabilityCode": "TN14",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Miriam P. M. A."
+    ]
+  },
+  {
+    "course_id": "LET406",
+    "name": "TÓPICOS EM LETRAS D - CHINÊS 3",
+    "availabilityCode": "TN33",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Miriam P. M. A."
+    ]
+  },
+  {
+    "course_id": "LET406",
+    "name": "TÓPICOS EM LETRAS D - LINGUÍSTICA COMPUTACIONAL",
+    "availabilityCode": "TV1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Adriana S. P."
+    ]
+  },
+  {
+    "course_id": "LET407",
+    "name": "HABILIDADES INTEGRADAS I",
+    "availabilityCode": "TM1",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Deise P. D."
+    ]
+  },
+  {
+    "course_id": "LET407",
+    "name": "HABILIDADES INTEGRADAS I",
+    "availabilityCode": "TM11",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "LET407",
+    "name": "HABILIDADES INTEGRADAS I",
+    "availabilityCode": "TN2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Vitor C. C."
+    ]
+  },
+  {
+    "course_id": "LET407",
+    "name": "HABILIDADES INTEGRADAS I",
+    "availabilityCode": "TN21",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "LET408",
+    "name": "HABILIDADES INTEGRADAS II",
+    "availabilityCode": "TM2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marisa M. C."
+    ]
+  },
+  {
+    "course_id": "LET408",
+    "name": "HABILIDADES INTEGRADAS II",
+    "availabilityCode": "TM21",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "LET408",
+    "name": "HABILIDADES INTEGRADAS II",
+    "availabilityCode": "TN4",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Leonardo N. C."
+    ]
+  },
+  {
+    "course_id": "LET408",
+    "name": "HABILIDADES INTEGRADAS II",
+    "availabilityCode": "TN41",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "LET409",
+    "name": "HABILIDADES INTEGRADAS III",
+    "availabilityCode": "TM3",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Marisa M. C."
+    ]
+  },
+  {
+    "course_id": "LET409",
+    "name": "HABILIDADES INTEGRADAS III",
+    "availabilityCode": "TN4",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marisa M. C."
+    ]
+  },
+  {
+    "course_id": "LET412",
+    "name": "LÍNGUA ALEMÃ III",
+    "availabilityCode": "TN4",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Volker K. L. J."
+    ]
+  },
+  {
+    "course_id": "LET413",
+    "name": "LÍNGUA ESPANHOLA I",
+    "availabilityCode": "TN2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Daniela R. C. A."
+    ]
+  },
+  {
+    "course_id": "LET413",
+    "name": "LÍNGUA ESPANHOLA I",
+    "availabilityCode": "TN21",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "LET414",
+    "name": "LÍNGUA ESPANHOLA II",
+    "availabilityCode": "TN1",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Daniela R. C. A."
+    ]
+  },
+  {
+    "course_id": "LET414",
+    "name": "LÍNGUA ESPANHOLA II",
+    "availabilityCode": "TN11",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "LET415",
+    "name": "LÍNGUA ESPANHOLA III",
+    "availabilityCode": "TN4",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Alexia O. P."
+    ]
+  },
+  {
+    "course_id": "LET416",
+    "name": "LÍNGUA FRANCESA I",
+    "availabilityCode": "TM2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Izabela B. L."
+    ]
+  },
+  {
+    "course_id": "LET416",
+    "name": "LÍNGUA FRANCESA I",
+    "availabilityCode": "TM21",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "LET417",
+    "name": "LÍNGUA FRANCESA II",
+    "availabilityCode": "TM1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Izabela B. L."
+    ]
+  },
+  {
+    "course_id": "LET418",
+    "name": "LÍNGUA FRANCESA III",
+    "availabilityCode": "TM4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Izabela B. L."
+    ]
+  },
+  {
+    "course_id": "LET419",
+    "name": "LÍNGUA GREGA I",
+    "availabilityCode": "TM1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Antonio O. O. D. L."
+    ]
+  },
+  {
+    "course_id": "LET420",
+    "name": "LÍNGUA GREGA II",
+    "availabilityCode": "TM2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Antonio O. O. D. L."
+    ]
+  },
+  {
+    "course_id": "LET421",
+    "name": "LÍNGUA GREGA III",
+    "availabilityCode": "TM3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Olimar F. J."
+    ]
+  },
+  {
+    "course_id": "LET422",
+    "name": "LÍNGUA ITALIANA I",
+    "availabilityCode": "TM1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Ana M. C."
+    ]
+  },
+  {
+    "course_id": "LET422",
+    "name": "LÍNGUA ITALIANA I",
+    "availabilityCode": "TM2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ana M. C."
+    ]
+  },
+  {
+    "course_id": "LET423",
+    "name": "LÍNGUA ITALIANA II",
+    "availabilityCode": "TM1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Lucia A. F."
+    ]
+  },
+  {
+    "course_id": "LET424",
+    "name": "LÍNGUA ITALIANA III",
+    "availabilityCode": "TM2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Lucia A. F."
+    ]
+  },
+  {
+    "course_id": "LET425",
+    "name": "LÍNGUA LATINA I",
+    "availabilityCode": "TM1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Maira B. L."
+    ]
+  },
+  {
+    "course_id": "LET425",
+    "name": "LÍNGUA LATINA I",
+    "availabilityCode": "TN3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Maira B. L."
+    ]
+  },
+  {
+    "course_id": "LET426",
+    "name": "LÍNGUA LATINA II",
+    "availabilityCode": "TM4",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Matheus T."
+    ]
+  },
+  {
+    "course_id": "LET426",
+    "name": "LÍNGUA LATINA II",
+    "availabilityCode": "TN4",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Maira B. L."
+    ]
+  },
+  {
+    "course_id": "LET427",
+    "name": "LÍNGUA LATINA III",
+    "availabilityCode": "TM3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Julio C. V."
+    ]
+  },
+  {
+    "course_id": "LET430",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA DE LÍNGUA INGLESA - POETRY IN ENGLISH",
+    "availabilityCode": "TM2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcel L. S."
+    ]
+  },
+  {
+    "course_id": "LET430",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA DE LÍNGUA INGLESA - AFRICAN AND AFRO- DIASPORIC LITERATURE IN ENGLISH",
+    "availabilityCode": "TM4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Jose P. S."
+    ]
+  },
+  {
+    "course_id": "LET430",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA DE LÍNGUA INGLESA - 20TH CENTURY AMERICAN LITERATURE",
+    "availabilityCode": "TM5",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Glaucia R. G."
+    ]
+  },
+  {
+    "course_id": "LET430",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA DE LÍNGUA INGLESA - NORTH AMERICAN IMMIGRANT WRITING",
+    "availabilityCode": "TN1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Glaucia R. G."
+    ]
+  },
+  {
+    "course_id": "LET430",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA DE LÍNGUA INGLESA - DRAMA IN LITERATURES IN ENGLISH",
+    "availabilityCode": "TN3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Leticia F. M. D."
+    ]
+  },
+  {
+    "course_id": "LET430",
+    "name": "ESTUDOS TEMÁTICOS DE LITERATURA DE LÍNGUA INGLESA - SHORT FICTION IN ENGLISH: ACCUMULATIONS AND ADAPTATIONS",
+    "availabilityCode": "TN5",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Luiz F. F. S."
+    ]
+  },
+  {
+    "course_id": "LET447",
+    "name": "ESTUDOS DA TRADUÇÃO II: EQUIVALÊNCIA TRADUTÓRIA",
+    "availabilityCode": "TM4",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Adriana S. P."
+    ]
+  },
+  {
+    "course_id": "LET458",
+    "name": "LÍNGUA BRASILEIRA DE SINAIS",
+    "availabilityCode": "TOL1",
+    "spots": 50,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET458",
+    "name": "LÍNGUA BRASILEIRA DE SINAIS",
+    "availabilityCode": "TOL2",
+    "spots": 50,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET458",
+    "name": "LÍNGUA BRASILEIRA DE SINAIS",
+    "availabilityCode": "TOL3",
+    "spots": 50,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET458",
+    "name": "LÍNGUA BRASILEIRA DE SINAIS",
+    "availabilityCode": "TOL4",
+    "spots": 50,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET459",
+    "name": "FUNDAMENTOS METODOLÓGICOS DO ENSINO DE PORTUGUÊS: PRÁTICA DO ENSINO DE LEITURA",
+    "availabilityCode": "TM5",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Aderlande P. F."
+    ]
+  },
+  {
+    "course_id": "LET459",
+    "name": "FUNDAMENTOS METODOLÓGICOS DO ENSINO DE PORTUGUÊS: PRÁTICA DO ENSINO DE LEITURA",
+    "availabilityCode": "TN5",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Larissa G. P."
+    ]
+  },
+  {
+    "course_id": "LET460",
+    "name": "FUNDAMENTOS METODOLÓGICOS DO ENSINO DE PORTUGUÊS: PRÁTICA DO ENSINO DE ANÁLISE LINGUÍSTICA",
+    "availabilityCode": "TM1",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Daniela M. L. O. G."
+    ]
+  },
+  {
+    "course_id": "LET460",
+    "name": "FUNDAMENTOS METODOLÓGICOS DO ENSINO DE PORTUGUÊS: PRÁTICA DO ENSINO DE ANÁLISE LINGUÍSTICA",
+    "availabilityCode": "TN1",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Adriane T. S."
+    ]
+  },
+  {
+    "course_id": "LET461",
+    "name": "RECURSOS TECNOLÓGICOS APLICADOS AO ENSINO",
+    "availabilityCode": "TOL1",
+    "spots": 50,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "LET461",
+    "name": "RECURSOS TECNOLÓGICOS APLICADOS AO ENSINO",
+    "availabilityCode": "TOL2",
+    "spots": 50,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "LET461",
+    "name": "RECURSOS TECNOLÓGICOS APLICADOS AO ENSINO",
+    "availabilityCode": "TOL3",
+    "spots": 45,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "LET462",
+    "name": "ANÁLISE DA PRÁTICA E ESTÁGIO DE PORTUGUÊS II",
+    "availabilityCode": "TM300",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Larissa G. P."
+    ]
+  },
+  {
+    "course_id": "LET462",
+    "name": "ANÁLISE DA PRÁTICA E ESTÁGIO DE PORTUGUÊS II",
+    "availabilityCode": "TN300",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Barbara M. F."
+    ]
+  },
+  {
+    "course_id": "LET463",
+    "name": "ANÁLISE DA PRÁTICA E ESTÁGIO DE PORTUGUÊS III",
+    "availabilityCode": "TM200",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Aderlande P. F."
+    ]
+  },
+  {
+    "course_id": "LET463",
+    "name": "ANÁLISE DA PRÁTICA E ESTÁGIO DE PORTUGUÊS III",
+    "availabilityCode": "TN200",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Aderlande P. F."
+    ]
+  },
+  {
+    "course_id": "LET464",
+    "name": "ESTUDOS TEMÁTICOS DE LINGUÍSTICA APLICADA - ENSINAR INVESTIGANDO: A GRAMÁTICA DO PORTUGUÊS PELO VERBOWEB 3.0",
+    "availabilityCode": "TM2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcia M. C. L."
+    ]
+  },
+  {
+    "course_id": "LET464",
+    "name": "ESTUDOS TEMÁTICOS DE LINGUÍSTICA APLICADA - ESTUDOS TEMÁTICOS DE PORTUGUÊS LÍNGUA DE ACOLHIMENTO",
+    "availabilityCode": "TM4",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Luciane C. F."
+    ]
+  },
+  {
+    "course_id": "LET464",
+    "name": "ESTUDOS TEMÁTICOS DE LINGUÍSTICA APLICADA - FÁBIO LUCAS E AFRÂNIO COUTINHO: POSSÍVEIS DIÁLOGOS PARA UMA EDUCAÇÃO LITERÁRIA AMPLIADA",
+    "availabilityCode": "TM5",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Henrique R. L."
+    ]
+  },
+  {
+    "course_id": "LET464",
+    "name": "ESTUDOS TEMÁTICOS DE LINGUÍSTICA APLICADA - DIVERSIDADE LINGUÍSTICA E CULTURAL NA EDUCAÇÃO BÁSICA",
+    "availabilityCode": "TN1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Barbara M. F."
+    ]
+  },
+  {
+    "course_id": "LET468",
+    "name": "ANÁLISE DA PRÁTICA E ESTÁGIO DE ALEMÃO I",
+    "availabilityCode": "TN300",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcelo R."
+    ]
+  },
+  {
+    "course_id": "LET470",
+    "name": "FUNDAMENTOS METODOLÓGICOS DO ENSINO DE INGLÊS: AQUISIÇÃO E ABORDAGENS",
+    "availabilityCode": "TM3",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Anelise S. S."
+    ]
+  },
+  {
+    "course_id": "LET470",
+    "name": "FUNDAMENTOS METODOLÓGICOS DO ENSINO DE INGLÊS: AQUISIÇÃO E ABORDAGENS",
+    "availabilityCode": "TN3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Leina C. V. J."
+    ]
+  },
+  {
+    "course_id": "LET472",
+    "name": "LINGUÍSTICA APLICADA: ENSINO DE HABILIDADES ORAIS",
+    "availabilityCode": "TM4",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Anelise S. S."
+    ]
+  },
+  {
+    "course_id": "LET472",
+    "name": "LINGUÍSTICA APLICADA: ENSINO DE HABILIDADES ORAIS",
+    "availabilityCode": "TN1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Isadora T. M."
+    ]
+  },
+  {
+    "course_id": "LET473",
+    "name": "ANÁLISE DA PRÁTICA E ESTÁGIO DE INGLÊS I",
+    "availabilityCode": "TM300",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Isadora T. M."
+    ]
+  },
+  {
+    "course_id": "LET473",
+    "name": "ANÁLISE DA PRÁTICA E ESTÁGIO DE INGLÊS I",
+    "availabilityCode": "TN300",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Isadora T. M."
+    ]
+  },
+  {
+    "course_id": "LET474",
+    "name": "ANÁLISE DA PRÁTICA E ESTÁGIO DE INGLÊS II",
+    "availabilityCode": "TM200",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Erika A. C."
+    ]
+  },
+  {
+    "course_id": "LET474",
+    "name": "ANÁLISE DA PRÁTICA E ESTÁGIO DE INGLÊS II",
+    "availabilityCode": "TN200",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Valdeni S. R."
+    ]
+  },
+  {
+    "course_id": "LET476",
+    "name": "LINGUÍSTICA APLICADA: ENSINO DE PRODUÇÃO E ANÁLISE DE MATERIAL DIDÁTICO",
+    "availabilityCode": "TM5",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leina C. V. J."
+    ]
+  },
+  {
+    "course_id": "LET476",
+    "name": "LINGUÍSTICA APLICADA: ENSINO DE PRODUÇÃO E ANÁLISE DE MATERIAL DIDÁTICO",
+    "availabilityCode": "TN5",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Anelise S. S."
+    ]
+  },
+  {
+    "course_id": "LET478",
+    "name": "ANÁLISE DA PRÁTICA E ESTÁGIO DE ITALIANO I",
+    "availabilityCode": "TM300",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:00"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Evandro L. T. P. C."
+    ]
+  },
+  {
+    "course_id": "LET482",
+    "name": "ANÁLISE DA PRÁTICA E ESTÁGIO DE FRANCÊS II",
+    "availabilityCode": "TM300",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Larissa S. A."
+    ]
+  },
+  {
+    "course_id": "LET490",
+    "name": "LITERATURA COMPARADA: ASPECTOS FUNDAMENTAIS",
+    "availabilityCode": "TM5",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Lyslei S. N."
+    ]
+  },
+  {
+    "course_id": "LET490",
+    "name": "LITERATURA COMPARADA: ASPECTOS FUNDAMENTAIS",
+    "availabilityCode": "TN2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ligia G. D."
+    ]
+  },
+  {
+    "course_id": "LET536",
+    "name": "INTRODUÇÃO À LINGUÍSTICA: FUNDAMENTOS DE FONÉTICA E FONOLOGIA",
+    "availabilityCode": "TM1",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Seung H. L."
+    ]
+  },
+  {
+    "course_id": "LET536",
+    "name": "INTRODUÇÃO À LINGUÍSTICA: FUNDAMENTOS DE FONÉTICA E FONOLOGIA",
+    "availabilityCode": "TM2",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Seung H. L."
+    ]
+  },
+  {
+    "course_id": "LET536",
+    "name": "INTRODUÇÃO À LINGUÍSTICA: FUNDAMENTOS DE FONÉTICA E FONOLOGIA",
+    "availabilityCode": "TN1",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Magnun R. M."
+    ]
+  },
+  {
+    "course_id": "LET536",
+    "name": "INTRODUÇÃO À LINGUÍSTICA: FUNDAMENTOS DE FONÉTICA E FONOLOGIA",
+    "availabilityCode": "TN11",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Luciana L."
+    ]
+  },
+  {
+    "course_id": "LET536",
+    "name": "INTRODUÇÃO À LINGUÍSTICA: FUNDAMENTOS DE FONÉTICA E FONOLOGIA",
+    "availabilityCode": "TN2",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Magnun R. M."
+    ]
+  },
+  {
+    "course_id": "LET537",
+    "name": "FUNDAMENTOS DE LINGUÍSTICA COMPARADA",
+    "availabilityCode": "TM2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Giulia B."
+    ]
+  },
+  {
+    "course_id": "LET537",
+    "name": "FUNDAMENTOS DE LINGUÍSTICA COMPARADA",
+    "availabilityCode": "TM21",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "LET537",
+    "name": "FUNDAMENTOS DE LINGUÍSTICA COMPARADA",
+    "availabilityCode": "TN1",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Thiago C. V. L. S."
+    ]
+  },
+  {
+    "course_id": "LET537",
+    "name": "FUNDAMENTOS DE LINGUÍSTICA COMPARADA",
+    "availabilityCode": "TN11",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "LET538",
+    "name": "INTRODUÇÃO À LINGUÍSTICA: FUNDAMENTOS DE MORFOLOGIA E SINTAXE",
+    "availabilityCode": "TM1",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Mayara N. P."
+    ]
+  },
+  {
+    "course_id": "LET538",
+    "name": "INTRODUÇÃO À LINGUÍSTICA: FUNDAMENTOS DE MORFOLOGIA E SINTAXE",
+    "availabilityCode": "TM2",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Allan C. S."
+    ]
+  },
+  {
+    "course_id": "LET538",
+    "name": "INTRODUÇÃO À LINGUÍSTICA: FUNDAMENTOS DE MORFOLOGIA E SINTAXE",
+    "availabilityCode": "TN1",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Allan C. S."
+    ]
+  },
+  {
+    "course_id": "LET538",
+    "name": "INTRODUÇÃO À LINGUÍSTICA: FUNDAMENTOS DE MORFOLOGIA E SINTAXE",
+    "availabilityCode": "TN2",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Allan C. S."
+    ]
+  },
+  {
+    "course_id": "LET538",
+    "name": "INTRODUÇÃO À LINGUÍSTICA: FUNDAMENTOS DE MORFOLOGIA E SINTAXE",
+    "availabilityCode": "TN21",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Aroldo L. A."
+    ]
+  },
+  {
+    "course_id": "LET539",
+    "name": "INTRODUÇÃO AOS ESTUDOS DA LINGUAGEM: LÍNGUA, TEXTO E DISCURSO",
+    "availabilityCode": "TM5",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ana L. A. M. O."
+    ]
+  },
+  {
+    "course_id": "LET539",
+    "name": "INTRODUÇÃO AOS ESTUDOS DA LINGUAGEM: LÍNGUA, TEXTO E DISCURSO",
+    "availabilityCode": "TM51",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Barbara A. S."
+    ]
+  },
+  {
+    "course_id": "LET539",
+    "name": "INTRODUÇÃO AOS ESTUDOS DA LINGUAGEM: LÍNGUA, TEXTO E DISCURSO",
+    "availabilityCode": "TN5",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Daniervelin R. M. P."
+    ]
+  },
+  {
+    "course_id": "LET539",
+    "name": "INTRODUÇÃO AOS ESTUDOS DA LINGUAGEM: LÍNGUA, TEXTO E DISCURSO",
+    "availabilityCode": "TN51",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ana L. A. M. O."
+    ]
+  },
+  {
+    "course_id": "LET539",
+    "name": "INTRODUÇÃO AOS ESTUDOS DA LINGUAGEM: LÍNGUA, TEXTO E DISCURSO",
+    "availabilityCode": "TN52",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Gustavo X. C."
+    ]
+  },
+  {
+    "course_id": "LET540",
+    "name": "SEMINÁRIO DE LEITURA: LITERATURA CLÁSSICA",
+    "availabilityCode": "TM3",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Olimar F. J."
+    ]
+  },
+  {
+    "course_id": "LET540",
+    "name": "SEMINÁRIO DE LEITURA: LITERATURA CLÁSSICA",
+    "availabilityCode": "TM4",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Olimar F. J."
+    ]
+  },
+  {
+    "course_id": "LET540",
+    "name": "SEMINÁRIO DE LEITURA: LITERATURA CLÁSSICA",
+    "availabilityCode": "TN3",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Olimar F. J."
+    ]
+  },
+  {
+    "course_id": "LET540",
+    "name": "SEMINÁRIO DE LEITURA: LITERATURA CLÁSSICA",
+    "availabilityCode": "TN4",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Olimar F. J."
+    ]
+  },
+  {
+    "course_id": "LET540",
+    "name": "SEMINÁRIO DE LEITURA: LITERATURA CLÁSSICA",
+    "availabilityCode": "TN41",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Matheus T.",
+      "Olimar F. J."
+    ]
+  },
+  {
+    "course_id": "LET541",
+    "name": "INTRODUÇÃO AOS ESTUDOS LITERÁRIOS",
+    "availabilityCode": "TM3",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Leandro G. R."
+    ]
+  },
+  {
+    "course_id": "LET541",
+    "name": "INTRODUÇÃO AOS ESTUDOS LITERÁRIOS",
+    "availabilityCode": "TM4",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leandro G. R."
+    ]
+  },
+  {
+    "course_id": "LET541",
+    "name": "INTRODUÇÃO AOS ESTUDOS LITERÁRIOS",
+    "availabilityCode": "TN3",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Aline M. P."
+    ]
+  },
+  {
+    "course_id": "LET541",
+    "name": "INTRODUÇÃO AOS ESTUDOS LITERÁRIOS",
+    "availabilityCode": "TN31",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Davidson O. D."
+    ]
+  },
+  {
+    "course_id": "LET541",
+    "name": "INTRODUÇÃO AOS ESTUDOS LITERÁRIOS",
+    "availabilityCode": "TN4",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Aline M. P."
+    ]
+  },
+  {
+    "course_id": "LET542",
+    "name": "INTRODUÇÃO À LINGUÍSTICA: FUNDAMENTOS DE SEMÂNTICA E PRAGMÁTICA",
+    "availabilityCode": "TM3",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Bruno N. R. M. R."
+    ]
+  },
+  {
+    "course_id": "LET542",
+    "name": "INTRODUÇÃO À LINGUÍSTICA: FUNDAMENTOS DE SEMÂNTICA E PRAGMÁTICA",
+    "availabilityCode": "TM4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Bruno N. R. M. R."
+    ]
+  },
+  {
+    "course_id": "LET542",
+    "name": "INTRODUÇÃO À LINGUÍSTICA: FUNDAMENTOS DE SEMÂNTICA E PRAGMÁTICA",
+    "availabilityCode": "TN3",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Tommaso R."
+    ]
+  },
+  {
+    "course_id": "LET542",
+    "name": "INTRODUÇÃO À LINGUÍSTICA: FUNDAMENTOS DE SEMÂNTICA E PRAGMÁTICA",
+    "availabilityCode": "TN4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Tommaso R."
+    ]
+  },
+  {
+    "course_id": "LET542",
+    "name": "INTRODUÇÃO À LINGUÍSTICA: FUNDAMENTOS DE SEMÂNTICA E PRAGMÁTICA",
+    "availabilityCode": "TN41",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Magnun R. M."
+    ]
+  },
+  {
+    "course_id": "LET543",
+    "name": "INTRODUÇÃO À PESQUISA CIENTÍFICA",
+    "availabilityCode": "TM3",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Geison A. B. S."
+    ]
+  },
+  {
+    "course_id": "LET543",
+    "name": "INTRODUÇÃO À PESQUISA CIENTÍFICA",
+    "availabilityCode": "TM4",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ana L. A. M. O."
+    ]
+  },
+  {
+    "course_id": "LET543",
+    "name": "INTRODUÇÃO À PESQUISA CIENTÍFICA",
+    "availabilityCode": "TN3",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Daniervelin R. M. P."
+    ]
+  },
+  {
+    "course_id": "LET543",
+    "name": "INTRODUÇÃO À PESQUISA CIENTÍFICA",
+    "availabilityCode": "TN31",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Maria J. G. T."
+    ]
+  },
+  {
+    "course_id": "LET543",
+    "name": "INTRODUÇÃO À PESQUISA CIENTÍFICA",
+    "availabilityCode": "TN4",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Barbara A. S."
+    ]
+  },
+  {
+    "course_id": "LET544",
+    "name": "TEORIA LITERÁRIA: DEBATES",
+    "availabilityCode": "TM1",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Reinaldo M. M."
+    ]
+  },
+  {
+    "course_id": "LET544",
+    "name": "TEORIA LITERÁRIA: DEBATES",
+    "availabilityCode": "TM2",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:20",
+        "end": "11:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:20",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Reinaldo M. M."
+    ]
+  },
+  {
+    "course_id": "LET544",
+    "name": "TEORIA LITERÁRIA: DEBATES",
+    "availabilityCode": "TN1",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Constantino L. M."
+    ]
+  },
+  {
+    "course_id": "LET544",
+    "name": "TEORIA LITERÁRIA: DEBATES",
+    "availabilityCode": "TN11",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Leandro G. R."
+    ]
+  },
+  {
+    "course_id": "LET544",
+    "name": "TEORIA LITERÁRIA: DEBATES",
+    "availabilityCode": "TN2",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Constantino L. M."
+    ]
+  },
+  {
+    "course_id": "LET545",
+    "name": "SEMINÁRIO DE LEITURA: LITERATURAS DE LÍNGUAS MODERNAS",
+    "availabilityCode": "TM5",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcio V. B."
+    ]
+  },
+  {
+    "course_id": "LET545",
+    "name": "SEMINÁRIO DE LEITURA: LITERATURAS DE LÍNGUAS MODERNAS",
+    "availabilityCode": "TM51",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Marcia R. J. M."
+    ]
+  },
+  {
+    "course_id": "LET545",
+    "name": "SEMINÁRIO DE LEITURA: LITERATURAS DE LÍNGUAS MODERNAS",
+    "availabilityCode": "TM52",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Leticia F. M. D."
+    ]
+  },
+  {
+    "course_id": "LET545",
+    "name": "SEMINÁRIO DE LEITURA: LITERATURAS DE LÍNGUAS MODERNAS",
+    "availabilityCode": "TN5",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Leticia F. M. D."
+    ]
+  },
+  {
+    "course_id": "LET545",
+    "name": "SEMINÁRIO DE LEITURA: LITERATURAS DE LÍNGUAS MODERNAS",
+    "availabilityCode": "TN51",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Alexia O. P."
+    ]
+  },
+  {
+    "course_id": "LET545",
+    "name": "SEMINÁRIO DE LEITURA: LITERATURAS DE LÍNGUAS MODERNAS",
+    "availabilityCode": "TN52",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcia R. J. M."
+    ]
+  },
+  {
+    "course_id": "LET546",
+    "name": "LÍNGUA ALEMÃ I",
+    "availabilityCode": "TN1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Volker K. L. J."
+    ]
+  },
+  {
+    "course_id": "LET547",
+    "name": "LÍNGUA ALEMÃ II",
+    "availabilityCode": "TN2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Elcio L. C."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Adla B. M. T."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Carmem L. E."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TC1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Carmem L. E."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Suzana S. G."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TF2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Adla B. M. T."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Suzana S. G."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TK",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Joana D. A. V."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TK1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Claudia S. B."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TL",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Analise J. S."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TL1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Claudia S. B."
+    ]
+  },
+  {
+    "course_id": "MTE240",
+    "name": "FUNDAMENTOS METODOLÓGICOS DO ENSINO DE PORTUGUÊS: PRÁTICA DO ENSINO DE PRODUÇÃO DE TEXTO ORAL E ESCRITO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:50",
+        "end": "11:30"
+      }
+    ],
+    "teachers": [
+      "Fernando M. A."
+    ]
+  },
+  {
+    "course_id": "MTE240",
+    "name": "FUNDAMENTOS METODOLÓGICOS DO ENSINO DE PORTUGUÊS: PRÁTICA DO ENSINO DE PRODUÇÃO DE TEXTO ORAL E ESCRITO",
+    "availabilityCode": "TX",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Fernando M. A."
+    ]
+  },
+  {
+    "course_id": "MTE241",
+    "name": "FUNDAMENTOS METODOLÓGICOS DO ENSINO DE PORTUGUÊS: PRÁTICA DO ENSINO DE LITERATURA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:50",
+        "end": "11:30"
+      }
+    ],
+    "teachers": [
+      "Telma B. S."
+    ]
+  },
+  {
+    "course_id": "MTE241",
+    "name": "FUNDAMENTOS METODOLÓGICOS DO ENSINO DE PORTUGUÊS: PRÁTICA DO ENSINO DE LITERATURA",
+    "availabilityCode": "TX",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Carlos A. N."
+    ]
+  },
+  {
+    "course_id": "MTE242",
+    "name": "ANÁLISE DA PRÁTICA E ESTÁGIO DE PORTUGUÊS I",
+    "availabilityCode": "TA",
+    "spots": 27,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:50",
+        "end": "11:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:50",
+        "end": "11:30"
+      }
+    ],
+    "teachers": [
+      "Josiley F. S."
+    ]
+  },
+  {
+    "course_id": "MTE242",
+    "name": "ANÁLISE DA PRÁTICA E ESTÁGIO DE PORTUGUÊS I",
+    "availabilityCode": "TB",
+    "spots": 27,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Rejane R. A. M."
+    ]
+  },
+  {
+    "course_id": "MTE242",
+    "name": "ANÁLISE DA PRÁTICA E ESTÁGIO DE PORTUGUÊS I",
+    "availabilityCode": "TY",
+    "spots": 27,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Fernando M. A."
+    ]
+  },
+  {
+    "course_id": "MTE444",
+    "name": "ANÁLISE DA PRÁTICA E ESTÁGIO DE ESPANHOL II",
+    "availabilityCode": "TA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Elizabeth G. A."
+    ]
+  },
+  {
+    "course_id": "MTE445",
+    "name": "ANÁLISE DA PRÁTICA E ESTÁGIO DE INGLÊS III",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:50",
+        "end": "11:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:50",
+        "end": "11:30"
+      }
+    ],
+    "teachers": [
+      "Miria G. O."
+    ]
+  },
+  {
+    "course_id": "MTE445",
+    "name": "ANÁLISE DA PRÁTICA E ESTÁGIO DE INGLÊS III",
+    "availabilityCode": "TX",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Miria G. O."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "UNI040",
+    "name": "INGLÊS PARA FINS ACADÊMICOS I",
+    "availabilityCode": "TV1",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "12:05",
+        "end": "13:45"
+      },
+      {
+        "day": "Quarta",
+        "start": "12:05",
+        "end": "13:45"
+      }
+    ],
+    "teachers": [
+      "Deise P. D."
+    ]
+  },
+  {
+    "course_id": "UNI041",
+    "name": "INGLÊS PARA FINS ACADÊMICOS II",
+    "availabilityCode": "TV1",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Leonardo P. N."
+    ]
+  },
+  {
+    "course_id": "UNI041",
+    "name": "INGLÊS PARA FINS ACADÊMICOS II",
+    "availabilityCode": "TV2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Leonardo P. N."
+    ]
+  },
+  {
+    "course_id": "UNI042",
+    "name": "INGLÊS PARA FINS ACADÊMICOS III",
+    "availabilityCode": "TV1",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "12:05",
+        "end": "13:45"
+      },
+      {
+        "day": "Quarta",
+        "start": "12:05",
+        "end": "13:45"
+      }
+    ],
+    "teachers": [
+      "Leonardo P. N."
+    ]
+  },
+  {
+    "course_id": "UNI043",
+    "name": "INGLÊS PARA FINS ACADÊMICOS IV",
+    "availabilityCode": "TV1",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Deise P. D."
+    ]
+  },
+  {
+    "course_id": "UNI044",
+    "name": "INGLÊS PARA FINS ACADÊMICOS V",
+    "availabilityCode": "TV1",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "12:05",
+        "end": "13:45"
+      },
+      {
+        "day": "Quinta",
+        "start": "12:05",
+        "end": "13:45"
+      }
+    ],
+    "teachers": [
+      "Leonardo P. N."
+    ]
+  },
+  {
+    "course_id": "UNI174",
+    "name": "TOPICS IN INTERNATIONAL STUDIES II - Korea Through K-Pop, K-Drama, and Contemporary Media",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Seung H. L."
+    ]
+  },
+  {
+    "course_id": "UNI280",
+    "name": "TÓPICOS ESPECIAIS EM ASSUNTOS TRANSDISCIPLINARES - Soberania popular, participação política e crise da democracia.",
+    "availabilityCode": "TA",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  }
+]

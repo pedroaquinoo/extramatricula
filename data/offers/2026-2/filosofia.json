@@ -1,0 +1,2201 @@
+[
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Rosimar F. O."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Rosimar F. O."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Andre M. P. F."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre B. M."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TG1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Andre M. P. F."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Hormindo P. S. J."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TJ1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Hormindo P. S. J."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TK",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Juliana F. S."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TL",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marina C. A. M."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TM",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Sandro V. S. S."
+    ]
+  },
+  {
+    "course_id": "ADE066",
+    "name": "GESTÃO ESCOLAR",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Eucidio P. A."
+    ]
+  },
+  {
+    "course_id": "ADE066",
+    "name": "GESTÃO ESCOLAR",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Eucidio P. A."
+    ]
+  },
+  {
+    "course_id": "ADE066",
+    "name": "GESTÃO ESCOLAR",
+    "availabilityCode": "TC",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Marina C. A. M."
+    ]
+  },
+  {
+    "course_id": "ADE066",
+    "name": "GESTÃO ESCOLAR",
+    "availabilityCode": "TD",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Sandro V. S. S."
+    ]
+  },
+  {
+    "course_id": "ADE066",
+    "name": "GESTÃO ESCOLAR",
+    "availabilityCode": "TE",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Tiago A. S. J."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TA1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Tania F. R."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Maria A. A. C."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TC",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Alexandre W. B. D."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Priscila O. C."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre W. B. D."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TH",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Frederico A. C."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TK",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Brescia F. N."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TL",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TM",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre W. B. D."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TM1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TN1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TO",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre W. B. D."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Liberia R. N."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Pedro T. C."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TB1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. P."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TD",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Liberia R. N."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. P."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TE1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Raquel M. A."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Jesus A. T. M."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. P."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Maria I. A. R."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TK",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Jesus A. T. M."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TL",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Monica M. F. R."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TL1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Raquel M. A."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TL2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ivone M. M. S."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TM1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. P."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Monica Y. J."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TP",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ivone M. M. S."
+    ]
+  },
+  {
+    "course_id": "FAE483",
+    "name": "TOPICOS DE ENSINO D - Religião, Educação e Raça",
+    "availabilityCode": "TOP1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Edgar R. B. N."
+    ]
+  },
+  {
+    "course_id": "FAE483",
+    "name": "TOPICOS DE ENSINO D - O ensinar, o aprender e suas relações",
+    "availabilityCode": "TOP2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Renata P. L. A."
+    ]
+  },
+  {
+    "course_id": "FAE483",
+    "name": "TOPICOS DE ENSINO D - História da Educação, gênero e feminismos: abordagens decoloniais e africanas",
+    "availabilityCode": "TOP3",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Renata G. C. D."
+    ]
+  },
+  {
+    "course_id": "FAE483",
+    "name": "TOPICOS DE ENSINO D - O conceito de experiência em John Dewey e uma proposta didático- metodológica com obras de arte",
+    "availabilityCode": "TOP4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "16:40"
+      }
+    ],
+    "teachers": [
+      "Debora M."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Adriana A. P. B."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Jaima P. O."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TC",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Adriana A. P. B."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Jaima P. O."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Celio S. J.",
+      "Marina A. F."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Celio S. J.",
+      "Marina A. F."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TH",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Celio S. J.",
+      "Marina A. F."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Celio S. J.",
+      "Marina A. F."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TM",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Icaro B. H."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Icaro B. H."
+    ]
+  },
+  {
+    "course_id": "FIL044",
+    "name": "TOPICOS EM ETICA - A construção emocional da moral",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Vitor S. S. B."
+    ]
+  },
+  {
+    "course_id": "FIL044",
+    "name": "TOPICOS EM ETICA - Faces da injustiça e vícios ordinários: uma introdução à obra tardia de Judith Shklar",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Rogerio A. L."
+    ]
+  },
+  {
+    "course_id": "FIL044",
+    "name": "TOPICOS EM ETICA - Diante do abismo: niilismo moral e repetição em Søren Kierkegaard",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Jean S. V."
+    ]
+  },
+  {
+    "course_id": "FIL044",
+    "name": "TOPICOS EM ETICA - Ética Ambiental",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Amaro O. F."
+    ]
+  },
+  {
+    "course_id": "FIL046",
+    "name": "TOPICOS EM ESTETICA - História do conceito de sublime",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Tadeu M. V."
+    ]
+  },
+  {
+    "course_id": "FIL046",
+    "name": "TOPICOS EM ESTETICA - Museu como dispositivo estético, epistemológico e político",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Leonardo M. R."
+    ]
+  },
+  {
+    "course_id": "FIL049",
+    "name": "TOPICOS EM FILOSOFIA II - Grupo Crítica & Dialética",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Amaro O. F."
+    ]
+  },
+  {
+    "course_id": "FIL049",
+    "name": "TOPICOS EM FILOSOFIA II - Grupo Fanon",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Jean S. V."
+    ]
+  },
+  {
+    "course_id": "FIL049",
+    "name": "TOPICOS EM FILOSOFIA II - ARCO: Arte, Crítica e Pensamento Contemporâneo",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:20"
+      }
+    ],
+    "teachers": [
+      "Daniel O. P."
+    ]
+  },
+  {
+    "course_id": "FIL049",
+    "name": "TOPICOS EM FILOSOFIA II - Grupo Kant",
+    "availabilityCode": "TD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Maria C. M. R."
+    ]
+  },
+  {
+    "course_id": "FIL049",
+    "name": "TOPICOS EM FILOSOFIA II - Process and Reality (1929), de Alfred North Whitehead",
+    "availabilityCode": "TE",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Walter R. M. J."
+    ]
+  },
+  {
+    "course_id": "FIL049",
+    "name": "TOPICOS EM FILOSOFIA II - Mulheres na Filosofia Política",
+    "availabilityCode": "TF",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Helton M. A."
+    ]
+  },
+  {
+    "course_id": "FIL049",
+    "name": "TOPICOS EM FILOSOFIA II - A lógica clássica versus a lógica de Belnap-Dunn",
+    "availabilityCode": "TG",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Abilio A. R. F.",
+      "Antonio M. N. C."
+    ]
+  },
+  {
+    "course_id": "FIL049",
+    "name": "TOPICOS EM FILOSOFIA II - Grupo MORES: Meta ética, Psicologia Moral e Teorias das Razões Práticas",
+    "availabilityCode": "TH",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Vitor S. S. B."
+    ]
+  },
+  {
+    "course_id": "FIL070",
+    "name": "TOPICOS EM LOGICA - O dedutivismo melhorado de Penelope Maddy",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Antonio M. N. C."
+    ]
+  },
+  {
+    "course_id": "FIL173",
+    "name": "ETICA",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Leonardo M. R."
+    ]
+  },
+  {
+    "course_id": "FIL173",
+    "name": "ETICA",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "21:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Rogerio A. L."
+    ]
+  },
+  {
+    "course_id": "FIL202",
+    "name": "TOPICOS EM FILOSOFIA MODERNA - O percurso filosófico de Machado de Assis",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Jose R. M. N."
+    ]
+  },
+  {
+    "course_id": "FIL203",
+    "name": "TOPICOS EM FILOSOFIA CONTEMPORANEA - Filosofia Experimental - Teoria",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Celso O. V."
+    ]
+  },
+  {
+    "course_id": "FIL204",
+    "name": "TOPICOS EM FILOSOFIA GREGA - Persuasão em ação: o cânon dos 10 oradores áticos e a demarcação entre filosofia e retórica em Platão",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Maria C. M. N. C."
+    ]
+  },
+  {
+    "course_id": "FIL204",
+    "name": "TOPICOS EM FILOSOFIA GREGA - O movimento e os seus pressupostos : o ilimitado; o lugar e a ausência de vazio e o tempo",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Fernando E. B. R. P."
+    ]
+  },
+  {
+    "course_id": "FIL212",
+    "name": "TOPICOS EM FILOSOFIA POLITICA - A política e o mal em Hannah Arendt",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Helton M. A."
+    ]
+  },
+  {
+    "course_id": "FIL212",
+    "name": "TOPICOS EM FILOSOFIA POLITICA - FUNDAMENTOS DOS DIREITOS HUMANOS",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Helton M. A."
+    ]
+  },
+  {
+    "course_id": "FIL270",
+    "name": "HISTÓRIA DA FILOSOFIA ANTIGA II",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Fernando E. B. R. P."
+    ]
+  },
+  {
+    "course_id": "FIL270",
+    "name": "HISTÓRIA DA FILOSOFIA ANTIGA II",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Maria C. M. N. C."
+    ]
+  },
+  {
+    "course_id": "FIL271",
+    "name": "LÓGICA",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Abilio A. R. F."
+    ]
+  },
+  {
+    "course_id": "FIL271",
+    "name": "LÓGICA",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "21:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Antonio M. N. C."
+    ]
+  },
+  {
+    "course_id": "FIL274",
+    "name": "TEORIA DO CONHECIMENTO",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Maria C. M. R."
+    ]
+  },
+  {
+    "course_id": "FIL274",
+    "name": "TEORIA DO CONHECIMENTO",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Maria C. M. R."
+    ]
+  },
+  {
+    "course_id": "FIL275",
+    "name": "HISTÓRIA DA FILOSOFIA MODERNA II",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "21:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Joaosinho B."
+    ]
+  },
+  {
+    "course_id": "FIL275",
+    "name": "HISTÓRIA DA FILOSOFIA MODERNA II",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Amaro O. F."
+    ]
+  },
+  {
+    "course_id": "FIL278",
+    "name": "HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA II",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Jean S. V."
+    ]
+  },
+  {
+    "course_id": "FIL278",
+    "name": "HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA II",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "21:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Deborah M. G."
+    ]
+  },
+  {
+    "course_id": "FIL279",
+    "name": "ESTÉTICA",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Walter R. M. J."
+    ]
+  },
+  {
+    "course_id": "FIL279",
+    "name": "ESTÉTICA",
+    "availabilityCode": "TB",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Daniel O. P."
+    ]
+  },
+  {
+    "course_id": "FIL280",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+    "availabilityCode": "TA",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Abilio A. R. F."
+    ]
+  },
+  {
+    "course_id": "FIL280",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+    "availabilityCode": "TB",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Leonardo M. R."
+    ]
+  },
+  {
+    "course_id": "FIL280",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+    "availabilityCode": "TC",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Tadeu M. V."
+    ]
+  },
+  {
+    "course_id": "FIL281",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+    "availabilityCode": "TA",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Patricia M. K. L."
+    ]
+  },
+  {
+    "course_id": "FIL281",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+    "availabilityCode": "TB",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Mauro L. E."
+    ]
+  },
+  {
+    "course_id": "FIL281",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+    "availabilityCode": "TC",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Ernesto P. F. M. S."
+    ]
+  },
+  {
+    "course_id": "FIL305",
+    "name": "LABORATÓRIO DE ENSINO DE FILOSOFIA",
+    "availabilityCode": "PA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Maria C. M. R."
+    ]
+  },
+  {
+    "course_id": "ICB001",
+    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+    "availabilityCode": "TN1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB001",
+    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+    "availabilityCode": "TN2",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB001",
+    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+    "availabilityCode": "TR1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB001",
+    "name": "BASES ECOLÓGICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+    "availabilityCode": "TR2",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Adla B. M. T."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Carmem L. E."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TC1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Carmem L. E."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Suzana S. G."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TF2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Adla B. M. T."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Suzana S. G."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TK",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Joana D. A. V."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TK1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Claudia S. B."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TL",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Analise J. S."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TL1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Claudia S. B."
+    ]
+  },
+  {
+    "course_id": "MTE461",
+    "name": "ESTÁGIO DE ENSINO EM FILOSOFIA",
+    "availabilityCode": "PPB",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:50",
+        "end": "11:30"
+      }
+    ],
+    "teachers": [
+      "Debora M."
+    ]
+  },
+  {
+    "course_id": "MTE639",
+    "name": "PRÁTICA DE ENSINO DE FILOSOFIA II",
+    "availabilityCode": "TA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Debora M."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  }
+]

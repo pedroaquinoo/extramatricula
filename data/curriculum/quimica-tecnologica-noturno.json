@@ -1,0 +1,466 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "MAT001",
+      "name": "Calculo Diferencial e Integral I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MAT038",
+      "name": "Geometria Analitica e Algebra Linear",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI143",
+      "name": "Quimica Geral C",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI144",
+      "name": "Quimica Geral Experimental C",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI145",
+      "name": "Ciclo de Palestras a",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI266",
+      "name": "Segurança e Técnicas Básicas de Laboratório",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIS065",
+      "name": "Fundamentos de Mecanica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MAT042",
+      "name": "Cálculo de Várias Variáveis",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "QUI022",
+      "name": "Quimica Inorganica Experimental",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "QUI147",
+      "name": "Quimica Inorganica Ci",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "QUI150",
+      "name": "Quimica Organica Ci",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS069",
+      "name": "Fundamentos de Eletromagnetismo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIS151",
+      "name": "Física Experimental Básica: Mecânica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "QUI051",
+      "name": "Fundamentos de Quimica Analitica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "QUI151",
+      "name": "Fisico-quimica Ci",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "QUI189",
+      "name": "Quimica Organica Cii",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "QUI267",
+      "name": "Fisico-quimica Experimental Ci",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIS153",
+      "name": "Física Experimental Básica: Eletromagnetismo",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIS155",
+      "name": "Física Experimental Básica - Ondas e Óptica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "MAT040",
+      "name": "Equacoes Diferenciais C",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "QUI053",
+      "name": "Analise Qualitativa",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "QUI149",
+      "name": "Ciclo de Palestras B",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "QUI190",
+      "name": "Fisico-quimica Cii",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "QUI268",
+      "name": "Fisico-quimica Experimental Cii",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EST031",
+      "name": "Estatistica e Probabilidades",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "QUI031",
+      "name": "Quimica Organica Experimental",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "QUI035",
+      "name": "Introducao a Bioquimica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "QUI198",
+      "name": "Cinetica Quimica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "QUI216",
+      "name": "Quimica Inorganica Cii",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "GEL054",
+      "name": "Introducao Ao Estudo de Minerais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "QUI055",
+      "name": "Analise Quantitativa",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "QUI199",
+      "name": "Introducao a Estrutura da Materia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "QUI215",
+      "name": "Quimica Ambiental C",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "QUI059",
+      "name": "Quimica Organica III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "QUI219",
+      "name": "Espectroscopia",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "QUI221",
+      "name": "Analise Instrumental a",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "QUI222",
+      "name": "Analise Instrumental B",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "QUI223",
+      "name": "Quimica Inorganica Ciii",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "QUI225",
+      "name": "Trabalho de Conclusao de Curso I-bcharel",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "QUI262",
+      "name": "Estagio Curricular",
+      "description": null,
+      "credits": 12,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "QUI263",
+      "name": "Trabalho de Conclusao de Curso II - Bach",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "FIS065",
+      "prerequisite_code": "MAT001"
+    },
+    {
+      "code": "QUI022",
+      "prerequisite_code": "QUI143"
+    },
+    {
+      "code": "QUI022",
+      "prerequisite_code": "QUI144"
+    },
+    {
+      "code": "QUI147",
+      "prerequisite_code": "QUI143"
+    },
+    {
+      "code": "QUI150",
+      "prerequisite_code": "QUI143"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "MAT042"
+    },
+    {
+      "code": "FIS069",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "QUI051",
+      "prerequisite_code": "QUI147"
+    },
+    {
+      "code": "QUI151",
+      "prerequisite_code": "MAT042"
+    },
+    {
+      "code": "QUI189",
+      "prerequisite_code": "QUI150"
+    },
+    {
+      "code": "QUI267",
+      "prerequisite_code": "MAT042"
+    },
+    {
+      "code": "FIS153",
+      "prerequisite_code": "FIS151"
+    },
+    {
+      "code": "FIS153",
+      "prerequisite_code": "FIS065"
+    },
+    {
+      "code": "FIS155",
+      "prerequisite_code": "FIS151"
+    },
+    {
+      "code": "FIS155",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "MAT040",
+      "prerequisite_code": "MAT042"
+    },
+    {
+      "code": "QUI053",
+      "prerequisite_code": "QUI051"
+    },
+    {
+      "code": "QUI190",
+      "prerequisite_code": "QUI151"
+    },
+    {
+      "code": "QUI268",
+      "prerequisite_code": "QUI267"
+    },
+    {
+      "code": "QUI268",
+      "prerequisite_code": "QUI151"
+    },
+    {
+      "code": "QUI031",
+      "prerequisite_code": "QUI189"
+    },
+    {
+      "code": "QUI035",
+      "prerequisite_code": "QUI189"
+    },
+    {
+      "code": "QUI198",
+      "prerequisite_code": "QUI190"
+    },
+    {
+      "code": "QUI216",
+      "prerequisite_code": "QUI147"
+    },
+    {
+      "code": "QUI055",
+      "prerequisite_code": "QUI053"
+    },
+    {
+      "code": "QUI199",
+      "prerequisite_code": "MAT040"
+    },
+    {
+      "code": "QUI199",
+      "prerequisite_code": "FIS069"
+    },
+    {
+      "code": "QUI059",
+      "prerequisite_code": "QUI216"
+    },
+    {
+      "code": "QUI219",
+      "prerequisite_code": "QUI199"
+    },
+    {
+      "code": "QUI221",
+      "prerequisite_code": "QUI055"
+    },
+    {
+      "code": "QUI222",
+      "prerequisite_code": "QUI055"
+    },
+    {
+      "code": "QUI223",
+      "prerequisite_code": "QUI216"
+    },
+    {
+      "code": "QUI263",
+      "prerequisite_code": "QUI225"
+    }
+  ]
+}

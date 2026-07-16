@@ -1,0 +1,278 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "ECI240",
+      "name": "Introdução À Arquivologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ECI242",
+      "name": "Formação das Instituições do Brasil Contemporâneo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "OTI118",
+      "name": "Produção dos Registros do Conhecimento",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "OTI119",
+      "name": "Elaboração e Apresentação de Trabalhos Científicos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "TGI028",
+      "name": "Introducao a Informatica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECI246",
+      "name": "História Administrativa do Brasil",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECI251",
+      "name": "Fundamentos da Arquivologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "TGI002",
+      "name": "Cultura e Informacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "TGI029",
+      "name": "Teorias da Organizacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "TGI032",
+      "name": "Introducao a Bancos de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECI003",
+      "name": "Organizacao e Metodos Apl.a Arquivologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECI244",
+      "name": "Gestão de Documentos Arquivísticos I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "TGI033",
+      "name": "Metodos e Tecnicas de Pesquisa",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "TGI034",
+      "name": "Memoria e Patrimonio Cultural",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "TGI073",
+      "name": "Preservação de Acervos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ECI245",
+      "name": "Gestão de Documentos Arquivísticos II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ECI252",
+      "name": "Diplomática",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "TGI072",
+      "name": "Estudos de Usuários de Arquivo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ECI247",
+      "name": "Arquivos Permanentes I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ECI248",
+      "name": "Gestão de Documentos Arquivísticos Digitais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "TGI074",
+      "name": "Proj. e Plan. de Instituições e Serviços Arquivísticos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ECI020",
+      "name": "Paleografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ECI249",
+      "name": "Arquivos Permanentes II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ECI253",
+      "name": "Planejamento e Gestão de Redes e Sistemas de Arquivos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "TGI071",
+      "name": "Ação Cultural e Educação Patrimonial",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ECI241",
+      "name": "Política e Legislação Arquivística",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ECI243",
+      "name": "Pesquisa em Arquivologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ECI254",
+      "name": "Estágio Supervisionado em Arquivologia a",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ECI255",
+      "name": "Estágio Supervisionado em Arquivologia B",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "OTI120",
+      "name": "Elaboração de Projetos de Financiamentos e Fomento",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "TGI030",
+      "name": "Fundamentos da Ciencia da Informacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "ECI244",
+      "prerequisite_code": "ECI251"
+    },
+    {
+      "code": "ECI245",
+      "prerequisite_code": "ECI244"
+    },
+    {
+      "code": "ECI247",
+      "prerequisite_code": "ECI251"
+    },
+    {
+      "code": "ECI248",
+      "prerequisite_code": "ECI245"
+    },
+    {
+      "code": "ECI249",
+      "prerequisite_code": "ECI247"
+    },
+    {
+      "code": "ECI255",
+      "prerequisite_code": "ECI254"
+    }
+  ]
+}

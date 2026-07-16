@@ -1,0 +1,222 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "DAA001",
+      "name": "Antropologia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DAA002",
+      "name": "Fundamentos de Arqueologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FIL035",
+      "name": "Introd. Fil: Filosofia Ciencias Sociais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MTE462",
+      "name": "Linguística Antropológica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "SOA048",
+      "name": "Fundamentos de Analise Sociologica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DAA003",
+      "name": "Antropologia Brasileira",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DAA004",
+      "name": "Antropologia II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DAA005",
+      "name": "Antropologia Biológica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DAA006",
+      "name": "Arqueologia dos Processos de Desenvolvimento Humano",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DAA007",
+      "name": "Estudos de Cultura Material",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DAA008",
+      "name": "Antropologia III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DAA009",
+      "name": "Fundamentos de Pesquisa Etnográfica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DAA010",
+      "name": "Patrimônio Cultural",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DAA011",
+      "name": "Arqueologia Brasileira",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DAA012",
+      "name": "Métodos e Técnicas de Pesquisa Arqueológica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DAA013",
+      "name": "Antropologia IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DAA014",
+      "name": "Arqueologia e Coletivos Contemporâneos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DAA015",
+      "name": "Elaboração de Projeto de Pesquisa",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DAA016",
+      "name": "Laboratório de Pesquisa em Antropologia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DAA017",
+      "name": "Laboratório de Pesquisa em Antropologia II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DAA018",
+      "name": "Monografia em Antropologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "DAA004",
+      "prerequisite_code": "DAA001"
+    },
+    {
+      "code": "DAA006",
+      "prerequisite_code": "DAA002"
+    },
+    {
+      "code": "DAA007",
+      "prerequisite_code": "DAA002"
+    },
+    {
+      "code": "DAA008",
+      "prerequisite_code": "DAA004"
+    },
+    {
+      "code": "DAA011",
+      "prerequisite_code": "DAA006"
+    },
+    {
+      "code": "DAA012",
+      "prerequisite_code": "DAA002"
+    },
+    {
+      "code": "DAA013",
+      "prerequisite_code": "DAA008"
+    },
+    {
+      "code": "DAA014",
+      "prerequisite_code": "DAA007"
+    },
+    {
+      "code": "DAA015",
+      "prerequisite_code": "DAA013"
+    },
+    {
+      "code": "DAA016",
+      "prerequisite_code": "DAA015"
+    },
+    {
+      "code": "DAA017",
+      "prerequisite_code": "DAA016"
+    },
+    {
+      "code": "DAA018",
+      "prerequisite_code": "DAA017"
+    }
+  ]
+}

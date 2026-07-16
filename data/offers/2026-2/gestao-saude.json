@@ -1,0 +1,1871 @@
+[
+  {
+    "course_id": "CAD009",
+    "name": "ADMINISTRAÇÃO DE RECURSOS MATERIAIS E PATRIMONIAIS",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Tiago A. S. J."
+    ]
+  },
+  {
+    "course_id": "CAD067",
+    "name": "GESTÃO DE CUSTOS",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. C."
+    ]
+  },
+  {
+    "course_id": "CAD189",
+    "name": "TEORIA DA ADMINISTRAÇÃO",
+    "availabilityCode": "TA",
+    "spots": 57,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Vanessa M. A."
+    ]
+  },
+  {
+    "course_id": "CAD190",
+    "name": "ESTRATÉGIA DE PLANEJAMENTO I",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Jussara J. P."
+    ]
+  },
+  {
+    "course_id": "CIC010",
+    "name": "INTRODUÇÃO À CONTABILIDADE",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Anelisa C. F."
+    ]
+  },
+  {
+    "course_id": "ECN032",
+    "name": "ECONOMIA DA SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Kenya V. M. S. N."
+    ]
+  },
+  {
+    "course_id": "ECN140",
+    "name": "INTRODUÇÃO À ECONOMIA",
+    "availabilityCode": "TC",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Nayara A. J."
+    ]
+  },
+  {
+    "course_id": "ECN251",
+    "name": "MICROECONOMIA APLICADA À SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Kenya V. M. S. N."
+    ]
+  },
+  {
+    "course_id": "GES002",
+    "name": "BIOESTATÍSTICA A",
+    "availabilityCode": "TA",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Mery N. S. A."
+    ]
+  },
+  {
+    "course_id": "GES003",
+    "name": "EPIDEMIOLOGIA A",
+    "availabilityCode": "PA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Antonio I. L. F."
+    ]
+  },
+  {
+    "course_id": "GES003",
+    "name": "EPIDEMIOLOGIA A",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Antonio I. L. F."
+    ]
+  },
+  {
+    "course_id": "GES005",
+    "name": "AUDITORIA EM SERVIÇOS DE SAÚDE",
+    "availabilityCode": "PA",
+    "spots": 6,
+    "times": [],
+    "teachers": [
+      "Ana R. M. R."
+    ]
+  },
+  {
+    "course_id": "GES005",
+    "name": "AUDITORIA EM SERVIÇOS DE SAÚDE",
+    "availabilityCode": "PB",
+    "spots": 6,
+    "times": [],
+    "teachers": [
+      "Marcus V. S. C."
+    ]
+  },
+  {
+    "course_id": "GES005",
+    "name": "AUDITORIA EM SERVIÇOS DE SAÚDE",
+    "availabilityCode": "PC",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Patricia L. S."
+    ]
+  },
+  {
+    "course_id": "GES005",
+    "name": "AUDITORIA EM SERVIÇOS DE SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 17,
+    "times": [],
+    "teachers": [
+      "Patricia L. S.",
+      "Marcus V. S. C."
+    ]
+  },
+  {
+    "course_id": "GES007",
+    "name": "TÓPICOS EM SAÚDE I - Gestão dos Serviços de Saúde na Atenção à Pessoa Idosa",
+    "availabilityCode": "TA",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Doane M. S."
+    ]
+  },
+  {
+    "course_id": "GES007",
+    "name": "TÓPICOS EM SAÚDE I - Gestão Estratégica de Custos em Saúde",
+    "availabilityCode": "TB",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcia M. A."
+    ]
+  },
+  {
+    "course_id": "GES007",
+    "name": "TÓPICOS EM SAÚDE I - Modelos de Remuneração em Saúde",
+    "availabilityCode": "TC",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Andreia P. F. S."
+    ]
+  },
+  {
+    "course_id": "GES007",
+    "name": "TÓPICOS EM SAÚDE I - Metodologia Lean Aplicada aos Serviços de Saúde",
+    "availabilityCode": "TD",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Rafael J. P."
+    ]
+  },
+  {
+    "course_id": "GES007",
+    "name": "TÓPICOS EM SAÚDE I - Ferramentas da Qualidade",
+    "availabilityCode": "TE",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Rafael J. P."
+    ]
+  },
+  {
+    "course_id": "GES007",
+    "name": "TÓPICOS EM SAÚDE I - Regulação em Saúde",
+    "availabilityCode": "TF",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcus V. S. C."
+    ]
+  },
+  {
+    "course_id": "GES007",
+    "name": "TÓPICOS EM SAÚDE I - Elaboração de Projetos de Investimentos",
+    "availabilityCode": "TG",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcia M. A."
+    ]
+  },
+  {
+    "course_id": "GES007",
+    "name": "TÓPICOS EM SAÚDE I - Comunicação de Informações e Construção de Painel de Controle na Gestão em Saúde",
+    "availabilityCode": "TH",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Mery N. S. A."
+    ]
+  },
+  {
+    "course_id": "GES007",
+    "name": "TÓPICOS EM SAÚDE I - Introdução à Experiência do Paciente e o Cuidado Centrado",
+    "availabilityCode": "TI",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Patricia L. S."
+    ]
+  },
+  {
+    "course_id": "GES007",
+    "name": "TÓPICOS EM SAÚDE I - Contratualização e Gestão de Contratos em Saúde",
+    "availabilityCode": "TJ",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES008",
+    "name": "CÁLCULO APLICADO À SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 62,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES009",
+    "name": "METODOLOGIA CIENTÍFICA I",
+    "availabilityCode": "TA",
+    "spots": 57,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Eleonora A. M. A."
+    ]
+  },
+  {
+    "course_id": "GES011",
+    "name": "MODELOS DE ATENÇÃO À SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Carlos P. B. A."
+    ]
+  },
+  {
+    "course_id": "GES012",
+    "name": "SAÚDE SUPLEMENTAR",
+    "availabilityCode": "PA1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES012",
+    "name": "SAÚDE SUPLEMENTAR",
+    "availabilityCode": "PA2",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Eleonora A. M. A."
+    ]
+  },
+  {
+    "course_id": "GES012",
+    "name": "SAÚDE SUPLEMENTAR",
+    "availabilityCode": "PA3",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Doane M. S."
+    ]
+  },
+  {
+    "course_id": "GES012",
+    "name": "SAÚDE SUPLEMENTAR",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES013",
+    "name": "SISTEMAS DE INFORMAÇÃO EM SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Antonio I. L. F."
+    ]
+  },
+  {
+    "course_id": "GES014",
+    "name": "PROCESSO DE TRABALHO E TECNOLOGIAS EM SAÚDE",
+    "availabilityCode": "PA1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Carlos P. B. A."
+    ]
+  },
+  {
+    "course_id": "GES014",
+    "name": "PROCESSO DE TRABALHO E TECNOLOGIAS EM SAÚDE",
+    "availabilityCode": "PA2",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Vanessa A."
+    ]
+  },
+  {
+    "course_id": "GES014",
+    "name": "PROCESSO DE TRABALHO E TECNOLOGIAS EM SAÚDE",
+    "availabilityCode": "PA3",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Andreia P. F. S."
+    ]
+  },
+  {
+    "course_id": "GES014",
+    "name": "PROCESSO DE TRABALHO E TECNOLOGIAS EM SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Carlos P. B. A."
+    ]
+  },
+  {
+    "course_id": "GES015",
+    "name": "VIGILÂNCIA EM SAÚDE",
+    "availabilityCode": "PA1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Carlos P. B. A."
+    ]
+  },
+  {
+    "course_id": "GES015",
+    "name": "VIGILÂNCIA EM SAÚDE",
+    "availabilityCode": "PA2",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Patricia L. S."
+    ]
+  },
+  {
+    "course_id": "GES015",
+    "name": "VIGILÂNCIA EM SAÚDE",
+    "availabilityCode": "PA3",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES015",
+    "name": "VIGILÂNCIA EM SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Carlos P. B. A.",
+      "Ana R. M. R."
+    ]
+  },
+  {
+    "course_id": "GES016",
+    "name": "PLANEJAMENTO , PROGRAMAÇÃO E AVALIAÇÃO EM SAÚDE",
+    "availabilityCode": "PA1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Katia F. C. C."
+    ]
+  },
+  {
+    "course_id": "GES016",
+    "name": "PLANEJAMENTO , PROGRAMAÇÃO E AVALIAÇÃO EM SAÚDE",
+    "availabilityCode": "PA2",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Renato R. S."
+    ]
+  },
+  {
+    "course_id": "GES016",
+    "name": "PLANEJAMENTO , PROGRAMAÇÃO E AVALIAÇÃO EM SAÚDE",
+    "availabilityCode": "PA3",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Vanessa A."
+    ]
+  },
+  {
+    "course_id": "GES016",
+    "name": "PLANEJAMENTO , PROGRAMAÇÃO E AVALIAÇÃO EM SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Katia F. C. C."
+    ]
+  },
+  {
+    "course_id": "GES017",
+    "name": "GESTÃO COM PESSOAS NAS ORGANIZAÇÕES DE SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Adriane V."
+    ]
+  },
+  {
+    "course_id": "GES018",
+    "name": "GESTÃO DA QUALIDADE EM SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Patricia L. S."
+    ]
+  },
+  {
+    "course_id": "GES019",
+    "name": "ELABORAÇÃO DE PROJETOS DE PESQUISA",
+    "availabilityCode": "PA1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Sergio W. V. P."
+    ]
+  },
+  {
+    "course_id": "GES019",
+    "name": "ELABORAÇÃO DE PROJETOS DE PESQUISA",
+    "availabilityCode": "PA2",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Mery N. S. A."
+    ]
+  },
+  {
+    "course_id": "GES019",
+    "name": "ELABORAÇÃO DE PROJETOS DE PESQUISA",
+    "availabilityCode": "PA3",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Keli B. F. Z."
+    ]
+  },
+  {
+    "course_id": "GES019",
+    "name": "ELABORAÇÃO DE PROJETOS DE PESQUISA",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Sergio W. V. P."
+    ]
+  },
+  {
+    "course_id": "GES020",
+    "name": "GESTÃO DE RISCOS NAS ORGANIZAÇÕES DE SAÚDE",
+    "availabilityCode": "PA1",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Doane M. S."
+    ]
+  },
+  {
+    "course_id": "GES020",
+    "name": "GESTÃO DE RISCOS NAS ORGANIZAÇÕES DE SAÚDE",
+    "availabilityCode": "PA2",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Eleonora A. M. A."
+    ]
+  },
+  {
+    "course_id": "GES020",
+    "name": "GESTÃO DE RISCOS NAS ORGANIZAÇÕES DE SAÚDE",
+    "availabilityCode": "PA3",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Rafael J. P."
+    ]
+  },
+  {
+    "course_id": "GES020",
+    "name": "GESTÃO DE RISCOS NAS ORGANIZAÇÕES DE SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Doane M. S."
+    ]
+  },
+  {
+    "course_id": "GES021",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+    "availabilityCode": "PA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:10",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Sergio W. V. P."
+    ]
+  },
+  {
+    "course_id": "GES021",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:10",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Sergio W. V. P."
+    ]
+  },
+  {
+    "course_id": "GES022",
+    "name": "ÉTICA",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES023",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+    "availabilityCode": "PA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:10",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Keli B. F. Z."
+    ]
+  },
+  {
+    "course_id": "GES023",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:10",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES026",
+    "name": "GERENCIAMENTO DE RESÍDUOS DE SERVIÇOS DE SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Renato R. S."
+    ]
+  },
+  {
+    "course_id": "GES030",
+    "name": "AVALIAÇÃO EM SERVIÇOS DE SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Mirela C. S. C."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Governança Corporativa e Compliance em Saúde",
+    "availabilityCode": "PA1",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Renato R. S."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Governança Corporativa e Compliance em Saúde",
+    "availabilityCode": "PA2",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcia M. A."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Governança Corporativa e Compliance em Saúde",
+    "availabilityCode": "PA3",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Gestão da Informação: o prontuário do paciente",
+    "availabilityCode": "PB1",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcus V. S. C."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Gestão da Informação: o prontuário do paciente",
+    "availabilityCode": "PB2",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Rafael J. P."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Gestão da Informação: o prontuário do paciente",
+    "availabilityCode": "PB3",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Andreia P. F. S."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Atenção Especializada Hospitalar e Ambulatorial na Saúde Pública",
+    "availabilityCode": "PC1",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ana R. M. R."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Atenção Especializada Hospitalar e Ambulatorial na Saúde Pública",
+    "availabilityCode": "PC2",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcus V. S. C."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Atenção Especializada Hospitalar e Ambulatorial na Saúde Pública",
+    "availabilityCode": "PC3",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcia M. A."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Biossegurança e Controle de Infecção Hospitalar",
+    "availabilityCode": "PD1",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Andreia P. F. S."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Biossegurança e Controle de Infecção Hospitalar",
+    "availabilityCode": "PD2",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Carlos P. B. A."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Biossegurança e Controle de Infecção Hospitalar",
+    "availabilityCode": "PD3",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Mirela C. S. C."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Desenhos de Estudos Aplicados à Saúde",
+    "availabilityCode": "PE",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Gestão da Inovação Aplicada à Saúde",
+    "availabilityCode": "PG",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Eleonora A. M. A."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Gestão da Inovação Aplicada à Saúde",
+    "availabilityCode": "PH",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Doane M. S."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Gestão da Inovação Aplicada à Saúde",
+    "availabilityCode": "PI",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Planejamento e inteligência de Mercado em Saúde",
+    "availabilityCode": "PJ",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Regulação Econômica e Modelos de Financiamento",
+    "availabilityCode": "PK",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Governança Corporativa e Compliance em Saúde",
+    "availabilityCode": "TA",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Renato R. S."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Gestão da Informação: o prontuário do paciente",
+    "availabilityCode": "TB",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ana R. M. R.",
+      "Marcus V. S. C."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Atenção Especializada Hospitalar e Ambulatorial na Saúde Pública",
+    "availabilityCode": "TC",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ana R. M. R."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Biossegurança e Controle de Infecção Hospitalar",
+    "availabilityCode": "TD",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Andreia P. F. S."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Desenhos de Estudos Aplicados à Saúde",
+    "availabilityCode": "TE",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Gestão da Inovação Aplicada à Saúde",
+    "availabilityCode": "TF",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Eleonora A. M. A."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Planejamento e inteligência de Mercado em Saúde",
+    "availabilityCode": "TJ",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES033",
+    "name": "TÓPICOS EM SAÚDE II - Regulação Econômica e Modelos de Financiamento",
+    "availabilityCode": "TK",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES034",
+    "name": "TÓPICOS EM SAÚDE III - Judicialização da Saúde",
+    "availabilityCode": "PA",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Keli B. F. Z."
+    ]
+  },
+  {
+    "course_id": "GES034",
+    "name": "TÓPICOS EM SAÚDE III - Judicialização da Saúde",
+    "availabilityCode": "PB",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Eleonora A. M. A."
+    ]
+  },
+  {
+    "course_id": "GES034",
+    "name": "TÓPICOS EM SAÚDE III - Judicialização da Saúde",
+    "availabilityCode": "PC",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES034",
+    "name": "TÓPICOS EM SAÚDE III - Elaboração de Protocolos de Organização de Serviços e da Assistência em Saúde",
+    "availabilityCode": "PD",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Katia F. C. C."
+    ]
+  },
+  {
+    "course_id": "GES034",
+    "name": "TÓPICOS EM SAÚDE III - Elaboração de Protocolos de Organização de Serviços e da Assistência em Saúde",
+    "availabilityCode": "PE",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Antonio I. L. F."
+    ]
+  },
+  {
+    "course_id": "GES034",
+    "name": "TÓPICOS EM SAÚDE III - Elaboração de Protocolos de Organização de Serviços e da Assistência em Saúde",
+    "availabilityCode": "PF",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Mirela C. S. C."
+    ]
+  },
+  {
+    "course_id": "GES034",
+    "name": "TÓPICOS EM SAÚDE III - Ciência de Dados Aplicados a Saúde",
+    "availabilityCode": "PG",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES034",
+    "name": "TÓPICOS EM SAÚDE III - Judicialização da Saúde",
+    "availabilityCode": "TA",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Keli B. F. Z."
+    ]
+  },
+  {
+    "course_id": "GES034",
+    "name": "TÓPICOS EM SAÚDE III - Elaboração de Protocolos de Organização de Serviços e da Assistência em Saúde",
+    "availabilityCode": "TB",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Katia F. C. C."
+    ]
+  },
+  {
+    "course_id": "GES034",
+    "name": "TÓPICOS EM SAÚDE III - Ciência de Dados Aplicados a Saúde",
+    "availabilityCode": "TG",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Karla R. S."
+    ]
+  },
+  {
+    "course_id": "GES038",
+    "name": "FINANCIAMENTO EM SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ana R. M. R."
+    ]
+  },
+  {
+    "course_id": "GES039",
+    "name": "ATENÇÃO PRIMÁRIA À SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcus V. S. C."
+    ]
+  },
+  {
+    "course_id": "GES053",
+    "name": "INTRODUÇÃO À GESTÃO DE SERVIÇOS DE SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 58,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Katia F. C. C."
+    ]
+  },
+  {
+    "course_id": "GES054",
+    "name": "RELAÇÕES SOCIOCULTURAIS EM SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 57,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Mirela C. S. C."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MPS015",
+    "name": "POLÍTICAS DE SAÚDE NO BRASIL",
+    "availabilityCode": "TA",
+    "spots": 57,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MPS016",
+    "name": "SAÚDE AMBIENTAL",
+    "availabilityCode": "PA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:40",
+        "end": "22:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MPS016",
+    "name": "SAÚDE AMBIENTAL",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MPS017",
+    "name": "SAÚDE E TRABALHO",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "POP005",
+    "name": "INTRODUÇÃO À DEMOGRAFIA",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Vanessa G. D. L. G."
+    ]
+  },
+  {
+    "course_id": "POP015",
+    "name": "COMPONENTES DA DINÂMICA DEMOGRÁFICA",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Alisson F. B."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  }
+]

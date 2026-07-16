@@ -1,0 +1,1162 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "BIG001",
+      "name": "Fundamentos de Genetica e Evolucao",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "BIQ004",
+      "name": "Bioquimica Aplicada a Enfermagem",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "EMI025",
+      "name": "Saude Coletiva",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ENA033",
+      "name": "Metodologia Cientifica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ENA077",
+      "name": "Seminário de Integração I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ENB038",
+      "name": "Enfermagem no Contexto Historico Social",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FIB027",
+      "name": "Biofisica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "BIQ059",
+      "name": "Imunologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EST612",
+      "name": "Estatistica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MIC011",
+      "name": "Microbiologia Aplicada a Enfermagem",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF008",
+      "name": "Embriologia Geral",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF018",
+      "name": "Citologia e Histologia Aplic. Enfermagem",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF060",
+      "name": "Anatomia Aplicada a Enfermagem",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EFM092",
+      "name": "Seminário de Integração II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EMI041",
+      "name": "Epidemiologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ENA018",
+      "name": "Saude Mental",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ENA019",
+      "name": "Gestao do Sistema de Saude",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIB028",
+      "name": "Fisiologia Aplicada a Enfermagem",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MOF061",
+      "name": "Neuroanatomia Aplicada a Enfermagem",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ENA035",
+      "name": "Capacitacao Pedagogica Aplicada a Enferm",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FAR012",
+      "name": "Farmacologia Aplicada a Enfermagem",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "PAG019",
+      "name": "Patologia Geral",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "PAR003",
+      "name": "Parasitologia Humana",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ENA021",
+      "name": "Gerencia em Saude e em Enfermagem",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ENB040",
+      "name": "Fundamentos do Cuidado de Enfermagem",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ENB056",
+      "name": "Sistematizacao da Assistencia de Enf.",
+      "description": null,
+      "credits": 9,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ENA157",
+      "name": "Projeto de Pesquisa I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ENB041",
+      "name": "Enfermagem Clinica e Cirurgica",
+      "description": null,
+      "credits": 12,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMI042",
+      "name": "Enfermagem da Crianca e do Adolescente",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "EMI049",
+      "name": "Saúde das Mulheres",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ENA158",
+      "name": "Projeto de Pesquisa II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EMI027",
+      "name": "Enfermagem na Atencao Basica",
+      "description": null,
+      "credits": 7,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ENA022",
+      "name": "Gerencia do Cuidado em Saude e em Enferm",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ENA036",
+      "name": "Enfermagem Psiquiatrica",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ENB055",
+      "name": "Seminario de Integracao III",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "EFM063",
+      "name": "Estágio Curricular: Atenção Primária À Saúde",
+      "description": null,
+      "credits": 30,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ADE003",
+      "name": "Política Educacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CAE001",
+      "name": "Sociologia da Educação",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CAE002",
+      "name": "Psicologia da Educ.-aprendizag. e Ensino",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM057",
+      "name": "Planejamento Estrategico",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM065",
+      "name": "Tópicos em Enfermagem I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM066",
+      "name": "Tópicos em Enfermagem II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM067",
+      "name": "Tópicos em Enfermagem III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM068",
+      "name": "Tópicos em Enfermagem IV",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM069",
+      "name": "Tópicos em Enfermagem V",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM070",
+      "name": "Tópicos em Enfermagem VI",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM071",
+      "name": "Tópicos em Enfermagem VII",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM072",
+      "name": "Tópicos em Enfermagem VIII",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM073",
+      "name": "Seminários",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM074",
+      "name": "Discussões Temáticas",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM075",
+      "name": "Programa de Iniciação À Pesquisa I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM076",
+      "name": "Programa de Iniciação À Pesquisa II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM077",
+      "name": "Programa de Iniciação À Pesquisa III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM078",
+      "name": "Programa de Iniciação À Pesquisa IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM079",
+      "name": "Programa de Iniciação À Docência I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM080",
+      "name": "Programa de Iniciação À Docência II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM081",
+      "name": "Programa de Iniciação À Docência III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM082",
+      "name": "Programa de Iniciação À Docência IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM083",
+      "name": "Programa de Iniciação À Extensão I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM084",
+      "name": "Programa de Iniciação À Extensão II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM085",
+      "name": "Programa de Iniciação À Extensão III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM086",
+      "name": "Programa de Iniciação À Extensão IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM087",
+      "name": "Vivência Profissional Complementar",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM088",
+      "name": "Vivência Profissional Complementar II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM089",
+      "name": "Vivência Profissional Complementar III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM090",
+      "name": "Vivência Profissional Complementar IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM091",
+      "name": "Tcc",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EFM093",
+      "name": "Estágio Hospitalar em Unid. de Saúde de Média e Alta Complex",
+      "description": null,
+      "credits": 30,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMI028",
+      "name": "Saude e Genero",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMI031",
+      "name": "Topico em Enfermagem Infantil e Saude Pu",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMI033",
+      "name": "Avaliacao em Saude Coletiva",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMI035",
+      "name": "Enfermagem do Neonato",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMI036",
+      "name": "Saude Reprodutiva",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMI038",
+      "name": "Topicos Enfermagem Materno e Saude Pub",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMI040",
+      "name": "Politicas de Saude no Brasil",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMI043",
+      "name": "Bioetica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMI046",
+      "name": "Violência e Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMI047",
+      "name": "Tópicos em Enfermagem Materno Infantil e Saúde Pública I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMI048",
+      "name": "Tópicos em Enfermagem Materno Infantil e Saúde Pública II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMI050",
+      "name": "Prevenção e Controle das Infecções Sexualmente Transmissívei",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "EMI051",
+      "name": "Sociedade e Processo Saúde Doença",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENA011",
+      "name": "Saude Mental e Sociedade",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENA012",
+      "name": "Dependencias Quimicas na Adolescencia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENA025",
+      "name": "Processo Gerencial e Gestao de Pessoas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENA029",
+      "name": "Lideranca e Trabalho em Equipe",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENA030",
+      "name": "Topicos em Enfermagem Aplicada I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENA031",
+      "name": "Topicos em Enfermagem Aplicada II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENA107",
+      "name": "Alimentacao e Cultura",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENA120",
+      "name": "Etica e Cultura",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENA159",
+      "name": "Envelhecimento Populacional e Atenção À Saúde do Idoso",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENA160",
+      "name": "Gerência do Cuidado de Enfermagem em Terapia Intensiva",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENA161",
+      "name": "Saúde do Trabalhador em Serviços de Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENA162",
+      "name": "Educação, Saúde e Vulnerabilidade",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENA163",
+      "name": "Prática Educativas em Doenças Crônicas: Interd. e Inovação",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENA164",
+      "name": "Cuidado, Clínica e Subjetividade",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENA165",
+      "name": "Análise Situações de Conflito Contexto das Org. Saúde Ead",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENB017",
+      "name": "Primeiros Socorros",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENB042",
+      "name": "Nutricao Nos Ciclos da Vida",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENB043",
+      "name": "Epidemiologia das Infeccoes Hospitalares",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENB045",
+      "name": "Teoriais de Enfermagem",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENB046",
+      "name": "Tanatologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENB049",
+      "name": "Topico em Enfermagem Basica I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENB050",
+      "name": "Topicos em Enfermagem Basica II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENB057",
+      "name": "Assistência Ao Paciente Crítico",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENB058",
+      "name": "Telessaúde/telenfermagem",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENB059",
+      "name": "Saúde do Idoso",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENB062",
+      "name": "Enfermagem em Neurologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENB063",
+      "name": "Prevenção e Controle do Câncer: Uma Abordagem Holistica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENB064",
+      "name": "Prevenção e Tratamento de Pessoas Com Lesão Cutânea Crônica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENB065",
+      "name": "Segurança do Paciente na Prática Clínico- Assistencial",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENB066",
+      "name": "Singularidades do Cuidar em Enfermagem",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENB067",
+      "name": "Enfermagem em Cuidados Intensivos",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENF132",
+      "name": "Tópicos em Enfermagem Pi",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENF133",
+      "name": "Tópicos em Enfermagem Pii",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENF134",
+      "name": "Tópicos em Enfermagem Piii",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ENF135",
+      "name": "Tópicos em Enfermagem Piv",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FIB029",
+      "name": "Biofisica das Radiacoes",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FIB030",
+      "name": "Topicos em Imunologia:introducao a Leitu",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FIL015",
+      "name": "Antroplogia Filosofica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICB001",
+      "name": "Bases Ecológicas Para o Desenvolvimento Sustentável",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "LET223",
+      "name": "Fundamentos de Libras",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "MOF039",
+      "name": "Neuroanatomia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "PAG013",
+      "name": "Patologia Especial Para a Enfermagem",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "PFA004",
+      "name": "Seminarios em Fitoterapia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "SOA042",
+      "name": "Introducao a Sociologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "BIQ059",
+      "prerequisite_code": "BIQ004"
+    },
+    {
+      "code": "MIC011",
+      "prerequisite_code": "BIQ004"
+    },
+    {
+      "code": "EFM092",
+      "prerequisite_code": "ENA077"
+    },
+    {
+      "code": "EMI041",
+      "prerequisite_code": "EST612"
+    },
+    {
+      "code": "MOF061",
+      "prerequisite_code": "MOF060"
+    },
+    {
+      "code": "ENA035",
+      "prerequisite_code": "EMI025"
+    },
+    {
+      "code": "FAR012",
+      "prerequisite_code": "FIB027"
+    },
+    {
+      "code": "FAR012",
+      "prerequisite_code": "FIB028"
+    },
+    {
+      "code": "PAR003",
+      "prerequisite_code": "BIQ059"
+    },
+    {
+      "code": "ENA021",
+      "prerequisite_code": "ENA019"
+    },
+    {
+      "code": "ENB040",
+      "prerequisite_code": "MIC011"
+    },
+    {
+      "code": "ENB040",
+      "prerequisite_code": "FAR012"
+    },
+    {
+      "code": "ENB056",
+      "prerequisite_code": "FIB028"
+    },
+    {
+      "code": "ENA157",
+      "prerequisite_code": "ENA033"
+    },
+    {
+      "code": "EMI049",
+      "prerequisite_code": "ENB041"
+    },
+    {
+      "code": "ENA158",
+      "prerequisite_code": "ENA157"
+    },
+    {
+      "code": "ENA022",
+      "prerequisite_code": "ENA021"
+    },
+    {
+      "code": "ENB055",
+      "prerequisite_code": "EFM092"
+    },
+    {
+      "code": "EFM091",
+      "prerequisite_code": "ENA158"
+    },
+    {
+      "code": "EFM093",
+      "prerequisite_code": "EMI027"
+    },
+    {
+      "code": "EFM093",
+      "prerequisite_code": "ENA022"
+    },
+    {
+      "code": "EFM057",
+      "prerequisite_code": "EMI027"
+    },
+    {
+      "code": "EMI035",
+      "prerequisite_code": "EMI042"
+    },
+    {
+      "code": "ENA160",
+      "prerequisite_code": "ENB041"
+    },
+    {
+      "code": "ENA160",
+      "prerequisite_code": "ENA022"
+    },
+    {
+      "code": "ENA164",
+      "prerequisite_code": "ENB040"
+    },
+    {
+      "code": "ENB043",
+      "prerequisite_code": "ENB041"
+    },
+    {
+      "code": "ENB057",
+      "prerequisite_code": "ENB041"
+    },
+    {
+      "code": "ENB059",
+      "prerequisite_code": "ENB041"
+    },
+    {
+      "code": "ENB062",
+      "prerequisite_code": "ENB056"
+    },
+    {
+      "code": "ENB063",
+      "prerequisite_code": "ENB040"
+    },
+    {
+      "code": "ENB063",
+      "prerequisite_code": "ENB056"
+    },
+    {
+      "code": "ENB064",
+      "prerequisite_code": "ENB040"
+    },
+    {
+      "code": "ENB064",
+      "prerequisite_code": "ENB056"
+    },
+    {
+      "code": "ENB065",
+      "prerequisite_code": "MIC011"
+    },
+    {
+      "code": "FIB029",
+      "prerequisite_code": "FIB027"
+    },
+    {
+      "code": "FIB030",
+      "prerequisite_code": "BIQ059"
+    },
+    {
+      "code": "MOF039",
+      "prerequisite_code": "MOF060"
+    },
+    {
+      "code": "PAG013",
+      "prerequisite_code": "PAG019"
+    }
+  ]
+}

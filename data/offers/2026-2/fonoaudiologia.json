@@ -1,0 +1,2909 @@
+[
+  {
+    "course_id": "BIG148",
+    "name": "INTRODUCAO AO ESTUDO DA GENETICA E EVOLUCAO",
+    "availabilityCode": "TF",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Frederico M. S."
+    ]
+  },
+  {
+    "course_id": "CLM021",
+    "name": "FUNDAMENTOS EM NEUROLOGIA - MODULO FONOAUDIOLOGIA",
+    "availabilityCode": "TA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Paulo P. C."
+    ]
+  },
+  {
+    "course_id": "FAR037",
+    "name": "FARMACOLOGIA APLICADA À FONOAUDIOLOGIA",
+    "availabilityCode": "PT1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Stefany B. A. C.",
+      "Thiago R. L. R.",
+      "Marina G. M. C. R."
+    ]
+  },
+  {
+    "course_id": "FAR037",
+    "name": "FARMACOLOGIA APLICADA À FONOAUDIOLOGIA",
+    "availabilityCode": "PT2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Stefany B. A. C.",
+      "Thiago R. L. R.",
+      "Marina G. M. C. R."
+    ]
+  },
+  {
+    "course_id": "FAR037",
+    "name": "FARMACOLOGIA APLICADA À FONOAUDIOLOGIA",
+    "availabilityCode": "TT",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Stefany B. A. C.",
+      "Thiago R. L. R.",
+      "Marina G. M. C. R."
+    ]
+  },
+  {
+    "course_id": "FIB041",
+    "name": "FISIOLOGIA HUMANA III",
+    "availabilityCode": "TD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Andrea S. H."
+    ]
+  },
+  {
+    "course_id": "FIS150",
+    "name": "FÍSICA ACÚSTICA E ONDAS",
+    "availabilityCode": "TM",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "10:15",
+        "end": "11:55"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FON133",
+    "name": "INTRODUÇÃO À FONOAUDIOLOGIA",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Monalise C. B. B."
+    ]
+  },
+  {
+    "course_id": "FON133",
+    "name": "INTRODUÇÃO À FONOAUDIOLOGIA",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Monalise C. B. B.",
+      "Aline M. M."
+    ]
+  },
+  {
+    "course_id": "FON134",
+    "name": "DESENVOLVIMENTO HUMANO APLICADO À FONOAUDIOLOGIA",
+    "availabilityCode": "TA",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:01",
+        "end": "18:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:01",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Amelia A. L. F.",
+      "Denise B. O. B."
+    ]
+  },
+  {
+    "course_id": "FON134",
+    "name": "DESENVOLVIMENTO HUMANO APLICADO À FONOAUDIOLOGIA",
+    "availabilityCode": "TB",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:01",
+        "end": "18:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:01",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Thais H. M.",
+      "Denise B. O. B.",
+      "Amelia A. L. F."
+    ]
+  },
+  {
+    "course_id": "FON135",
+    "name": "ATENÇÃO PRIMARIA À SAÚDE",
+    "availabilityCode": "PA",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:01",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Renata J."
+    ]
+  },
+  {
+    "course_id": "FON135",
+    "name": "ATENÇÃO PRIMARIA À SAÚDE",
+    "availabilityCode": "PB",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:01",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Renata J."
+    ]
+  },
+  {
+    "course_id": "FON135",
+    "name": "ATENÇÃO PRIMARIA À SAÚDE",
+    "availabilityCode": "PC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:01",
+        "end": "21:00"
+      },
+      {
+        "day": "Terca",
+        "start": "18:01",
+        "end": "21:00"
+      }
+    ],
+    "teachers": [
+      "Stela M. A. L."
+    ]
+  },
+  {
+    "course_id": "FON135",
+    "name": "ATENÇÃO PRIMARIA À SAÚDE",
+    "availabilityCode": "PD",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:01",
+        "end": "21:00"
+      },
+      {
+        "day": "Terca",
+        "start": "18:01",
+        "end": "21:00"
+      }
+    ],
+    "teachers": [
+      "Nayara R. G.",
+      "Renata J."
+    ]
+  },
+  {
+    "course_id": "FON135",
+    "name": "ATENÇÃO PRIMARIA À SAÚDE",
+    "availabilityCode": "PE",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:01",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Andrea R. M.",
+      "Renata J."
+    ]
+  },
+  {
+    "course_id": "FON135",
+    "name": "ATENÇÃO PRIMARIA À SAÚDE",
+    "availabilityCode": "PF",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:01",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Renata J.",
+      "Renata M. M. M. F."
+    ]
+  },
+  {
+    "course_id": "FON135",
+    "name": "ATENÇÃO PRIMARIA À SAÚDE",
+    "availabilityCode": "PG",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:01",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Renata J."
+    ]
+  },
+  {
+    "course_id": "FON136",
+    "name": "POLÍTICAS DE SAÚDE APLICADAS À FONOAUDIOLOGIA",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:01",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Stela M. A. L."
+    ]
+  },
+  {
+    "course_id": "FON137",
+    "name": "FUNDAMENTOS DOS TRANSTORNOS DA LINGUAGEM",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Denise B. O. B."
+    ]
+  },
+  {
+    "course_id": "FON138",
+    "name": "ANÁLISE ACÚSTICA DA FONOARTICULAÇÃO",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ualisson N. N."
+    ]
+  },
+  {
+    "course_id": "FON138",
+    "name": "ANÁLISE ACÚSTICA DA FONOARTICULAÇÃO",
+    "availabilityCode": "TB",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ualisson N. N."
+    ]
+  },
+  {
+    "course_id": "FON139",
+    "name": "DIAGNÓSTICO E TRATAMENTO FONOAUDIOLÓGICO NAS DISFONIAS",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Leticia C. T."
+    ]
+  },
+  {
+    "course_id": "FON140",
+    "name": "AUDIOLOGIA CLÍNICA I",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:31",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Patricia C. M."
+    ]
+  },
+  {
+    "course_id": "FON140",
+    "name": "AUDIOLOGIA CLÍNICA I",
+    "availabilityCode": "TB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:31",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Thamara S. S.",
+      "Patricia C. M."
+    ]
+  },
+  {
+    "course_id": "FON141",
+    "name": "ÉTICA PROFISSIONAL E BIOSSEGURANÇA",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:31",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Ualisson N. N."
+    ]
+  },
+  {
+    "course_id": "FON141",
+    "name": "ÉTICA PROFISSIONAL E BIOSSEGURANÇA",
+    "availabilityCode": "TB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:31",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Andrea R. M.",
+      "Ualisson N. N."
+    ]
+  },
+  {
+    "course_id": "FON142",
+    "name": "FUNCIONALIDADE E FONOAUDIOLOGIA",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:31",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Stela M. A. L."
+    ]
+  },
+  {
+    "course_id": "FON143",
+    "name": "DIAGNÓSTICO E TRATAMENTO FONOAUDIOLÓGICO NOS TRANSTORNOS DA LINGUAGEM ORAL I",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:01",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Izabel C. C. M."
+    ]
+  },
+  {
+    "course_id": "FON143",
+    "name": "DIAGNÓSTICO E TRATAMENTO FONOAUDIOLÓGICO NOS TRANSTORNOS DA LINGUAGEM ORAL I",
+    "availabilityCode": "TB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:01",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Denise B. O. B.",
+      "Izabel C. C. M."
+    ]
+  },
+  {
+    "course_id": "FON144",
+    "name": "ENSINO FONOAUDIOLÓGICO: LINGUAGEM ORAL",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Andrezza G. E."
+    ]
+  },
+  {
+    "course_id": "FON144",
+    "name": "ENSINO FONOAUDIOLÓGICO: LINGUAGEM ORAL",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:01",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Raphaela B. G. G."
+    ]
+  },
+  {
+    "course_id": "FON145",
+    "name": "DIAGNÓSTICO E TRATAMENTO FONOAUDIOLÓGICO NA MOTRICIDADE OROFACIAL I",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:01",
+        "end": "12:00"
+      },
+      {
+        "day": "Terca",
+        "start": "15:31",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Andrea R. M."
+    ]
+  },
+  {
+    "course_id": "FON145",
+    "name": "DIAGNÓSTICO E TRATAMENTO FONOAUDIOLÓGICO NA MOTRICIDADE OROFACIAL I",
+    "availabilityCode": "TB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:31",
+        "end": "17:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Andrea R. M.",
+      "Laelia C. C. V."
+    ]
+  },
+  {
+    "course_id": "FON146",
+    "name": "ENSINO FONOAUDIOLÓGICO: MOTRICIDADE OROFACIAL I",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:01",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Monalise C. B. B."
+    ]
+  },
+  {
+    "course_id": "FON146",
+    "name": "ENSINO FONOAUDIOLÓGICO: MOTRICIDADE OROFACIAL I",
+    "availabilityCode": "PTB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:01",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Renata M. M. M. F."
+    ]
+  },
+  {
+    "course_id": "FON147",
+    "name": "RACIOCÍNIO CLÍNICO NAS DISFONIAS",
+    "availabilityCode": "TA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:01",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ualisson N. N."
+    ]
+  },
+  {
+    "course_id": "FON147",
+    "name": "RACIOCÍNIO CLÍNICO NAS DISFONIAS",
+    "availabilityCode": "TB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:01",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ualisson N. N."
+    ]
+  },
+  {
+    "course_id": "FON147",
+    "name": "RACIOCÍNIO CLÍNICO NAS DISFONIAS",
+    "availabilityCode": "TC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:01",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Ualisson N. N.",
+      "Adriane M. M."
+    ]
+  },
+  {
+    "course_id": "FON148",
+    "name": "ENSINO FONOAUDIOLÓGICO: VOZ",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:31",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Nayara R. G.",
+      "Ualisson N. N."
+    ]
+  },
+  {
+    "course_id": "FON148",
+    "name": "ENSINO FONOAUDIOLÓGICO: VOZ",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:31",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Viviane S. B. B.",
+      "Ualisson N. N."
+    ]
+  },
+  {
+    "course_id": "FON148",
+    "name": "ENSINO FONOAUDIOLÓGICO: VOZ",
+    "availabilityCode": "PC",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:31",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Ualisson N. N."
+    ]
+  },
+  {
+    "course_id": "FON149",
+    "name": "POLÍTICAS PÚBLICAS DE EDUCAÇÃO E INSERÇÃO DO FONOAUDIÓLOGO",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Luciana M. A."
+    ]
+  },
+  {
+    "course_id": "FON150",
+    "name": "DIAGNÓSTICO E TRATAMENTO FONOAUDIOLÓGICO NOS TRANSTORNOS DA FLUÊNCIA",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Denise B. O. B."
+    ]
+  },
+  {
+    "course_id": "FON150",
+    "name": "DIAGNÓSTICO E TRATAMENTO FONOAUDIOLÓGICO NOS TRANSTORNOS DA FLUÊNCIA",
+    "availabilityCode": "TB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Denise B. O. B.",
+      "Luciana M. A."
+    ]
+  },
+  {
+    "course_id": "FON151",
+    "name": "FONOAUDIOLOGIA CLÍNICA: LINGUAGEM ORAL I",
+    "availabilityCode": "PA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Izabel C. C. M."
+    ]
+  },
+  {
+    "course_id": "FON151",
+    "name": "FONOAUDIOLOGIA CLÍNICA: LINGUAGEM ORAL I",
+    "availabilityCode": "PB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:01",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Andrezza G. E."
+    ]
+  },
+  {
+    "course_id": "FON151",
+    "name": "FONOAUDIOLOGIA CLÍNICA: LINGUAGEM ORAL I",
+    "availabilityCode": "PC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Raphaela B. G. G."
+    ]
+  },
+  {
+    "course_id": "FON152",
+    "name": "AUDIOLOGIA CLÍNICA II",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:01",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Sirley A. S. C."
+    ]
+  },
+  {
+    "course_id": "FON152",
+    "name": "AUDIOLOGIA CLÍNICA II",
+    "availabilityCode": "TB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:01",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Ludimila L.",
+      "Sirley A. S. C."
+    ]
+  },
+  {
+    "course_id": "FON153",
+    "name": "PRINCÍPIOS DE BIOESTATÍSTICA",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:01",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Adriane M. M."
+    ]
+  },
+  {
+    "course_id": "FON154",
+    "name": "VOZ E COMUNICAÇÃO EM PÚBLICO",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:01",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Leticia C. T."
+    ]
+  },
+  {
+    "course_id": "FON155",
+    "name": "FONOAUDIOLOGIA CLÍNICA: TRANSTORNOS DA FLUÊNCIA",
+    "availabilityCode": "PA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Denise B. O. B."
+    ]
+  },
+  {
+    "course_id": "FON155",
+    "name": "FONOAUDIOLOGIA CLÍNICA: TRANSTORNOS DA FLUÊNCIA",
+    "availabilityCode": "PB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Denise B. O. B."
+    ]
+  },
+  {
+    "course_id": "FON155",
+    "name": "FONOAUDIOLOGIA CLÍNICA: TRANSTORNOS DA FLUÊNCIA",
+    "availabilityCode": "PC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:01",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Denise B. O. B."
+    ]
+  },
+  {
+    "course_id": "FON156",
+    "name": "DIAGNÓSTICO E TRATAMENTO FONOAUDIOLÓGICO NA MOTRICIDADE OROFACIAL II",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:01",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Andrea R. M."
+    ]
+  },
+  {
+    "course_id": "FON157",
+    "name": "AVALIAÇÃO E REABILITAÇÃO OTONEUROLÓGICA",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ludimila L."
+    ]
+  },
+  {
+    "course_id": "FON158",
+    "name": "ENSINO FONOAUDIOLÓGICO: AVALIAÇÃO AUDIOLÓGICA E OTONEUROLÓGICA",
+    "availabilityCode": "PA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Thamara S. S."
+    ]
+  },
+  {
+    "course_id": "FON158",
+    "name": "ENSINO FONOAUDIOLÓGICO: AVALIAÇÃO AUDIOLÓGICA E OTONEUROLÓGICA",
+    "availabilityCode": "PB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Sirley A. S. C."
+    ]
+  },
+  {
+    "course_id": "FON158",
+    "name": "ENSINO FONOAUDIOLÓGICO: AVALIAÇÃO AUDIOLÓGICA E OTONEUROLÓGICA",
+    "availabilityCode": "PC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ludimila L."
+    ]
+  },
+  {
+    "course_id": "FON159",
+    "name": "DIAGNÓSTICO E TRATAMENTO FONOAUDIOLÓGICO NOS TRANSTORNOS DA LINGUAGEM ORAL II",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:01",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Raphaela B. G. G."
+    ]
+  },
+  {
+    "course_id": "FON160",
+    "name": "FUNDAMENTOS EM INVESTIGAÇÃO CIENTÍFICA",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:31",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Nayara R. G.",
+      "Adriane M. M."
+    ]
+  },
+  {
+    "course_id": "FON161",
+    "name": "EPIDEMIOLOGIA APLICADA À FONOAUDIOLOGIA",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Renata J."
+    ]
+  },
+  {
+    "course_id": "FON161",
+    "name": "EPIDEMIOLOGIA APLICADA À FONOAUDIOLOGIA",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Nayara R. G.",
+      "Andrezza G. E."
+    ]
+  },
+  {
+    "course_id": "FON162",
+    "name": "FONOAUDIOLOGIA CLÍNICA: VOZ E COMUNICAÇÃO EM PÚBLICO",
+    "availabilityCode": "PA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:01",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Leticia C. T."
+    ]
+  },
+  {
+    "course_id": "FON162",
+    "name": "FONOAUDIOLOGIA CLÍNICA: VOZ E COMUNICAÇÃO EM PÚBLICO",
+    "availabilityCode": "PB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Leticia C. T."
+    ]
+  },
+  {
+    "course_id": "FON162",
+    "name": "FONOAUDIOLOGIA CLÍNICA: VOZ E COMUNICAÇÃO EM PÚBLICO",
+    "availabilityCode": "PC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Leticia C. T."
+    ]
+  },
+  {
+    "course_id": "FON163",
+    "name": "DIAGNÓSTICO E TRATAMENTO FONOAUDIOLÓGICO NA DISFAGIA DO ADOLESCENTE AO IDOSO",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Laelia C. C. V."
+    ]
+  },
+  {
+    "course_id": "FON164",
+    "name": "DIAGNÓSTICO E TRATAMENTO FONOAUDIOLÓGICO NOS TRANSTORNOS DA LINGUAGEM ESCRITA",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:01",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Luciana M. A."
+    ]
+  },
+  {
+    "course_id": "FON165",
+    "name": "ENSINO FONOAUDIOLÓGICO: DISFAGIA DO ADOLESCENTE AO IDOSO",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:01",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Laelia C. C. V."
+    ]
+  },
+  {
+    "course_id": "FON165",
+    "name": "ENSINO FONOAUDIOLÓGICO: DISFAGIA DO ADOLESCENTE AO IDOSO",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:31",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Aline M. M."
+    ]
+  },
+  {
+    "course_id": "FON166",
+    "name": "FORMAÇÃO BÁSICA EM LIBRAS PARA FONOAUDIOLOGIA",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:01",
+        "end": "12:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Izabel C. C. M."
+    ]
+  },
+  {
+    "course_id": "FON167",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+    "availabilityCode": "PA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:01",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Laelia C. C. V.",
+      "Ualisson N. N.",
+      "Adriane M. M.",
+      "Leticia C. T."
+    ]
+  },
+  {
+    "course_id": "FON167",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+    "availabilityCode": "PB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:01",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Andrea R. M.",
+      "Monalise C. B. B.",
+      "Renata M. M. M. F.",
+      "Aline M. M."
+    ]
+  },
+  {
+    "course_id": "FON167",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+    "availabilityCode": "PC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:01",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Luciana M. R.",
+      "Thamara S. S.",
+      "Patricia C. M.",
+      "Ludimila L.",
+      "Sirley A. S. C."
+    ]
+  },
+  {
+    "course_id": "FON167",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+    "availabilityCode": "PD",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:01",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Luciana M. A.",
+      "Amelia A. L. F.",
+      "Stela M. A. L.",
+      "Renata J."
+    ]
+  },
+  {
+    "course_id": "FON167",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+    "availabilityCode": "PE",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:00",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Izabel C. C. M.",
+      "Thais H. M.",
+      "Denise B. O. B.",
+      "Raphaela B. G. G.",
+      "Andrezza G. E."
+    ]
+  },
+  {
+    "course_id": "FON168",
+    "name": "DIAGNÓSTICO E TRATAMENTO NA FONONCOLOGIA",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:01",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Laelia C. C. V."
+    ]
+  },
+  {
+    "course_id": "FON169",
+    "name": "GESTÃO E ORGANIZAÇÃO DOS SERVIÇOS DE SAÚDE",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Nayara R. G.",
+      "Stela M. A. L."
+    ]
+  },
+  {
+    "course_id": "FON170",
+    "name": "DIAGNÓSTICO E TRATAMENTO FONOAUDIOLÓGICO NOS TRANSTORNOS DA ADQUIRIDOS E NEURODEGENERATIVOS",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:31",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Thais H. M."
+    ]
+  },
+  {
+    "course_id": "FON171",
+    "name": "ENSINO FONOAUDIOLÓGICO: LINGUAGEM DO ADULTO E IDOSO",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:01",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Thais H. M."
+    ]
+  },
+  {
+    "course_id": "FON171",
+    "name": "ENSINO FONOAUDIOLÓGICO: LINGUAGEM DO ADULTO E IDOSO",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Andrezza G. E."
+    ]
+  },
+  {
+    "course_id": "FON172",
+    "name": "FONOAUDIOLOGIA CLÍNICA: LINGUAGEM ORAL II",
+    "availabilityCode": "PA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Raphaela B. G. G."
+    ]
+  },
+  {
+    "course_id": "FON172",
+    "name": "FONOAUDIOLOGIA CLÍNICA: LINGUAGEM ORAL II",
+    "availabilityCode": "PB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:01",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Raphaela B. G. G."
+    ]
+  },
+  {
+    "course_id": "FON172",
+    "name": "FONOAUDIOLOGIA CLÍNICA: LINGUAGEM ORAL II",
+    "availabilityCode": "PC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:01",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Thais H. M."
+    ]
+  },
+  {
+    "course_id": "FON173",
+    "name": "FONOAUDIOLOGIA CLÍNICA: DISFAGIA DO ADOLESCENTE AO IDOSO",
+    "availabilityCode": "PA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:01",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Aline M. M."
+    ]
+  },
+  {
+    "course_id": "FON173",
+    "name": "FONOAUDIOLOGIA CLÍNICA: DISFAGIA DO ADOLESCENTE AO IDOSO",
+    "availabilityCode": "PB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:31",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Aline M. M.",
+      "Viviane S. B. B."
+    ]
+  },
+  {
+    "course_id": "FON173",
+    "name": "FONOAUDIOLOGIA CLÍNICA: DISFAGIA DO ADOLESCENTE AO IDOSO",
+    "availabilityCode": "PC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:31",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Aline M. M.",
+      "Viviane S. B. B."
+    ]
+  },
+  {
+    "course_id": "FON174",
+    "name": "AUDIOLOGIA EDUCACIONAL",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Thamara S. S."
+    ]
+  },
+  {
+    "course_id": "FON175",
+    "name": "DISPOSITIVOS ELETRÔNICOS APLICADOS À PERDA AUDITIVA",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Luciana M. R."
+    ]
+  },
+  {
+    "course_id": "FON176",
+    "name": "ENSINO FONOAUDIOLÓGICO: REABILITAÇÃO AUDITIVA",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Sirley A. S. C."
+    ]
+  },
+  {
+    "course_id": "FON176",
+    "name": "ENSINO FONOAUDIOLÓGICO: REABILITAÇÃO AUDITIVA",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:01",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Sirley A. S. C."
+    ]
+  },
+  {
+    "course_id": "FON177",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+    "availabilityCode": "PA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:01",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Laelia C. C. V.",
+      "Ualisson N. N.",
+      "Adriane M. M.",
+      "Leticia C. T."
+    ]
+  },
+  {
+    "course_id": "FON177",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+    "availabilityCode": "PB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:01",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Andrea R. M.",
+      "Monalise C. B. B.",
+      "Renata M. M. M. F.",
+      "Aline M. M."
+    ]
+  },
+  {
+    "course_id": "FON177",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+    "availabilityCode": "PC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:01",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Luciana M. R.",
+      "Thamara S. S.",
+      "Patricia C. M.",
+      "Ludimila L.",
+      "Sirley A. S. C."
+    ]
+  },
+  {
+    "course_id": "FON177",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+    "availabilityCode": "PD",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:01",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Luciana M. A.",
+      "Amelia A. L. F.",
+      "Stela M. A. L.",
+      "Renata J."
+    ]
+  },
+  {
+    "course_id": "FON177",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+    "availabilityCode": "PE",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:01",
+        "end": "19:00"
+      }
+    ],
+    "teachers": [
+      "Izabel C. C. M.",
+      "Thais H. M.",
+      "Denise B. O. B.",
+      "Raphaela B. G. G.",
+      "Andrezza G. E."
+    ]
+  },
+  {
+    "course_id": "FON178",
+    "name": "FONOAUDIOLOGIA CLÍNICA: AVALIAÇÃO E DIAGNÓSTICO",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Stela M. A. L."
+    ]
+  },
+  {
+    "course_id": "FON178",
+    "name": "FONOAUDIOLOGIA CLÍNICA: AVALIAÇÃO E DIAGNÓSTICO",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Andrezza G. E."
+    ]
+  },
+  {
+    "course_id": "FON179",
+    "name": "FONOAUDIOLOGIA CLÍNICA: TRANSTORNOS DA LINGUAGEM ESCRITA",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:01",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Luciana M. A."
+    ]
+  },
+  {
+    "course_id": "FON179",
+    "name": "FONOAUDIOLOGIA CLÍNICA: TRANSTORNOS DA LINGUAGEM ESCRITA",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:01",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Luciana M. A."
+    ]
+  },
+  {
+    "course_id": "FON180",
+    "name": "DIAGNÓSTICO E TRATAMENTO FONOAUDIOLÓGICO NA DISFAGIA INFANTIL",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:01",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Renata M. M. M. F."
+    ]
+  },
+  {
+    "course_id": "FON181",
+    "name": "ENSINO FONOAUDIOLÓGICO: DISFAGIA INFANTIL",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:01",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Renata M. M. M. F."
+    ]
+  },
+  {
+    "course_id": "FON181",
+    "name": "ENSINO FONOAUDIOLÓGICO: DISFAGIA INFANTIL",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Aline M. M."
+    ]
+  },
+  {
+    "course_id": "FON182",
+    "name": "FONOAUDIOLOGIA CLÍNICA: REABILITAÇÃO AUDITIVA",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Sirley A. S. C."
+    ]
+  },
+  {
+    "course_id": "FON182",
+    "name": "FONOAUDIOLOGIA CLÍNICA: REABILITAÇÃO AUDITIVA",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:01",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Izabel C. C. M."
+    ]
+  },
+  {
+    "course_id": "FON183",
+    "name": "FONOAUDIOLOGIA CLÍNICA: DISPOSITIVOS ELETRÔNICOS APLICADOS À PERDA AUDITIVA",
+    "availabilityCode": "PA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:01",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Luciana M. R."
+    ]
+  },
+  {
+    "course_id": "FON183",
+    "name": "FONOAUDIOLOGIA CLÍNICA: DISPOSITIVOS ELETRÔNICOS APLICADOS À PERDA AUDITIVA",
+    "availabilityCode": "PB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:31",
+        "end": "11:30"
+      }
+    ],
+    "teachers": [
+      "Ludimila L."
+    ]
+  },
+  {
+    "course_id": "FON183",
+    "name": "FONOAUDIOLOGIA CLÍNICA: DISPOSITIVOS ELETRÔNICOS APLICADOS À PERDA AUDITIVA",
+    "availabilityCode": "PC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:31",
+        "end": "11:30"
+      }
+    ],
+    "teachers": [
+      "Patricia C. M."
+    ]
+  },
+  {
+    "course_id": "FON184",
+    "name": "FONOAUDIOLOGIA CLÍNICA: FONONCOLOGIA",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Laelia C. C. V."
+    ]
+  },
+  {
+    "course_id": "FON184",
+    "name": "FONOAUDIOLOGIA CLÍNICA: FONONCOLOGIA",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:01",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Viviane S. B. B."
+    ]
+  },
+  {
+    "course_id": "FON185",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO III",
+    "availabilityCode": "PA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:01",
+        "end": "20:00"
+      }
+    ],
+    "teachers": [
+      "Thamara S. S."
+    ]
+  },
+  {
+    "course_id": "FON186",
+    "name": "FONOAUDIOLOGIA CLÍNICA: VOZ II",
+    "availabilityCode": "PA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:31",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Leticia C. T."
+    ]
+  },
+  {
+    "course_id": "FON186",
+    "name": "FONOAUDIOLOGIA CLÍNICA: VOZ II",
+    "availabilityCode": "PB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:01",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Adriane M. M."
+    ]
+  },
+  {
+    "course_id": "FON186",
+    "name": "FONOAUDIOLOGIA CLÍNICA: VOZ II",
+    "availabilityCode": "PC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:31",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Ualisson N. N."
+    ]
+  },
+  {
+    "course_id": "FON187",
+    "name": "FONOAUDIOLOGIA: AÇÕES EM SAÚDE COLETIVA",
+    "availabilityCode": "PA",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:01",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:01",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Amelia A. L. F."
+    ]
+  },
+  {
+    "course_id": "FON187",
+    "name": "FONOAUDIOLOGIA: AÇÕES EM SAÚDE COLETIVA",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:01",
+        "end": "11:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:01",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Renata J."
+    ]
+  },
+  {
+    "course_id": "FON187",
+    "name": "FONOAUDIOLOGIA: AÇÕES EM SAÚDE COLETIVA",
+    "availabilityCode": "PC",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:01",
+        "end": "11:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:01",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Amelia A. L. F."
+    ]
+  },
+  {
+    "course_id": "FON188",
+    "name": "FONOAUDIOLOGIA CLÍNICA: DISFAGIA INFANTIL",
+    "availabilityCode": "PA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Renata M. M. M. F."
+    ]
+  },
+  {
+    "course_id": "FON188",
+    "name": "FONOAUDIOLOGIA CLÍNICA: DISFAGIA INFANTIL",
+    "availabilityCode": "PB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:01",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Aline M. M."
+    ]
+  },
+  {
+    "course_id": "FON188",
+    "name": "FONOAUDIOLOGIA CLÍNICA: DISFAGIA INFANTIL",
+    "availabilityCode": "PC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:31",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Renata M. M. M. F."
+    ]
+  },
+  {
+    "course_id": "FON189",
+    "name": "FONOAUDIOLOGIA CLÍNICA: AVALIAÇÃO AUDIOLÓGICA E OTONEUROLÓGICA",
+    "availabilityCode": "PA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:31",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Luciana M. R."
+    ]
+  },
+  {
+    "course_id": "FON189",
+    "name": "FONOAUDIOLOGIA CLÍNICA: AVALIAÇÃO AUDIOLÓGICA E OTONEUROLÓGICA",
+    "availabilityCode": "PB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:31",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Sirley A. S. C."
+    ]
+  },
+  {
+    "course_id": "FON189",
+    "name": "FONOAUDIOLOGIA CLÍNICA: AVALIAÇÃO AUDIOLÓGICA E OTONEUROLÓGICA",
+    "availabilityCode": "PC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:31",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Thamara S. S."
+    ]
+  },
+  {
+    "course_id": "FON189",
+    "name": "FONOAUDIOLOGIA CLÍNICA: AVALIAÇÃO AUDIOLÓGICA E OTONEUROLÓGICA",
+    "availabilityCode": "PD",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:31",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Patricia C. M."
+    ]
+  },
+  {
+    "course_id": "FON190",
+    "name": "FONOAUDIOLOGIA CLÍNICA: TRANSTORNOS DA LINGUAGEM NO ADULTO E IDOSO",
+    "availabilityCode": "PA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:01",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Thais H. M."
+    ]
+  },
+  {
+    "course_id": "FON190",
+    "name": "FONOAUDIOLOGIA CLÍNICA: TRANSTORNOS DA LINGUAGEM NO ADULTO E IDOSO",
+    "availabilityCode": "PB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:01",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Andrezza G. E."
+    ]
+  },
+  {
+    "course_id": "FON190",
+    "name": "FONOAUDIOLOGIA CLÍNICA: TRANSTORNOS DA LINGUAGEM NO ADULTO E IDOSO",
+    "availabilityCode": "PC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Thais H. M."
+    ]
+  },
+  {
+    "course_id": "FON191",
+    "name": "LETRAMENTO ACADÊMICO",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:01",
+        "end": "13:00"
+      }
+    ],
+    "teachers": [
+      "Luciana M. R.",
+      "Viviane S. B. B."
+    ]
+  },
+  {
+    "course_id": "FON203",
+    "name": "FORMAÇÃO COMPLEMENTAR EM LIBRAS PARA FONOAUDIOLOGIA",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "15:01",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Izabel C. C. M."
+    ]
+  },
+  {
+    "course_id": "FON207",
+    "name": "AUDIOLOGIA OCUPACIONAL",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "15:01",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Patricia C. M."
+    ]
+  },
+  {
+    "course_id": "FON215",
+    "name": "SAÚDE DO TRABALHADOR EM FONOAUDIOLOGIA",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Adriane M. M."
+    ]
+  },
+  {
+    "course_id": "FON222",
+    "name": "TÓPICOS EM MOTRICIDADE OROFACIAL E DISFAGIA II",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:01",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Viviane S. B. B.",
+      "Laelia C. C. V."
+    ]
+  },
+  {
+    "course_id": "FON223",
+    "name": "TECNOLOGIAS NA REABILITAÇÃO VOCAL",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:01",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Leticia C. T.",
+      "Viviane S. B. B."
+    ]
+  },
+  {
+    "course_id": "FON227",
+    "name": "TÓPICOS EM VOZ II - LABORATÓRIO  DE VOZ CANTADA",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:31",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Ualisson N. N."
+    ]
+  },
+  {
+    "course_id": "FON235",
+    "name": "FONOAUDIOLOGIA CLÍNICA: VOZ I",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:01",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Adriane M. M."
+    ]
+  },
+  {
+    "course_id": "FON235",
+    "name": "FONOAUDIOLOGIA CLÍNICA: VOZ I",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:31",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Adriane M. M.",
+      "Nayara R. G."
+    ]
+  },
+  {
+    "course_id": "FON235",
+    "name": "FONOAUDIOLOGIA CLÍNICA: VOZ I",
+    "availabilityCode": "PC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:31",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Ualisson N. N."
+    ]
+  },
+  {
+    "course_id": "FON236",
+    "name": "FONOAUDIOLOGIA CLÍNICA:  MOTRICIDADE OROFACIAL I",
+    "availabilityCode": "PA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:01",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Viviane S. B. B.",
+      "Andrea R. M."
+    ]
+  },
+  {
+    "course_id": "FON236",
+    "name": "FONOAUDIOLOGIA CLÍNICA:  MOTRICIDADE OROFACIAL I",
+    "availabilityCode": "PB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:01",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Andrea R. M."
+    ]
+  },
+  {
+    "course_id": "FON236",
+    "name": "FONOAUDIOLOGIA CLÍNICA:  MOTRICIDADE OROFACIAL I",
+    "availabilityCode": "PC",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:01",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Monalise C. B. B."
+    ]
+  },
+  {
+    "course_id": "FON237",
+    "name": "FONOAUDIOLOGIA CLÍNICA: MOTRICIDADE OROFACIAL II",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:31",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Monalise C. B. B."
+    ]
+  },
+  {
+    "course_id": "FON237",
+    "name": "FONOAUDIOLOGIA CLÍNICA: MOTRICIDADE OROFACIAL II",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:01",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Monalise C. B. B."
+    ]
+  },
+  {
+    "course_id": "FON238",
+    "name": "FONOAUDIOLOGIA CLÍNICA: REABILITAÇÃO VESTIBULAR E DO ZUMBIDO",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:01",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Patricia C. M."
+    ]
+  },
+  {
+    "course_id": "FON238",
+    "name": "FONOAUDIOLOGIA CLÍNICA: REABILITAÇÃO VESTIBULAR E DO ZUMBIDO",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:01",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Ludimila L."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LIN011",
+    "name": "INTRODUCAO A LINGUISTICA",
+    "availabilityCode": "TA",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:31",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Maria M. C."
+    ]
+  },
+  {
+    "course_id": "LIN012",
+    "name": "FONETICA CLINICA",
+    "availabilityCode": "TA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:31",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Luciana L."
+    ]
+  },
+  {
+    "course_id": "MOF008",
+    "name": "EMBRIOLOGIA GERAL",
+    "availabilityCode": "TD",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Claudia R. C."
+    ]
+  },
+  {
+    "course_id": "MOF019",
+    "name": "ANATOMIA APLICADA A FONOAUDIOLOGIA I",
+    "availabilityCode": "TD",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Lucas M. K. G. O."
+    ]
+  },
+  {
+    "course_id": "MOF064",
+    "name": "CITOLOGIA E HISTOLOGIA APLICADAS À FONOAUDIOLOGIA",
+    "availabilityCode": "TD",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:30",
+        "end": "17:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:30",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Cleida A. O.",
+      "Victor R. S."
+    ]
+  },
+  {
+    "course_id": "MOF065",
+    "name": "ANATOMIA APLICADA A FONOAUDIOLOGIA II",
+    "availabilityCode": "TD",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S.",
+      "Camila M. A. L."
+    ]
+  },
+  {
+    "course_id": "MOF066",
+    "name": "NEUROANATOMIA APLICADA À FONOAUDIOLOGIA",
+    "availabilityCode": "TD",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Vivian V. C. L."
+    ]
+  },
+  {
+    "course_id": "MPS012",
+    "name": "POLITICA DE SAUDE E PLANEJAMENTO",
+    "availabilityCode": "TA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:01",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MPS026",
+    "name": "EPIDEMIOLOGIA",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:01",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ODR127",
+    "name": "ODONTOLOGIA APLICADA À FONOAUDIOLOGIA II",
+    "availabilityCode": "TA",
+    "spots": 31,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:01",
+        "end": "11:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "OFT044",
+    "name": "OTORRINOLARINGOLOGI A I",
+    "availabilityCode": "TA",
+    "spots": 31,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:01",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Alan R. A. P."
+    ]
+  },
+  {
+    "course_id": "OFT045",
+    "name": "OTORRINOLARINGOLOGI A II",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Denise U. G."
+    ]
+  },
+  {
+    "course_id": "PAG020",
+    "name": "PATOLOGIA GERAL I",
+    "availabilityCode": "TF",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "15:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "16:00",
+        "end": "16:50"
+      }
+    ],
+    "teachers": [
+      "Barbara A. C.",
+      "Tatiane A. P."
+    ]
+  },
+  {
+    "course_id": "PED001",
+    "name": "FUNDAMENTOS DE PEDIATRIA",
+    "availabilityCode": "TTMF",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Ivani N. S."
+    ]
+  },
+  {
+    "course_id": "PSI663",
+    "name": "INTRODUÇÃO A PSICOLOGIA DO DESENVOLVIMENTO",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:01",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Thais B. V."
+    ]
+  },
+  {
+    "course_id": "PSI664",
+    "name": "PSICOLOGIA E SAÚDE",
+    "availabilityCode": "TA1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:01",
+        "end": "16:40"
+      }
+    ],
+    "teachers": [
+      "Thais B. V."
+    ]
+  },
+  {
+    "course_id": "SCA011",
+    "name": "ODONTOLOGIA APLICADA À FONOAUDIOLOGIA I",
+    "availabilityCode": "TA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:01",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "UNI199",
+    "name": "APRENDIZAGEM DA LEITURA E DA ESCRITA NA EDUCAÇÃO INCLUSIVA",
+    "availabilityCode": "TA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Luciana M. A."
+    ]
+  }
+]

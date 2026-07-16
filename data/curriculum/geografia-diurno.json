@@ -1,0 +1,245 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "CRT014",
+      "name": "Cartografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "GEL601",
+      "name": "Fundamentos de Geologia",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "GEO196",
+      "name": "Introducao a Geografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "GEO365",
+      "name": "Formacao Territorial do Brasil",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "GEO366",
+      "name": "Geografia Econômica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EST057",
+      "name": "Introducao a Estatistica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "GEO200",
+      "name": "Geografia Politica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "GEO323",
+      "name": "Representacao Espacial em Geografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "GEO608",
+      "name": "Climatologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "GEO623",
+      "name": "Geografia da Populacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "GEO079",
+      "name": "Geografia Urbana",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "GEO080",
+      "name": "Geografia Agraria",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "GEO206",
+      "name": "Pedologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "GEO367",
+      "name": "Geomorfologia Tectônica e Estrutural",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CRT006",
+      "name": "Cartografia Digital",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "GEO205",
+      "name": "Geografia da Mundializacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "GEO207",
+      "name": "Biogeografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "GEO330",
+      "name": "Geografia e Recursos Hidricos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "GEO369",
+      "name": "Geomorfologia e Dinamica de Vertentes",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "GEO325",
+      "name": "Geografia Humana do Brasil",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "GEO363",
+      "name": "Sensoriamento Remoto",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "GEO370",
+      "name": "Teoria e Metodos em Geografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "GEO371",
+      "name": "Planejamento Territorial",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "GEO372",
+      "name": "Colóquios em Geografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CRT009",
+      "name": "Geoprocessamento",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "GEO324",
+      "name": "Metodologia da Pesquisa em Geografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "GEO332",
+      "name": "Instrumentos de Gestão Ambiental",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "GEO368",
+      "name": "Dinamica Geoamb.no Territorio Brasileiro",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "GEO302",
+      "name": "Trabalho de Conclusao de Curso I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "GEO307",
+      "name": "Trabalho de Conclusao de Curso II",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    }
+  ],
+  "prerequisites": []
+}

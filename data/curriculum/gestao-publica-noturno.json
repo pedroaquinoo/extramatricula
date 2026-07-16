@@ -1,0 +1,230 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "DCP032",
+      "name": "Fundamentos da Analise Politica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DCP033",
+      "name": "Metodologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DCP123",
+      "name": "Aspectos Legais da Gestão Pública a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DCP124",
+      "name": "Gestão Pública a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "SOA048",
+      "name": "Fundamentos de Analise Sociologica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCP035",
+      "name": "Instituicoes Politicas Comparadas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCP042",
+      "name": "Politica,economia e Sociedade no Brasil",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCP125",
+      "name": "Aspectos Legais da Gestão Pública B",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECN140",
+      "name": "Introdução À Economia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "SOA607",
+      "name": "Sociologia das Organizacoes Publicas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCP037",
+      "name": "Analise de Politicas Publicas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCP126",
+      "name": "Estado e Políticas Sociais a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCP127",
+      "name": "Gestão Pública B",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCP132",
+      "name": "Democracia Digital e Governo Eletrônico",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECN044",
+      "name": "Economia do Bem Estar",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DCP128",
+      "name": "Estado e Políticas Socias B",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DCP181",
+      "name": "Finanças Públicas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DCP182",
+      "name": "Planejamento Público",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EST057",
+      "name": "Introducao a Estatistica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DCP131",
+      "name": "Avaliação de Políticas Públicas a",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DCP183",
+      "name": "Formulação e Implementação de Programas e Projetos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ECN190",
+      "name": "Econometria I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DCP184",
+      "name": "Avaliação de Políticas Públicas B",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DCP135",
+      "name": "Estágio Curricular a",
+      "description": null,
+      "credits": 12,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DCP136",
+      "name": "Estágio Curricular B",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "DCP089",
+      "name": "Projeto do Tcc",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "DCP137",
+      "name": "Trabalho de Conclusão de Curso",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "ECN044",
+      "prerequisite_code": "ECN140"
+    },
+    {
+      "code": "DCP136",
+      "prerequisite_code": "DCP135"
+    }
+  ]
+}

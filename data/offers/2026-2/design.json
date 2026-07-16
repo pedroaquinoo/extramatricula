@@ -1,0 +1,1243 @@
+[
+  {
+    "course_id": "ACR041",
+    "name": "ANALISE CRITICA DA ARTE",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Renata M. M."
+    ]
+  },
+  {
+    "course_id": "ACR042",
+    "name": "ESTETICA",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:00",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Rita C. L. V."
+    ]
+  },
+  {
+    "course_id": "ACR043",
+    "name": "ARTE E SOCIEDADE",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Myriam B. L."
+    ]
+  },
+  {
+    "course_id": "ACR046",
+    "name": "TÓPICOS EM ANÁLISE CRÍTICA EM DESIGN I  - Percepção e história da paisagem. Viagem a Ouro Preto.",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Myriam B. L."
+    ]
+  },
+  {
+    "course_id": "ARQ033",
+    "name": "PROJETO INTEGRADO",
+    "availabilityCode": "PA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Erico F. M."
+    ]
+  },
+  {
+    "course_id": "ARQ034",
+    "name": "OFICINA INTEGRADA",
+    "availabilityCode": "PA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Emerson N. E."
+    ]
+  },
+  {
+    "course_id": "ARQ035",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO I",
+    "availabilityCode": "PA",
+    "spots": 50,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ARQ037",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO II",
+    "availabilityCode": "PA",
+    "spots": 40,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DES058",
+    "name": "COR, FORMA E COMPOSICAO",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "21:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES060",
+    "name": "PRODUCAO GRAFICA",
+    "availabilityCode": "TA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES062",
+    "name": "TOPICOS EM DESIGN GRAFICO I - Narrativas Visuais.",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES062",
+    "name": "TOPICOS EM DESIGN GRAFICO I - Fundamentos do Motion Graphics.",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES062",
+    "name": "TOPICOS EM DESIGN GRAFICO I - Montagem prática de livros/revistas e técnicas de editoração.",
+    "availabilityCode": "TC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES062",
+    "name": "TOPICOS EM DESIGN GRAFICO I - Montagem prática de livros/revistas e técnicas de editoração.",
+    "availabilityCode": "TD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:39"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES064",
+    "name": "TOPICOS EM DESIGN GRAFICO III - Motion Graphics e Mídias Interativas.",
+    "availabilityCode": "TA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EES057",
+    "name": "RESISTENCIA DOS MATERIAIS APLICADA AO DESIGN",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "21:45"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "HIS039",
+    "name": "INTRODUÇÃO A HISTÓRIA DA CULTURA",
+    "availabilityCode": "TZ",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Adriana R."
+    ]
+  },
+  {
+    "course_id": "HIS040",
+    "name": "TOPICOS EM HISTORIA DO BRASIL - História, Urbanização e a Busca da Cidadania no Brasil no Período de Longa Duração (1945-2000)",
+    "availabilityCode": "TX",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Marilda S. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "PRJ063",
+    "name": "DESIGN E ARQUITETURA",
+    "availabilityCode": "TA",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Wellington C. C."
+    ]
+  },
+  {
+    "course_id": "PRJ064",
+    "name": "DESENHO TECNICO I",
+    "availabilityCode": "PA",
+    "spots": 32,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Marcia L. F. S."
+    ]
+  },
+  {
+    "course_id": "PRJ075",
+    "name": "TOPICOS EM ARQUITETURA E DESIGN - Cosmopolíticas do Design.",
+    "availabilityCode": "TA",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:30",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Wellington C. C."
+    ]
+  },
+  {
+    "course_id": "TAU050",
+    "name": "METODOLOGIA DO DESIGN I",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Ana L. A."
+    ]
+  },
+  {
+    "course_id": "TAU053",
+    "name": "INTRODUCAO AO DESIGN",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Laura S. C. C. S. P."
+    ]
+  },
+  {
+    "course_id": "TAU054",
+    "name": "INTRODUCAO A OFICINA",
+    "availabilityCode": "PA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Paulo G. V. K.",
+      "Maria L. D. V."
+    ]
+  },
+  {
+    "course_id": "TAU055",
+    "name": "DESIGN I",
+    "availabilityCode": "PA",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Roberta R. M."
+    ]
+  },
+  {
+    "course_id": "TAU056",
+    "name": "OFICINA I",
+    "availabilityCode": "PA",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Paulo G. V. K."
+    ]
+  },
+  {
+    "course_id": "TAU057",
+    "name": "METODOLOGIA DO DESIGN II",
+    "availabilityCode": "TA",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Matheus T. E."
+    ]
+  },
+  {
+    "course_id": "TAU058",
+    "name": "DESIGN II",
+    "availabilityCode": "PA",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Marcelo S. P."
+    ]
+  },
+  {
+    "course_id": "TAU059",
+    "name": "OFICINA II",
+    "availabilityCode": "PA",
+    "spots": 44,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:10"
+      },
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Franciele F."
+    ]
+  },
+  {
+    "course_id": "TAU060",
+    "name": "DESIGN III",
+    "availabilityCode": "PA",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Cynthia C. M."
+    ]
+  },
+  {
+    "course_id": "TAU061",
+    "name": "OFICINA III",
+    "availabilityCode": "PA",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:20",
+        "end": "22:00"
+      },
+      {
+        "day": "Terca",
+        "start": "18:20",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Fernando J. S."
+    ]
+  },
+  {
+    "course_id": "TAU062",
+    "name": "ESTAGIO CURRICULAR SUPERVISIONADO I",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [],
+    "teachers": [
+      "Franciele F."
+    ]
+  },
+  {
+    "course_id": "TAU063",
+    "name": "ESTAGIO CURRICULAR SUPERVISIONADO II",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [],
+    "teachers": [
+      "Franciele F."
+    ]
+  },
+  {
+    "course_id": "TAU069",
+    "name": "DESIGN E TEORIA DO OBJETO",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Maria L. D. V."
+    ]
+  },
+  {
+    "course_id": "TAU071",
+    "name": "MATERIAIS E PROCESSOS DE FABRICACAO",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Cynthia C. M."
+    ]
+  },
+  {
+    "course_id": "TAU072",
+    "name": "TOPICOS EM DESIGN - Cultura Gráfica. Pré-requisito: ter cursado Introdução à Tipografia.",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "15:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Emerson N. E."
+    ]
+  },
+  {
+    "course_id": "TAU072",
+    "name": "TOPICOS EM DESIGN - Estúdio de Design no Mundo Real.",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Marcelo S. P."
+    ]
+  },
+  {
+    "course_id": "TAU072",
+    "name": "TOPICOS EM DESIGN - Usabilidade e Interação humano-produto.",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Ana L. A."
+    ]
+  },
+  {
+    "course_id": "TAU072",
+    "name": "TOPICOS EM DESIGN - Cor Aplicada ao Design.",
+    "availabilityCode": "TD",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Ana L. A."
+    ]
+  },
+  {
+    "course_id": "TAU072",
+    "name": "TOPICOS EM DESIGN - Design de mobiliário.",
+    "availabilityCode": "TE",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Franciele F."
+    ]
+  },
+  {
+    "course_id": "TAU072",
+    "name": "TOPICOS EM DESIGN - Design Inclusivo.",
+    "availabilityCode": "TF",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Franciele F."
+    ]
+  },
+  {
+    "course_id": "TAU072",
+    "name": "TOPICOS EM DESIGN - Pensamento Computacional e Projeto.",
+    "availabilityCode": "TG",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "21:20"
+      }
+    ],
+    "teachers": [
+      "Leonardo G. O. G."
+    ]
+  },
+  {
+    "course_id": "TAU072",
+    "name": "TOPICOS EM DESIGN - Design Computacional.",
+    "availabilityCode": "TH",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Erico F. M."
+    ]
+  },
+  {
+    "course_id": "TAU072",
+    "name": "TOPICOS EM DESIGN - Implicações cosmopolíticas para o design na era do antropocego.",
+    "availabilityCode": "TJ",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Maria L. D. V."
+    ]
+  },
+  {
+    "course_id": "TAU072",
+    "name": "TOPICOS EM DESIGN - Experimentações em Design de Jogos.",
+    "availabilityCode": "TK",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Matheus T. E."
+    ]
+  },
+  {
+    "course_id": "TAU072",
+    "name": "TOPICOS EM DESIGN - Food Design.",
+    "availabilityCode": "TL",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Laura S. C. C. S. P."
+    ]
+  },
+  {
+    "course_id": "TAU073",
+    "name": "DESENHO TECNICO II",
+    "availabilityCode": "PA",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Marcia L. F. S."
+    ]
+  },
+  {
+    "course_id": "TAU095",
+    "name": "BIÔNICA E BIOMIMÉTICA",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:10",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Cynara F. B."
+    ]
+  },
+  {
+    "course_id": "TAU101",
+    "name": "DESIGN DE PERCURSO I",
+    "availabilityCode": "PGRAF",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Mario V. R. G."
+    ]
+  },
+  {
+    "course_id": "TAU101",
+    "name": "DESIGN DE PERCURSO I",
+    "availabilityCode": "PPROD",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Matheus T. E."
+    ]
+  },
+  {
+    "course_id": "TAU102",
+    "name": "OFICINA DE PERCURSO I",
+    "availabilityCode": "PGRAF",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:15",
+        "end": "21:45"
+      }
+    ],
+    "teachers": [
+      "Angelo M. G."
+    ]
+  },
+  {
+    "course_id": "TAU102",
+    "name": "OFICINA DE PERCURSO I",
+    "availabilityCode": "PPROD",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Erico F. M."
+    ]
+  },
+  {
+    "course_id": "TAU103",
+    "name": "DESIGN DE PERCURSO II",
+    "availabilityCode": "PB",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Mario V. R. G."
+    ]
+  },
+  {
+    "course_id": "TAU103",
+    "name": "DESIGN DE PERCURSO II",
+    "availabilityCode": "PGRAF",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Mario V. R. G."
+    ]
+  },
+  {
+    "course_id": "TAU103",
+    "name": "DESIGN DE PERCURSO II",
+    "availabilityCode": "PPROD",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Marcelo S. P."
+    ]
+  },
+  {
+    "course_id": "TAU104",
+    "name": "OFICINA DE PERCURSO II",
+    "availabilityCode": "PGRAF",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Andre L. S."
+    ]
+  },
+  {
+    "course_id": "TAU104",
+    "name": "OFICINA DE PERCURSO II",
+    "availabilityCode": "PPROD",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Cynthia C. M."
+    ]
+  },
+  {
+    "course_id": "TAU105",
+    "name": "OFICINA DE CONCLUSÃO DE CURSO I",
+    "availabilityCode": "PA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Leonardo G. O. G."
+    ]
+  },
+  {
+    "course_id": "TAU106",
+    "name": "OFICINA DE CONCLUSÃO DE CURSO II",
+    "availabilityCode": "PA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Leonardo G. O. G."
+    ]
+  },
+  {
+    "course_id": "TAU108",
+    "name": "TÓPICOS EM DESIGN II  - Método Elo e Design Restaurativo.",
+    "availabilityCode": "TA",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Andrea F. P."
+    ]
+  },
+  {
+    "course_id": "TAU108",
+    "name": "TÓPICOS EM DESIGN II  - Design para Brincar: prática.",
+    "availabilityCode": "TB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Roberta R. M."
+    ]
+  },
+  {
+    "course_id": "TAU108",
+    "name": "TÓPICOS EM DESIGN II  - Design e Antropologia.",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Maria L. D. V."
+    ]
+  },
+  {
+    "course_id": "TAU108",
+    "name": "TÓPICOS EM DESIGN II  - Design de Embalagens.",
+    "availabilityCode": "TD",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Cynthia C. M."
+    ]
+  },
+  {
+    "course_id": "TAU109",
+    "name": "TÓPICOS EM DESIGN III - Aquarela para Design.",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:30",
+        "end": "18:30"
+      }
+    ],
+    "teachers": [
+      "Andrea F. P."
+    ]
+  },
+  {
+    "course_id": "TAU109",
+    "name": "TÓPICOS EM DESIGN III - Design de Experiência do Usuário e Interfaces.",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Matheus T. E."
+    ]
+  },
+  {
+    "course_id": "TAU109",
+    "name": "TÓPICOS EM DESIGN III - Culturas e Visualidades Urbanas.",
+    "availabilityCode": "TC",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Maria L. D. V."
+    ]
+  },
+  {
+    "course_id": "TAU109",
+    "name": "TÓPICOS EM DESIGN III - Sistema de Identidade Visual.",
+    "availabilityCode": "TD",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:10"
+      }
+    ],
+    "teachers": [
+      "Roberta R. M."
+    ]
+  },
+  {
+    "course_id": "TAU109",
+    "name": "TÓPICOS EM DESIGN III - Fotografia Digital.",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:00",
+        "end": "22:20"
+      }
+    ],
+    "teachers": [
+      "Ana L. A."
+    ]
+  },
+  {
+    "course_id": "TAU109",
+    "name": "TÓPICOS EM DESIGN III - Tipografia.",
+    "availabilityCode": "TF",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Emerson N. E."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  }
+]

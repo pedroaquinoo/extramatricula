@@ -1,0 +1,458 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "ACT080",
+      "name": "Introdução À Biomedicina",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "EST083",
+      "name": "Bioestatistica Basica F",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF009",
+      "name": "Anatomia Humana Basica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF143",
+      "name": "Citologia e Histologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI203",
+      "name": "Quimica Geral F",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI204",
+      "name": "Quimica Geral Experimental F",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "BIG157",
+      "name": "Genética F",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "BIQ050",
+      "name": "Bioquimica Celular F",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "BIQ602",
+      "name": "Imunologia Basica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIB618",
+      "name": "Biofísica B",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF008",
+      "name": "Embriologia Geral",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIB619",
+      "name": "Fisiologia F",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "QUI095",
+      "name": "Introdução À Química Orgânica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "QUI297",
+      "name": "Química Analítica Experimental F",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "QUI298",
+      "name": "Química Analítica F",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "BIQ058",
+      "name": "Biologia Molecular F",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FAR122",
+      "name": "Farmacologia Básica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "MIC123",
+      "name": "Microbiologia Básica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "PAG011",
+      "name": "Patologia Geral F",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "PAR106",
+      "name": "Parasitologia Humana",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ACT017",
+      "name": "Biologia Molecular Aplicada",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ACT026",
+      "name": "Etica e Legislacao Biomedica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ACT140",
+      "name": "Bioquímica Clínica I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ACT605",
+      "name": "Imunologia Clinica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ACT081",
+      "name": "Toxicologia Ambiental",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ACT141",
+      "name": "Bacteriologia Clínica",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ACT142",
+      "name": "Bioquímica Clínica II",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FAS135",
+      "name": "Epidemiologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ACT045",
+      "name": "Hematologia Clinica",
+      "description": null,
+      "credits": 7,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ACT143",
+      "name": "Parasitologia Clínica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ALM139",
+      "name": "Métodos Analíticos Aplicados a Alimentos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FAS012",
+      "name": "Politicas de Saude",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ACT016",
+      "name": "Radioisotopos em Diagnostico",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ACT018",
+      "name": "Gestao da Qualidade no Lab. Clinico",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ACT072",
+      "name": "Micologia Clinica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ACT082",
+      "name": "Atividade Integradora",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ACT602",
+      "name": "Citologia Clinica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ACT144",
+      "name": "Estágio em Ciências Biomédicas I",
+      "description": null,
+      "credits": 22,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ACT086",
+      "name": "Monografia de Conclusão de Curso",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ACT145",
+      "name": "Estágio em Ciências Biomédicas II",
+      "description": null,
+      "credits": 21,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "BIQ602",
+      "prerequisite_code": "MOF143"
+    },
+    {
+      "code": "QUI095",
+      "prerequisite_code": "QUI203"
+    },
+    {
+      "code": "QUI095",
+      "prerequisite_code": "QUI204"
+    },
+    {
+      "code": "QUI297",
+      "prerequisite_code": "QUI203"
+    },
+    {
+      "code": "QUI297",
+      "prerequisite_code": "QUI204"
+    },
+    {
+      "code": "QUI298",
+      "prerequisite_code": "QUI203"
+    },
+    {
+      "code": "QUI298",
+      "prerequisite_code": "QUI204"
+    },
+    {
+      "code": "BIQ058",
+      "prerequisite_code": "BIQ050"
+    },
+    {
+      "code": "MIC123",
+      "prerequisite_code": "MOF143"
+    },
+    {
+      "code": "MIC123",
+      "prerequisite_code": "BIQ050"
+    },
+    {
+      "code": "PAG011",
+      "prerequisite_code": "BIQ602"
+    },
+    {
+      "code": "PAG011",
+      "prerequisite_code": "FIB619"
+    },
+    {
+      "code": "PAR106",
+      "prerequisite_code": "MOF143"
+    },
+    {
+      "code": "PAR106",
+      "prerequisite_code": "BIQ602"
+    },
+    {
+      "code": "ACT017",
+      "prerequisite_code": "BIG157"
+    },
+    {
+      "code": "ACT017",
+      "prerequisite_code": "BIQ058"
+    },
+    {
+      "code": "ACT026",
+      "prerequisite_code": "ACT080"
+    },
+    {
+      "code": "ACT140",
+      "prerequisite_code": "BIQ050"
+    },
+    {
+      "code": "ACT605",
+      "prerequisite_code": "BIQ602"
+    },
+    {
+      "code": "ACT081",
+      "prerequisite_code": "FAR122"
+    },
+    {
+      "code": "ACT141",
+      "prerequisite_code": "MIC123"
+    },
+    {
+      "code": "ACT142",
+      "prerequisite_code": "ACT140"
+    },
+    {
+      "code": "ACT142",
+      "prerequisite_code": "QUI095"
+    },
+    {
+      "code": "FAS135",
+      "prerequisite_code": "EST083"
+    },
+    {
+      "code": "ACT045",
+      "prerequisite_code": "FIB619"
+    },
+    {
+      "code": "ACT143",
+      "prerequisite_code": "PAR106"
+    },
+    {
+      "code": "ACT143",
+      "prerequisite_code": "ACT605"
+    },
+    {
+      "code": "FAS012",
+      "prerequisite_code": "FAS135"
+    },
+    {
+      "code": "ACT016",
+      "prerequisite_code": "QUI203"
+    },
+    {
+      "code": "ACT072",
+      "prerequisite_code": "MIC123"
+    },
+    {
+      "code": "ACT082",
+      "prerequisite_code": "ACT142"
+    },
+    {
+      "code": "ACT082",
+      "prerequisite_code": "ACT045"
+    },
+    {
+      "code": "ACT602",
+      "prerequisite_code": "PAG011"
+    }
+  ]
+}

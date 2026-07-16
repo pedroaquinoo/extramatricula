@@ -1,0 +1,964 @@
+[
+  {
+    "course_id": "CAD103",
+    "name": "ADMINISTRAÇÃO T.G.A.",
+    "availabilityCode": "TOLD",
+    "spots": 60,
+    "times": [],
+    "teachers": [
+      "Ivan B. C."
+    ]
+  },
+  {
+    "course_id": "DCC601",
+    "name": "INTRODUCAO A INFORMATICA",
+    "availabilityCode": "TBD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Leonardo B. O."
+    ]
+  },
+  {
+    "course_id": "ECI036",
+    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO B - Fundamentos da Gestão de Dados Científicos",
+    "availabilityCode": "TBD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Elisangela C. A."
+    ]
+  },
+  {
+    "course_id": "ECI038",
+    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO D - Desenvolvimento de Coleções Digitais para Produtos e Serviços de Informação",
+    "availabilityCode": "TBD",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Lorena T. P."
+    ]
+  },
+  {
+    "course_id": "ECI038",
+    "name": "TOPICOS EM TECNOLOGIA DA INFORMACAO D - Integração da Biblioteconomia e IA: ferramentas de apoio aos serviços e produtos de informação",
+    "availabilityCode": "TBD1",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Janete F. S."
+    ]
+  },
+  {
+    "course_id": "ECI042",
+    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL D - Ética e Informação",
+    "availabilityCode": "TBD",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Ana P. M. A."
+    ]
+  },
+  {
+    "course_id": "ECI042",
+    "name": "TOPICOS EM COMPETENCIA INFORMACIONAL D - Meios e Mediações em Arquivos, Bibliotecas e Museus",
+    "availabilityCode": "TBD1",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marcos P. P."
+    ]
+  },
+  {
+    "course_id": "ECI046",
+    "name": "TOPICOS EM ONTOLOGIAS D - Introdução às Ontologias",
+    "availabilityCode": "TBD",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Mauricio B. A."
+    ]
+  },
+  {
+    "course_id": "ECI155",
+    "name": "Estágio Supervisionado em Biblioteconomia",
+    "availabilityCode": "TBD",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Monica E. N."
+    ]
+  },
+  {
+    "course_id": "ECI155",
+    "name": "Estágio Supervisionado em Biblioteconomia",
+    "availabilityCode": "TBN",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Monica E. N."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "OTI051",
+    "name": "SERVICOS DE DISSEMINACAO DA INFORMACAO",
+    "availabilityCode": "TBN",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Janete F. S."
+    ]
+  },
+  {
+    "course_id": "OTI072",
+    "name": "FUNDAMENTOS DA ORGANIZACAO DA INFORMACAO",
+    "availabilityCode": "TBD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Maria A. M."
+    ]
+  },
+  {
+    "course_id": "OTI073",
+    "name": "ANALISE DE ASSUNTO",
+    "availabilityCode": "TBN",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Gercina A. L."
+    ]
+  },
+  {
+    "course_id": "OTI074",
+    "name": "LINGUAGENS DE INDEXACAO",
+    "availabilityCode": "TBD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Celia C. D."
+    ]
+  },
+  {
+    "course_id": "OTI077",
+    "name": "INTRODUCAO A BIBLIOTECONOMIA, ARQUIVOLOGIA E MUSEOLOGIA",
+    "availabilityCode": "TBD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marilia A. M. P."
+    ]
+  },
+  {
+    "course_id": "OTI078",
+    "name": "ELABORACAO E APRESENTACAO DO TRABALHO CIENTIFICO",
+    "availabilityCode": "TBN",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Hugo A. C. P."
+    ]
+  },
+  {
+    "course_id": "OTI079",
+    "name": "CATALOGACAO DESCRITIVA",
+    "availabilityCode": "TBD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Cintia A. L."
+    ]
+  },
+  {
+    "course_id": "OTI080",
+    "name": "INTRODUCAO AS FONTES DE INFORMACAO",
+    "availabilityCode": "TBD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marina C. S. H."
+    ]
+  },
+  {
+    "course_id": "OTI081",
+    "name": "SISTEMAS DE RECUPERACAO DA INFORMACAO",
+    "availabilityCode": "TBN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Mauricio B. A."
+    ]
+  },
+  {
+    "course_id": "OTI082",
+    "name": "FONTES DE INFORMACAO PARA PESQUISADORES E PROFISSIONAIS",
+    "availabilityCode": "TBN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Dalgiza A. O."
+    ]
+  },
+  {
+    "course_id": "OTI083",
+    "name": "SISTEMAS DE CLASSIFICACAO: CDD",
+    "availabilityCode": "TBD",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Christine C. G."
+    ]
+  },
+  {
+    "course_id": "OTI084",
+    "name": "ACESSO A FONTES DE INFORMACAO EM MEIO DIGITAL",
+    "availabilityCode": "TBD",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marina C. S. H."
+    ]
+  },
+  {
+    "course_id": "OTI085",
+    "name": "SISTEMAS DE CLASSIFICACAO: CDU",
+    "availabilityCode": "TBN",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Christine C. G."
+    ]
+  },
+  {
+    "course_id": "OTI086",
+    "name": "ORGANIZACAO BIBLIOGRAFICA NACIONAL",
+    "availabilityCode": "TBN",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcos P. P."
+    ]
+  },
+  {
+    "course_id": "OTI087",
+    "name": "BIBLIOTECAS, ARQUIVOS E MUSEUS DIGITAIS",
+    "availabilityCode": "TBD",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Janete F. S."
+    ]
+  },
+  {
+    "course_id": "OTI088",
+    "name": "COMPETENCIA INFORMACIONAL",
+    "availabilityCode": "TBD",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Ana P. M. A."
+    ]
+  },
+  {
+    "course_id": "OTI097",
+    "name": "TOPICOS EM CATALOGACAO E CLASSIFICACAO DA INFORMACAO B - Classificação de Fontes de Informação em Ambientes Digitais",
+    "availabilityCode": "TBD",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Christine C. G."
+    ]
+  },
+  {
+    "course_id": "OTI099",
+    "name": "TOPICOS EM CATALOGACAO E CLASSIFICACAO DA INFORMACAO D - Introdução ao RDA",
+    "availabilityCode": "TBD",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Cintia A. L."
+    ]
+  },
+  {
+    "course_id": "OTI099",
+    "name": "TOPICOS EM CATALOGACAO E CLASSIFICACAO DA INFORMACAO D - Introdução ao RDA",
+    "availabilityCode": "TBN",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Cintia A. L."
+    ]
+  },
+  {
+    "course_id": "OTI103",
+    "name": "TOPICOS EM INDEXACAO DA INFORMACAO D - Indexação de Fotografias",
+    "availabilityCode": "TBN",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Celia C. D."
+    ]
+  },
+  {
+    "course_id": "OTI107",
+    "name": "TOPICOS EM SERVICOS PARA COMUNIDADES ESPECIFICAS D - Biblioteca e ação",
+    "availabilityCode": "TBD",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Dalgiza A. O."
+    ]
+  },
+  {
+    "course_id": "OTI107",
+    "name": "TOPICOS EM SERVICOS PARA COMUNIDADES ESPECIFICAS D - Biblioteca Escolar como Ecossistema de Aprendizagem e Informação Sustentável",
+    "availabilityCode": "TBD1",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Benildes C. M. S. M."
+    ]
+  },
+  {
+    "course_id": "OTI107",
+    "name": "TOPICOS EM SERVICOS PARA COMUNIDADES ESPECIFICAS D - Biblioteca Infantil",
+    "availabilityCode": "TBN",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marilia A. M. P."
+    ]
+  },
+  {
+    "course_id": "TGI002",
+    "name": "CULTURA E INFORMACAO",
+    "availabilityCode": "TBD",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Luana C. M. C. A."
+    ]
+  },
+  {
+    "course_id": "TGI004",
+    "name": "USUÁRIOS DA INFORMAÇÃO",
+    "availabilityCode": "TBD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Eliane C. F. R."
+    ]
+  },
+  {
+    "course_id": "TGI030",
+    "name": "FUNDAMENTOS DA CIENCIA DA INFORMACAO",
+    "availabilityCode": "TBN",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Emanuelle G. A. F."
+    ]
+  },
+  {
+    "course_id": "TGI031",
+    "name": "GESTAO DE UNIDADES DE INFORMACAO",
+    "availabilityCode": "TBN",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Hugo A. C. P."
+    ]
+  },
+  {
+    "course_id": "TGI032",
+    "name": "INTRODUCAO A BANCOS DE DADOS",
+    "availabilityCode": "TBN",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcello P. B."
+    ]
+  },
+  {
+    "course_id": "TGI033",
+    "name": "METODOS E TECNICAS DE PESQUISA",
+    "availabilityCode": "TBD",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Emanuelle G. A. F."
+    ]
+  },
+  {
+    "course_id": "TGI034",
+    "name": "MEMORIA E PATRIMONIO CULTURAL",
+    "availabilityCode": "TBN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Fabricio J. N. S."
+    ]
+  },
+  {
+    "course_id": "TGI035",
+    "name": "PLANEJAMENTO EM UNIDADES E SISTEMAS DE INFORMACAO",
+    "availabilityCode": "TBN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcos P. P."
+    ]
+  },
+  {
+    "course_id": "TGI036",
+    "name": "PRESERVACAO DO ACERVO",
+    "availabilityCode": "TBD",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Ana M. P."
+    ]
+  },
+  {
+    "course_id": "TGI046",
+    "name": "FORMACAO E DESENVOLVIMENTO DO ACERVO",
+    "availabilityCode": "TBN",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Lorena T. P."
+    ]
+  },
+  {
+    "course_id": "TGI047",
+    "name": "LEITURA E FORMACAO DO LEITOR",
+    "availabilityCode": "TBD",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Claudio P. A. P."
+    ]
+  },
+  {
+    "course_id": "TGI061",
+    "name": "TOPICOS EM INFORMACAO E CULTURA D - Desinformação e Práticas Bibliotecárias: desafios contemporâneos",
+    "availabilityCode": "TBD",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Luana C. M. C. A."
+    ]
+  },
+  {
+    "course_id": "TGI061",
+    "name": "TOPICOS EM INFORMACAO E CULTURA D - História do Livro e das Bibliotecas",
+    "availabilityCode": "TBD1",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Fabricio J. N. S."
+    ]
+  },
+  {
+    "course_id": "TGI061",
+    "name": "TOPICOS EM INFORMACAO E CULTURA D - Psicologia da Informação",
+    "availabilityCode": "TBN",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Claudio P. A. P."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "UNI266",
+    "name": "TÓPICOS EM ACESSIBILIDADE E INCLUSÃO B  - Altas Habilidades e Gestão Inclusiva - Acessibilidade",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:55",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Ana C. D. V."
+    ]
+  }
+]

@@ -1,0 +1,258 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "DES127",
+      "name": "Introdução À Linguagem Visual",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DES128",
+      "name": "Desenho, Percepção e Expressão",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FTC312",
+      "name": "Introdução À Animação",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FTC313",
+      "name": "Teorias da Imagem Técnica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FTC314",
+      "name": "Introdução À Pesquisa",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FTC315",
+      "name": "Brinquedos Ópticos",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FTC316",
+      "name": "Panorama da Animação",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FTC317",
+      "name": "Introdução Ao Cinema de Animação e Artes Digitais",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DES129",
+      "name": "Desenho Para Animação",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FTC303",
+      "name": "Fotografia Básica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FTC318",
+      "name": "Fundamentos da Animação",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FTC319",
+      "name": "Animação Experimental I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FTC320",
+      "name": "Roteiro Visual",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "UNI019",
+      "name": "Fundamentos da Linguagem Audiovisual",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FTC321",
+      "name": "Montagem e Edição",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FTC322",
+      "name": "Introdução Às Formas Narrativas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FTC323",
+      "name": "Roteiro Para Audiovisual",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FTC324",
+      "name": "Introdução À Animação 2d Digital",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FTC325",
+      "name": "Introdução Às Mídias Computacionais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "UNI017",
+      "name": "Panorama do Cinema",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FTC326",
+      "name": "Introdução À Animação 3d Digital",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FTC327",
+      "name": "Introdução Ao Stop Motion",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FTC328",
+      "name": "Fundamentos do Design de Jogos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FTC329",
+      "name": "Design Sonoro",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FTC330",
+      "name": "Ética e Política do Audiovisual",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FTC331",
+      "name": "Metodologias de Pesquisa e Processos de",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FTC332",
+      "name": "Laboratório de Cinema de Animação e Artes Digitais I",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FTC333",
+      "name": "Campo Profissional do Cinema de Animação e Artes Digitais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FTC334",
+      "name": "Introdução Ao Trabalho de Conclusão de Curso",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "FTC335",
+      "name": "Trabalho de Conclusão de Curso",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "FTC332",
+      "prerequisite_code": "FTC331"
+    },
+    {
+      "code": "FTC334",
+      "prerequisite_code": "FTC332"
+    },
+    {
+      "code": "FTC335",
+      "prerequisite_code": "FTC334"
+    }
+  ]
+}

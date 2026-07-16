@@ -1,0 +1,45 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "LET536",
+      "name": "Introdução À Linguística: Fund. de Fonética e Fonologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "LET538",
+      "name": "Introdução À Linguística: Fundamentos Demorfologia e Sintaxe",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "LET539",
+      "name": "Introd. Aos Estudos da Linguagem: Língua, Texto e Discurso",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "LET540",
+      "name": "Seminário de Leitura: Literatura Clássica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "LET541",
+      "name": "Introdução Aos Estudos Literários",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    }
+  ],
+  "prerequisites": []
+}

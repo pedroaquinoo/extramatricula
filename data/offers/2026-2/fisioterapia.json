@@ -1,0 +1,2533 @@
+[
+  {
+    "course_id": "BIQ118",
+    "name": "BIOQUÍMICA CELULAR",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EFI150",
+    "name": "FISIOLOGIA DO EXERCÍCIO",
+    "availabilityCode": "TT",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Luciano S. P."
+    ]
+  },
+  {
+    "course_id": "EMI045",
+    "name": "EPIDEMIOLOGIA",
+    "availabilityCode": "TT",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Jorge G. V. M.",
+      "Alexandra D. M. D. A."
+    ]
+  },
+  {
+    "course_id": "EST179",
+    "name": "INTRODUCAO A BIOESTATISTICA",
+    "availabilityCode": "TMF",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Edna A. R."
+    ]
+  },
+  {
+    "course_id": "FAR038",
+    "name": "FARMACOLOGIA APLICADA À FISIOTERAPIA",
+    "availabilityCode": "PT1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Stefany B. A. C.",
+      "Thiago R. L. R.",
+      "Marina G. M. C. R."
+    ]
+  },
+  {
+    "course_id": "FAR038",
+    "name": "FARMACOLOGIA APLICADA À FISIOTERAPIA",
+    "availabilityCode": "PT2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Stefany B. A. C.",
+      "Thiago R. L. R.",
+      "Marina G. M. C. R."
+    ]
+  },
+  {
+    "course_id": "FAR038",
+    "name": "FARMACOLOGIA APLICADA À FISIOTERAPIA",
+    "availabilityCode": "TT",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Stefany B. A. C.",
+      "Thiago R. L. R.",
+      "Marina G. M. C. R."
+    ]
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "PT",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Jerome P. A. L. B."
+    ]
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "PT2",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Jerome P. A. L. B."
+    ]
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "PT3",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Jerome P. A. L. B."
+    ]
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "PT4",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Jerome P. A. L. B."
+    ]
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "TT",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Jerome P. A. L. B."
+    ]
+  },
+  {
+    "course_id": "FIB123",
+    "name": "FISIOLOGIA HUMANA BÁSICA",
+    "availabilityCode": "PT1",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB123",
+    "name": "FISIOLOGIA HUMANA BÁSICA",
+    "availabilityCode": "PT2",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB123",
+    "name": "FISIOLOGIA HUMANA BÁSICA",
+    "availabilityCode": "TT",
+    "spots": 47,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Elaine M. S. F."
+    ]
+  },
+  {
+    "course_id": "FIT028",
+    "name": "FUNDAMENTOS DE FISIOTERAPIA",
+    "availabilityCode": "PA",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:30",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT028",
+    "name": "FUNDAMENTOS DE FISIOTERAPIA",
+    "availabilityCode": "PB",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "15:30",
+        "end": "16:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT028",
+    "name": "FUNDAMENTOS DE FISIOTERAPIA",
+    "availabilityCode": "PC",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT028",
+    "name": "FUNDAMENTOS DE FISIOTERAPIA",
+    "availabilityCode": "TT",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "14:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT029",
+    "name": "ELETROTERMOFOTOTER APIA",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "11:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT029",
+    "name": "ELETROTERMOFOTOTER APIA",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT029",
+    "name": "ELETROTERMOFOTOTER APIA",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "12:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT029",
+    "name": "ELETROTERMOFOTOTER APIA",
+    "availabilityCode": "TT",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT030",
+    "name": "CINESIOLOGIA",
+    "availabilityCode": "PA",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "16:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT030",
+    "name": "CINESIOLOGIA",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT030",
+    "name": "CINESIOLOGIA",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:00",
+        "end": "19:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT030",
+    "name": "CINESIOLOGIA",
+    "availabilityCode": "TT",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT031",
+    "name": "TERAPIA MANUAL",
+    "availabilityCode": "PA",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT031",
+    "name": "TERAPIA MANUAL",
+    "availabilityCode": "PB",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "15:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT031",
+    "name": "TERAPIA MANUAL",
+    "availabilityCode": "PC",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "15:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT031",
+    "name": "TERAPIA MANUAL",
+    "availabilityCode": "TT",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT032",
+    "name": "COMPORTAMENTO MOTOR II",
+    "availabilityCode": "PA",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:30",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT032",
+    "name": "COMPORTAMENTO MOTOR II",
+    "availabilityCode": "PB",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "15:30",
+        "end": "16:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT032",
+    "name": "COMPORTAMENTO MOTOR II",
+    "availabilityCode": "PC",
+    "spots": 11,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT032",
+    "name": "COMPORTAMENTO MOTOR II",
+    "availabilityCode": "TT",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "14:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT033",
+    "name": "CINESIOTERAPIA",
+    "availabilityCode": "PA",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT033",
+    "name": "CINESIOTERAPIA",
+    "availabilityCode": "PB",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT033",
+    "name": "CINESIOTERAPIA",
+    "availabilityCode": "PC",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT033",
+    "name": "CINESIOTERAPIA",
+    "availabilityCode": "TT",
+    "spots": 38,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT037",
+    "name": "ÉTICA E DEONTOLOGIA",
+    "availabilityCode": "TT",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT038",
+    "name": "FISIOTERAPIA EM GERONTOLOGIA",
+    "availabilityCode": "PA",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT038",
+    "name": "FISIOTERAPIA EM GERONTOLOGIA",
+    "availabilityCode": "PB",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT038",
+    "name": "FISIOTERAPIA EM GERONTOLOGIA",
+    "availabilityCode": "PC",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:30",
+        "end": "13:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT038",
+    "name": "FISIOTERAPIA EM GERONTOLOGIA",
+    "availabilityCode": "TT",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT039",
+    "name": "METODOLOGIA DA PESQUISA",
+    "availabilityCode": "TT",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT044",
+    "name": "ATIVIDADE PRÁTICA INTEGRADORA I",
+    "availabilityCode": "PA",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT044",
+    "name": "ATIVIDADE PRÁTICA INTEGRADORA I",
+    "availabilityCode": "PB",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "15:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT044",
+    "name": "ATIVIDADE PRÁTICA INTEGRADORA I",
+    "availabilityCode": "PC",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "15:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT045",
+    "name": "ATIVIDADE PRÁTICA INTEGRADORA II",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "15:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT045",
+    "name": "ATIVIDADE PRÁTICA INTEGRADORA II",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "15:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT045",
+    "name": "ATIVIDADE PRÁTICA INTEGRADORA II",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "19:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT046",
+    "name": "ATIVIDADE PRÁTICA INTEGRADORA III",
+    "availabilityCode": "PA",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT046",
+    "name": "ATIVIDADE PRÁTICA INTEGRADORA III",
+    "availabilityCode": "PB",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT046",
+    "name": "ATIVIDADE PRÁTICA INTEGRADORA III",
+    "availabilityCode": "PC",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT047",
+    "name": "ATIVIDADE PRÁTICA INTEGRADORA IV",
+    "availabilityCode": "PA",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT047",
+    "name": "ATIVIDADE PRÁTICA INTEGRADORA IV",
+    "availabilityCode": "PB",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT047",
+    "name": "ATIVIDADE PRÁTICA INTEGRADORA IV",
+    "availabilityCode": "PC",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT048",
+    "name": "ATIVIDADE PRÁTICA INTEGRADORA V",
+    "availabilityCode": "PA",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT048",
+    "name": "ATIVIDADE PRÁTICA INTEGRADORA V",
+    "availabilityCode": "PB",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT048",
+    "name": "ATIVIDADE PRÁTICA INTEGRADORA V",
+    "availabilityCode": "PC",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT048",
+    "name": "ATIVIDADE PRÁTICA INTEGRADORA V",
+    "availabilityCode": "PD",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT049",
+    "name": "BIOMECÂNICA DO MOVIMENTO HUMANO",
+    "availabilityCode": "TT",
+    "spots": 41,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT050",
+    "name": "COMPORTAMENTO MOTOR I",
+    "availabilityCode": "TT",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT051",
+    "name": "MEDIDAS CLÍNICAS E OBSERVACIONAIS",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT051",
+    "name": "MEDIDAS CLÍNICAS E OBSERVACIONAIS",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT051",
+    "name": "MEDIDAS CLÍNICAS E OBSERVACIONAIS",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT051",
+    "name": "MEDIDAS CLÍNICAS E OBSERVACIONAIS",
+    "availabilityCode": "TT",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT052",
+    "name": "FISIOTERAPIA CARDIORRESPIRATÓRIA",
+    "availabilityCode": "PA",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "11:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT052",
+    "name": "FISIOTERAPIA CARDIORRESPIRATÓRIA",
+    "availabilityCode": "PB",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT052",
+    "name": "FISIOTERAPIA CARDIORRESPIRATÓRIA",
+    "availabilityCode": "PC",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "12:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT052",
+    "name": "FISIOTERAPIA CARDIORRESPIRATÓRIA",
+    "availabilityCode": "TT",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT055",
+    "name": "FISIOTERAPIA RESPIRATÓRIA I",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT055",
+    "name": "FISIOTERAPIA RESPIRATÓRIA I",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:30",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT055",
+    "name": "FISIOTERAPIA RESPIRATÓRIA I",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "12:30",
+        "end": "13:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT055",
+    "name": "FISIOTERAPIA RESPIRATÓRIA I",
+    "availabilityCode": "TT",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT056",
+    "name": "FISIOTERAPIA CARDIOVASCULAR I",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "14:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT056",
+    "name": "FISIOTERAPIA CARDIOVASCULAR I",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:30",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT056",
+    "name": "FISIOTERAPIA CARDIOVASCULAR I",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "15:30",
+        "end": "16:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT056",
+    "name": "FISIOTERAPIA CARDIOVASCULAR I",
+    "availabilityCode": "TT",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT058",
+    "name": "ERGONOMIA E SAÚDE DO TRABALHADOR",
+    "availabilityCode": "PA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT058",
+    "name": "ERGONOMIA E SAÚDE DO TRABALHADOR",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "16:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT058",
+    "name": "ERGONOMIA E SAÚDE DO TRABALHADOR",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "17:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT058",
+    "name": "ERGONOMIA E SAÚDE DO TRABALHADOR",
+    "availabilityCode": "TT",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "15:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT060",
+    "name": "FISIOTERAPIA MUSCULOESQUELÉTICA III",
+    "availabilityCode": "PA",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "15:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT060",
+    "name": "FISIOTERAPIA MUSCULOESQUELÉTICA III",
+    "availabilityCode": "PB",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "15:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT060",
+    "name": "FISIOTERAPIA MUSCULOESQUELÉTICA III",
+    "availabilityCode": "PC",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "19:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT060",
+    "name": "FISIOTERAPIA MUSCULOESQUELÉTICA III",
+    "availabilityCode": "TT",
+    "spots": 57,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:30",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT062",
+    "name": "FISIOTERAPIA CARDIOVASCULAR II",
+    "availabilityCode": "PA",
+    "spots": 22,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "14:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT062",
+    "name": "FISIOTERAPIA CARDIOVASCULAR II",
+    "availabilityCode": "PB",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:30",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT062",
+    "name": "FISIOTERAPIA CARDIOVASCULAR II",
+    "availabilityCode": "PC",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "15:30",
+        "end": "16:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT062",
+    "name": "FISIOTERAPIA CARDIOVASCULAR II",
+    "availabilityCode": "TT",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT064",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+    "availabilityCode": "PA",
+    "spots": 58,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT065",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+    "availabilityCode": "PA",
+    "spots": 40,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT066",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO III",
+    "availabilityCode": "PA",
+    "spots": 23,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT067",
+    "name": "TÓPICOS EM FISIOTERAPIA II - Amputação e próteses",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT087",
+    "name": "TÓPICOS EM FISIOTERAPIA IV - Neuroanatomia",
+    "availabilityCode": "PA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT088",
+    "name": "ESTÁGIO I",
+    "availabilityCode": "PA",
+    "spots": 8,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT088",
+    "name": "ESTÁGIO I",
+    "availabilityCode": "PB",
+    "spots": 7,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT088",
+    "name": "ESTÁGIO I",
+    "availabilityCode": "PC",
+    "spots": 7,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT088",
+    "name": "ESTÁGIO I",
+    "availabilityCode": "PD",
+    "spots": 7,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT088",
+    "name": "ESTÁGIO I",
+    "availabilityCode": "PE",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT088",
+    "name": "ESTÁGIO I",
+    "availabilityCode": "PF",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT088",
+    "name": "ESTÁGIO I",
+    "availabilityCode": "PG",
+    "spots": 5,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT088",
+    "name": "ESTÁGIO I",
+    "availabilityCode": "PH",
+    "spots": 5,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT089",
+    "name": "ESTÁGIO II",
+    "availabilityCode": "PA",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Terca",
+        "start": "07:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT089",
+    "name": "ESTÁGIO II",
+    "availabilityCode": "PB",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "19:00"
+      },
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "19:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "19:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "19:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "19:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT089",
+    "name": "ESTÁGIO II",
+    "availabilityCode": "PC",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Terca",
+        "start": "07:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT089",
+    "name": "ESTÁGIO II",
+    "availabilityCode": "PD",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "19:00"
+      },
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "19:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "19:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "19:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "19:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT089",
+    "name": "ESTÁGIO II",
+    "availabilityCode": "PE",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Terca",
+        "start": "07:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT089",
+    "name": "ESTÁGIO II",
+    "availabilityCode": "PF",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "19:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "19:00"
+      },
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "19:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "19:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "19:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT089",
+    "name": "ESTÁGIO II",
+    "availabilityCode": "PG",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Terca",
+        "start": "07:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:00",
+        "end": "13:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT089",
+    "name": "ESTÁGIO II",
+    "availabilityCode": "PH",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "19:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "19:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "19:00"
+      },
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "19:00"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "19:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT090",
+    "name": "ESTÁGIO III",
+    "availabilityCode": "PA",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT090",
+    "name": "ESTÁGIO III",
+    "availabilityCode": "PB",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT090",
+    "name": "ESTÁGIO III",
+    "availabilityCode": "PC",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT090",
+    "name": "ESTÁGIO III",
+    "availabilityCode": "PD",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT090",
+    "name": "ESTÁGIO III",
+    "availabilityCode": "PE",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT090",
+    "name": "ESTÁGIO III",
+    "availabilityCode": "PF",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT091",
+    "name": "ABORDAGEM FISIOTERAPÊUTICA PARA FUNCIONALIDADE NA INFÂNCIA E ADOLESCÊNCIA I",
+    "availabilityCode": "PA",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT091",
+    "name": "ABORDAGEM FISIOTERAPÊUTICA PARA FUNCIONALIDADE NA INFÂNCIA E ADOLESCÊNCIA I",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:30",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT091",
+    "name": "ABORDAGEM FISIOTERAPÊUTICA PARA FUNCIONALIDADE NA INFÂNCIA E ADOLESCÊNCIA I",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "12:30",
+        "end": "13:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT091",
+    "name": "ABORDAGEM FISIOTERAPÊUTICA PARA FUNCIONALIDADE NA INFÂNCIA E ADOLESCÊNCIA I",
+    "availabilityCode": "TT",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT092",
+    "name": "ABORDAGEM FISIOTERAPÊUTICA PARA FUNCIONALIDADE NA INFÂNCIA E ADOLESCÊNCIA II",
+    "availabilityCode": "PA",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT092",
+    "name": "ABORDAGEM FISIOTERAPÊUTICA PARA FUNCIONALIDADE NA INFÂNCIA E ADOLESCÊNCIA II",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:30",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT092",
+    "name": "ABORDAGEM FISIOTERAPÊUTICA PARA FUNCIONALIDADE NA INFÂNCIA E ADOLESCÊNCIA II",
+    "availabilityCode": "PC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "12:30",
+        "end": "13:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT092",
+    "name": "ABORDAGEM FISIOTERAPÊUTICA PARA FUNCIONALIDADE NA INFÂNCIA E ADOLESCÊNCIA II",
+    "availabilityCode": "TT",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT093",
+    "name": "FISIOTERAPIA MUSCULOESQUELÉTICA I",
+    "availabilityCode": "TT",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT094",
+    "name": "FISIOTERAPIA MUSCULOESQUELÉTICA II",
+    "availabilityCode": "PA",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "16:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT094",
+    "name": "FISIOTERAPIA MUSCULOESQUELÉTICA II",
+    "availabilityCode": "PB",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:30",
+        "end": "18:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT094",
+    "name": "FISIOTERAPIA MUSCULOESQUELÉTICA II",
+    "availabilityCode": "PC",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "19:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT094",
+    "name": "FISIOTERAPIA MUSCULOESQUELÉTICA II",
+    "availabilityCode": "TT",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "16:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT095",
+    "name": "FISIOTERAPIA NEUROFUNCIONAL I",
+    "availabilityCode": "PA",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT095",
+    "name": "FISIOTERAPIA NEUROFUNCIONAL I",
+    "availabilityCode": "PB",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:30",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT095",
+    "name": "FISIOTERAPIA NEUROFUNCIONAL I",
+    "availabilityCode": "PC",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "12:30",
+        "end": "13:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT095",
+    "name": "FISIOTERAPIA NEUROFUNCIONAL I",
+    "availabilityCode": "TT",
+    "spots": 38,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT096",
+    "name": "FISIOTERAPIA NEUROFUNCIONAL II",
+    "availabilityCode": "PA",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT096",
+    "name": "FISIOTERAPIA NEUROFUNCIONAL II",
+    "availabilityCode": "PB",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT096",
+    "name": "FISIOTERAPIA NEUROFUNCIONAL II",
+    "availabilityCode": "PC",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:30",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT096",
+    "name": "FISIOTERAPIA NEUROFUNCIONAL II",
+    "availabilityCode": "TT",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT097",
+    "name": "FISIOTERAPIA PARA SAÚDE DA MULHER I",
+    "availabilityCode": "PA",
+    "spots": 14,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:30",
+        "end": "11:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT097",
+    "name": "FISIOTERAPIA PARA SAÚDE DA MULHER I",
+    "availabilityCode": "PB",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:30",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT097",
+    "name": "FISIOTERAPIA PARA SAÚDE DA MULHER I",
+    "availabilityCode": "PC",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "12:30",
+        "end": "13:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT097",
+    "name": "FISIOTERAPIA PARA SAÚDE DA MULHER I",
+    "availabilityCode": "TT",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "10:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT098",
+    "name": "FISIOTERAPIA PARA SAÚDE DA MULHER II",
+    "availabilityCode": "PA",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:30",
+        "end": "16:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT098",
+    "name": "FISIOTERAPIA PARA SAÚDE DA MULHER II",
+    "availabilityCode": "PB",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "16:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT098",
+    "name": "FISIOTERAPIA PARA SAÚDE DA MULHER II",
+    "availabilityCode": "PC",
+    "spots": 16,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "17:30",
+        "end": "18:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT098",
+    "name": "FISIOTERAPIA PARA SAÚDE DA MULHER II",
+    "availabilityCode": "TT",
+    "spots": 49,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "15:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT099",
+    "name": "FISIOTERAPIA RESPIRATÓRIA II",
+    "availabilityCode": "PA",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "11:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT099",
+    "name": "FISIOTERAPIA RESPIRATÓRIA II",
+    "availabilityCode": "PB",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT099",
+    "name": "FISIOTERAPIA RESPIRATÓRIA II",
+    "availabilityCode": "PC",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "12:00",
+        "end": "13:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT099",
+    "name": "FISIOTERAPIA RESPIRATÓRIA II",
+    "availabilityCode": "TT",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT100",
+    "name": "MODELOS DE ATENÇÃO À SAÚDE NO BRASIL",
+    "availabilityCode": "TTP",
+    "spots": 38,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIT851",
+    "name": "FISIOTERAPIA NEUROFUNCIONAL BASEADA EM EVIDÊNCIAS",
+    "availabilityCode": "T1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MOF139",
+    "name": "CITOLOGIA E HISTOLOGIA",
+    "availabilityCode": "TT",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Gustavo B. M."
+    ]
+  },
+  {
+    "course_id": "MOF140",
+    "name": "ANATOMIA HUMANA",
+    "availabilityCode": "TT",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:30",
+        "end": "12:30"
+      },
+      {
+        "day": "Terca",
+        "start": "08:30",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MOF141",
+    "name": "NEUROANATOMIA",
+    "availabilityCode": "TT",
+    "spots": 52,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Paula L. S."
+    ]
+  },
+  {
+    "course_id": "PAG115",
+    "name": "PATOLOGIA GERAL E APLICADA",
+    "availabilityCode": "TT",
+    "spots": 44,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "10:30"
+      }
+    ],
+    "teachers": [
+      "Milene A. R."
+    ]
+  },
+  {
+    "course_id": "SOA046",
+    "name": "ABORDAGENS TEMATICAS EM SOCIOLOGIA - -",
+    "availabilityCode": "TZ",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Nina G. M. B. R. C."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "UNI285",
+    "name": "ACESSIBILIDADE E INCLUSÃO NO ENSINO SUPERIOR",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Daniela V. V."
+    ]
+  },
+  {
+    "course_id": "UNI285",
+    "name": "ACESSIBILIDADE E INCLUSÃO NO ENSINO SUPERIOR",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Daniela V. V."
+    ]
+  }
+]

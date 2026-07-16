@@ -14,10 +14,22 @@ const curriculumLoaders: Record<string, () => Promise<{ default: CurriculumData 
     import("@/data/curriculum/administracao-matutino.json"),
   "administracao-noturno": () =>
     import("@/data/curriculum/administracao-noturno.json"),
+  "agronomia-diurno": () =>
+    import("@/data/curriculum/agronomia-diurno.json"),
+  "antropologia-noturno": () =>
+    import("@/data/curriculum/antropologia-noturno.json"),
   "arquitetura-diurno": () =>
     import("@/data/curriculum/arquitetura-diurno.json"),
   "arquitetura-noturno": () =>
     import("@/data/curriculum/arquitetura-noturno.json"),
+  "arquivologia-noturno": () =>
+    import("@/data/curriculum/arquivologia-noturno.json"),
+  "biblioteconomia-diurno": () =>
+    import("@/data/curriculum/biblioteconomia-diurno.json"),
+  "biblioteconomia-noturno": () =>
+    import("@/data/curriculum/biblioteconomia-noturno.json"),
+  "biomedicina-noturno": () =>
+    import("@/data/curriculum/biomedicina-noturno.json"),
   "ciencia-computacao-diurno": () =>
     import("@/data/curriculum/ciencia-computacao-diurno.json"),
   "ciencia-computacao-vespertino": () =>
@@ -32,6 +44,10 @@ const curriculumLoaders: Record<string, () => Promise<{ default: CurriculumData 
     import("@/data/curriculum/ciencias-do-estado-diurno.json"),
   "ciencias-economicas-matutino": () =>
     import("@/data/curriculum/ciencias-economicas-matutino.json"),
+  "ciencias-sociais-diurno": () =>
+    import("@/data/curriculum/ciencias-sociais-diurno.json"),
+  "cinema-noturno": () =>
+    import("@/data/curriculum/cinema-noturno.json"),
   "controladoria-financas-diurno": () =>
     import("@/data/curriculum/controladoria-financas-diurno.json"),
   "controladoria-financas-matutino": () =>
@@ -40,6 +56,10 @@ const curriculumLoaders: Record<string, () => Promise<{ default: CurriculumData 
     import("@/data/curriculum/controle-automacao-diurno.json"),
   "controle-automacao-noturno": () =>
     import("@/data/curriculum/controle-automacao-noturno.json"),
+  "design-moda-noturno": () =>
+    import("@/data/curriculum/design-moda-noturno.json"),
+  "design-noturno": () =>
+    import("@/data/curriculum/design-noturno.json"),
   "direito-diurno": () =>
     import("@/data/curriculum/direito-diurno.json"),
   "direito-noturno": () =>
@@ -48,6 +68,8 @@ const curriculumLoaders: Record<string, () => Promise<{ default: CurriculumData 
     import("@/data/curriculum/educacao-fisica-diurno.json"),
   "educacao-fisica-noturno": () =>
     import("@/data/curriculum/educacao-fisica-noturno.json"),
+  "enfermagem-diurno": () =>
+    import("@/data/curriculum/enfermagem-diurno.json"),
   "eng-aeroespacial-diurno": () =>
     import("@/data/curriculum/eng-aeroespacial-diurno.json"),
   "eng-agricola-ambiental-diurno": () =>
@@ -86,22 +108,46 @@ const curriculumLoaders: Record<string, () => Promise<{ default: CurriculumData 
     import("@/data/curriculum/farmacia-diurno.json"),
   "farmacia-noturno": () =>
     import("@/data/curriculum/farmacia-noturno.json"),
+  "filosofia-diurno": () =>
+    import("@/data/curriculum/filosofia-diurno.json"),
+  "filosofia-noturno": () =>
+    import("@/data/curriculum/filosofia-noturno.json"),
   "fisica-diurno": () =>
     import("@/data/curriculum/fisica-diurno.json"),
   "fisica-noturno": () =>
     import("@/data/curriculum/fisica-noturno.json"),
+  "fisioterapia-diurno": () =>
+    import("@/data/curriculum/fisioterapia-diurno.json"),
+  "fonoaudiologia-diurno": () =>
+    import("@/data/curriculum/fonoaudiologia-diurno.json"),
+  "geografia-diurno": () =>
+    import("@/data/curriculum/geografia-diurno.json"),
+  "geografia-noturno": () =>
+    import("@/data/curriculum/geografia-noturno.json"),
   "geologia-diurno": () =>
     import("@/data/curriculum/geologia-diurno.json"),
+  "gestao-publica-noturno": () =>
+    import("@/data/curriculum/gestao-publica-noturno.json"),
+  "gestao-saude-noturno": () =>
+    import("@/data/curriculum/gestao-saude-noturno.json"),
+  "historia-diurno": () =>
+    import("@/data/curriculum/historia-diurno.json"),
   "jornalismo-diurno": () =>
     import("@/data/curriculum/jornalismo-diurno.json"),
   "jornalismo-noturno": () =>
     import("@/data/curriculum/jornalismo-noturno.json"),
+  "letras-diurno": () =>
+    import("@/data/curriculum/letras-diurno.json"),
+  "letras-noturno": () =>
+    import("@/data/curriculum/letras-noturno.json"),
   "matematica-computacional-vespertino": () =>
     import("@/data/curriculum/matematica-computacional-vespertino.json"),
   "matematica-diurno": () =>
     import("@/data/curriculum/matematica-diurno.json"),
   "medicina-diurno": () =>
     import("@/data/curriculum/medicina-diurno.json"),
+  "medicina-veterinaria-diurno": () =>
+    import("@/data/curriculum/medicina-veterinaria-diurno.json"),
   "nutricao-diurno": () =>
     import("@/data/curriculum/nutricao-diurno.json"),
   "odontologia-diurno": () =>
@@ -110,8 +156,14 @@ const curriculumLoaders: Record<string, () => Promise<{ default: CurriculumData 
     import("@/data/curriculum/psicologia-diurno.json"),
   "publicidade-propaganda-diurno": () =>
     import("@/data/curriculum/publicidade-propaganda-diurno.json"),
+  "quimica-diurno": () =>
+    import("@/data/curriculum/quimica-diurno.json"),
+  "quimica-tecnologica-noturno": () =>
+    import("@/data/curriculum/quimica-tecnologica-noturno.json"),
   "relacoes-economicas-internacionais-noturno": () =>
     import("@/data/curriculum/relacoes-economicas-internacionais-noturno.json"),
+  "relacoes-publicas-diurno": () =>
+    import("@/data/curriculum/relacoes-publicas-diurno.json"),
   "sistemas-informacao-noturno": () =>
     import("@/data/curriculum/sistemas-informacao-noturno.json"),
   "sistemas-informacao-vespertino": () =>

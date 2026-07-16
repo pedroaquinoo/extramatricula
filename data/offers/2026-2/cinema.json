@@ -1,0 +1,1128 @@
+[
+  {
+    "course_id": "DCC208",
+    "name": "INTRODUÇÃO À PROGRAMAÇÃO DE COMPUTADORES",
+    "availabilityCode": "TE",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Alexandre A. R."
+    ]
+  },
+  {
+    "course_id": "DCC208",
+    "name": "INTRODUÇÃO À PROGRAMAÇÃO DE COMPUTADORES",
+    "availabilityCode": "TM",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "14:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "14:40"
+      }
+    ],
+    "teachers": [
+      "Jose L. S. N."
+    ]
+  },
+  {
+    "course_id": "DES129",
+    "name": "DESENHO PARA ANIMAÇÃO",
+    "availabilityCode": "PA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES129",
+    "name": "DESENHO PARA ANIMAÇÃO",
+    "availabilityCode": "PB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES129",
+    "name": "DESENHO PARA ANIMAÇÃO",
+    "availabilityCode": "PC",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:30",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES129",
+    "name": "DESENHO PARA ANIMAÇÃO",
+    "availabilityCode": "PD",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:30",
+        "end": "18:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FTC202",
+    "name": "FUNDAMENTOS DA ANIMACAO",
+    "availabilityCode": "TA",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Antonio C. F. S."
+    ]
+  },
+  {
+    "course_id": "FTC209",
+    "name": "DESIGN SONORO I",
+    "availabilityCode": "TA",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:30",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Jalver M. B."
+    ]
+  },
+  {
+    "course_id": "FTC210",
+    "name": "JOGOS I",
+    "availabilityCode": "TA",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Rosilane R. M."
+    ]
+  },
+  {
+    "course_id": "FTC214",
+    "name": "ANIMACAO 3D DIGITAL I",
+    "availabilityCode": "PA",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Wagner R. M."
+    ]
+  },
+  {
+    "course_id": "FTC219",
+    "name": "ANIMACAO EXPERIMENTAL",
+    "availabilityCode": "PA",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Mauricio S. G."
+    ]
+  },
+  {
+    "course_id": "FTC219",
+    "name": "ANIMACAO EXPERIMENTAL",
+    "availabilityCode": "PB",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Daniel L. W."
+    ]
+  },
+  {
+    "course_id": "FTC242",
+    "name": "TOPICOS EM CINEMA DE ANIMACAO A - Laboratório de Documentário: Retratos Audiovisuais de Mestras e Mestres dos Saberes Tradicionais",
+    "availabilityCode": "TA",
+    "spots": 3,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:30",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Pedro C. A."
+    ]
+  },
+  {
+    "course_id": "FTC242",
+    "name": "TOPICOS EM CINEMA DE ANIMACAO A - Panorama da Animação Brasileira",
+    "availabilityCode": "TB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Mariana R. S. T."
+    ]
+  },
+  {
+    "course_id": "FTC242",
+    "name": "TOPICOS EM CINEMA DE ANIMACAO A - Animação Cartunesca II",
+    "availabilityCode": "TC",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:30",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Antonio C. F. S."
+    ]
+  },
+  {
+    "course_id": "FTC242",
+    "name": "TOPICOS EM CINEMA DE ANIMACAO A - CINEMA E HISTÓRIA",
+    "availabilityCode": "TCH",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:30",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Luiz R. P. N."
+    ]
+  },
+  {
+    "course_id": "FTC242",
+    "name": "TOPICOS EM CINEMA DE ANIMACAO A - História da Animação",
+    "availabilityCode": "TE",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Daniel L. W."
+    ]
+  },
+  {
+    "course_id": "FTC242",
+    "name": "TOPICOS EM CINEMA DE ANIMACAO A - Autores do Cinema: Pier Paolo Pasolini",
+    "availabilityCode": "TF",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Luiz R. P. N."
+    ]
+  },
+  {
+    "course_id": "FTC242",
+    "name": "TOPICOS EM CINEMA DE ANIMACAO A - Narrativas de Memória",
+    "availabilityCode": "TG",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Carlos H. R. F."
+    ]
+  },
+  {
+    "course_id": "FTC242",
+    "name": "TOPICOS EM CINEMA DE ANIMACAO A - Som e animação procedurais com grafismos de povos ancestrais",
+    "availabilityCode": "TH",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Jalver M. B."
+    ]
+  },
+  {
+    "course_id": "FTC303",
+    "name": "FOTOGRAFIA BÁSICA",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Luis M. C."
+    ]
+  },
+  {
+    "course_id": "FTC303",
+    "name": "FOTOGRAFIA BÁSICA",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Luis M. C."
+    ]
+  },
+  {
+    "course_id": "FTC314",
+    "name": "INTRODUÇÃO À PESQUISA",
+    "availabilityCode": "TU",
+    "spots": 26,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Carlos H. R. F."
+    ]
+  },
+  {
+    "course_id": "FTC318",
+    "name": "FUNDAMENTOS DA ANIMAÇÃO",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Antonio C. F. S."
+    ]
+  },
+  {
+    "course_id": "FTC318",
+    "name": "FUNDAMENTOS DA ANIMAÇÃO",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Luhan D. S."
+    ]
+  },
+  {
+    "course_id": "FTC319",
+    "name": "ANIMAÇÃO EXPERIMENTAL I",
+    "availabilityCode": "TA",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Mauricio S. G."
+    ]
+  },
+  {
+    "course_id": "FTC319",
+    "name": "ANIMAÇÃO EXPERIMENTAL I",
+    "availabilityCode": "TB",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Mauricio S. G."
+    ]
+  },
+  {
+    "course_id": "FTC320",
+    "name": "ROTEIRO VISUAL",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Simon P. B."
+    ]
+  },
+  {
+    "course_id": "FTC320",
+    "name": "ROTEIRO VISUAL",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Simon P. B."
+    ]
+  },
+  {
+    "course_id": "FTC326",
+    "name": "INTRODUÇÃO À ANIMAÇÃO 3D DIGITAL",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Wagner R. M."
+    ]
+  },
+  {
+    "course_id": "FTC326",
+    "name": "INTRODUÇÃO À ANIMAÇÃO 3D DIGITAL",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Wagner R. M."
+    ]
+  },
+  {
+    "course_id": "FTC327",
+    "name": "INTRODUÇÃO AO STOP MOTION",
+    "availabilityCode": "TA",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Simon P. B."
+    ]
+  },
+  {
+    "course_id": "FTC327",
+    "name": "INTRODUÇÃO AO STOP MOTION",
+    "availabilityCode": "TB",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Simon P. B."
+    ]
+  },
+  {
+    "course_id": "FTC328",
+    "name": "FUNDAMENTOS DO DESIGN DE JOGOS",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Rosilane R. M."
+    ]
+  },
+  {
+    "course_id": "FTC328",
+    "name": "FUNDAMENTOS DO DESIGN DE JOGOS",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Rosilane R. M."
+    ]
+  },
+  {
+    "course_id": "FTC329",
+    "name": "DESIGN SONORO",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:30",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Jalver M. B."
+    ]
+  },
+  {
+    "course_id": "FTC329",
+    "name": "DESIGN SONORO",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Jalver M. B."
+    ]
+  },
+  {
+    "course_id": "FTC330",
+    "name": "ÉTICA E POLÍTICA DO AUDIOVISUAL",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Mariana R. S. T."
+    ]
+  },
+  {
+    "course_id": "FTC331",
+    "name": "METODOLOGIAS DE PESQUISA E PROCESSOS DE CRIAÇÃO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:30",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Mariana R. S. T."
+    ]
+  },
+  {
+    "course_id": "FTC335",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+    "availabilityCode": "PAA",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Ana L. M. A."
+    ]
+  },
+  {
+    "course_id": "FTC335",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+    "availabilityCode": "PAB",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Angelica B. C. G."
+    ]
+  },
+  {
+    "course_id": "FTC335",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+    "availabilityCode": "PAF",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Antonio C. F. S."
+    ]
+  },
+  {
+    "course_id": "FTC335",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+    "availabilityCode": "PCF",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Carlos H. R. F."
+    ]
+  },
+  {
+    "course_id": "FTC335",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+    "availabilityCode": "PDW",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Daniel L. W."
+    ]
+  },
+  {
+    "course_id": "FTC335",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+    "availabilityCode": "PJB",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Jalver M. B."
+    ]
+  },
+  {
+    "course_id": "FTC335",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+    "availabilityCode": "PLC",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Luis M. C."
+    ]
+  },
+  {
+    "course_id": "FTC335",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+    "availabilityCode": "PLD",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Luhan D. S."
+    ]
+  },
+  {
+    "course_id": "FTC335",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+    "availabilityCode": "PLN",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Luiz R. P. N."
+    ]
+  },
+  {
+    "course_id": "FTC335",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+    "availabilityCode": "PMG",
+    "spots": 5,
+    "times": [],
+    "teachers": [
+      "Mauricio S. G."
+    ]
+  },
+  {
+    "course_id": "FTC340",
+    "name": "PANORAMA DA ANIMAÇÃO BRASILEIRA",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Mariana R. S. T."
+    ]
+  },
+  {
+    "course_id": "FTC367",
+    "name": "TÓPICOS EM ANIMAÇÃO, CINEMA E ARTES DIGITAIS IV - Laboratório de Documentário: Retratos Audiovisuais de Mestras e Mestres dos Saberes Tradicionais",
+    "availabilityCode": "TA",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:30",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Pedro C. A."
+    ]
+  },
+  {
+    "course_id": "FTC367",
+    "name": "TÓPICOS EM ANIMAÇÃO, CINEMA E ARTES DIGITAIS IV - História da Animação",
+    "availabilityCode": "TB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Daniel L. W."
+    ]
+  },
+  {
+    "course_id": "FTC367",
+    "name": "TÓPICOS EM ANIMAÇÃO, CINEMA E ARTES DIGITAIS IV - Autores do Cinema: Pier Paolo Pasolini",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Luiz R. P. N."
+    ]
+  },
+  {
+    "course_id": "FTC367",
+    "name": "TÓPICOS EM ANIMAÇÃO, CINEMA E ARTES DIGITAIS IV - Motion Graphics e Mídias Interativas",
+    "availabilityCode": "TD",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Andre G. B.",
+      "Jalver M. B."
+    ]
+  },
+  {
+    "course_id": "FTC367",
+    "name": "TÓPICOS EM ANIMAÇÃO, CINEMA E ARTES DIGITAIS IV - Narrativas de Memória",
+    "availabilityCode": "TE",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Carlos H. R. F."
+    ]
+  },
+  {
+    "course_id": "FTC374",
+    "name": "ESTÁGIO MODULAR - Estágio não obrigatório (6 meses)",
+    "availabilityCode": "PA",
+    "spots": 20,
+    "times": [],
+    "teachers": [
+      "Pedro C. A."
+    ]
+  },
+  {
+    "course_id": "FTC375",
+    "name": "ESTÁGIO SUPERVISIONADO - Estágio não obrigatório (1 ano)",
+    "availabilityCode": "PA",
+    "spots": 20,
+    "times": [],
+    "teachers": [
+      "Pedro C. A."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MAT001",
+    "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+    "availabilityCode": "TD1",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quarta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Sexta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TD1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TD2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "11:10",
+        "end": "12:50"
+      },
+      {
+        "day": "Quinta",
+        "start": "11:10",
+        "end": "12:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT038",
+    "name": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "availabilityCode": "TE2",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "UNI019",
+    "name": "FUNDAMENTOS DA LINGUAGEM AUDIOVISUAL",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "18:30",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Ana L. M. A."
+    ]
+  },
+  {
+    "course_id": "UNI022",
+    "name": "AUTORES E ESTILOS CINEMATOGRAFICOS",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "09:00",
+        "end": "12:20"
+      }
+    ],
+    "teachers": [
+      "Ana L. M. A."
+    ]
+  }
+]

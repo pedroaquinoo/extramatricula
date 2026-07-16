@@ -13,8 +13,18 @@ const offerLoaders: Record<string, () => Promise<{ default: AvailableClass[] }>>
     import("@/data/offers/2026-1/controle-automacao.json"),
   "2026/2:administracao": () =>
     import("@/data/offers/2026-2/administracao.json"),
+  "2026/2:agronomia": () =>
+    import("@/data/offers/2026-2/agronomia.json"),
+  "2026/2:antropologia": () =>
+    import("@/data/offers/2026-2/antropologia.json"),
   "2026/2:arquitetura": () =>
     import("@/data/offers/2026-2/arquitetura.json"),
+  "2026/2:arquivologia": () =>
+    import("@/data/offers/2026-2/arquivologia.json"),
+  "2026/2:biblioteconomia": () =>
+    import("@/data/offers/2026-2/biblioteconomia.json"),
+  "2026/2:biomedicina": () =>
+    import("@/data/offers/2026-2/biomedicina.json"),
   "2026/2:ciencia-computacao": () =>
     import("@/data/offers/2026-2/ciencia-computacao.json"),
   "2026/2:ciencia-de-dados": () =>
@@ -27,14 +37,24 @@ const offerLoaders: Record<string, () => Promise<{ default: AvailableClass[] }>>
     import("@/data/offers/2026-2/ciencias-do-estado.json"),
   "2026/2:ciencias-economicas": () =>
     import("@/data/offers/2026-2/ciencias-economicas.json"),
+  "2026/2:ciencias-sociais": () =>
+    import("@/data/offers/2026-2/ciencias-sociais.json"),
+  "2026/2:cinema": () =>
+    import("@/data/offers/2026-2/cinema.json"),
   "2026/2:controladoria-financas": () =>
     import("@/data/offers/2026-2/controladoria-financas.json"),
   "2026/2:controle-automacao": () =>
     import("@/data/offers/2026-2/controle-automacao.json"),
+  "2026/2:design": () =>
+    import("@/data/offers/2026-2/design.json"),
+  "2026/2:design-moda": () =>
+    import("@/data/offers/2026-2/design-moda.json"),
   "2026/2:direito": () =>
     import("@/data/offers/2026-2/direito.json"),
   "2026/2:educacao-fisica": () =>
     import("@/data/offers/2026-2/educacao-fisica.json"),
+  "2026/2:enfermagem": () =>
+    import("@/data/offers/2026-2/enfermagem.json"),
   "2026/2:eng-aeroespacial": () =>
     import("@/data/offers/2026-2/eng-aeroespacial.json"),
   "2026/2:eng-agricola-ambiental": () =>
@@ -67,18 +87,36 @@ const offerLoaders: Record<string, () => Promise<{ default: AvailableClass[] }>>
     import("@/data/offers/2026-2/estatistica.json"),
   "2026/2:farmacia": () =>
     import("@/data/offers/2026-2/farmacia.json"),
+  "2026/2:filosofia": () =>
+    import("@/data/offers/2026-2/filosofia.json"),
   "2026/2:fisica": () =>
     import("@/data/offers/2026-2/fisica.json"),
+  "2026/2:fisioterapia": () =>
+    import("@/data/offers/2026-2/fisioterapia.json"),
+  "2026/2:fonoaudiologia": () =>
+    import("@/data/offers/2026-2/fonoaudiologia.json"),
+  "2026/2:geografia": () =>
+    import("@/data/offers/2026-2/geografia.json"),
   "2026/2:geologia": () =>
     import("@/data/offers/2026-2/geologia.json"),
+  "2026/2:gestao-publica": () =>
+    import("@/data/offers/2026-2/gestao-publica.json"),
+  "2026/2:gestao-saude": () =>
+    import("@/data/offers/2026-2/gestao-saude.json"),
+  "2026/2:historia": () =>
+    import("@/data/offers/2026-2/historia.json"),
   "2026/2:jornalismo": () =>
     import("@/data/offers/2026-2/jornalismo.json"),
+  "2026/2:letras": () =>
+    import("@/data/offers/2026-2/letras.json"),
   "2026/2:matematica": () =>
     import("@/data/offers/2026-2/matematica.json"),
   "2026/2:matematica-computacional": () =>
     import("@/data/offers/2026-2/matematica-computacional.json"),
   "2026/2:medicina": () =>
     import("@/data/offers/2026-2/medicina.json"),
+  "2026/2:medicina-veterinaria": () =>
+    import("@/data/offers/2026-2/medicina-veterinaria.json"),
   "2026/2:nutricao": () =>
     import("@/data/offers/2026-2/nutricao.json"),
   "2026/2:odontologia": () =>
@@ -87,8 +125,14 @@ const offerLoaders: Record<string, () => Promise<{ default: AvailableClass[] }>>
     import("@/data/offers/2026-2/psicologia.json"),
   "2026/2:publicidade-propaganda": () =>
     import("@/data/offers/2026-2/publicidade-propaganda.json"),
+  "2026/2:quimica": () =>
+    import("@/data/offers/2026-2/quimica.json"),
+  "2026/2:quimica-tecnologica": () =>
+    import("@/data/offers/2026-2/quimica-tecnologica.json"),
   "2026/2:relacoes-economicas-internacionais": () =>
     import("@/data/offers/2026-2/relacoes-economicas-internacionais.json"),
+  "2026/2:relacoes-publicas": () =>
+    import("@/data/offers/2026-2/relacoes-publicas.json"),
   "2026/2:sistemas-informacao": () =>
     import("@/data/offers/2026-2/sistemas-informacao.json"),
 }

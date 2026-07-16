@@ -1,0 +1,338 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "CAD189",
+      "name": "Teoria da Administração",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "GES008",
+      "name": "Cálculo Aplicado À Saúde",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "GES009",
+      "name": "Metodologia Científica I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "GES053",
+      "name": "Introdução À Gestão de Serviços de Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "GES054",
+      "name": "Relações Socioculturais em Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MPS015",
+      "name": "Políticas de Saúde no Brasil",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "CAD190",
+      "name": "Estratégia de Planejamento I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ECN140",
+      "name": "Introdução À Economia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "GES002",
+      "name": "Bioestatística a",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "POP005",
+      "name": "Introdução À Demografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ECN251",
+      "name": "Microeconomia Aplicada À Saúde",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "GES003",
+      "name": "Epidemiologia a",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "GES011",
+      "name": "Modelos de Atenção À Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "POP015",
+      "name": "Componentes da Dinâmica Demográfica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ECN032",
+      "name": "Economia da Saúde",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "GES012",
+      "name": "Saúde Suplementar",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "GES013",
+      "name": "Sistemas de Informação em Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "MPS016",
+      "name": "Saúde Ambiental",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "MPS017",
+      "name": "Saúde e Trabalho",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CIC010",
+      "name": "Introdução À Contabilidade",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "GES014",
+      "name": "Processo de Trabalho e Tecnologias em Saúde",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "GES015",
+      "name": "Vigilância em Saúde",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "GES016",
+      "name": "Planejamento , Programação e Avaliação em Saúde",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CAD067",
+      "name": "Gestão de Custos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "GES017",
+      "name": "Gestão Com Pessoas Nas Organizações de Saúde",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "GES018",
+      "name": "Gestão da Qualidade em Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "GES019",
+      "name": "Elaboração de Projetos de Pesquisa",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CAD009",
+      "name": "Administração de Recursos Materiais e Patrimoniais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "GES020",
+      "name": "Gestão de Riscos Nas Organizações de Saúde",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "GES021",
+      "name": "Trabalho de Conclusão de Curso I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "GES022",
+      "name": "Ética",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "GES023",
+      "name": "Trabalho de Conclusão de Curso II",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "GES024",
+      "name": "Estágio I",
+      "description": null,
+      "credits": 16,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "GES025",
+      "name": "Estágio II",
+      "description": null,
+      "credits": 23,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "CAD190",
+      "prerequisite_code": "CAD189"
+    },
+    {
+      "code": "ECN140",
+      "prerequisite_code": "GES008"
+    },
+    {
+      "code": "GES002",
+      "prerequisite_code": "GES008"
+    },
+    {
+      "code": "ECN251",
+      "prerequisite_code": "ECN140"
+    },
+    {
+      "code": "GES003",
+      "prerequisite_code": "GES002"
+    },
+    {
+      "code": "POP015",
+      "prerequisite_code": "POP005"
+    },
+    {
+      "code": "ECN032",
+      "prerequisite_code": "ECN251"
+    },
+    {
+      "code": "GES013",
+      "prerequisite_code": "GES003"
+    },
+    {
+      "code": "GES016",
+      "prerequisite_code": "MPS015"
+    },
+    {
+      "code": "CAD067",
+      "prerequisite_code": "CIC010"
+    },
+    {
+      "code": "GES019",
+      "prerequisite_code": "GES009"
+    },
+    {
+      "code": "CAD009",
+      "prerequisite_code": "CAD189"
+    },
+    {
+      "code": "GES021",
+      "prerequisite_code": "GES019"
+    },
+    {
+      "code": "GES023",
+      "prerequisite_code": "GES021"
+    },
+    {
+      "code": "GES025",
+      "prerequisite_code": "GES024"
+    }
+  ]
+}

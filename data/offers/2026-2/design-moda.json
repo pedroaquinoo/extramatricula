@@ -1,0 +1,1165 @@
+[
+  {
+    "course_id": "DES032",
+    "name": "PESQUISA DE MODA I",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES032",
+    "name": "PESQUISA DE MODA I",
+    "availabilityCode": "TB",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES033",
+    "name": "DESENHO TECNICO II",
+    "availabilityCode": "PA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES033",
+    "name": "DESENHO TECNICO II",
+    "availabilityCode": "PB",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES034",
+    "name": "DESENHO DA FIGURA HUMANA",
+    "availabilityCode": "TA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES034",
+    "name": "DESENHO DA FIGURA HUMANA",
+    "availabilityCode": "TB",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES038",
+    "name": "MODELAGEM FEMININA",
+    "availabilityCode": "TA",
+    "spots": 26,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES038",
+    "name": "MODELAGEM FEMININA",
+    "availabilityCode": "TB",
+    "spots": 26,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      },
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES039",
+    "name": "ILUSTRACAO DE MODA",
+    "availabilityCode": "TA",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES039",
+    "name": "ILUSTRACAO DE MODA",
+    "availabilityCode": "TB",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES039",
+    "name": "ILUSTRACAO DE MODA",
+    "availabilityCode": "TC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES040",
+    "name": "PESQUISA DE MODA II",
+    "availabilityCode": "TA",
+    "spots": 26,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES040",
+    "name": "PESQUISA DE MODA II",
+    "availabilityCode": "TB",
+    "spots": 26,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES042",
+    "name": "MOULAGE",
+    "availabilityCode": "TA",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES042",
+    "name": "MOULAGE",
+    "availabilityCode": "TB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES042",
+    "name": "MOULAGE",
+    "availabilityCode": "TC",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES043",
+    "name": "ATELIER DE CRIACAO: PROJETO",
+    "availabilityCode": "TU",
+    "spots": 59,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES047",
+    "name": "TCC EM DESIGN DE MODA",
+    "availabilityCode": "TAA",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DES047",
+    "name": "TCC EM DESIGN DE MODA",
+    "availabilityCode": "TAB",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DES047",
+    "name": "TCC EM DESIGN DE MODA",
+    "availabilityCode": "TAP",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DES047",
+    "name": "TCC EM DESIGN DE MODA",
+    "availabilityCode": "TJB",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DES047",
+    "name": "TCC EM DESIGN DE MODA",
+    "availabilityCode": "TJP",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DES047",
+    "name": "TCC EM DESIGN DE MODA",
+    "availabilityCode": "TLS",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DES047",
+    "name": "TCC EM DESIGN DE MODA",
+    "availabilityCode": "TMP",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DES047",
+    "name": "TCC EM DESIGN DE MODA",
+    "availabilityCode": "TMPG",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DES047",
+    "name": "TCC EM DESIGN DE MODA",
+    "availabilityCode": "TSC",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DES047",
+    "name": "TCC EM DESIGN DE MODA",
+    "availabilityCode": "TTD",
+    "spots": 6,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DES049",
+    "name": "CULTURA E MODA",
+    "availabilityCode": "TU",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES051",
+    "name": "MATERIAIS E PROCESSOS DE FABRICACAO",
+    "availabilityCode": "TU",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES055",
+    "name": "TOPICOS EM MODA - Casa da Mulher(FHA) e a Moda(EBA/UFMG): Práticas e Saberes da Alfaiataria_Desenvolviment o",
+    "availabilityCode": "TA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES055",
+    "name": "TOPICOS EM MODA - Casa da Mulher(FHA) e a Moda(EBA/UFMG): Práticas e Saberes Têxteis_Desenvolvimento",
+    "availabilityCode": "TB",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES055",
+    "name": "TOPICOS EM MODA - Sustentabilidade e Inovação na Moda: Produção de Sapatos",
+    "availabilityCode": "TC",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES055",
+    "name": "TOPICOS EM MODA - Estamparia Manual Experimental: Carimbos",
+    "availabilityCode": "TD",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES055",
+    "name": "TOPICOS EM MODA - Amuletos, Talismãs, Relicários e Outros Fetiches",
+    "availabilityCode": "TE",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:40",
+        "end": "18:15"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES055",
+    "name": "TOPICOS EM MODA - Processos Criativos e IA Generativa",
+    "availabilityCode": "TF",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES055",
+    "name": "TOPICOS EM MODA - A Estética do Sagrado: Cultura Visual das Divindades Afro-Brasileiras",
+    "availabilityCode": "TG",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES055",
+    "name": "TOPICOS EM MODA - Manipulação de Pences",
+    "availabilityCode": "TH",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES055",
+    "name": "TOPICOS EM MODA - Macramê: Técnicas Mistas entre Fios e Miçangas",
+    "availabilityCode": "TI",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES055",
+    "name": "TOPICOS EM MODA - Manipulação Têxtil",
+    "availabilityCode": "TK",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES055",
+    "name": "TOPICOS EM MODA - Teoria Crítica e Moda",
+    "availabilityCode": "TL",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES055",
+    "name": "TOPICOS EM MODA - Serigrafia: Introdução à Prática",
+    "availabilityCode": "TM",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DES055",
+    "name": "TOPICOS EM MODA - Macramê: Técnicas Mistas entre Fios e Miçangas",
+    "availabilityCode": "TN",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA009",
+    "name": "ESTAGIO CURRICULAR - Sustentabilidade e Inovação na Moda: Desenho Técnico",
+    "availabilityCode": "PA",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA009",
+    "name": "ESTAGIO CURRICULAR - Sustentabilidade e Inovação na Moda: Modelagem",
+    "availabilityCode": "PB",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA009",
+    "name": "ESTAGIO CURRICULAR - Sustentabilidade e Inovação na Moda: Design Sistêmico",
+    "availabilityCode": "PC",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA009",
+    "name": "ESTAGIO CURRICULAR - Sustentabilidade e Inovação na Moda: Planejamento de Coleção",
+    "availabilityCode": "PD",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA009",
+    "name": "ESTAGIO CURRICULAR - Sustentabilidade e Inovação na Moda: Tingimentos",
+    "availabilityCode": "PE",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA009",
+    "name": "ESTAGIO CURRICULAR - Sustentabilidade e Inovação na Moda: Produção A",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA009",
+    "name": "ESTAGIO CURRICULAR - Sustentabilidade e Inovação na Moda: Produção B",
+    "availabilityCode": "PG",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA021",
+    "name": "VIVENCIA PROFISSIONAL COMPLEMENTAR - Sustentabilidade e Inovação na Moda: Desenho Técnico",
+    "availabilityCode": "TA",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA021",
+    "name": "VIVENCIA PROFISSIONAL COMPLEMENTAR - Sustentabilidade e Inovação na Moda: Modelagem",
+    "availabilityCode": "TB",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA021",
+    "name": "VIVENCIA PROFISSIONAL COMPLEMENTAR - Sustentabilidade e Inovação na Moda: Design Sistêmico",
+    "availabilityCode": "TC",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA021",
+    "name": "VIVENCIA PROFISSIONAL COMPLEMENTAR - Sustentabilidade e Inovação na Moda: Planejamento de Coleção",
+    "availabilityCode": "TD",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA021",
+    "name": "VIVENCIA PROFISSIONAL COMPLEMENTAR - Sustentabilidade e Inovação na Moda: Tingimentos",
+    "availabilityCode": "TE",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA021",
+    "name": "VIVENCIA PROFISSIONAL COMPLEMENTAR - Sustentabilidade e Inovação na Moda: Produção A",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA021",
+    "name": "VIVENCIA PROFISSIONAL COMPLEMENTAR - Sustentabilidade e Inovação na Moda: Produção B",
+    "availabilityCode": "TG",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA042",
+    "name": "ATIVIDADE PRATICA INTEGRADORA A",
+    "availabilityCode": "PU",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA043",
+    "name": "ATIVIDADE PRATICA INTEGRADORA B",
+    "availabilityCode": "PU",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA044",
+    "name": "ATIVIDADE PRATICA INTEGRADORA C",
+    "availabilityCode": "PU",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA045",
+    "name": "ATIVIDADE PRATICA INTEGRADORA D",
+    "availabilityCode": "PU",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA046",
+    "name": "OFICINAS DE CRIACAO E PROJETOS - Estamparia Manual Experimental: Carimbos",
+    "availabilityCode": "PA",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA046",
+    "name": "OFICINAS DE CRIACAO E PROJETOS - Brasilidades: A Roupa e a Moda _ Parte 01",
+    "availabilityCode": "PB",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA046",
+    "name": "OFICINAS DE CRIACAO E PROJETOS - Brasilidades: A Roupa e a Moda _ Parte 02",
+    "availabilityCode": "PC",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA046",
+    "name": "OFICINAS DE CRIACAO E PROJETOS - Processos Criativos e IA Generativa(Continuação)",
+    "availabilityCode": "PD",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA046",
+    "name": "OFICINAS DE CRIACAO E PROJETOS - Produção e Edição de Desfile",
+    "availabilityCode": "PE",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA046",
+    "name": "OFICINAS DE CRIACAO E PROJETOS - Macramê: Técnicas Mistas entre Fios e Miçangas(Continuação)",
+    "availabilityCode": "PF",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA046",
+    "name": "OFICINAS DE CRIACAO E PROJETOS - Manipulação Têxtil(Continuação)",
+    "availabilityCode": "PG",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "EBA046",
+    "name": "OFICINAS DE CRIACAO E PROJETOS - Macramê: Técnicas Mistas entre Fios e Miçangas(Continuação)",
+    "availabilityCode": "PH",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIL028",
+    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Tadeu M. V."
+    ]
+  },
+  {
+    "course_id": "FIL028",
+    "name": "INTRODUÇÃO A FILOSOFIA: ÉTICA",
+    "availabilityCode": "TC",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Eduardo S. N. S."
+    ]
+  },
+  {
+    "course_id": "FIL030",
+    "name": "INTRODUÇÃO A FILOSOFIA: ESTÉTICA",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "17:10"
+      }
+    ],
+    "teachers": [
+      "Daniel O. P."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "TAU050",
+    "name": "METODOLOGIA DO DESIGN I",
+    "availabilityCode": "TU",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "UNI012",
+    "name": "PANORAMA DO VESTUARIO MODERNO E CONTEMPORANEO",
+    "availabilityCode": "TU",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  }
+]

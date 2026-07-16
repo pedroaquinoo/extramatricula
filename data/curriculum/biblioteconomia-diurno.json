@@ -1,0 +1,258 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "CAD103",
+      "name": "Administração Tga",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DCC601",
+      "name": "Introducao a Informatica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "OTI072",
+      "name": "Fundamentos da Organizacao da Informacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "OTI077",
+      "name": "Int.bibliotec.,arquivologia e Museologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "TGI002",
+      "name": "Cultura e Informacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "OTI073",
+      "name": "Analise de Assunto",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "OTI078",
+      "name": "Elab. e Apres. do Trabalho Cientifico",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "TGI030",
+      "name": "Fundamentos da Ciencia da Informacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "TGI031",
+      "name": "Gestao de Unidades de Informacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "TGI032",
+      "name": "Introducao a Bancos de Dados",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "OTI074",
+      "name": "Linguagens de Indexacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "OTI079",
+      "name": "Catalogacao Descritiva",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "OTI080",
+      "name": "Introducao As Fontes de Informacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "TGI004",
+      "name": "Usuários da Informação",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "TGI033",
+      "name": "Metodos e Tecnicas de Pesquisa",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "OTI081",
+      "name": "Sistemas de Recuperacao da Informacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "OTI082",
+      "name": "Fontes Inf.pesquisadores e Profissionais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "TGI034",
+      "name": "Memoria e Patrimonio Cultural",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "TGI035",
+      "name": "Planej.em Unid. e Sistemas Informacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "TGI046",
+      "name": "Formacao e Desenvolvimento do Acervo",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "OTI083",
+      "name": "Sistemas de Classificacao: Cdd",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "OTI084",
+      "name": "Acesso a Fontes de Inf. em Meio Digital",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "OTI087",
+      "name": "Bibliotecas, Arquivos e Museus Digitais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "OTI088",
+      "name": "Competencia Informacional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "TGI036",
+      "name": "Preservacao do Acervo",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "TGI047",
+      "name": "Leitura e Formacao do Leitor",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "OTI051",
+      "name": "Servicos de Disseminacao da Informacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "OTI085",
+      "name": "Sistemas de Classificacao: Cdu",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "OTI086",
+      "name": "Organizacao Bibliografica Nacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ECI155",
+      "name": "Estágio Supervisionado em Biblioteconomia",
+      "description": null,
+      "credits": 16,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "OTI074",
+      "prerequisite_code": "OTI073"
+    },
+    {
+      "code": "OTI083",
+      "prerequisite_code": "OTI073"
+    },
+    {
+      "code": "OTI085",
+      "prerequisite_code": "OTI073"
+    }
+  ]
+}

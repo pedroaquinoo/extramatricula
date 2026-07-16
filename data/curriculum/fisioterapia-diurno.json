@@ -1,0 +1,550 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "BIQ118",
+      "name": "Bioquímica Celular",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FIB001",
+      "name": "Biofisica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FIT028",
+      "name": "Fundamentos de Fisioterapia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FIT044",
+      "name": "Atividade Prática Integradora I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF139",
+      "name": "Citologia e Histologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF140",
+      "name": "Anatomia Humana",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "SOA046",
+      "name": "Abordagens Tematicas em Sociologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIB123",
+      "name": "Fisiologia Humana Básica",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIT030",
+      "name": "Cinesiologia",
+      "description": null,
+      "credits": 7,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIT100",
+      "name": "Modelos de Atenção À Saúde no Brasil",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF141",
+      "name": "Neuroanatomia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "PAG115",
+      "name": "Patologia Geral e Aplicada",
+      "description": null,
+      "credits": 7,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EFI150",
+      "name": "Fisiologia do Exercício",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIT029",
+      "name": "Eletrotermofototerapia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIT045",
+      "name": "Atividade Prática Integradora II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIT049",
+      "name": "Biomecânica do Movimento Humano",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIT050",
+      "name": "Comportamento Motor I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIT051",
+      "name": "Medidas Clínicas e Observacionais",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIT031",
+      "name": "Terapia Manual",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIT032",
+      "name": "Comportamento Motor II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIT033",
+      "name": "Cinesioterapia",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIT037",
+      "name": "Ética e Deontologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIT039",
+      "name": "Metodologia da Pesquisa",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EMI045",
+      "name": "Epidemiologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "EST179",
+      "name": "Introducao a Bioestatistica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FIT046",
+      "name": "Atividade Prática Integradora III",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FIT052",
+      "name": "Fisioterapia Cardiorrespiratória",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FIT091",
+      "name": "Abordagem Fisioterapêutica Para Funcionalidade I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FIT092",
+      "name": "Abordagem Fisioterapêutica Para Funcionalidade II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FIT093",
+      "name": "Fisioterapia Musculoesquelética I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FIT047",
+      "name": "Atividade Prática Integradora IV",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FIT055",
+      "name": "Fisioterapia Respiratória I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FIT056",
+      "name": "Fisioterapia Cardiovascular I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FIT058",
+      "name": "Ergonomia e Saúde do Trabalhador",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FIT094",
+      "name": "Fisioterapia Musculoesquelética II",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FIT095",
+      "name": "Fisioterapia Neurofuncional I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FIT097",
+      "name": "Fisioterapia Para Saúde da Mulher I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FIT038",
+      "name": "Fisioterapia em Gerontologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FIT048",
+      "name": "Atividade Prática Integradora V",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FIT060",
+      "name": "Fisioterapia Musculoesquelética III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FIT062",
+      "name": "Fisioterapia Cardiovascular II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FIT096",
+      "name": "Fisioterapia Neurofuncional II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FIT098",
+      "name": "Fisioterapia Para Saúde da Mulher II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FIT099",
+      "name": "Fisioterapia Respiratória II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "FIT064",
+      "name": "Trabalho de Conclusão de Curso I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "FIT088",
+      "name": "Estágio I",
+      "description": null,
+      "credits": 18,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "FIT065",
+      "name": "Trabalho de Conclusão de Curso II",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "FIT089",
+      "name": "Estágio II",
+      "description": null,
+      "credits": 18,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FIT066",
+      "name": "Trabalho de Conclusão de Curso III",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FIT090",
+      "name": "Estágio III",
+      "description": null,
+      "credits": 18,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "FIT030",
+      "prerequisite_code": "BIQ118"
+    },
+    {
+      "code": "EFI150",
+      "prerequisite_code": "FIB123"
+    },
+    {
+      "code": "FIT029",
+      "prerequisite_code": "FIB123"
+    },
+    {
+      "code": "FIT049",
+      "prerequisite_code": "FIT030"
+    },
+    {
+      "code": "FIT049",
+      "prerequisite_code": "MOF140"
+    },
+    {
+      "code": "FIT050",
+      "prerequisite_code": "FIT030"
+    },
+    {
+      "code": "FIT051",
+      "prerequisite_code": "FIT030"
+    },
+    {
+      "code": "FIT031",
+      "prerequisite_code": "FIT030"
+    },
+    {
+      "code": "FIT031",
+      "prerequisite_code": "MOF140"
+    },
+    {
+      "code": "FIT032",
+      "prerequisite_code": "FIT030"
+    },
+    {
+      "code": "FIT032",
+      "prerequisite_code": "FIT050"
+    },
+    {
+      "code": "FIT033",
+      "prerequisite_code": "FIT051"
+    },
+    {
+      "code": "FIT033",
+      "prerequisite_code": "FIT030"
+    },
+    {
+      "code": "FIT047",
+      "prerequisite_code": "FIT046"
+    },
+    {
+      "code": "FIT055",
+      "prerequisite_code": "FIT051"
+    },
+    {
+      "code": "FIT055",
+      "prerequisite_code": "FIT033"
+    },
+    {
+      "code": "FIT056",
+      "prerequisite_code": "FIT051"
+    },
+    {
+      "code": "FIT056",
+      "prerequisite_code": "EFI150"
+    },
+    {
+      "code": "FIT094",
+      "prerequisite_code": "FIT093"
+    },
+    {
+      "code": "FIT095",
+      "prerequisite_code": "FIT091"
+    },
+    {
+      "code": "FIT097",
+      "prerequisite_code": "FIT033"
+    },
+    {
+      "code": "FIT038",
+      "prerequisite_code": "FIT033"
+    },
+    {
+      "code": "FIT038",
+      "prerequisite_code": "FIT029"
+    },
+    {
+      "code": "FIT048",
+      "prerequisite_code": "FIT047"
+    },
+    {
+      "code": "FIT060",
+      "prerequisite_code": "FIT094"
+    },
+    {
+      "code": "FIT062",
+      "prerequisite_code": "FIT056"
+    },
+    {
+      "code": "FIT096",
+      "prerequisite_code": "FIT095"
+    },
+    {
+      "code": "FIT098",
+      "prerequisite_code": "FIT097"
+    },
+    {
+      "code": "FIT098",
+      "prerequisite_code": "FIT033"
+    },
+    {
+      "code": "FIT099",
+      "prerequisite_code": "FIT055"
+    },
+    {
+      "code": "FIT064",
+      "prerequisite_code": "EST179"
+    },
+    {
+      "code": "FIT064",
+      "prerequisite_code": "FIT039"
+    },
+    {
+      "code": "FIT065",
+      "prerequisite_code": "FIT064"
+    },
+    {
+      "code": "FIT089",
+      "prerequisite_code": "FIT088"
+    },
+    {
+      "code": "FIT066",
+      "prerequisite_code": "FIT065"
+    },
+    {
+      "code": "FIT090",
+      "prerequisite_code": "FIT089"
+    }
+  ]
+}

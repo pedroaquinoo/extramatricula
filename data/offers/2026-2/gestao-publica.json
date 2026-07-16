@@ -1,0 +1,1071 @@
+[
+  {
+    "course_id": "DCP026",
+    "name": "MOVIMENTOS SOCIAIS E SOCIEDADE CIVIL",
+    "availabilityCode": "TTGP",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Leticia B. D."
+    ]
+  },
+  {
+    "course_id": "DCP030",
+    "name": "TOPICOS EM POLITICA - Raça, etnicidade e política no Brasil",
+    "availabilityCode": "TTGP",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Cristiano S. R."
+    ]
+  },
+  {
+    "course_id": "DCP032",
+    "name": "FUNDAMENTOS DA ANALISE POLITICA",
+    "availabilityCode": "TGP",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marlise M. M. A."
+    ]
+  },
+  {
+    "course_id": "DCP033",
+    "name": "METODOLOGIA",
+    "availabilityCode": "TGP",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Thiago M. S."
+    ]
+  },
+  {
+    "course_id": "DCP035",
+    "name": "INSTITUICOES POLITICAS COMPARADAS",
+    "availabilityCode": "TTGP",
+    "spots": 72,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Bruno P. W. R."
+    ]
+  },
+  {
+    "course_id": "DCP037",
+    "name": "ANALISE DE POLITICAS PUBLICAS",
+    "availabilityCode": "TTGP",
+    "spots": 63,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marcia M. S."
+    ]
+  },
+  {
+    "course_id": "DCP042",
+    "name": "POLITICA,ECONOMIA E SOCIEDADE NO BRASIL",
+    "availabilityCode": "TTGP",
+    "spots": 72,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Juarez R. G."
+    ]
+  },
+  {
+    "course_id": "DCP089",
+    "name": "PROJETO DO TCC",
+    "availabilityCode": "PPGP",
+    "spots": 37,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Isabele B. M."
+    ]
+  },
+  {
+    "course_id": "DCP098",
+    "name": "TOPICOS EM METODOLOGIA - Fundamentos para avaliação quantitativa de políticas públicas",
+    "availabilityCode": "TTGP",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ana P. K."
+    ]
+  },
+  {
+    "course_id": "DCP123",
+    "name": "ASPECTOS LEGAIS DA GESTÃO PÚBLICA A",
+    "availabilityCode": "TGP",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Leticia B. D."
+    ]
+  },
+  {
+    "course_id": "DCP124",
+    "name": "GESTÃO PÚBLICA A",
+    "availabilityCode": "TGP",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Frederico P. M. F."
+    ]
+  },
+  {
+    "course_id": "DCP125",
+    "name": "ASPECTOS LEGAIS DA GESTÃO PÚBLICA B",
+    "availabilityCode": "TTGP",
+    "spots": 69,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Lucas O. G."
+    ]
+  },
+  {
+    "course_id": "DCP126",
+    "name": "ESTADO E POLÍTICAS SOCIAIS A",
+    "availabilityCode": "TTGP",
+    "spots": 54,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ludmila M. L. R."
+    ]
+  },
+  {
+    "course_id": "DCP127",
+    "name": "GESTÃO PÚBLICA B",
+    "availabilityCode": "TTGP",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Frederico P. M. F."
+    ]
+  },
+  {
+    "course_id": "DCP128",
+    "name": "ESTADO E POLÍTICAS SOCIAIS B",
+    "availabilityCode": "TTGP",
+    "spots": 63,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Geralda L. M."
+    ]
+  },
+  {
+    "course_id": "DCP129",
+    "name": "FINANÇAS PÚBLICAS",
+    "availabilityCode": "TTGP",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcia M. S."
+    ]
+  },
+  {
+    "course_id": "DCP130",
+    "name": "PLANEJAMENTO PÚBLICO",
+    "availabilityCode": "TTGP",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Jose A. M."
+    ]
+  },
+  {
+    "course_id": "DCP131",
+    "name": "AVALIAÇÃO DE POLÍTICAS PÚBLICAS A",
+    "availabilityCode": "TTGP",
+    "spots": 61,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Danilo B. M."
+    ]
+  },
+  {
+    "course_id": "DCP132",
+    "name": "DEMOCRACIA DIGITAL E GOVERNO ELETRÔNICO",
+    "availabilityCode": "TTGP",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcus A. G. P."
+    ]
+  },
+  {
+    "course_id": "DCP133",
+    "name": "FORMULAÇÃO E IMPLEMENTAÇÃO DE PROGRAMAS E PROJETOS",
+    "availabilityCode": "TTGP",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Paulo R. D. F."
+    ]
+  },
+  {
+    "course_id": "DCP134",
+    "name": "AVALIAÇÃO DE POLÍTICAS PÚBLICAS B",
+    "availabilityCode": "TTGP",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Ana P. K."
+    ]
+  },
+  {
+    "course_id": "DCP135",
+    "name": "ESTÁGIO CURRICULAR A",
+    "availabilityCode": "PPGP",
+    "spots": 73,
+    "times": [],
+    "teachers": [
+      "Isabele B. M."
+    ]
+  },
+  {
+    "course_id": "DCP136",
+    "name": "ESTÁGIO CURRICULAR B",
+    "availabilityCode": "PPGP",
+    "spots": 37,
+    "times": [],
+    "teachers": [
+      "Isabele B. M."
+    ]
+  },
+  {
+    "course_id": "DCP137",
+    "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+    "availabilityCode": "PPGP1",
+    "spots": 88,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DCP138",
+    "name": "ANÁLISE DE POLÍTICAS LOCAIS",
+    "availabilityCode": "TTGP",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Jose A. M."
+    ]
+  },
+  {
+    "course_id": "DCP146",
+    "name": "ESFERA PÚBLICA, LOBBY E GRUPOS DE INTERESSES",
+    "availabilityCode": "TTGP",
+    "spots": 9,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Manoel L. W. D. S."
+    ]
+  },
+  {
+    "course_id": "DCP158",
+    "name": "O ESTUDO DE CASO COMO ESTRATÉGIA METODOLÓGICA PARA ANÁLISE E AVALIAÇÃO DE POLÍTICAS PÚBLICAS",
+    "availabilityCode": "PTGP",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Manoel L. W. D. S."
+    ]
+  },
+  {
+    "course_id": "DCP161",
+    "name": "OFICINA DE ORÇAMENTO PÚBLICO",
+    "availabilityCode": "PTGP",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Paulo R. D. F."
+    ]
+  },
+  {
+    "course_id": "DCP166",
+    "name": "POLÍTICA BRASILEIRA B",
+    "availabilityCode": "TTGP",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Helcimara S. T."
+    ]
+  },
+  {
+    "course_id": "DCP169",
+    "name": "TEORIA DOS JOGOS",
+    "availabilityCode": "TTGP",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Bruno P. W. R."
+    ]
+  },
+  {
+    "course_id": "DCP173",
+    "name": "TÓPICOS EM POLÍTICAS PÚBLICAS - Entre inovações e retrocessos? A política de segurança pública brasileira.",
+    "availabilityCode": "TTGP",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Ludmila M. L. R."
+    ]
+  },
+  {
+    "course_id": "DCP181",
+    "name": "FINANÇAS PÚBLICAS",
+    "availabilityCode": "TTGP",
+    "spots": 59,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcia M. S."
+    ]
+  },
+  {
+    "course_id": "DCP182",
+    "name": "PLANEJAMENTO PÚBLICO",
+    "availabilityCode": "TTGP",
+    "spots": 54,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Jose A. M."
+    ]
+  },
+  {
+    "course_id": "DCP183",
+    "name": "FORMULAÇÃO E IMPLEMENTAÇÃO DE PROGRAMAS E PROJETOS",
+    "availabilityCode": "TTGP",
+    "spots": 61,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Paulo R. D. F."
+    ]
+  },
+  {
+    "course_id": "DCP184",
+    "name": "AVALIAÇÃO DE POLÍTICAS PÚBLICAS B",
+    "availabilityCode": "TTGP",
+    "spots": 69,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Ana P. K."
+    ]
+  },
+  {
+    "course_id": "DCP195",
+    "name": "LABORATÓRIO DE GESTÃO E POLÍTICAS PÚBLICAS A",
+    "availabilityCode": "TTGP",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Geralda L. M."
+    ]
+  },
+  {
+    "course_id": "DCP196",
+    "name": "LABORATÓRIO DE GESTÃO E POLÍTICAS PÚBLICAS B",
+    "availabilityCode": "TTGP",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Paulo R. D. F."
+    ]
+  },
+  {
+    "course_id": "ECN044",
+    "name": "ECONOMIA DO BEM ESTAR",
+    "availabilityCode": "TTG",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Sibelle C. D. C."
+    ]
+  },
+  {
+    "course_id": "ECN140",
+    "name": "INTRODUÇÃO À ECONOMIA",
+    "availabilityCode": "TTG",
+    "spots": 77,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Nayara A. J."
+    ]
+  },
+  {
+    "course_id": "ECN190",
+    "name": "ECONOMETRIA I",
+    "availabilityCode": "TTG",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Clara Z. B."
+    ]
+  },
+  {
+    "course_id": "EST057",
+    "name": "INTRODUCAO A ESTATISTICA",
+    "availabilityCode": "TTGP",
+    "spots": 77,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Douglas M. S."
+    ]
+  },
+  {
+    "course_id": "INU033",
+    "name": "TÓPICOS EM LEGISLAÇÃO E POLÍTICAS PÚBLICAS - PRÁTICAS LEGISLATIVAS LEGISLAB III - LEGISLAB III",
+    "availabilityCode": "TTC",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:00",
+        "end": "12:40"
+      }
+    ],
+    "teachers": [
+      "Lucas O. G."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "POP004",
+    "name": "TOPICOS EM DEMOGRAFIA - Fundamentos de Projeções Populacionais",
+    "availabilityCode": "TGPAS",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Reinaldo O. S."
+    ]
+  },
+  {
+    "course_id": "POP004",
+    "name": "TOPICOS EM DEMOGRAFIA - Introdução à Ciência de Dados aplicada",
+    "availabilityCode": "TTGP2",
+    "spots": 34,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Caio C. S. G."
+    ]
+  },
+  {
+    "course_id": "SOA048",
+    "name": "FUNDAMENTOS DE ANALISE SOCIOLOGICA",
+    "availabilityCode": "TO",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Luana H. C."
+    ]
+  },
+  {
+    "course_id": "SOA607",
+    "name": "SOCIOLOGIA DAS ORGANIZACOES PUBLICAS",
+    "availabilityCode": "TTA",
+    "spots": 67,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  }
+]

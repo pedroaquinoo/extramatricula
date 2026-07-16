@@ -316,5 +316,161 @@
     "name": "Publicidade e Propaganda",
     "offerId": "publicidade-propaganda",
     "shift": "diurno"
+  },
+  {
+    "id": "agronomia-diurno",
+    "name": "Agronomia",
+    "offerId": "agronomia",
+    "shift": "diurno"
+  },
+  {
+    "id": "antropologia-noturno",
+    "name": "Antropologia",
+    "offerId": "antropologia",
+    "shift": "noturno"
+  },
+  {
+    "id": "arquivologia-noturno",
+    "name": "Arquivologia",
+    "offerId": "arquivologia",
+    "shift": "noturno"
+  },
+  {
+    "id": "biblioteconomia-diurno",
+    "name": "Biblioteconomia",
+    "offerId": "biblioteconomia",
+    "shift": "diurno"
+  },
+  {
+    "id": "biblioteconomia-noturno",
+    "name": "Biblioteconomia",
+    "offerId": "biblioteconomia",
+    "shift": "noturno"
+  },
+  {
+    "id": "biomedicina-noturno",
+    "name": "Biomedicina",
+    "offerId": "biomedicina",
+    "shift": "noturno"
+  },
+  {
+    "id": "ciencias-sociais-diurno",
+    "name": "Ciências Sociais",
+    "offerId": "ciencias-sociais",
+    "shift": "diurno"
+  },
+  {
+    "id": "cinema-noturno",
+    "name": "Cinema de Animação e Artes Digitais",
+    "offerId": "cinema",
+    "shift": "noturno"
+  },
+  {
+    "id": "design-moda-noturno",
+    "name": "Design de Moda",
+    "offerId": "design-moda",
+    "shift": "noturno"
+  },
+  {
+    "id": "design-noturno",
+    "name": "Design",
+    "offerId": "design",
+    "shift": "noturno"
+  },
+  {
+    "id": "enfermagem-diurno",
+    "name": "Enfermagem",
+    "offerId": "enfermagem",
+    "shift": "diurno"
+  },
+  {
+    "id": "filosofia-diurno",
+    "name": "Filosofia",
+    "offerId": "filosofia",
+    "shift": "diurno"
+  },
+  {
+    "id": "filosofia-noturno",
+    "name": "Filosofia",
+    "offerId": "filosofia",
+    "shift": "noturno"
+  },
+  {
+    "id": "fisioterapia-diurno",
+    "name": "Fisioterapia",
+    "offerId": "fisioterapia",
+    "shift": "diurno"
+  },
+  {
+    "id": "fonoaudiologia-diurno",
+    "name": "Fonoaudiologia",
+    "offerId": "fonoaudiologia",
+    "shift": "diurno"
+  },
+  {
+    "id": "geografia-diurno",
+    "name": "Geografia",
+    "offerId": "geografia",
+    "shift": "diurno"
+  },
+  {
+    "id": "geografia-noturno",
+    "name": "Geografia",
+    "offerId": "geografia",
+    "shift": "noturno"
+  },
+  {
+    "id": "gestao-publica-noturno",
+    "name": "Gestão Pública",
+    "offerId": "gestao-publica",
+    "shift": "noturno"
+  },
+  {
+    "id": "gestao-saude-noturno",
+    "name": "Gestão de Serviços de Saúde",
+    "offerId": "gestao-saude",
+    "shift": "noturno"
+  },
+  {
+    "id": "historia-diurno",
+    "name": "História",
+    "offerId": "historia",
+    "shift": "diurno"
+  },
+  {
+    "id": "letras-diurno",
+    "name": "Letras",
+    "offerId": "letras",
+    "shift": "diurno"
+  },
+  {
+    "id": "letras-noturno",
+    "name": "Letras",
+    "offerId": "letras",
+    "shift": "noturno"
+  },
+  {
+    "id": "medicina-veterinaria-diurno",
+    "name": "Medicina Veterinária",
+    "offerId": "medicina-veterinaria",
+    "shift": "diurno"
+  },
+  {
+    "id": "quimica-diurno",
+    "name": "Química",
+    "offerId": "quimica",
+    "shift": "diurno"
+  },
+  {
+    "id": "quimica-tecnologica-noturno",
+    "name": "Química Tecnológica",
+    "offerId": "quimica-tecnologica",
+    "shift": "noturno"
+  },
+  {
+    "id": "relacoes-publicas-diurno",
+    "name": "Relações Públicas",
+    "offerId": "relacoes-publicas",
+    "shift": "diurno"
   }
 ]

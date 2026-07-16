@@ -1,0 +1,218 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "COM027",
+      "name": "Historia Social dos Meios",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "COM306",
+      "name": "Introducao Aos Estudos da Linguagem",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "COM671",
+      "name": "Design em Comunicação",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "COM672",
+      "name": "Som e Sentido",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "SOA048",
+      "name": "Fundamentos de Analise Sociologica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "COM309",
+      "name": "Oficina de Narrativas Audiovisuais",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "COM310",
+      "name": "Projetos a I",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "COM312",
+      "name": "Tec. e Processos de Relacoes Publicas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "COM663",
+      "name": "Teorias da Comunicacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FTC051",
+      "name": "Oficina de Fotografia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "COM313",
+      "name": "Projetos a II",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "COM673",
+      "name": "Fundamentos da Comunicação Organizacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCP021",
+      "name": "Introdução a Teoria Democrática",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CAD610",
+      "name": "Mercadologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "COM078",
+      "name": "Planejamento da Comunic. Organizacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "COM316",
+      "name": "Projetos B I - Relacoes Publicas",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "COM605",
+      "name": "Comunicacao e Cultura",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "COM320",
+      "name": "Projetos B II - Relacoes Publicas",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "COM334",
+      "name": "Lab. de Planejamento da Comunicacao",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "COM324",
+      "name": "Projetos C - Relacoes Publicas",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "COM695",
+      "name": "Semin. Projeto Experimental - Relações Públicas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "COM696",
+      "name": "Projeto Experimental I - Relações Públicas",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "COM697",
+      "name": "Projeto Experimental II - Relações Públicas",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "COM310",
+      "prerequisite_code": "COM027"
+    },
+    {
+      "code": "COM663",
+      "prerequisite_code": "COM027"
+    },
+    {
+      "code": "COM313",
+      "prerequisite_code": "COM310"
+    },
+    {
+      "code": "COM316",
+      "prerequisite_code": "COM313"
+    },
+    {
+      "code": "COM605",
+      "prerequisite_code": "COM663"
+    },
+    {
+      "code": "COM320",
+      "prerequisite_code": "COM316"
+    },
+    {
+      "code": "COM324",
+      "prerequisite_code": "COM320"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "FIL060",
+      "name": "Pratica de Pesquisa Ensino em Filosofia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FIL268",
+      "name": "História da Filosofia Antiga I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FIL269",
+      "name": "Filosofia Política",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "LEC005",
+      "name": "Fundamentos de Literatura Grega",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "UNI003",
+      "name": "Oficina de Língua Portuguesa: Leitura e Produção de Textos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIL270",
+      "name": "História da Filosofia Antiga II",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIL271",
+      "name": "Lógica",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIL272",
+      "name": "História da Filosofia Moderna I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIL273",
+      "name": "História da Filosofia Medieval",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIL173",
+      "name": "Etica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIL274",
+      "name": "Teoria do Conhecimento",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FIL275",
+      "name": "História da Filosofia Moderna II",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FIL276",
+      "name": "Filosofia das Ciências",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FIL277",
+      "name": "História da Filosofia Contemporânea I",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FIL278",
+      "name": "História da Filosofia Contemporânea II",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FIL279",
+      "name": "Estética",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FIL280",
+      "name": "Trabalho de Conclusão de Curso I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "FIL281",
+      "name": "Trabalho de Conclusão de Curso II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "FIL281",
+      "prerequisite_code": "FIL280"
+    }
+  ]
+}

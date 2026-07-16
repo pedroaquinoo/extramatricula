@@ -1,0 +1,818 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "BIG148",
+      "name": "Introducao Estudo da Genetica e Evolucao",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FIS150",
+      "name": "Física Acústica e Ondas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FON133",
+      "name": "Introdução À Fonoaudiologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF008",
+      "name": "Embriologia Geral",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF019",
+      "name": "Anatomia Aplicada a Fonoaudiologia I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF064",
+      "name": "Citologia e Hist. Aplic. À Fonoaudiologia",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MPS012",
+      "name": "Politica de Saude e Planejamento",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIB041",
+      "name": "Fisiologia Humana III",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FON134",
+      "name": "Desenvolvimento Human. Aplic. Fonoaudiologia",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FON135",
+      "name": "Atenção Primaria À Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "LIN011",
+      "name": "Introducao a Linguistica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF065",
+      "name": "Anatomia Aplic. a Fonoaudiologia II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "OFT044",
+      "name": "Otorrinolaringologia I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "PSI663",
+      "name": "Introdução a Psicol do Desenvolvimento",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FON136",
+      "name": "Políticas de Saúde Aplic. À Fonoaudiologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FON137",
+      "name": "Fundam. Transtornos da Linguagem",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FON138",
+      "name": "Análise Acústica da Fonoarticulação",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FON139",
+      "name": "Diagnóst. e Tratam. Fonoaud. Nas Disfonias",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "LIN012",
+      "name": "Fonetica Clinica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MOF066",
+      "name": "Neuroanatomia Aplicada À Fonoaudiologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ODR127",
+      "name": "Odontologia Aplicada À Fonoaudiologia II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "OFT045",
+      "name": "Otorrinolaringologia II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "PAG020",
+      "name": "Patologia Geral I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "SCA011",
+      "name": "Odontologia Aplicada À Fonoaudiologia I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CLM021",
+      "name": "Fund.em Neurologia-modulo Fonoaudiologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FON140",
+      "name": "Audiologia Clínica I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FON141",
+      "name": "Ética Profiss. e Biossegurança",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FON142",
+      "name": "Funcionalidade e Fonoaudiologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FON143",
+      "name": "Diagnóstico e Tratam Fonoaud.transt. Linguag. Oral I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FON144",
+      "name": "Ensino Fonoaudiológico: Linguagem Oral",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FON145",
+      "name": "Diagnóst. e Tratam. Fonoaud. Motricidade Orofacial I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FON146",
+      "name": "Ensino Fonoaudiológico: Motricidade Orofacial I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FON147",
+      "name": "Raciocínio Clínico Nas Disfonias",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FON148",
+      "name": "Ensino Fonoaudiológico: Voz",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FON149",
+      "name": "Políticas Púb. Educ. e Inserção do Fonoaudiólogo",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FON150",
+      "name": "Diagn. e Tratam. Fonoaud. Transtornos da Fluência",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FON151",
+      "name": "Fonoaudiologia Clínica: Linguagem Oral I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FON152",
+      "name": "Audiologia Clínica II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FON235",
+      "name": "Fonoaudiologia Clínica: Voz I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FON236",
+      "name": "Fonoaudiologia Clínica:motricidade Orofacial I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "PSI664",
+      "name": "Psicologia e Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FON153",
+      "name": "Princípios de Bioestatística",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FON154",
+      "name": "Voz e Comunicação em Público",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FON155",
+      "name": "Fonoaudiologia Clínica: Transtornos da Fluência",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FON156",
+      "name": "Diagnóstico e Tratam. Fonoaud. Motricidade Orofacial II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FON157",
+      "name": "Avaliação e Reabilitação Otoneurológica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FON158",
+      "name": "Ens. Fonoaud.: Aval.audiolog. e Otoneurológica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FON159",
+      "name": "Diagn. e Tratam. Fonoaud.transtornos Ling. Oral II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "MPS026",
+      "name": "Epidemiologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FON160",
+      "name": "Fundamentos em Investigação Científica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FON161",
+      "name": "Epidemiologia Aplicada À Fonoaudiologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FON162",
+      "name": "Fonoaudiologia Clínica: Voz e Comunicação em Público",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FON163",
+      "name": "Diagn. e Tratam. Fonoaud. Disfagia do Adolescente Ao Idoso",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FON164",
+      "name": "Diagn. e Tratam. Fonoaud. Transtornos Linguag. Escrita",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FON165",
+      "name": "Ensino Fonoaud: Disfagia do Adolescente Ao Idoso",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FON166",
+      "name": "Formação Básica em Libras Para Fonoaudiologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FON237",
+      "name": "Fonoaudiologia Clínica: Motricidade Orofacial II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "FON238",
+      "name": "Fonoaudiol. Clínica: Reabilit. Vestibular e do Zumbido",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "FON167",
+      "name": "Trabalho de Conclusão de Curso I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "FON168",
+      "name": "Diagnóstico e Tratamento na Fononcologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "FON169",
+      "name": "Gestão e Organização dos Serviços de Saúde",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "FON170",
+      "name": "Diagn. Trat. Fonoaud.transt. da Ling.adquir. Neurodegenerat.",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "FON171",
+      "name": "Ensino Fonoaudiológico: Linguagem do Adulto e Idoso",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "FON172",
+      "name": "Fonoaudiologia Clínica: Linguagem Oral II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "FON173",
+      "name": "Fonoaudiologia Clínica: Disfagia do Adolescente Ao Idoso",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "FON174",
+      "name": "Audiologia Educacional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "FON175",
+      "name": "Dispositivos Eletrônicos Aplicados À Perda Auditiva",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "FON176",
+      "name": "Ensino Fonoaudiológico: Reabilitação Auditiva",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "FON177",
+      "name": "Trabalho de Conclusão de Curso II",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "FON178",
+      "name": "Fonoaudiologia Clínica: Avaliação e Diagnóstico",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "FON179",
+      "name": "Fonoaudiologia Clínica: Transtornos da Linguagem Escrita",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "FON180",
+      "name": "Diagnóstico e Tratam. Fonoaud. Disfagia Infantil",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "FON181",
+      "name": "Ensino Fonoaudiológico: Disfagia Infantil",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "FON182",
+      "name": "Fonoaudiologia Clínica: Reabilitação Auditiva",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "FON183",
+      "name": "Fonoaudiol.clínica: Disp. Eletrôn. Aplic. À Perda Auditiva",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "FON184",
+      "name": "Fonoaudiologia Clínica: Fononcologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FON185",
+      "name": "Trabalho de Conclusão de Curso III",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FON186",
+      "name": "Fonoaudiologia Clínica: Voz II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FON187",
+      "name": "Fonoaudiologia: Ações em Saúde Coletiva",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FON188",
+      "name": "Fonoaudiologia Clínica: Disfagia Infantil",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FON189",
+      "name": "Fonoaud Clínica: Avaliação Audiológica e Otoneurológica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "FON190",
+      "name": "Fonoaud. Clínica: Transt. Linguagem no Adulto e Idoso",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "MOF065",
+      "prerequisite_code": "MOF019"
+    },
+    {
+      "code": "OFT044",
+      "prerequisite_code": "MOF019"
+    },
+    {
+      "code": "FON137",
+      "prerequisite_code": "FON134"
+    },
+    {
+      "code": "FON138",
+      "prerequisite_code": "FIS150"
+    },
+    {
+      "code": "MOF066",
+      "prerequisite_code": "MOF065"
+    },
+    {
+      "code": "OFT045",
+      "prerequisite_code": "MOF065"
+    },
+    {
+      "code": "PAG020",
+      "prerequisite_code": "MOF064"
+    },
+    {
+      "code": "FON143",
+      "prerequisite_code": "FON137"
+    },
+    {
+      "code": "FON144",
+      "prerequisite_code": "FON137"
+    },
+    {
+      "code": "FON148",
+      "prerequisite_code": "FON139"
+    },
+    {
+      "code": "FON150",
+      "prerequisite_code": "FON137"
+    },
+    {
+      "code": "FON152",
+      "prerequisite_code": "FON140"
+    },
+    {
+      "code": "FON154",
+      "prerequisite_code": "FON139"
+    },
+    {
+      "code": "FON156",
+      "prerequisite_code": "FON236"
+    },
+    {
+      "code": "FON159",
+      "prerequisite_code": "FON143"
+    },
+    {
+      "code": "FON162",
+      "prerequisite_code": "FON154"
+    },
+    {
+      "code": "FON163",
+      "prerequisite_code": "FON236"
+    },
+    {
+      "code": "FON164",
+      "prerequisite_code": "FON137"
+    },
+    {
+      "code": "FON165",
+      "prerequisite_code": "FON236"
+    },
+    {
+      "code": "FON237",
+      "prerequisite_code": "FON156"
+    },
+    {
+      "code": "FON167",
+      "prerequisite_code": "FON160"
+    },
+    {
+      "code": "FON168",
+      "prerequisite_code": "FON139"
+    },
+    {
+      "code": "FON170",
+      "prerequisite_code": "CLM021"
+    },
+    {
+      "code": "FON171",
+      "prerequisite_code": "CLM021"
+    },
+    {
+      "code": "FON173",
+      "prerequisite_code": "FON165"
+    },
+    {
+      "code": "FON174",
+      "prerequisite_code": "FON152"
+    },
+    {
+      "code": "FON175",
+      "prerequisite_code": "FON152"
+    },
+    {
+      "code": "FON177",
+      "prerequisite_code": "FON167"
+    },
+    {
+      "code": "FON178",
+      "prerequisite_code": "FON142"
+    },
+    {
+      "code": "FON180",
+      "prerequisite_code": "FON163"
+    },
+    {
+      "code": "FON181",
+      "prerequisite_code": "FON173"
+    },
+    {
+      "code": "FON182",
+      "prerequisite_code": "FON176"
+    },
+    {
+      "code": "FON183",
+      "prerequisite_code": "FON175"
+    },
+    {
+      "code": "FON184",
+      "prerequisite_code": "FON168"
+    },
+    {
+      "code": "FON185",
+      "prerequisite_code": "FON177"
+    },
+    {
+      "code": "FON186",
+      "prerequisite_code": "FON235"
+    },
+    {
+      "code": "FON187",
+      "prerequisite_code": "FON136"
+    },
+    {
+      "code": "FON188",
+      "prerequisite_code": "FON181"
+    },
+    {
+      "code": "FON189",
+      "prerequisite_code": "FON158"
+    }
+  ]
+}

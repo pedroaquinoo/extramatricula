@@ -1,0 +1,979 @@
+[
+  {
+    "course_id": "DAA003",
+    "name": "ANTROPOLOGIA BRASILEIRA",
+    "availabilityCode": "TTG",
+    "spots": 51,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "21:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Terca",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Rubens A. S."
+    ]
+  },
+  {
+    "course_id": "DAA004",
+    "name": "ANTROPOLOGIA II",
+    "availabilityCode": "TTA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Lilian L. C."
+    ]
+  },
+  {
+    "course_id": "DAA005",
+    "name": "ANTROPOLOGIA BIOLÓGICA",
+    "availabilityCode": "TTTB",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Tiago P. F. T."
+    ]
+  },
+  {
+    "course_id": "DAA006",
+    "name": "ARQUEOLOGIA DOS PROCESSOS DE DESENVOLVIMENTO HUMANO",
+    "availabilityCode": "TTC",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Tiago H."
+    ]
+  },
+  {
+    "course_id": "DAA007",
+    "name": "ESTUDOS DE CULTURA MATERIAL",
+    "availabilityCode": "TTD",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "21:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Maria J. R."
+    ]
+  },
+  {
+    "course_id": "DAA013",
+    "name": "ANTROPOLOGIA IV",
+    "availabilityCode": "TTE",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Hannah L. A. V."
+    ]
+  },
+  {
+    "course_id": "DAA014",
+    "name": "ARQUEOLOGIA E COLETIVOS CONTEMPORÂNEOS",
+    "availabilityCode": "TTF",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Mariana P. C."
+    ]
+  },
+  {
+    "course_id": "DAA024",
+    "name": "ARQUEOLOGIA AMERICANA",
+    "availabilityCode": "TTH",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Luis C. P. S."
+    ]
+  },
+  {
+    "course_id": "DAA052",
+    "name": "LAUDOS ANTROPOLÓGICOS",
+    "availabilityCode": "TA",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Ana F. M. S."
+    ]
+  },
+  {
+    "course_id": "DAA052",
+    "name": "LAUDOS ANTROPOLÓGICOS",
+    "availabilityCode": "TTP",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "21:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Ana F. M. S."
+    ]
+  },
+  {
+    "course_id": "DAA062",
+    "name": "TÓPICOS EM ANTROPOLOGIA  - Laboratório de reflexões sobre Cultura e Ambiente",
+    "availabilityCode": "TANT1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Ana B. V. M."
+    ]
+  },
+  {
+    "course_id": "DAA062",
+    "name": "TÓPICOS EM ANTROPOLOGIA  - Corpo- Terra: mais que humanos entre os povos indígenas",
+    "availabilityCode": "TANT6",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Ruben C. Q."
+    ]
+  },
+  {
+    "course_id": "DAA062",
+    "name": "TÓPICOS EM ANTROPOLOGIA  - Antropologias Indígenas",
+    "availabilityCode": "TANT7",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Ruben C. Q."
+    ]
+  },
+  {
+    "course_id": "DAA062",
+    "name": "TÓPICOS EM ANTROPOLOGIA  - Laboratório de Etnografia e Campo",
+    "availabilityCode": "TTA2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Hannah L. A. V."
+    ]
+  },
+  {
+    "course_id": "DAA062",
+    "name": "TÓPICOS EM ANTROPOLOGIA  - Etnicidade, Estado-Nação e a produção social da diferença cultural",
+    "availabilityCode": "TTE2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Ana F. M. S."
+    ]
+  },
+  {
+    "course_id": "DAA062",
+    "name": "TÓPICOS EM ANTROPOLOGIA  - Quilombos",
+    "availabilityCode": "TTF2",
+    "spots": 32,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Aderval C. F."
+    ]
+  },
+  {
+    "course_id": "DAA062",
+    "name": "TÓPICOS EM ANTROPOLOGIA  - Lendo a oralidade: Vivência com produções textuais dos mestres e das mestras dos saberes tradicionais",
+    "availabilityCode": "TTG2",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Aderval C. F."
+    ]
+  },
+  {
+    "course_id": "DAA062",
+    "name": "TÓPICOS EM ANTROPOLOGIA  - Antropologia da Reprodução",
+    "availabilityCode": "TTH2",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Sabrina D. F."
+    ]
+  },
+  {
+    "course_id": "DAA062",
+    "name": "TÓPICOS EM ANTROPOLOGIA  - Antropologia e política: contextos africanos",
+    "availabilityCode": "TTV",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:30",
+        "end": "11:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Daniel A. J. F."
+    ]
+  },
+  {
+    "course_id": "DAA062",
+    "name": "TÓPICOS EM ANTROPOLOGIA  - Corpo e Saúde",
+    "availabilityCode": "TTW",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Lilian L. C."
+    ]
+  },
+  {
+    "course_id": "DAA063",
+    "name": "TÓPICOS EM ARQUEOLOGIA - Métodos de Registro em Arqueologia",
+    "availabilityCode": "TTB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Tiago P. F. T."
+    ]
+  },
+  {
+    "course_id": "DAA063",
+    "name": "TÓPICOS EM ARQUEOLOGIA - Arqueologia Egípcia",
+    "availabilityCode": "TTB2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Jose R. P."
+    ]
+  },
+  {
+    "course_id": "DAA063",
+    "name": "TÓPICOS EM ARQUEOLOGIA - Arqueologia e antropologia nos museus",
+    "availabilityCode": "TTC2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "21:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Mariana P. C."
+    ]
+  },
+  {
+    "course_id": "DAA063",
+    "name": "TÓPICOS EM ARQUEOLOGIA - Arqueologia, legislação e gestão patrimonial",
+    "availabilityCode": "TTD2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Mariana P. C."
+    ]
+  },
+  {
+    "course_id": "DAA063",
+    "name": "TÓPICOS EM ARQUEOLOGIA - ARQUEOLOGIA, PATRIMÔNIO E PRODUÇÃO PARTICIPATIVA DO CONHECIMENTO",
+    "availabilityCode": "TTF",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Mariana P. C."
+    ]
+  },
+  {
+    "course_id": "DAA063",
+    "name": "TÓPICOS EM ARQUEOLOGIA - Arte Rupestre e Povos Indígenas",
+    "availabilityCode": "TTI2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Andrei I. H."
+    ]
+  },
+  {
+    "course_id": "DAA063",
+    "name": "TÓPICOS EM ARQUEOLOGIA - Arqueologia Costeira",
+    "availabilityCode": "TTQ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "21:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Daniela M. K."
+    ]
+  },
+  {
+    "course_id": "DAA063",
+    "name": "TÓPICOS EM ARQUEOLOGIA - Arqueologia de Minas Gerais e o Espaço Geografico",
+    "availabilityCode": "TTR",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Maria J. R."
+    ]
+  },
+  {
+    "course_id": "DAA063",
+    "name": "TÓPICOS EM ARQUEOLOGIA - Introdução à Bioarqueologia",
+    "availabilityCode": "TTS",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Tiago P. F. T."
+    ]
+  },
+  {
+    "course_id": "DAA063",
+    "name": "TÓPICOS EM ARQUEOLOGIA - Fundamentos de teoria arqueológica",
+    "availabilityCode": "TTU",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Luis C. P. S."
+    ]
+  },
+  {
+    "course_id": "DAA063",
+    "name": "TÓPICOS EM ARQUEOLOGIA - Introdução às Ciencias Arqueológicas",
+    "availabilityCode": "TTY",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Tiago H."
+    ]
+  },
+  {
+    "course_id": "DAA063",
+    "name": "TÓPICOS EM ARQUEOLOGIA - Ambiente, Manejo e Domesticação",
+    "availabilityCode": "TTZ",
+    "spots": 29,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Tiago H."
+    ]
+  },
+  {
+    "course_id": "DAA064",
+    "name": "TÓPICOS EM EXTENSÃO - Modos de Habitar a Cidade: cosmopolíticas e terrritorialidades",
+    "availabilityCode": "TTK",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Emmanuel D. A."
+    ]
+  },
+  {
+    "course_id": "DAA064",
+    "name": "TÓPICOS EM EXTENSÃO - Gestando fazeres indigenas no contemporâneo",
+    "availabilityCode": "TTL",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Lilian P. S."
+    ]
+  },
+  {
+    "course_id": "DAA064",
+    "name": "TÓPICOS EM EXTENSÃO - Relatórios de Identificação e Delimitação Territorial",
+    "availabilityCode": "TTM",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Aderval C. F."
+    ]
+  },
+  {
+    "course_id": "DAA064",
+    "name": "TÓPICOS EM EXTENSÃO - Relatórios de Identificação e Delimitação Territorial",
+    "availabilityCode": "TTN",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "21:00",
+        "end": "22:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "21:00",
+        "end": "22:40"
+      }
+    ],
+    "teachers": [
+      "Aderval C. F."
+    ]
+  },
+  {
+    "course_id": "DAA073",
+    "name": "RAÇA E ETNICIDADE",
+    "availabilityCode": "TTI",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Rubens A. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "SOA048",
+    "name": "FUNDAMENTOS DE ANALISE SOCIOLOGICA",
+    "availabilityCode": "TG",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Claudio S. D. J."
+    ]
+  },
+  {
+    "course_id": "SOA048",
+    "name": "FUNDAMENTOS DE ANALISE SOCIOLOGICA",
+    "availabilityCode": "TQ",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Rafael C. P."
+    ]
+  },
+  {
+    "course_id": "SOA048",
+    "name": "FUNDAMENTOS DE ANALISE SOCIOLOGICA",
+    "availabilityCode": "TR",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Juri C."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "UNI052",
+    "name": "SABERES TRADICIONAIS - LÍNGUAS E NARRATIVAS - Cantos e histórias  dos povos Katxuyana e Kahyana",
+    "availabilityCode": "TA",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:50"
+      }
+    ],
+    "teachers": [
+      "Ruben C. Q.",
+      "Eduardo P. R."
+    ]
+  }
+]

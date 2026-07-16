@@ -1,0 +1,202 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "DCP029",
+      "name": "Politica I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ECN140",
+      "name": "Introdução À Economia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "FIL035",
+      "name": "Introd. Fil: Filosofia Ciencias Sociais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "SOA030",
+      "name": "Antropologia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "SOA069",
+      "name": "Sociologia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DCP006",
+      "name": "Politica II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "EST057",
+      "name": "Introducao a Estatistica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "POP005",
+      "name": "Introdução À Demografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "SOA002",
+      "name": "Sociologia II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "SOA023",
+      "name": "Antropologia II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DCP007",
+      "name": "Politica III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "SOA024",
+      "name": "Metodologia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "SOA025",
+      "name": "Antropologia III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "SOA036",
+      "name": "Sociologia III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DCP024",
+      "name": "Seminarios Tematicos de Politica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "SOA007",
+      "name": "Antropologia IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "SOA026",
+      "name": "Metodologia II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "SOA051",
+      "name": "Seminarios Tematicos de Sociologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "SOA027",
+      "name": "Metodologia III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "SOA005",
+      "name": "Metodologia IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "SOA045",
+      "name": "Monografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "DCP006",
+      "prerequisite_code": "DCP029"
+    },
+    {
+      "code": "SOA023",
+      "prerequisite_code": "SOA030"
+    },
+    {
+      "code": "DCP007",
+      "prerequisite_code": "DCP006"
+    },
+    {
+      "code": "SOA025",
+      "prerequisite_code": "SOA023"
+    },
+    {
+      "code": "DCP024",
+      "prerequisite_code": "DCP007"
+    },
+    {
+      "code": "SOA007",
+      "prerequisite_code": "SOA025"
+    },
+    {
+      "code": "SOA045",
+      "prerequisite_code": "SOA005"
+    }
+  ]
+}

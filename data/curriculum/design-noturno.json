@@ -1,0 +1,298 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "ACR041",
+      "name": "Analise Critica da Arte",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ACR042",
+      "name": "Estetica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "TAU050",
+      "name": "Metodologia do Design I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "TAU053",
+      "name": "Introducao Ao Design",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "TAU054",
+      "name": "Introducao a Oficina",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DES058",
+      "name": "Cor, Forma e Composicao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "PRJ063",
+      "name": "Design e Arquitetura",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "TAU055",
+      "name": "Design I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "TAU056",
+      "name": "Oficina I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "TAU057",
+      "name": "Metodologia do Design II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "PRJ064",
+      "name": "Desenho Tecnico I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "TAU058",
+      "name": "Design II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "TAU059",
+      "name": "Oficina II",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "TAU060",
+      "name": "Design III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "TAU061",
+      "name": "Oficina III",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "TAU073",
+      "name": "Desenho Tecnico II",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "TAU101",
+      "name": "Design de Percurso I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "TAU102",
+      "name": "Oficina de Percurso I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "TAU062",
+      "name": "Estagio Curricular Supervisionado I",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "TAU103",
+      "name": "Design de Percurso II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "TAU104",
+      "name": "Oficina de Percurso II",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ARQ033",
+      "name": "Projeto Integrado",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ARQ034",
+      "name": "Oficina Integrada",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "TAU063",
+      "name": "Estagio Curricular Supervisionado II",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ARQ035",
+      "name": "Trabalho de Conclusao de Curso I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "TAU105",
+      "name": "Oficina de Conclusão de Curso I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ARQ037",
+      "name": "Trabalho de Conclusao de Curso II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "TAU106",
+      "name": "Oficina de Conclusão de Curso II",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "TAU057",
+      "prerequisite_code": "TAU050"
+    },
+    {
+      "code": "TAU058",
+      "prerequisite_code": "TAU055"
+    },
+    {
+      "code": "TAU059",
+      "prerequisite_code": "TAU056"
+    },
+    {
+      "code": "TAU060",
+      "prerequisite_code": "TAU058"
+    },
+    {
+      "code": "TAU061",
+      "prerequisite_code": "TAU059"
+    },
+    {
+      "code": "TAU073",
+      "prerequisite_code": "PRJ064"
+    },
+    {
+      "code": "TAU101",
+      "prerequisite_code": "TAU060"
+    },
+    {
+      "code": "TAU102",
+      "prerequisite_code": "TAU061"
+    },
+    {
+      "code": "TAU103",
+      "prerequisite_code": "TAU101"
+    },
+    {
+      "code": "TAU104",
+      "prerequisite_code": "TAU102"
+    },
+    {
+      "code": "ARQ033",
+      "prerequisite_code": "TAU103"
+    },
+    {
+      "code": "ARQ034",
+      "prerequisite_code": "TAU104"
+    },
+    {
+      "code": "TAU063",
+      "prerequisite_code": "TAU062"
+    },
+    {
+      "code": "ARQ035",
+      "prerequisite_code": "ARQ033"
+    },
+    {
+      "code": "TAU105",
+      "prerequisite_code": "ARQ033"
+    },
+    {
+      "code": "ARQ037",
+      "prerequisite_code": "ARQ035"
+    },
+    {
+      "code": "TAU106",
+      "prerequisite_code": "TAU105"
+    }
+  ]
+}

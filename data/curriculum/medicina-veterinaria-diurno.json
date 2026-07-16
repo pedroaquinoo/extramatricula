@@ -1,0 +1,1266 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "BIG601",
+      "name": "Genetica e Evolucao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "BIQ601",
+      "name": "Bioquimica Celular",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF001",
+      "name": "Citologia e Histologia Geral",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF047",
+      "name": "Anatomia Veterinaria I",
+      "description": null,
+      "credits": 7,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "VET026",
+      "name": "Profissiografia do Medico Veterinario",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "VET027",
+      "name": "Metodologia da Pesquisa Cientifica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "VET028",
+      "name": "Estatistica Aplicada a Med Veterinaria",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "BIG057",
+      "name": "Ecologia e Desenvolvimento Sustentavel",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "BIQ061",
+      "name": "Imunologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIB001",
+      "name": "Biofisica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF048",
+      "name": "Anatomia Veterinaria II",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF049",
+      "name": "Histologia Veterinaria",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF050",
+      "name": "Embriologia Veterinaria",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ZOO044",
+      "name": "Setor Agrário e Organização Social no Brasil",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "FIB003",
+      "name": "Fisiologia Veterinaria",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MIC002",
+      "name": "Microbiologia Veterinaria",
+      "description": null,
+      "credits": 7,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "PAG015",
+      "name": "Patologia Geral e Tec Necropsia em Vet",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "PAR601",
+      "name": "Parasitologia Veterinaria",
+      "description": null,
+      "credits": 7,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CCV030",
+      "name": "Patologia Veterinaria",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "FAR031",
+      "name": "Farmacologia Veterinaria",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ZOO034",
+      "name": "Melhoramento Genetico Animal",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ZOO035",
+      "name": "Nutricao Animal",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CCV002",
+      "name": "Semiologia Veterinaria",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "CCV031",
+      "name": "Patologia Clinica Veterinaria",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "MVP601",
+      "name": "Epidemiologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "MVP605",
+      "name": "Saneamento",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "VET029",
+      "name": "Comportamento e Bem-estar Animal",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "VET030",
+      "name": "Atividades Integradoras de Formacao I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ZOO033",
+      "name": "Alimentos e Alimentacao em Veterinaria",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CCV033",
+      "name": "Anestesiologia Veterinaria",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "CCV034",
+      "name": "Tecnica Cirurgica Veterinaria",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "MVP010",
+      "name": "Sanidade Animal",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "MVP011",
+      "name": "Doencas Bacterianas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "MVP012",
+      "name": "Doencas Virais",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "MVP023",
+      "name": "Doenças Parasitárias e Micóticas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ZOO045",
+      "name": "Extensão em Veterinária",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ZOO606",
+      "name": "Suinocultura",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CCV006",
+      "name": "Patologia Clinica Cirurgica Veterinarias",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CCV032",
+      "name": "Toxicologia Veterinaria",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CCV035",
+      "name": "Clinica de Pequenos Animais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "CCV036",
+      "name": "Diagnostico Por Imagem em Veterinaria",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "TEI007",
+      "name": "Tecnol e Insp Leite e Prod Derivados I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "TEI008",
+      "name": "Inspecao de Carnes e Produtos Derivados",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "TEI009",
+      "name": "Tecnol e Insp Aves, Ovos, Mel e Pescado",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "CCV009",
+      "name": "Clinica de Ruminantes I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "CCV037",
+      "name": "Fisiopatologia da Reproducao de Femea",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "MVP014",
+      "name": "Sanidade de Aves",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "TEI010",
+      "name": "Tecnol e Insp Leite e Prod Derivados II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "TEI011",
+      "name": "Tecnol de Carnes e Produtos Derivados",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ZOO607",
+      "name": "Avicultura",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ZOO608",
+      "name": "Bovinocultura de Leite",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "CCV014",
+      "name": "Obstetricia Veterinaria",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "CCV016",
+      "name": "Clinica de Equideos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "CCV038",
+      "name": "Fisiopatologia da Reproducao de Macho",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "CCV039",
+      "name": "Clinica de Ruminantes II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "MVP607",
+      "name": "Planificacao em Saude Animal",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "VET031",
+      "name": "Atividades Integradoras de Formacao II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "VET032",
+      "name": "Etica e Deontologia Veterinaria",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "VET033",
+      "name": "Planejamento e Gestao em Veterinaria",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ZOO609",
+      "name": "Bovinocultura de Corte",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CCV040",
+      "name": "Terapeutica Veterinaria",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CCV041",
+      "name": "Clinica de Animais Silvestres e Exoticos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CCV042",
+      "name": "Prat Clin Cirurgica de Pequenos Animais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CCV043",
+      "name": "Prat Clin Cirurgica de Grandes Animais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CCV044",
+      "name": "Diag Post-mortem e Med Veterinaria Legal",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CCV045",
+      "name": "Prat Hosp em Clin Med Pequenos Animais",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CCV046",
+      "name": "Prat Hosp Patologia Clinica Veterinaria",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CCV047",
+      "name": "Prat Hosp Clinica Medica de Ruminantes",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CCV048",
+      "name": "Prat Hosp Clinica Medica de Equideos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CCV049",
+      "name": "Neurologia em Pequenos Animais",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "CCV051",
+      "name": "Medicina da Produção",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICB001",
+      "name": "Bases Ecológicas Para o Desenvolvimento Sustentável",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "INU021",
+      "name": "Diagn., Epidemiologia e Controle de Hemoparasitoses Animais",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "LET223",
+      "name": "Fundamentos de Libras",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "MOF051",
+      "name": "Anatomia de Animais Silvestres",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "MVP015",
+      "name": "Epidemiovigilancia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "MVP016",
+      "name": "Eventos Zoosanit Exoticos e Emergenciais",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "MVP017",
+      "name": "Sanidade de Animais Aquaticos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "MVP018",
+      "name": "Sanidade de Animais Silv e Exoticos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "MVP019",
+      "name": "Sanidade de Suinos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "MVP020",
+      "name": "Sanidade de Caprinos e Ovinos",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "MVP021",
+      "name": "Micologia Veterinária",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "MVP608",
+      "name": "Producao Controle de Produtos Biologicos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TEI012",
+      "name": "Insp Industrial e Sanitaria de Carnes",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TEI013",
+      "name": "Legislacao de Produtos de Origem Animal",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TEI014",
+      "name": "Processamento de Carnes e Prod Derivados",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TEI015",
+      "name": "Microbiologia de Leite e Prod Derivados",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TEI016",
+      "name": "Tecnol e Insp Leite e Prod Derivados III",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TEI017",
+      "name": "Processamento de Leite e Prod Derivados",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TEI019",
+      "name": "Coaching e Gestão de Carreira",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "TEI020",
+      "name": "Tecnologia e Processamento de Pescado",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET002",
+      "name": "Programa de Iniciacao a Pesquisa I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET003",
+      "name": "Programa de Iniciacao a Pesquisa II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET004",
+      "name": "Programa de Extensao I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET005",
+      "name": "Programa de Extensao II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET006",
+      "name": "Programa de Iniciacao a Docencia I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET007",
+      "name": "Programa de Iniciacao a Docencia II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET008",
+      "name": "Seminario",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET009",
+      "name": "Participacao em Eventos",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET016",
+      "name": "Vivencia Curricular I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET017",
+      "name": "Vivencia Curricular II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET018",
+      "name": "Vivencia Curricular III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET019",
+      "name": "Vivencia Curricular IV",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET020",
+      "name": "Vivencia Curricular V",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET034",
+      "name": "Estagio Supervisionado",
+      "description": null,
+      "credits": 30,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET035",
+      "name": "Cinotecnia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET036",
+      "name": "Aulas Praticas Integradas de Campo I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET037",
+      "name": "Aulas Praticas Integradas de Campo II",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET040",
+      "name": "Aulas Práticas Integradas de Campo III",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "VET041",
+      "name": "Prát. em Sanidade, Reprodução e Produção de Bovinos de Corte",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ZOO037",
+      "name": "Producao de Animais Silv e Exoticos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ZOO038",
+      "name": "Bufalinocultura",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ZOO039",
+      "name": "Caprinocultura e Ovinocultura",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ZOO040",
+      "name": "Equideocultura",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ZOO041",
+      "name": "Top Avancados em Bovinocultura de Leite",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ZOO046",
+      "name": "Alimentação e Nutrição de Animais de Estimação",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ZOO047",
+      "name": "Produção de Aves Alternativas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ZOO611",
+      "name": "Aquicultura",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ZOO613",
+      "name": "Cunicultura",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "BIQ061",
+      "prerequisite_code": "MOF001"
+    },
+    {
+      "code": "BIQ061",
+      "prerequisite_code": "BIQ601"
+    },
+    {
+      "code": "MOF048",
+      "prerequisite_code": "MOF047"
+    },
+    {
+      "code": "MOF049",
+      "prerequisite_code": "MOF001"
+    },
+    {
+      "code": "MIC002",
+      "prerequisite_code": "BIQ061"
+    },
+    {
+      "code": "PAR601",
+      "prerequisite_code": "MOF048"
+    },
+    {
+      "code": "PAR601",
+      "prerequisite_code": "BIQ061"
+    },
+    {
+      "code": "CCV030",
+      "prerequisite_code": "PAR601"
+    },
+    {
+      "code": "FAR031",
+      "prerequisite_code": "FIB003"
+    },
+    {
+      "code": "ZOO034",
+      "prerequisite_code": "VET028"
+    },
+    {
+      "code": "ZOO034",
+      "prerequisite_code": "BIG601"
+    },
+    {
+      "code": "ZOO035",
+      "prerequisite_code": "BIQ601"
+    },
+    {
+      "code": "CCV002",
+      "prerequisite_code": "CCV030"
+    },
+    {
+      "code": "CCV031",
+      "prerequisite_code": "BIQ601"
+    },
+    {
+      "code": "CCV031",
+      "prerequisite_code": "CCV030"
+    },
+    {
+      "code": "MVP601",
+      "prerequisite_code": "CCV030"
+    },
+    {
+      "code": "MVP605",
+      "prerequisite_code": "MIC002"
+    },
+    {
+      "code": "MVP605",
+      "prerequisite_code": "PAR601"
+    },
+    {
+      "code": "VET029",
+      "prerequisite_code": "FIB003"
+    },
+    {
+      "code": "ZOO033",
+      "prerequisite_code": "ZOO035"
+    },
+    {
+      "code": "CCV034",
+      "prerequisite_code": "CCV002"
+    },
+    {
+      "code": "MVP010",
+      "prerequisite_code": "MVP601"
+    },
+    {
+      "code": "MVP011",
+      "prerequisite_code": "MVP601"
+    },
+    {
+      "code": "MVP012",
+      "prerequisite_code": "MVP601"
+    },
+    {
+      "code": "MVP023",
+      "prerequisite_code": "MIC002"
+    },
+    {
+      "code": "MVP023",
+      "prerequisite_code": "MVP601"
+    },
+    {
+      "code": "ZOO045",
+      "prerequisite_code": "ZOO044"
+    },
+    {
+      "code": "CCV036",
+      "prerequisite_code": "CCV002"
+    },
+    {
+      "code": "TEI007",
+      "prerequisite_code": "MVP601"
+    },
+    {
+      "code": "TEI009",
+      "prerequisite_code": "MVP601"
+    },
+    {
+      "code": "CCV009",
+      "prerequisite_code": "CCV002"
+    },
+    {
+      "code": "CCV037",
+      "prerequisite_code": "CCV002"
+    },
+    {
+      "code": "MVP014",
+      "prerequisite_code": "MVP010"
+    },
+    {
+      "code": "TEI010",
+      "prerequisite_code": "TEI007"
+    },
+    {
+      "code": "TEI011",
+      "prerequisite_code": "TEI008"
+    },
+    {
+      "code": "CCV014",
+      "prerequisite_code": "CCV037"
+    },
+    {
+      "code": "CCV016",
+      "prerequisite_code": "CCV002"
+    },
+    {
+      "code": "CCV038",
+      "prerequisite_code": "CCV002"
+    },
+    {
+      "code": "CCV039",
+      "prerequisite_code": "CCV009"
+    },
+    {
+      "code": "CCV040",
+      "prerequisite_code": "FAR031"
+    },
+    {
+      "code": "CCV041",
+      "prerequisite_code": "CCV006"
+    },
+    {
+      "code": "CCV042",
+      "prerequisite_code": "CCV006"
+    },
+    {
+      "code": "CCV043",
+      "prerequisite_code": "CCV006"
+    },
+    {
+      "code": "CCV044",
+      "prerequisite_code": "CCV030"
+    },
+    {
+      "code": "CCV045",
+      "prerequisite_code": "CCV035"
+    },
+    {
+      "code": "CCV046",
+      "prerequisite_code": "CCV031"
+    },
+    {
+      "code": "CCV047",
+      "prerequisite_code": "CCV009"
+    },
+    {
+      "code": "CCV048",
+      "prerequisite_code": "CCV031"
+    },
+    {
+      "code": "CCV049",
+      "prerequisite_code": "CCV006"
+    },
+    {
+      "code": "CCV049",
+      "prerequisite_code": "CCV033"
+    },
+    {
+      "code": "CCV051",
+      "prerequisite_code": "CCV002"
+    },
+    {
+      "code": "CCV051",
+      "prerequisite_code": "CCV009"
+    },
+    {
+      "code": "INU021",
+      "prerequisite_code": "MIC002"
+    },
+    {
+      "code": "INU021",
+      "prerequisite_code": "PAR601"
+    },
+    {
+      "code": "MOF051",
+      "prerequisite_code": "MOF048"
+    },
+    {
+      "code": "MVP015",
+      "prerequisite_code": "MVP601"
+    },
+    {
+      "code": "MVP016",
+      "prerequisite_code": "MVP601"
+    },
+    {
+      "code": "MVP017",
+      "prerequisite_code": "MVP010"
+    },
+    {
+      "code": "MVP018",
+      "prerequisite_code": "MVP010"
+    },
+    {
+      "code": "MVP019",
+      "prerequisite_code": "MVP010"
+    },
+    {
+      "code": "MVP020",
+      "prerequisite_code": "MVP010"
+    },
+    {
+      "code": "MVP608",
+      "prerequisite_code": "MVP010"
+    },
+    {
+      "code": "TEI012",
+      "prerequisite_code": "TEI011"
+    },
+    {
+      "code": "TEI014",
+      "prerequisite_code": "TEI011"
+    },
+    {
+      "code": "TEI015",
+      "prerequisite_code": "TEI010"
+    },
+    {
+      "code": "TEI016",
+      "prerequisite_code": "TEI010"
+    },
+    {
+      "code": "TEI017",
+      "prerequisite_code": "TEI010"
+    },
+    {
+      "code": "VET035",
+      "prerequisite_code": "ZOO035"
+    },
+    {
+      "code": "ZOO037",
+      "prerequisite_code": "ZOO035"
+    },
+    {
+      "code": "ZOO038",
+      "prerequisite_code": "ZOO035"
+    },
+    {
+      "code": "ZOO039",
+      "prerequisite_code": "ZOO035"
+    },
+    {
+      "code": "ZOO040",
+      "prerequisite_code": "ZOO035"
+    },
+    {
+      "code": "ZOO041",
+      "prerequisite_code": "ZOO035"
+    },
+    {
+      "code": "ZOO046",
+      "prerequisite_code": "ZOO035"
+    },
+    {
+      "code": "ZOO047",
+      "prerequisite_code": "ZOO033"
+    },
+    {
+      "code": "ZOO611",
+      "prerequisite_code": "ZOO035"
+    },
+    {
+      "code": "ZOO613",
+      "prerequisite_code": "ZOO035"
+    }
+  ]
+}

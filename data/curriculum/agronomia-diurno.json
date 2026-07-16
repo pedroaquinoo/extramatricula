@@ -1,0 +1,765 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "ICA200",
+      "name": "Matematica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICA218",
+      "name": "Anatomia das Espermatofitas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICA219",
+      "name": "Ecologia Geral",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICA220",
+      "name": "Fundamentos de Quimica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICA221",
+      "name": "Desenho Tecnico",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICA247",
+      "name": "Zoologia Geral",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICA322",
+      "name": "Introducao a Ciencias Agrarias",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA222",
+      "name": "Botanica Sistematica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA223",
+      "name": "Quimica Analitica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA225",
+      "name": "Bioquimica Geral",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA230",
+      "name": "Agrometeorologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA248",
+      "name": "Matematica Aplicada",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ICA323",
+      "name": "Fisiologia e Anatomia Animais Domesticos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA224",
+      "name": "Microbiologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA226",
+      "name": "Topografia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA236",
+      "name": "Agroecologia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA249",
+      "name": "Fisiologia Vegetal",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ICA250",
+      "name": "Genetica Geral",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICA201",
+      "name": "Estatistica Basica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICA227",
+      "name": "Pedologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICA229",
+      "name": "Construcoes Rurais",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICA251",
+      "name": "Fitopatologia Basica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICA324",
+      "name": "Propagacao de Plantas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA203",
+      "name": "Estatistica Experimental",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA205",
+      "name": "Economia Rural",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA238",
+      "name": "Manejo e Conservacao do Solo",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA269",
+      "name": "Bromatologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "ICA325",
+      "name": "Fitopatologia Aplicada",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA204",
+      "name": "Adm.planejamento Desenvolvimento Rural",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA228",
+      "name": "Hidrologia Aplicada a Agricultura",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA239",
+      "name": "Fertilidade e Manejo do Solo",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA253",
+      "name": "Entomologia Basica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICA321",
+      "name": "Maquina e Mecanizacao Acrigola",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA231",
+      "name": "Hidraulica Aplicada a Agricultura",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA232",
+      "name": "Extensao Rural",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA327",
+      "name": "Olericultura",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA328",
+      "name": "Avicultura e Suinocultura",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA329",
+      "name": "Entomologia Agricola",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "ICA340",
+      "name": "Producao e Tecnologia de Sementes",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA233",
+      "name": "Irrigacao e Drenagem",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA275",
+      "name": "Forragicultura",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA330",
+      "name": "Fruticultura",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA332",
+      "name": "Fotointerprestacao e Sensoriamento Remoto",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICA333",
+      "name": "Culturas I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICA215",
+      "name": "Desenv.e Gestao da Agricultura Familiar",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICA334",
+      "name": "Bovinocultura de Corte e Leite",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICA335",
+      "name": "Culturas II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICA336",
+      "name": "Melhoramento Genetico Vegetal",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICA337",
+      "name": "Principios de Melhoramento Animal",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICA353",
+      "name": "Estagio Obrigatorio I",
+      "description": null,
+      "credits": 9,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICA356",
+      "name": "Trabalho de Conclusao de Curso I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA216",
+      "name": "Elab. Aval.projetos Agropecuarios",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA217",
+      "name": "Com. e Mark. de Produtos Agropecuarios",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA234",
+      "name": "Empreendedorismo e Marketing",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA235",
+      "name": "Fontes Alternativas de Energia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA237",
+      "name": "Rec.lodo Esgoto e Lixo na Agricultura",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA241",
+      "name": "Cooperativismo Agricola",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA242",
+      "name": "Avaliacao e Manejo de Irrigacao",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA245",
+      "name": "Metodos e Tecnicas de Trab. Academicos",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA246",
+      "name": "Portugues Instrumental",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA252",
+      "name": "Sociologia Rural",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA255",
+      "name": "Direito Ambiental Agrario",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA256",
+      "name": "Ecoturismo e Turismo Rural",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA258",
+      "name": "Praticas Desportivas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA291",
+      "name": "Manejo de Pragas de Pastagens",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA292",
+      "name": "Manejo Sust. de Pastagens no Semi-arido",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA307",
+      "name": "Participacao em Eventos I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA308",
+      "name": "Participacao em Eventos II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA309",
+      "name": "Participacao em Eventos III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA310",
+      "name": "Atividades Academicas a Distancia I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA311",
+      "name": "Atividades Academicas a Distancia II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA312",
+      "name": "Atividades Academicas a Distancia III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA313",
+      "name": "Iniciacao a Pesquisa",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA314",
+      "name": "Iniciacao a Docencia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA315",
+      "name": "Iniciacao a Extensao I",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA316",
+      "name": "Iniciacao a Extensao II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA317",
+      "name": "Iniciacao a Extensao III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA338",
+      "name": "Silvicultura e Agrosilvicultura",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA339",
+      "name": "Tecnologia de Produtos Agropecuarios",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA341",
+      "name": "Culturas III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA342",
+      "name": "Floriculturas,jardinocultura Paisagismo",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA343",
+      "name": "Plantas Medicinais e Aromaticas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA344",
+      "name": "Estado e Politicas Publicas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA345",
+      "name": "Nocoes de Direito Agrario",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA346",
+      "name": "Prod.org.frutas,hortalicas e Planta Medi",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA348",
+      "name": "Estagio em Agronomia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA349",
+      "name": "Estagio em Agronomia II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA350",
+      "name": "Estagio em Agronomia III",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA351",
+      "name": "Topicos Especiais em Agronomia I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA352",
+      "name": "Topicos Especiais em Agronimia II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA354",
+      "name": "Estagio Obrigatorio II",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA355",
+      "name": "Trabalho de Conclusao de Curso II",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "ICA357",
+      "name": "Biologia Manejo Integr Plantas Daninhas",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "LET223",
+      "name": "Fundamentos de Libras",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 10,
+      "code": "UNI010",
+      "name": "Topicos em Ciencias Agrarias",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    }
+  ],
+  "prerequisites": []
+}
