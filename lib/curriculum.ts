@@ -38,6 +38,8 @@ const curriculumLoaders: Record<string, () => Promise<{ default: CurriculumData 
     import("@/data/curriculum/ciencia-de-dados-vespertino.json"),
   "ciencias-atuariais-diurno": () =>
     import("@/data/curriculum/ciencias-atuariais-diurno.json"),
+  "ciencias-biologicas-diurno": () =>
+    import("@/data/curriculum/ciencias-biologicas-diurno.json"),
   "ciencias-contabeis-noturno": () =>
     import("@/data/curriculum/ciencias-contabeis-noturno.json"),
   "ciencias-do-estado-diurno": () =>
@@ -168,6 +170,8 @@ const curriculumLoaders: Record<string, () => Promise<{ default: CurriculumData 
     import("@/data/curriculum/sistemas-informacao-noturno.json"),
   "sistemas-informacao-vespertino": () =>
     import("@/data/curriculum/sistemas-informacao-vespertino.json"),
+  "terapia-ocupacional-diurno": () =>
+    import("@/data/curriculum/terapia-ocupacional-diurno.json"),
 }
 
 const curriculumCache = new Map<string, CurriculumData>()

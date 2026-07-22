@@ -1,0 +1,5549 @@
+[
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Rosimar F. O."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Rosimar F. O."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Andre M. P. F."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre B. M."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TG1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Andre M. P. F."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Hormindo P. S. J."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TJ1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Hormindo P. S. J."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TK",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Juliana F. S."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TL",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marina C. A. M."
+    ]
+  },
+  {
+    "course_id": "ADE003",
+    "name": "POLÍTICA EDUCACIONAL",
+    "availabilityCode": "TM",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Sandro V. S. S."
+    ]
+  },
+  {
+    "course_id": "BIG020",
+    "name": "GENETICA I",
+    "availabilityCode": "TN1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Renan P. S.",
+      "Marcelo R. L."
+    ]
+  },
+  {
+    "course_id": "BIG020",
+    "name": "GENETICA I",
+    "availabilityCode": "TR1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Anderson M."
+    ]
+  },
+  {
+    "course_id": "BIG021",
+    "name": "ECOLOGIA I",
+    "availabilityCode": "TN1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Jose E. C. F.",
+      "Tatiana G. C."
+    ]
+  },
+  {
+    "course_id": "BIG021",
+    "name": "ECOLOGIA I",
+    "availabilityCode": "TR1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "09:30",
+        "end": "12:50"
+      }
+    ],
+    "teachers": [
+      "Paulo E. C. P.",
+      "Gabriel N. S.",
+      "Tatiana G. C."
+    ]
+  },
+  {
+    "course_id": "BIG029",
+    "name": "ECOLOGIA II",
+    "availabilityCode": "TN1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Rafael P. L.",
+      "Geraldo W. A. F."
+    ]
+  },
+  {
+    "course_id": "BIG029",
+    "name": "ECOLOGIA II",
+    "availabilityCode": "TR1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:00",
+        "end": "12:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:50",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Frederico S. N.",
+      "Marcos C. F. P."
+    ]
+  },
+  {
+    "course_id": "BIG030",
+    "name": "GENETICA II",
+    "availabilityCode": "TN1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "21:40"
+      }
+    ],
+    "teachers": [
+      "Bruno C. V."
+    ]
+  },
+  {
+    "course_id": "BIG030",
+    "name": "GENETICA II",
+    "availabilityCode": "TR1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Anderson M."
+    ]
+  },
+  {
+    "course_id": "BIG033",
+    "name": "EVOLUCAO II",
+    "availabilityCode": "TN1",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Gustavo C. S. K."
+    ]
+  },
+  {
+    "course_id": "BIG033",
+    "name": "EVOLUCAO II",
+    "availabilityCode": "TR",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Fabricio R. S."
+    ]
+  },
+  {
+    "course_id": "BIG035",
+    "name": "IMPACTO AMBIENTAL",
+    "availabilityCode": "TR",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Marcos C. F. P."
+    ]
+  },
+  {
+    "course_id": "BIG039",
+    "name": "ECOLOGIA DE CERRADO",
+    "availabilityCode": "TR",
+    "spots": 0,
+    "times": [],
+    "teachers": [
+      "Flavio H. G. R."
+    ]
+  },
+  {
+    "course_id": "BIG041",
+    "name": "ECOLOGIA VEGETAL",
+    "availabilityCode": "TN",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Jose E. C. F."
+    ]
+  },
+  {
+    "course_id": "BIG042",
+    "name": "LIMNOLOGIA",
+    "availabilityCode": "TR",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Jose E. C. F.",
+      "Daniele K.",
+      "Rafael P. L."
+    ]
+  },
+  {
+    "course_id": "BIG043",
+    "name": "LABORATORIO DE ENSINO EM ECOLOGIA A",
+    "availabilityCode": "PN1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Giselle M. L."
+    ]
+  },
+  {
+    "course_id": "BIG044",
+    "name": "AGROECOLOGIA",
+    "availabilityCode": "TS",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Giselle M. L."
+    ]
+  },
+  {
+    "course_id": "BIG155",
+    "name": "EVOLUCAO I",
+    "availabilityCode": "TN",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Bruno C. V."
+    ]
+  },
+  {
+    "course_id": "BIG155",
+    "name": "EVOLUCAO I",
+    "availabilityCode": "TR",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Fernanda A. C."
+    ]
+  },
+  {
+    "course_id": "BIG625",
+    "name": "GENETICA HUMANA",
+    "availabilityCode": "TR",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Ana L. B. G.",
+      "Maria R. S. C."
+    ]
+  },
+  {
+    "course_id": "BIQ040",
+    "name": "BIOQUIMICA CELULAR",
+    "availabilityCode": "N",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ040",
+    "name": "BIOQUIMICA CELULAR",
+    "availabilityCode": "R",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "11:40"
+      },
+      {
+        "day": "Terca",
+        "start": "10:50",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ042",
+    "name": "PROJETOS EM BIOQUIMICA",
+    "availabilityCode": "PR1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ042",
+    "name": "PROJETOS EM BIOQUIMICA",
+    "availabilityCode": "PR2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ042",
+    "name": "PROJETOS EM BIOQUIMICA",
+    "availabilityCode": "PR3",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ042",
+    "name": "PROJETOS EM BIOQUIMICA",
+    "availabilityCode": "PR4",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ043",
+    "name": "BIOLOGIA MOLECULAR",
+    "availabilityCode": "N",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "21:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ043",
+    "name": "BIOLOGIA MOLECULAR",
+    "availabilityCode": "R",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ044",
+    "name": "IMUNOLOGIA",
+    "availabilityCode": "N",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BIQ044",
+    "name": "IMUNOLOGIA",
+    "availabilityCode": "R",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "BOT012",
+    "name": "TAXONOMIA DE CRIPTOGAMAS",
+    "availabilityCode": "N1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Cleber C. F.",
+      "Maria R. S. M. M. L.",
+      "Alexandre S.",
+      "Adaises S. M. S."
+    ]
+  },
+  {
+    "course_id": "BOT012",
+    "name": "TAXONOMIA DE CRIPTOGAMAS",
+    "availabilityCode": "N2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Cleber C. F.",
+      "Maria R. S. M. M. L.",
+      "Alexandre S.",
+      "Adaises S. M. S."
+    ]
+  },
+  {
+    "course_id": "BOT012",
+    "name": "TAXONOMIA DE CRIPTOGAMAS",
+    "availabilityCode": "R1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Alexandre S.",
+      "Adaises S. M. S.",
+      "Cleber C. F.",
+      "Maria R. S. M. M. L."
+    ]
+  },
+  {
+    "course_id": "BOT012",
+    "name": "TAXONOMIA DE CRIPTOGAMAS",
+    "availabilityCode": "R2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Alexandre S.",
+      "Adaises S. M. S.",
+      "Cleber C. F.",
+      "Maria R. S. M. M. L."
+    ]
+  },
+  {
+    "course_id": "BOT013",
+    "name": "MORFOLOGIA E TAXONOMIA DE ESPERMATOFITAS",
+    "availabilityCode": "N1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Joao A. N. B.",
+      "Eduardo L. B."
+    ]
+  },
+  {
+    "course_id": "BOT013",
+    "name": "MORFOLOGIA E TAXONOMIA DE ESPERMATOFITAS",
+    "availabilityCode": "N2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Joao A. N. B.",
+      "Eduardo L. B."
+    ]
+  },
+  {
+    "course_id": "BOT013",
+    "name": "MORFOLOGIA E TAXONOMIA DE ESPERMATOFITAS",
+    "availabilityCode": "R1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:50",
+        "end": "12:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Leandro C. S. A.",
+      "Clemens P. S."
+    ]
+  },
+  {
+    "course_id": "BOT013",
+    "name": "MORFOLOGIA E TAXONOMIA DE ESPERMATOFITAS",
+    "availabilityCode": "R2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:50",
+        "end": "12:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Leandro C. S. A.",
+      "Clemens P. S."
+    ]
+  },
+  {
+    "course_id": "BOT017",
+    "name": "FISIOLOGIA VEGETAL",
+    "availabilityCode": "N1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Joni E. L."
+    ]
+  },
+  {
+    "course_id": "BOT017",
+    "name": "FISIOLOGIA VEGETAL",
+    "availabilityCode": "N2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Joni E. L."
+    ]
+  },
+  {
+    "course_id": "BOT017",
+    "name": "FISIOLOGIA VEGETAL",
+    "availabilityCode": "R1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Marcel G. C. F."
+    ]
+  },
+  {
+    "course_id": "BOT017",
+    "name": "FISIOLOGIA VEGETAL",
+    "availabilityCode": "R2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Marcel G. C. F."
+    ]
+  },
+  {
+    "course_id": "BOT018",
+    "name": "ANATOMIA VEGETAL",
+    "availabilityCode": "N1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Elder A. S. P.",
+      "Denise M. T. O."
+    ]
+  },
+  {
+    "course_id": "BOT018",
+    "name": "ANATOMIA VEGETAL",
+    "availabilityCode": "N2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Igor A. A."
+    ]
+  },
+  {
+    "course_id": "BOT018",
+    "name": "ANATOMIA VEGETAL",
+    "availabilityCode": "R1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Elder A. S. P.",
+      "Denise M. T. O."
+    ]
+  },
+  {
+    "course_id": "BOT018",
+    "name": "ANATOMIA VEGETAL",
+    "availabilityCode": "R2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Elder A. S. P.",
+      "Denise M. T. O."
+    ]
+  },
+  {
+    "course_id": "BOT024",
+    "name": "BIOLOGIA FLORAL",
+    "availabilityCode": "TR",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:20"
+      }
+    ],
+    "teachers": [
+      "Eduardo L. B."
+    ]
+  },
+  {
+    "course_id": "BOT025",
+    "name": "CRESCIMENTO E DESENVOLVIMENTO VEGETAL",
+    "availabilityCode": "TR",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Marcel G. C. F."
+    ]
+  },
+  {
+    "course_id": "BOT031",
+    "name": "TECNICAS CITOHISTOLOGICAS VEGETAIS",
+    "availabilityCode": "PN",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Igor A. A."
+    ]
+  },
+  {
+    "course_id": "BOT032",
+    "name": "LABORATORIO DE ENSINO EM BOTANICA",
+    "availabilityCode": "PN1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Denise M. T. O."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TA1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Tania F. R."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Maria A. A. C."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TC",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Alexandre W. B. D."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Priscila O. C."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre W. B. D."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TH",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Frederico A. C."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TK",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Brescia F. N."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TL",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TM",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre W. B. D."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TM1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TN1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcos A. S."
+    ]
+  },
+  {
+    "course_id": "CAE001",
+    "name": "SOCIOLOGIA DA EDUCAÇÃO",
+    "availabilityCode": "TO",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Alexandre W. B. D."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Liberia R. N."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Pedro T. C."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TB1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. P."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TD",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Liberia R. N."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. P."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TE1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Raquel M. A."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Jesus A. T. M."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. P."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Maria I. A. R."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TK",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Jesus A. T. M."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TL",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Monica M. F. R."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TL1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Raquel M. A."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TL2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ivone M. M. S."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TM1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcelo R. P."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Monica Y. J."
+    ]
+  },
+  {
+    "course_id": "CAE002",
+    "name": "PSICOLOGIA DA EDUCACAO- APRENDIZAGEM E ENSINO",
+    "availabilityCode": "TP",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Ivone M. M. S."
+    ]
+  },
+  {
+    "course_id": "EST179",
+    "name": "INTRODUCAO A BIOESTATISTICA",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": [
+      "Jussiane N. G."
+    ]
+  },
+  {
+    "course_id": "EST179",
+    "name": "INTRODUCAO A BIOESTATISTICA",
+    "availabilityCode": "TE",
+    "spots": 65,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Frederico R. B. C."
+    ]
+  },
+  {
+    "course_id": "FAE483",
+    "name": "TOPICOS DE ENSINO D - Religião, Educação e Raça",
+    "availabilityCode": "TOP1",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Edgar R. B. N."
+    ]
+  },
+  {
+    "course_id": "FAE483",
+    "name": "TOPICOS DE ENSINO D - O ensinar, o aprender e suas relações",
+    "availabilityCode": "TOP2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Renata P. L. A."
+    ]
+  },
+  {
+    "course_id": "FAE483",
+    "name": "TOPICOS DE ENSINO D - História da Educação, gênero e feminismos: abordagens decoloniais e africanas",
+    "availabilityCode": "TOP3",
+    "spots": 33,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Renata G. C. D."
+    ]
+  },
+  {
+    "course_id": "FAE483",
+    "name": "TOPICOS DE ENSINO D - O conceito de experiência em John Dewey e uma proposta didático- metodológica com obras de arte",
+    "availabilityCode": "TOP4",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:00",
+        "end": "16:40"
+      }
+    ],
+    "teachers": [
+      "Debora M."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Adriana A. P. B."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Jaima P. O."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TC",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Adriana A. P. B."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TE",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Jaima P. O."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TF",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Celio S. J.",
+      "Marina A. F."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TG",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Celio S. J.",
+      "Marina A. F."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TH",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Celio S. J.",
+      "Marina A. F."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Celio S. J.",
+      "Marina A. F."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TM",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Icaro B. H."
+    ]
+  },
+  {
+    "course_id": "FAE493",
+    "name": "FUNDAMENTOS DE EDUCAÇÃO ESPECIAL E INCLUSIVA",
+    "availabilityCode": "TN",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Icaro B. H."
+    ]
+  },
+  {
+    "course_id": "FAR025",
+    "name": "FARMACOLOGIA EXPERIMENTAL",
+    "availabilityCode": "TR1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:50",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Luciano S. A. C.",
+      "Daniele C. A."
+    ]
+  },
+  {
+    "course_id": "FAR026",
+    "name": "LABORATORIO DE ENSINO EM FARMACOLOGIA",
+    "availabilityCode": "N1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Antonio C. P. O.",
+      "Igor D. G. D.",
+      "Daniele C. A.",
+      "Walter L. G. C."
+    ]
+  },
+  {
+    "course_id": "FAR026",
+    "name": "LABORATORIO DE ENSINO EM FARMACOLOGIA",
+    "availabilityCode": "R",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Andrea C. P.",
+      "Daniele C. A.",
+      "Miriam T. P. L.",
+      "Andre K."
+    ]
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "PN1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "21:40",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "PN2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "21:40",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "PN3",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "21:40",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "PN4",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "21:40",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "PR1",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:40",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "PR2",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:40",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "PR3",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:40",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "PR4",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "11:40",
+        "end": "12:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "TN",
+    "spots": 82,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "21:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Artur S. M."
+    ]
+  },
+  {
+    "course_id": "FIB001",
+    "name": "BIOFISICA",
+    "availabilityCode": "TR",
+    "spots": 68,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Artur S. M."
+    ]
+  },
+  {
+    "course_id": "FIB023",
+    "name": "FISIOLOGIA ANIMAL COMPARADA",
+    "availabilityCode": "TR",
+    "spots": 55,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "12:30"
+      },
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Theo R. P. M."
+    ]
+  },
+  {
+    "course_id": "FIB025",
+    "name": "SISTEMA DE REGULACAO E CONTROLE EM FISIOLOGIA",
+    "availabilityCode": "TN",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Cibele R. R."
+    ]
+  },
+  {
+    "course_id": "FIB612",
+    "name": "FISIOLOGIA APLICADA A CIENCIAS BIOLOGICAS",
+    "availabilityCode": "N",
+    "spots": 64,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "21:40"
+      }
+    ],
+    "teachers": [
+      "Silvia C. G. F."
+    ]
+  },
+  {
+    "course_id": "FIB612",
+    "name": "FISIOLOGIA APLICADA A CIENCIAS BIOLOGICAS",
+    "availabilityCode": "PN1",
+    "spots": 32,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "21:40",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB612",
+    "name": "FISIOLOGIA APLICADA A CIENCIAS BIOLOGICAS",
+    "availabilityCode": "PN2",
+    "spots": 32,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "21:40",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB612",
+    "name": "FISIOLOGIA APLICADA A CIENCIAS BIOLOGICAS",
+    "availabilityCode": "PR1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:50",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIB612",
+    "name": "FISIOLOGIA APLICADA A CIENCIAS BIOLOGICAS",
+    "availabilityCode": "R",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "10:50"
+      },
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Luciola S. B."
+    ]
+  },
+  {
+    "course_id": "FIS093",
+    "name": "FUNDAMENTOS DE FISICA F",
+    "availabilityCode": "TA",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "FIS093",
+    "name": "FUNDAMENTOS DE FISICA F",
+    "availabilityCode": "TE",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "GEL048",
+    "name": "PALEONTOLOGIA",
+    "availabilityCode": "N",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Jonathas S. B. R."
+    ]
+  },
+  {
+    "course_id": "GEL048",
+    "name": "PALEONTOLOGIA",
+    "availabilityCode": "PN1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "17:30",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Jonathas S. B. R."
+    ]
+  },
+  {
+    "course_id": "GEL048",
+    "name": "PALEONTOLOGIA",
+    "availabilityCode": "PN2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Jonathas S. B. R."
+    ]
+  },
+  {
+    "course_id": "GEL048",
+    "name": "PALEONTOLOGIA",
+    "availabilityCode": "PR1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Jonathas S. B. R."
+    ]
+  },
+  {
+    "course_id": "GEL048",
+    "name": "PALEONTOLOGIA",
+    "availabilityCode": "PR2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Jonathas S. B. R."
+    ]
+  },
+  {
+    "course_id": "GEL048",
+    "name": "PALEONTOLOGIA",
+    "availabilityCode": "R",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Jonathas S. B. R."
+    ]
+  },
+  {
+    "course_id": "ICB013",
+    "name": "INTRODUCAO A CIENCIAS BIOLOGICAS",
+    "availabilityCode": "TN",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB013",
+    "name": "INTRODUCAO A CIENCIAS BIOLOGICAS",
+    "availabilityCode": "TR",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB015",
+    "name": "METODOLOGIA DE CAMPO",
+    "availabilityCode": "PN1",
+    "spots": 25,
+    "times": [],
+    "teachers": [
+      "Paulo E. C. P.",
+      "Giselle M. L."
+    ]
+  },
+  {
+    "course_id": "ICB015",
+    "name": "METODOLOGIA DE CAMPO",
+    "availabilityCode": "PN2",
+    "spots": 25,
+    "times": [],
+    "teachers": [
+      "Paulo E. C. P.",
+      "Giselle M. L."
+    ]
+  },
+  {
+    "course_id": "ICB015",
+    "name": "METODOLOGIA DE CAMPO",
+    "availabilityCode": "PN3",
+    "spots": 25,
+    "times": [],
+    "teachers": [
+      "Paulo E. C. P.",
+      "Giselle M. L."
+    ]
+  },
+  {
+    "course_id": "ICB015",
+    "name": "METODOLOGIA DE CAMPO",
+    "availabilityCode": "PR1",
+    "spots": 25,
+    "times": [],
+    "teachers": [
+      "Fernando A. O. S."
+    ]
+  },
+  {
+    "course_id": "ICB015",
+    "name": "METODOLOGIA DE CAMPO",
+    "availabilityCode": "PR2",
+    "spots": 25,
+    "times": [],
+    "teachers": [
+      "Fernando A. O. S."
+    ]
+  },
+  {
+    "course_id": "ICB015",
+    "name": "METODOLOGIA DE CAMPO",
+    "availabilityCode": "PR3",
+    "spots": 25,
+    "times": [],
+    "teachers": [
+      "Fernando A. O. S."
+    ]
+  },
+  {
+    "course_id": "ICB016",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS II - Ecologia de Vetores de Doenças",
+    "availabilityCode": "TN1",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcos H. P."
+    ]
+  },
+  {
+    "course_id": "ICB016",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS II - Helmintos Parasitos",
+    "availabilityCode": "TN2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Elida M. L. R.",
+      "Stefan M. G.",
+      "Deborah A. N. C.",
+      "Felipe B. P.",
+      "Ricardo T. F.",
+      "Hudson A. P."
+    ]
+  },
+  {
+    "course_id": "ICB016",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS II - Ecologia Animal",
+    "availabilityCode": "TR1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:50",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Jose E. C. F.",
+      "Flavio H. G. R."
+    ]
+  },
+  {
+    "course_id": "ICB016",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS II - Ecologia de Vetores de Doenças",
+    "availabilityCode": "TR2",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:50",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Marcos H. P."
+    ]
+  },
+  {
+    "course_id": "ICB016",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS II - Protozoários Pararitos",
+    "availabilityCode": "TR3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Helida M. A.",
+      "Weslen F. P. T.",
+      "Daniella C. B.",
+      "Maria A. G.",
+      "Luisa M. D. M.",
+      "Erika M. B.",
+      "Erica S. M. D."
+    ]
+  },
+  {
+    "course_id": "ICB016",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS II - Métodos de Amostragem, Identificação e Análise Quantitativa de Algas e Cianobactérias",
+    "availabilityCode": "TR4",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Cleber C. F."
+    ]
+  },
+  {
+    "course_id": "ICB016",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS II - Biologia dos Leucócitos",
+    "availabilityCode": "TR5",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Vanessa P. S."
+    ]
+  },
+  {
+    "course_id": "ICB016",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS II - Interação Moluscos e Helmintos Parasitos: do LabHelVet_ICB_UFMG aos Parques Municipais de BH",
+    "availabilityCode": "TR6",
+    "spots": 5,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:30",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Cintia A. J. P.",
+      "Walter S. L."
+    ]
+  },
+  {
+    "course_id": "ICB016",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS II - Zoologia Marinha de Invertebrados",
+    "availabilityCode": "TR7",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Gisele Y. K."
+    ]
+  },
+  {
+    "course_id": "ICB016",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS II - Zoologia Marinha de Invertebrados",
+    "availabilityCode": "TR8",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Lucilia S. M."
+    ]
+  },
+  {
+    "course_id": "ICB036",
+    "name": "ANATOMIA COMPARADA DOS VERTEBRADOS",
+    "availabilityCode": "PR1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB036",
+    "name": "ANATOMIA COMPARADA DOS VERTEBRADOS",
+    "availabilityCode": "PR2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Mario A. C."
+    ]
+  },
+  {
+    "course_id": "ICB036",
+    "name": "ANATOMIA COMPARADA DOS VERTEBRADOS",
+    "availabilityCode": "TR",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Mario A. C."
+    ]
+  },
+  {
+    "course_id": "ICB037",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO I",
+    "availabilityCode": "PA",
+    "spots": 20,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB037",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO I",
+    "availabilityCode": "PB",
+    "spots": 20,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB037",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO I",
+    "availabilityCode": "PC",
+    "spots": 20,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB037",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO I",
+    "availabilityCode": "PD",
+    "spots": 20,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB038",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO II",
+    "availabilityCode": "PA",
+    "spots": 20,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB038",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO II",
+    "availabilityCode": "PB",
+    "spots": 20,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB038",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO II",
+    "availabilityCode": "PC",
+    "spots": 20,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB038",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO II",
+    "availabilityCode": "PD",
+    "spots": 20,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB045",
+    "name": "EDUCACAO AMBIENTAL",
+    "availabilityCode": "TN1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:30",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Igor A. A."
+    ]
+  },
+  {
+    "course_id": "ICB048",
+    "name": "METODOS E TECNICAS I - Laboratório de Ensino: STHEAM/GENÉTICA",
+    "availabilityCode": "PN1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB048",
+    "name": "METODOS E TECNICAS I - Laboratório de Ensino: STHEAM/GENÉTICA",
+    "availabilityCode": "PN2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB048",
+    "name": "METODOS E TECNICAS I - Laboratório de Ensino em Virologia",
+    "availabilityCode": "PR1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Betania P. D."
+    ]
+  },
+  {
+    "course_id": "ICB048",
+    "name": "METODOS E TECNICAS I - Fundamentos e Técnicas em Micologia",
+    "availabilityCode": "PR2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Nalu T. A. P."
+    ]
+  },
+  {
+    "course_id": "ICB048",
+    "name": "METODOS E TECNICAS I - Laboratório de Ensino em Inclusão",
+    "availabilityCode": "PR5",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB048",
+    "name": "METODOS E TECNICAS I - Laboratório de Ensino em Inclusão",
+    "availabilityCode": "PR6",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB048",
+    "name": "METODOS E TECNICAS I - Laboratório de Ensino em Inclusão",
+    "availabilityCode": "PR7",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB048",
+    "name": "METODOS E TECNICAS I - Laboratório de Ensino em Inclusão",
+    "availabilityCode": "PR8",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB048",
+    "name": "METODOS E TECNICAS I - Laboratório de Ensino em Inclusão",
+    "availabilityCode": "PR9",
+    "spots": 0,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB052",
+    "name": "TOPICOS EM BIOTECNOLOGIA I - Introdução à Ecologia Molecular",
+    "availabilityCode": "TR",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:20"
+      }
+    ],
+    "teachers": [
+      "Luciana C. R. M."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Patologia Cardiovascular e Respiratória",
+    "availabilityCode": "TN1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:00",
+        "end": "18:40"
+      }
+    ],
+    "teachers": [
+      "Barbara A. C.",
+      "Helen L. D. P."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Divulgação Científica para o Ensino de Ciências",
+    "availabilityCode": "TN2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Viviane S. A."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Pele, Cicatrização e Manejo de Feridas",
+    "availabilityCode": "TN3",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Pamela D. C. M. A."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Probióticos",
+    "availabilityCode": "TN4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Samantha R. M. O."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - A Bioquímica da Vida",
+    "availabilityCode": "TN5",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Evolução Bioquímica",
+    "availabilityCode": "TN6",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Sensoriamento Remoto e Inteligência Artificial em Ecologia",
+    "availabilityCode": "TR1",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Milton B. S. J."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Micro- organismos Extremófilos",
+    "availabilityCode": "TR10",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Luiz H. R."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Produção de Bebidas Fermentadas",
+    "availabilityCode": "TR11",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Carlos A. R."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Resistência Antimicrobiana e Saúde Única",
+    "availabilityCode": "TR12",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Sabrynna B. O."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Relembrar é Viver: aspectos bioquímicos e moleculares da memória imunológica",
+    "availabilityCode": "TR13",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:00",
+        "end": "16:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "15:00",
+        "end": "16:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Genomas: Organização e Evolução",
+    "availabilityCode": "TR14",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Gustavo C. S. K."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Introdução à Ciência de Animais de Laboratório",
+    "availabilityCode": "TR15",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Adriana A. M. D."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Neuropatologia - Noções Básicas",
+    "availabilityCode": "TR16",
+    "spots": 19,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Milene A. R."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Fundamentos de Programação para Ciências Biológicas",
+    "availabilityCode": "TR2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:50",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Gabriel N. S."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Fundamentos da Ecologia Parasitária",
+    "availabilityCode": "TR3",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:50",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Felipe B. P."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Biotecnologia Viral",
+    "availabilityCode": "TR4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Rodrigo A. L. R."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Estudos Farmacológicos de Plantas Medicinais",
+    "availabilityCode": "TR5",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Andrea C. P."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Farmacocinética",
+    "availabilityCode": "TR6",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Andre K."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Biologia de Fungos de Importância Médica",
+    "availabilityCode": "TR7",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Susana J."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Ecologia de Viroses Emergentes",
+    "availabilityCode": "TR8",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Giliane S. T.",
+      "Betania P. D."
+    ]
+  },
+  {
+    "course_id": "ICB054",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS I - Educação em Saúde Pública: Virologia e Cidadania",
+    "availabilityCode": "TR9",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Jonatas S. A."
+    ]
+  },
+  {
+    "course_id": "ICB055",
+    "name": "BIOINFORMATICA",
+    "availabilityCode": "TR1",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB056",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS III - Parasitologia Prática",
+    "availabilityCode": "TPAN1",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:40",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB056",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS III - Parasitologia Prática",
+    "availabilityCode": "TPAN2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:40",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB056",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS III - Parasitologia Prática",
+    "availabilityCode": "TPAN3",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:40",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB056",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS III - Parasitologia Prática",
+    "availabilityCode": "TPAN4",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "21:40",
+        "end": "22:30"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB056",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS III - Parasitologia Prática",
+    "availabilityCode": "TPAR1",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:00",
+        "end": "11:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB056",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS III - Parasitologia Prática",
+    "availabilityCode": "TPAR2",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:00",
+        "end": "11:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB056",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS III - Parasitologia Prática",
+    "availabilityCode": "TPAR3",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:00",
+        "end": "11:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB056",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS III - Parasitologia Prática",
+    "availabilityCode": "TPAR4",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "11:00",
+        "end": "11:50"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "ICB056",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS III - Bioética",
+    "availabilityCode": "TR",
+    "spots": 30,
+    "times": [],
+    "teachers": [
+      "Adriana A. M. D."
+    ]
+  },
+  {
+    "course_id": "ICB057",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS IV - Darwin e a Origem das Espécies",
+    "availabilityCode": "TN2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "18:50",
+        "end": "21:40"
+      }
+    ],
+    "teachers": [
+      "Leandro C. S. A."
+    ]
+  },
+  {
+    "course_id": "ICB057",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS IV - Ecologia Comportamental",
+    "availabilityCode": "TR1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:50",
+        "end": "11:40"
+      },
+      {
+        "day": "Terca",
+        "start": "08:50",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Paulo E. C. P."
+    ]
+  },
+  {
+    "course_id": "ICB057",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS IV - Métodos Estatísticos em Biologia",
+    "availabilityCode": "TR2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:50",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Frederico S. N."
+    ]
+  },
+  {
+    "course_id": "ICB057",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS IV - Temas Atuais em Ecologia e Conservação",
+    "availabilityCode": "TR3",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:50",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Marcos C. F. P.",
+      "Ricardo R. C. S.",
+      "Frederico S. N."
+    ]
+  },
+  {
+    "course_id": "ICB057",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS IV - Louvor à Terra: uma viagem aos jardins da UFMG",
+    "availabilityCode": "TR4",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:50",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Leandro C. S. A."
+    ]
+  },
+  {
+    "course_id": "ICB057",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS IV - Psicofarmacologia",
+    "availabilityCode": "TR5",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "18:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Daniele C. A.",
+      "Fabricio A. M."
+    ]
+  },
+  {
+    "course_id": "ICB057",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS IV - Educação Inclusiva e Tecnologias Assistivas Aplicada à Parasitologia",
+    "availabilityCode": "TR6",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Luisa M. D. M."
+    ]
+  },
+  {
+    "course_id": "ICB057",
+    "name": "TOPICOS EM CIENCIAS BIOLOGICAS IV - Biologia de Monócitos e Macrófagos",
+    "availabilityCode": "TR7",
+    "spots": 30,
+    "times": [],
+    "teachers": [
+      "Wagner L. R. T."
+    ]
+  },
+  {
+    "course_id": "ICB061",
+    "name": "METODOS E TECNICAS II - Educa Parques",
+    "availabilityCode": "TR1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MAT130",
+    "name": "MATEMATICA",
+    "availabilityCode": "TA1",
+    "spots": 66,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT130",
+    "name": "MATEMATICA",
+    "availabilityCode": "TA2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT130",
+    "name": "MATEMATICA",
+    "availabilityCode": "TA3",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MAT130",
+    "name": "MATEMATICA",
+    "availabilityCode": "TB",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:25",
+        "end": "11:05"
+      },
+      {
+        "day": "Quarta",
+        "start": "09:25",
+        "end": "11:05"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "MIC010",
+    "name": "LABORATORIO DE ENSINO DE MICROBIOLOGIA**",
+    "availabilityCode": "PN1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Betania P. D."
+    ]
+  },
+  {
+    "course_id": "MIC010",
+    "name": "LABORATORIO DE ENSINO DE MICROBIOLOGIA**",
+    "availabilityCode": "PR1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Betania P. D."
+    ]
+  },
+  {
+    "course_id": "MIC015",
+    "name": "BIOLOGIA DAS BACTERIAS",
+    "availabilityCode": "PR1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Caio T. F."
+    ]
+  },
+  {
+    "course_id": "MIC015",
+    "name": "BIOLOGIA DAS BACTERIAS",
+    "availabilityCode": "TR",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Caio T. F."
+    ]
+  },
+  {
+    "course_id": "MIC016",
+    "name": "BIOLOGIA DE VIRUS",
+    "availabilityCode": "PR1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "11:00",
+        "end": "12:40"
+      }
+    ],
+    "teachers": [
+      "Jonatas S. A."
+    ]
+  },
+  {
+    "course_id": "MIC016",
+    "name": "BIOLOGIA DE VIRUS",
+    "availabilityCode": "TR",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "09:00",
+        "end": "10:40"
+      }
+    ],
+    "teachers": [
+      "Jonatas S. A."
+    ]
+  },
+  {
+    "course_id": "MIC017",
+    "name": "BIOLOGIA DE LEVEDURAS E FUNGOS FILAMENTOSOS",
+    "availabilityCode": "PR1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Luiz H. R."
+    ]
+  },
+  {
+    "course_id": "MIC017",
+    "name": "BIOLOGIA DE LEVEDURAS E FUNGOS FILAMENTOSOS",
+    "availabilityCode": "TR",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Luiz H. R."
+    ]
+  },
+  {
+    "course_id": "MIC020",
+    "name": "MICROBIOLOGIA AMBIENTAL",
+    "availabilityCode": "PR1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Vera L. S.",
+      "Douglas B. S. N."
+    ]
+  },
+  {
+    "course_id": "MIC020",
+    "name": "MICROBIOLOGIA AMBIENTAL",
+    "availabilityCode": "TR",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Vera L. S."
+    ]
+  },
+  {
+    "course_id": "MIC021",
+    "name": "MICROBIOLOGIA DE ALIMENTOS",
+    "availabilityCode": "PR1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Elisabeth N."
+    ]
+  },
+  {
+    "course_id": "MIC021",
+    "name": "MICROBIOLOGIA DE ALIMENTOS",
+    "availabilityCode": "TR",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Elisabeth N."
+    ]
+  },
+  {
+    "course_id": "MIC023",
+    "name": "DOENCAS EMERGENTES E REEMERGENTES",
+    "availabilityCode": "TN",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Susana J.",
+      "Monica L. V.",
+      "Giliane S. T.",
+      "Betania P. D.",
+      "Paula P. M."
+    ]
+  },
+  {
+    "course_id": "MIC605",
+    "name": "BIOLOGIA DE MICRORGANISMOS",
+    "availabilityCode": "N",
+    "spots": 75,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Susana J.",
+      "Caio T. F.",
+      "Sabrynna B. O.",
+      "Betania P. D.",
+      "Daniel A. S."
+    ]
+  },
+  {
+    "course_id": "MIC605",
+    "name": "BIOLOGIA DE MICRORGANISMOS",
+    "availabilityCode": "PN1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Elisabeth N.",
+      "Susana J.",
+      "Ary C. J."
+    ]
+  },
+  {
+    "course_id": "MIC605",
+    "name": "BIOLOGIA DE MICRORGANISMOS",
+    "availabilityCode": "PN2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Lida J. A. F.",
+      "Luiz H. R.",
+      "Susana J."
+    ]
+  },
+  {
+    "course_id": "MIC605",
+    "name": "BIOLOGIA DE MICRORGANISMOS",
+    "availabilityCode": "PN3",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Betania P. D.",
+      "Susana J.",
+      "Vera L. S.",
+      "Viviane S. A."
+    ]
+  },
+  {
+    "course_id": "MIC605",
+    "name": "BIOLOGIA DE MICRORGANISMOS",
+    "availabilityCode": "PR1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Samantha R. M. O."
+    ]
+  },
+  {
+    "course_id": "MIC605",
+    "name": "BIOLOGIA DE MICRORGANISMOS",
+    "availabilityCode": "PR2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Vera L. S.",
+      "Carlos A. R.",
+      "Samantha R. M. O."
+    ]
+  },
+  {
+    "course_id": "MIC605",
+    "name": "BIOLOGIA DE MICRORGANISMOS",
+    "availabilityCode": "PR3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Ary C. J.",
+      "Daniel A. S.",
+      "Samantha R. M. O."
+    ]
+  },
+  {
+    "course_id": "MIC605",
+    "name": "BIOLOGIA DE MICRORGANISMOS",
+    "availabilityCode": "PR4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Luiz H. R.",
+      "Elisabeth N.",
+      "Samantha R. M. O."
+    ]
+  },
+  {
+    "course_id": "MIC605",
+    "name": "BIOLOGIA DE MICRORGANISMOS",
+    "availabilityCode": "R",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Caio T. F.",
+      "Betania P. D.",
+      "Daniel A. S.",
+      "Daniele G. S.",
+      "Samantha R. M. O."
+    ]
+  },
+  {
+    "course_id": "MOF008",
+    "name": "EMBRIOLOGIA GERAL",
+    "availabilityCode": "PN1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:50",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Thalita M. V.",
+      "George E. G. K."
+    ]
+  },
+  {
+    "course_id": "MOF008",
+    "name": "EMBRIOLOGIA GERAL",
+    "availabilityCode": "PN2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:50",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Thalita M. V.",
+      "George E. G. K."
+    ]
+  },
+  {
+    "course_id": "MOF008",
+    "name": "EMBRIOLOGIA GERAL",
+    "availabilityCode": "TN",
+    "spots": 80,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Thalita M. V.",
+      "George E. G. K."
+    ]
+  },
+  {
+    "course_id": "MOF008",
+    "name": "EMBRIOLOGIA GERAL",
+    "availabilityCode": "TR",
+    "spots": 60,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Erika C. J."
+    ]
+  },
+  {
+    "course_id": "MOF009",
+    "name": "ANATOMIA HUMANA BASICA",
+    "availabilityCode": "PN1",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Lucas M. K. G. O."
+    ]
+  },
+  {
+    "course_id": "MOF009",
+    "name": "ANATOMIA HUMANA BASICA",
+    "availabilityCode": "PN2",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      }
+    ],
+    "teachers": [
+      "Lucas M. K. G. O."
+    ]
+  },
+  {
+    "course_id": "MOF009",
+    "name": "ANATOMIA HUMANA BASICA",
+    "availabilityCode": "TN",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:50",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Lucas M. K. G. O."
+    ]
+  },
+  {
+    "course_id": "MOF009",
+    "name": "ANATOMIA HUMANA BASICA",
+    "availabilityCode": "TR",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Micena R. M. A. S.",
+      "Antonio L. N. C."
+    ]
+  },
+  {
+    "course_id": "MOF031",
+    "name": "HISTOLOGIA DOS SISTEMAS ORGANICOS",
+    "availabilityCode": "PN1",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Thalita M. V.",
+      "George E. G. K.",
+      "Jose D. C. J."
+    ]
+  },
+  {
+    "course_id": "MOF031",
+    "name": "HISTOLOGIA DOS SISTEMAS ORGANICOS",
+    "availabilityCode": "PN2",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Thalita M. V.",
+      "George E. G. K.",
+      "Jose D. C. J."
+    ]
+  },
+  {
+    "course_id": "MOF031",
+    "name": "HISTOLOGIA DOS SISTEMAS ORGANICOS",
+    "availabilityCode": "PR1",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:50"
+      }
+    ],
+    "teachers": [
+      "Vanessa P. S.",
+      "Fernanda R. C. L. A."
+    ]
+  },
+  {
+    "course_id": "MOF031",
+    "name": "HISTOLOGIA DOS SISTEMAS ORGANICOS",
+    "availabilityCode": "PR2",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:50"
+      }
+    ],
+    "teachers": [
+      "Vanessa P. S.",
+      "Fernanda R. C. L. A."
+    ]
+  },
+  {
+    "course_id": "MOF137",
+    "name": "BIOLOGIA CELULAR",
+    "availabilityCode": "PR2",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:50",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Luciana O. A.",
+      "Walderez O. D."
+    ]
+  },
+  {
+    "course_id": "MOF137",
+    "name": "BIOLOGIA CELULAR",
+    "availabilityCode": "TN",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Luciana O. A.",
+      "Thalita M. V.",
+      "Ludmila R. P. F. C."
+    ]
+  },
+  {
+    "course_id": "MOF137",
+    "name": "BIOLOGIA CELULAR",
+    "availabilityCode": "TR",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "08:50"
+      }
+    ],
+    "teachers": [
+      "Luciana O. A.",
+      "Walderez O. D."
+    ]
+  },
+  {
+    "course_id": "MTE097",
+    "name": "ANALISE DA PRATICA E ESTAGIO CURRICULAR EM CIENCIAS BIOLOGICAS I",
+    "availabilityCode": "TA",
+    "spots": 28,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Marina L. T."
+    ]
+  },
+  {
+    "course_id": "MTE097",
+    "name": "ANALISE DA PRATICA E ESTAGIO CURRICULAR EM CIENCIAS BIOLOGICAS I",
+    "availabilityCode": "TX",
+    "spots": 23,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Julio E. D. P."
+    ]
+  },
+  {
+    "course_id": "MTE097",
+    "name": "ANALISE DA PRATICA E ESTAGIO CURRICULAR EM CIENCIAS BIOLOGICAS I",
+    "availabilityCode": "TY",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Julio E. D. P."
+    ]
+  },
+  {
+    "course_id": "MTE098",
+    "name": "ANALISE DA PRATICA E ESTAGIO CURRICULAR EM CIENCIAS BIOLOGICAS II",
+    "availabilityCode": "TA",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Marina L. T."
+    ]
+  },
+  {
+    "course_id": "MTE098",
+    "name": "ANALISE DA PRATICA E ESTAGIO CURRICULAR EM CIENCIAS BIOLOGICAS II",
+    "availabilityCode": "TX",
+    "spots": 17,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Julio E. D. P."
+    ]
+  },
+  {
+    "course_id": "MTE098",
+    "name": "ANALISE DA PRATICA E ESTAGIO CURRICULAR EM CIENCIAS BIOLOGICAS II",
+    "availabilityCode": "TY",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Julio E. D. P."
+    ]
+  },
+  {
+    "course_id": "MTE099",
+    "name": "ANALISE DA PRATICA E ESTAGIO CURRICULAR EM CIENCIAS BIOLOGICAS III",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Francisco A. C."
+    ]
+  },
+  {
+    "course_id": "MTE099",
+    "name": "ANALISE DA PRATICA E ESTAGIO CURRICULAR EM CIENCIAS BIOLOGICAS III",
+    "availabilityCode": "TX",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Francisco A. C."
+    ]
+  },
+  {
+    "course_id": "MTE099",
+    "name": "ANALISE DA PRATICA E ESTAGIO CURRICULAR EM CIENCIAS BIOLOGICAS III",
+    "availabilityCode": "TY",
+    "spots": 18,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Francisco A. C."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Adla B. M. T."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Carmem L. E."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TC1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "11:10"
+      }
+    ],
+    "teachers": [
+      "Carmem L. E."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TF",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Suzana S. G."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TF2",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:50",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Adla B. M. T."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TJ",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Suzana S. G."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TK",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Joana D. A. V."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TK1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Claudia S. B."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TL",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Analise J. S."
+    ]
+  },
+  {
+    "course_id": "MTE101",
+    "name": "DIDÁTICA DE LICENCIATURA",
+    "availabilityCode": "TL1",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Claudia S. B."
+    ]
+  },
+  {
+    "course_id": "MTE195",
+    "name": "DIDATICA DO ENSINO DE CIENCIAS DA NATUREZA E BIOLOGIA I",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Luiz G. F. S."
+    ]
+  },
+  {
+    "course_id": "MTE195",
+    "name": "DIDATICA DO ENSINO DE CIENCIAS DA NATUREZA E BIOLOGIA I",
+    "availabilityCode": "TX",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Luiz G. F. S."
+    ]
+  },
+  {
+    "course_id": "MTE200",
+    "name": "DIDATICA DO ENSINO DE CIENCIAS DA NATUREZA E BIOLOGIA II",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Luiz G. F. S."
+    ]
+  },
+  {
+    "course_id": "MTE200",
+    "name": "DIDATICA DO ENSINO DE CIENCIAS DA NATUREZA E BIOLOGIA II",
+    "availabilityCode": "TY",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Luiz G. F. S."
+    ]
+  },
+  {
+    "course_id": "PAG004",
+    "name": "PATOLOGIA COMPARADA",
+    "availabilityCode": "R",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Marina G. D."
+    ]
+  },
+  {
+    "course_id": "PAG005",
+    "name": "LABORATORIO DE ENSINO EM PATOLOGIA",
+    "availabilityCode": "N",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Helen L. D. P."
+    ]
+  },
+  {
+    "course_id": "PAG005",
+    "name": "LABORATORIO DE ENSINO EM PATOLOGIA",
+    "availabilityCode": "R",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Helen L. D. P."
+    ]
+  },
+  {
+    "course_id": "PAG008",
+    "name": "HISTOPATOLOGIA",
+    "availabilityCode": "PR1",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Marina G. D."
+    ]
+  },
+  {
+    "course_id": "PAG008",
+    "name": "HISTOPATOLOGIA",
+    "availabilityCode": "PR2",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "15:40"
+      }
+    ],
+    "teachers": [
+      "Monica A. N. D. F."
+    ]
+  },
+  {
+    "course_id": "PAR016",
+    "name": "PARASITOLOGIA GERAL",
+    "availabilityCode": "N1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "21:40"
+      }
+    ],
+    "teachers": [
+      "Deborah A. N. C."
+    ]
+  },
+  {
+    "course_id": "PAR016",
+    "name": "PARASITOLOGIA GERAL",
+    "availabilityCode": "N2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "21:40"
+      }
+    ],
+    "teachers": [
+      "Deborah A. N. C.",
+      "Mauricio R. V. S. A.",
+      "Helida M. A."
+    ]
+  },
+  {
+    "course_id": "PAR016",
+    "name": "PARASITOLOGIA GERAL",
+    "availabilityCode": "N3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "21:40"
+      }
+    ],
+    "teachers": [
+      "Mauricio R. V. S. A.",
+      "Helida M. A.",
+      "Deborah A. N. C."
+    ]
+  },
+  {
+    "course_id": "PAR016",
+    "name": "PARASITOLOGIA GERAL",
+    "availabilityCode": "N4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      },
+      {
+        "day": "Terca",
+        "start": "20:50",
+        "end": "21:40"
+      }
+    ],
+    "teachers": [
+      "Mauricio R. V. S. A.",
+      "Helida M. A.",
+      "Deborah A. N. C."
+    ]
+  },
+  {
+    "course_id": "PAR016",
+    "name": "PARASITOLOGIA GERAL",
+    "availabilityCode": "R1",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "10:50"
+      }
+    ],
+    "teachers": [
+      "Deborah A. N. C.",
+      "Daniella C. B.",
+      "Nelder F. G."
+    ]
+  },
+  {
+    "course_id": "PAR016",
+    "name": "PARASITOLOGIA GERAL",
+    "availabilityCode": "R2",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "10:50"
+      }
+    ],
+    "teachers": [
+      "Deborah A. N. C.",
+      "Mauricio R. V. S. A.",
+      "Helida M. A.",
+      "Daniella C. B.",
+      "Stefan M. G."
+    ]
+  },
+  {
+    "course_id": "PAR016",
+    "name": "PARASITOLOGIA GERAL",
+    "availabilityCode": "R3",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "10:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Deborah A. N. C.",
+      "Luccas G. F. M.",
+      "Erica S. M. D.",
+      "Hudson A. P.",
+      "Daniella C. B."
+    ]
+  },
+  {
+    "course_id": "PAR016",
+    "name": "PARASITOLOGIA GERAL",
+    "availabilityCode": "TR4",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "10:50"
+      },
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "PAR020",
+    "name": "LABORATORIO DE ENSINO EM PARASITOLOGIA",
+    "availabilityCode": "PN1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Erica S. M. D."
+    ]
+  },
+  {
+    "course_id": "PAR020",
+    "name": "LABORATORIO DE ENSINO EM PARASITOLOGIA",
+    "availabilityCode": "PN2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Helida M. A."
+    ]
+  },
+  {
+    "course_id": "PAR020",
+    "name": "LABORATORIO DE ENSINO EM PARASITOLOGIA",
+    "availabilityCode": "PR1",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:50",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Felipe B. P."
+    ]
+  },
+  {
+    "course_id": "PAR020",
+    "name": "LABORATORIO DE ENSINO EM PARASITOLOGIA",
+    "availabilityCode": "PR2",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:50",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Mauricio R. V. S. A."
+    ]
+  },
+  {
+    "course_id": "PAR021",
+    "name": "BASES EM EPIDEMIOLOGIA",
+    "availabilityCode": "TN",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "21:40"
+      }
+    ],
+    "teachers": [
+      "David S. B."
+    ]
+  },
+  {
+    "course_id": "PAR023",
+    "name": "TAXONOMIA DE PARASITOS",
+    "availabilityCode": "TR",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Fernando A. F.",
+      "Felipe B. P.",
+      "Thiago C. G.",
+      "Mauricio R. V. S. A.",
+      "Erica S. M. D.",
+      "Erika M. B.",
+      "Weslen F. P. T.",
+      "Hudson A. P."
+    ]
+  },
+  {
+    "course_id": "QUI142",
+    "name": "QUIMICA PARA CIENCIAS BIOLOGICAS",
+    "availabilityCode": "TA1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI142",
+    "name": "QUIMICA PARA CIENCIAS BIOLOGICAS",
+    "availabilityCode": "TA2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "07:30",
+        "end": "09:10"
+      },
+      {
+        "day": "Sexta",
+        "start": "07:30",
+        "end": "09:10"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI142",
+    "name": "QUIMICA PARA CIENCIAS BIOLOGICAS",
+    "availabilityCode": "TE1",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:35"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "QUI142",
+    "name": "QUIMICA PARA CIENCIAS BIOLOGICAS",
+    "availabilityCode": "TE2",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "20:55",
+        "end": "22:55"
+      },
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "ZOL003",
+    "name": "ZOOLOGIA II",
+    "availabilityCode": "N1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Gisele Y. K.",
+      "Wesley D. C.",
+      "Adalberto J. S."
+    ]
+  },
+  {
+    "course_id": "ZOL003",
+    "name": "ZOOLOGIA II",
+    "availabilityCode": "N2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "22:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "19:00",
+        "end": "19:50"
+      }
+    ],
+    "teachers": [
+      "Gisele Y. K.",
+      "Wesley D. C.",
+      "Adalberto J. S."
+    ]
+  },
+  {
+    "course_id": "ZOL003",
+    "name": "ZOOLOGIA II",
+    "availabilityCode": "R1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "10:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Gisele Y. K.",
+      "Wesley D. C.",
+      "Adalberto J. S."
+    ]
+  },
+  {
+    "course_id": "ZOL003",
+    "name": "ZOOLOGIA II",
+    "availabilityCode": "R2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Gisele Y. K.",
+      "Wesley D. C.",
+      "Adalberto J. S."
+    ]
+  },
+  {
+    "course_id": "ZOL013",
+    "name": "ZOOLOGIA I",
+    "availabilityCode": "N1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Teofania H. D. A. V.",
+      "Alfredo H. W.",
+      "Almir R. P.",
+      "Lucilia S. M."
+    ]
+  },
+  {
+    "course_id": "ZOL013",
+    "name": "ZOOLOGIA I",
+    "availabilityCode": "N2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:50",
+        "end": "22:30"
+      },
+      {
+        "day": "Terca",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Teofania H. D. A. V.",
+      "Alfredo H. W.",
+      "Almir R. P.",
+      "Lucilia S. M."
+    ]
+  },
+  {
+    "course_id": "ZOL013",
+    "name": "ZOOLOGIA I",
+    "availabilityCode": "R1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Almir R. P.",
+      "Lucilia S. M.",
+      "Teofania H. D. A. V.",
+      "Alfredo H. W."
+    ]
+  },
+  {
+    "course_id": "ZOL013",
+    "name": "ZOOLOGIA I",
+    "availabilityCode": "R2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "09:40"
+      },
+      {
+        "day": "Quinta",
+        "start": "10:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Almir R. P.",
+      "Lucilia S. M.",
+      "Teofania H. D. A. V.",
+      "Alfredo H. W."
+    ]
+  },
+  {
+    "course_id": "ZOL014",
+    "name": "ZOOLOGIA III",
+    "availabilityCode": "PN1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Marcos R.",
+      "Priscilla C. S. D."
+    ]
+  },
+  {
+    "course_id": "ZOL014",
+    "name": "ZOOLOGIA III",
+    "availabilityCode": "PN2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "20:50",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Marcos R.",
+      "Priscilla C. S. D."
+    ]
+  },
+  {
+    "course_id": "ZOL014",
+    "name": "ZOOLOGIA III",
+    "availabilityCode": "PR1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "09:40"
+      }
+    ],
+    "teachers": [
+      "Priscilla C. S. D.",
+      "Marcos R."
+    ]
+  },
+  {
+    "course_id": "ZOL014",
+    "name": "ZOOLOGIA III",
+    "availabilityCode": "PR2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Priscilla C. S. D.",
+      "Marcos R."
+    ]
+  },
+  {
+    "course_id": "ZOL014",
+    "name": "ZOOLOGIA III",
+    "availabilityCode": "TN",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Priscilla C. S. D.",
+      "Marcos R."
+    ]
+  },
+  {
+    "course_id": "ZOL014",
+    "name": "ZOOLOGIA III",
+    "availabilityCode": "TR",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Priscilla C. S. D.",
+      "Marcos R."
+    ]
+  },
+  {
+    "course_id": "ZOL017",
+    "name": "INTRODUCAO A SISTEMATICA",
+    "availabilityCode": "N",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "19:00",
+        "end": "20:40"
+      }
+    ],
+    "teachers": [
+      "Kirstern L. F. H."
+    ]
+  },
+  {
+    "course_id": "ZOL017",
+    "name": "INTRODUCAO A SISTEMATICA",
+    "availabilityCode": "R",
+    "spots": 70,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "10:00",
+        "end": "11:40"
+      }
+    ],
+    "teachers": [
+      "Wesley D. C."
+    ]
+  },
+  {
+    "course_id": "ZOL018",
+    "name": "MALACOLOGIA",
+    "availabilityCode": "TN",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "19:00",
+        "end": "22:30"
+      }
+    ],
+    "teachers": [
+      "Teofania H. D. A. V."
+    ]
+  },
+  {
+    "course_id": "ZOL609",
+    "name": "HERPETOLOGIA",
+    "availabilityCode": "TR",
+    "spots": 15,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "16:30"
+      },
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Thiago R. C. T."
+    ]
+  },
+  {
+    "course_id": "ZOL611",
+    "name": "MASTOZOOLOGIA",
+    "availabilityCode": "TR",
+    "spots": 10,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:30"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:30"
+      }
+    ],
+    "teachers": [
+      "Mario A. C."
+    ]
+  }
+]

@@ -31,6 +31,8 @@ const offerLoaders: Record<string, () => Promise<{ default: AvailableClass[] }>>
     import("@/data/offers/2026-2/ciencia-de-dados.json"),
   "2026/2:ciencias-atuariais": () =>
     import("@/data/offers/2026-2/ciencias-atuariais.json"),
+  "2026/2:ciencias-biologicas": () =>
+    import("@/data/offers/2026-2/ciencias-biologicas.json"),
   "2026/2:ciencias-contabeis": () =>
     import("@/data/offers/2026-2/ciencias-contabeis.json"),
   "2026/2:ciencias-do-estado": () =>
@@ -135,6 +137,8 @@ const offerLoaders: Record<string, () => Promise<{ default: AvailableClass[] }>>
     import("@/data/offers/2026-2/relacoes-publicas.json"),
   "2026/2:sistemas-informacao": () =>
     import("@/data/offers/2026-2/sistemas-informacao.json"),
+  "2026/2:terapia-ocupacional": () =>
+    import("@/data/offers/2026-2/terapia-ocupacional.json"),
 }
 
 const offerCache = new Map<string, AvailableClass[]>()

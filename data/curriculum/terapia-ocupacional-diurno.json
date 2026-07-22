@@ -1,0 +1,666 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "DTO032",
+      "name": "Historia da Terapia Ocupacional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DTO033",
+      "name": "Introducao Ao Estudo da Ocupacao",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DTO034",
+      "name": "Metodologia do Trabalho Cientifico",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "DTO035",
+      "name": "Pratica de Obs em Terapia Ocupacional I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF044",
+      "name": "Biologia Celular e Metabolica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF062",
+      "name": "Anatomia Aplicada À Terapia Ocupacional",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "SOA090",
+      "name": "Sociologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "SOA168",
+      "name": "Antropologia Cultural",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DTO036",
+      "name": "Introducao Ao Estudo da Saude",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DTO037",
+      "name": "Processos de Inclusao Social",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DTO038",
+      "name": "Pratica de Obs em Terapia Ocupacional II",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "DTO039",
+      "name": "Etica e Deontologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ENB054",
+      "name": "Fundamentos Basicos da Atencao em Saude",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIB031",
+      "name": "Fisiologia Aplicada a Ter Ocupacional",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF045",
+      "name": "Neuroanatomia Aplicada a Ter Ocupacional",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "PSI061",
+      "name": "Grupos e Instituicoes",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DTO040",
+      "name": "Desenvolv da Infancia a Adolescencia",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DTO041",
+      "name": "Desenvolvimento do Adulto Ao Idoso",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DTO042",
+      "name": "Pratica de Observ em Ter Ocupacional III",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DTO043",
+      "name": "Estudo das Atividades de Vida Diaria",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DTO044",
+      "name": "Estudo do Trabalho",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "DTO045",
+      "name": "Estudo Brincar",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "EFI074",
+      "name": "Estudo do Lazer",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "PAG006",
+      "name": "Patologia Geral",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ALO005",
+      "name": "Aparelho Locomotor Para Ter. Ocupacional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "CLM023",
+      "name": "Neurologia Para Terapia Ocupacional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DTO046",
+      "name": "Tecnicas e Instrumentos de Avaliacao",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DTO047",
+      "name": "Analise de Atividade e Ocupacao Humana",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DTO048",
+      "name": "Pratica Clinica em Terapia Ocupacional I",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "DTO049",
+      "name": "Cinesiologia e Biomecanica Aplicada a To",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "PAG007",
+      "name": "Patologia Aplicada a Terapia Ocupacional",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "PED016",
+      "name": "Saude da Crianca e do Adolescente P/ To",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "SAM021",
+      "name": "Psicopatologia Para Terapia Ocupacional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DTO050",
+      "name": "Intervencoes em Terapia Ocupacional I",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DTO051",
+      "name": "Intervencoes em Terapia Ocupacional II",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DTO052",
+      "name": "Metodologia da Pesquisa Cientifica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "DTO053",
+      "name": "Pratica Clinica em Ter Ocupacional II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DTO054",
+      "name": "Cinesioterapia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DTO055",
+      "name": "Intervencoes em Ter Ocupacional III",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DTO056",
+      "name": "Orteses",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DTO057",
+      "name": "Pratica Clinica em Ter Ocupacional III",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "DTO058",
+      "name": "Tecnologia Assistiva",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "EST179",
+      "name": "Introducao a Bioestatistica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DTO059",
+      "name": "Clinica To Saude Crianca e Adolescente",
+      "description": null,
+      "credits": 26,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "DTO060",
+      "name": "Trabalho de Conclusao de Curso I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DTO025",
+      "name": "Topicos em Terapia Ocupacional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DTO026",
+      "name": "Reabilitacao Profissional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DTO061",
+      "name": "Clinica To na Saude do Adulto e do Idoso",
+      "description": null,
+      "credits": 26,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DTO062",
+      "name": "Trabalho de Conclusao de Curso II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DTO063",
+      "name": "Empreendedorismo em Saude",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DTO064",
+      "name": "Sociedade e Loucura",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DTO065",
+      "name": "Ergonomia e Saude",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DTO066",
+      "name": "Introd Pensar Intervir Abordag Sistemica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DTO067",
+      "name": "Ter Ocupacional Promocao Saude Velhice",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DTO068",
+      "name": "Saude e Trabalho",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DTO069",
+      "name": "Processos Criativos e Ter Ocupacional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DTO070",
+      "name": "Processos Comunitarios e Ter Ocupacional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DTO071",
+      "name": "Processos Gerenciais e Ter Ocupacional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "DTO072",
+      "name": "Processos e Produtos e Ter Ocupacional",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EEF001",
+      "name": "Programa de Iniciacao a Pesquisa",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EEF002",
+      "name": "Programa de Iniciacao a Pesquisa",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EEF003",
+      "name": "Programa de Iniciacao a Pesquisa",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EEF004",
+      "name": "Programa de Iniciacao a Docencia",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EEF005",
+      "name": "Programa de Iniciacao a Docencia I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EEF006",
+      "name": "Programa de Iniciacao a Docencia",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EEF007",
+      "name": "Projeto de Extensao",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EEF008",
+      "name": "Projeto de Extensao",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EEF009",
+      "name": "Projeto de Extensao",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EEF010",
+      "name": "Vivencia Profissional Complementar",
+      "description": null,
+      "credits": 1,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EEF011",
+      "name": "Vivencia Profissional Complementar",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "EEF012",
+      "name": "Vivencia Profissional Complementar",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "LET223",
+      "name": "Fundamentos de Libras",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    }
+  ],
+  "prerequisites": [
+    {
+      "code": "DTO038",
+      "prerequisite_code": "DTO035"
+    },
+    {
+      "code": "DTO040",
+      "prerequisite_code": "MOF045"
+    },
+    {
+      "code": "DTO042",
+      "prerequisite_code": "DTO038"
+    },
+    {
+      "code": "DTO043",
+      "prerequisite_code": "DTO033"
+    },
+    {
+      "code": "DTO044",
+      "prerequisite_code": "DTO033"
+    },
+    {
+      "code": "DTO045",
+      "prerequisite_code": "DTO033"
+    },
+    {
+      "code": "EFI074",
+      "prerequisite_code": "DTO033"
+    },
+    {
+      "code": "PAG006",
+      "prerequisite_code": "MOF044"
+    },
+    {
+      "code": "CLM023",
+      "prerequisite_code": "MOF045"
+    },
+    {
+      "code": "CLM023",
+      "prerequisite_code": "FIB031"
+    },
+    {
+      "code": "DTO047",
+      "prerequisite_code": "DTO033"
+    },
+    {
+      "code": "DTO049",
+      "prerequisite_code": "FIB031"
+    },
+    {
+      "code": "DTO049",
+      "prerequisite_code": "MOF062"
+    },
+    {
+      "code": "PAG007",
+      "prerequisite_code": "PAG006"
+    },
+    {
+      "code": "DTO053",
+      "prerequisite_code": "DTO048"
+    },
+    {
+      "code": "DTO054",
+      "prerequisite_code": "DTO049"
+    },
+    {
+      "code": "DTO057",
+      "prerequisite_code": "DTO053"
+    },
+    {
+      "code": "DTO060",
+      "prerequisite_code": "EST179"
+    },
+    {
+      "code": "DTO060",
+      "prerequisite_code": "DTO052"
+    },
+    {
+      "code": "DTO061",
+      "prerequisite_code": "DTO059"
+    },
+    {
+      "code": "DTO062",
+      "prerequisite_code": "DTO060"
+    }
+  ]
+}

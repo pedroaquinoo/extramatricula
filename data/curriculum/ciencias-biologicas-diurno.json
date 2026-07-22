@@ -1,0 +1,309 @@
+{
+  "classes": [
+    {
+      "ref_period": 1,
+      "code": "BIG155",
+      "name": "Evolucao I",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICB013",
+      "name": "Introducao a Ciencias Biologicas",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ICB015",
+      "name": "Metodologia de Campo",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "MOF137",
+      "name": "Biologia Celular",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "PAR016",
+      "name": "Parasitologia Geral",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "QUI142",
+      "name": "Quimica Para Ciencias Biologicas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 1,
+      "code": "ZOL017",
+      "name": "Introducao a Sistematica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "BIG020",
+      "name": "Genetica I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "BIQ040",
+      "name": "Bioquimica Celular",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "BOT012",
+      "name": "Taxonomia de Criptogamas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "FIB001",
+      "name": "Biofisica",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "MOF031",
+      "name": "Histologia dos Sistemas Organicos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 2,
+      "code": "ZOL013",
+      "name": "Zoologia I",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "BIQ042",
+      "name": "Projetos em Bioquimica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "BIQ043",
+      "name": "Biologia Molecular",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "BOT013",
+      "name": "Morfologia e Taxonomia de Espermatofitas",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MAT130",
+      "name": "Matematica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "MIC605",
+      "name": "Biologia de Microrganismos",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 3,
+      "code": "ZOL003",
+      "name": "Zoologia II",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "BIG021",
+      "name": "Ecologia I",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "BIQ044",
+      "name": "Imunologia",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "EST179",
+      "name": "Introducao a Bioestatistica",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ICB036",
+      "name": "Anatomia Comparada dos Vertebrados",
+      "description": null,
+      "credits": 5,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "MOF008",
+      "name": "Embriologia Geral",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 4,
+      "code": "ZOL014",
+      "name": "Zoologia III",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "BIG029",
+      "name": "Ecologia II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "BIG030",
+      "name": "Genetica II",
+      "description": null,
+      "credits": 3,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "BOT018",
+      "name": "Anatomia Vegetal",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "FIB023",
+      "name": "Fisiologia Animal Comparada",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    },
+    {
+      "ref_period": 5,
+      "code": "PAG004",
+      "name": "Patologia Comparada",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "BIG033",
+      "name": "Evolucao II",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "BOT017",
+      "name": "Fisiologia Vegetal",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "FAR025",
+      "name": "Farmacologia Experimental",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 6,
+      "code": "ICB055",
+      "name": "Bioinformatica",
+      "description": null,
+      "credits": 2,
+      "elective": false
+    },
+    {
+      "ref_period": 7,
+      "code": "GEL048",
+      "name": "Paleontologia",
+      "description": null,
+      "credits": 4,
+      "elective": false
+    },
+    {
+      "ref_period": 8,
+      "code": "ICB037",
+      "name": "Trabalho de Conclusao de Curso I",
+      "description": null,
+      "credits": 8,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICB038",
+      "name": "Trabalho de Conclusao de Curso II",
+      "description": null,
+      "credits": 10,
+      "elective": false
+    },
+    {
+      "ref_period": 9,
+      "code": "ICB039",
+      "name": "Estagio Curricular",
+      "description": null,
+      "credits": 6,
+      "elective": false
+    }
+  ],
+  "prerequisites": []
+}

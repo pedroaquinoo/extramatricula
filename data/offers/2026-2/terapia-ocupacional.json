@@ -1,0 +1,1757 @@
+[
+  {
+    "course_id": "ALO005",
+    "name": "APARELHO LOCOMOTOR PARA TERAPIA OCUPACIONAL",
+    "availabilityCode": "TA",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Daniela C. A.",
+      "Luiz E. M. T.",
+      "Jefferson S. L.",
+      "Fabiana M. M.",
+      "Robinson E. S. P.",
+      "Gilda A. F.",
+      "Guilherme M. A. S.",
+      "Ubiratan B. C.",
+      "Adriana M. K.",
+      "Debora C. C.",
+      "Tiago S. B."
+    ]
+  },
+  {
+    "course_id": "CLM023",
+    "name": "NEUROLOGIA PARA TERAPIA OCUPACIONAL",
+    "availabilityCode": "TA",
+    "spots": 43,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Paulo P. C."
+    ]
+  },
+  {
+    "course_id": "DTO025",
+    "name": "TOPICOS EM TERAPIA OCUPACIONAL - Construção da Identidade Profissional em Terapia Ocupacional",
+    "availabilityCode": "TA",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:00",
+        "end": "22:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DTO025",
+    "name": "TOPICOS EM TERAPIA OCUPACIONAL - Empreendedorismo e Gestão para Terapeutas Ocupacionais",
+    "availabilityCode": "TB",
+    "spots": 0,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:00",
+        "end": "22:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DTO025",
+    "name": "TOPICOS EM TERAPIA OCUPACIONAL - Estudo de caso no campo da reabilitação física",
+    "availabilityCode": "TC",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Adriana M. V. N. V. P."
+    ]
+  },
+  {
+    "course_id": "DTO025",
+    "name": "TOPICOS EM TERAPIA OCUPACIONAL - Terapia Ocupacional, Comunicação Não Violenta e Círculos de Construção de Paz",
+    "availabilityCode": "TG",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Tatiana M. M. T."
+    ]
+  },
+  {
+    "course_id": "DTO025",
+    "name": "TOPICOS EM TERAPIA OCUPACIONAL - Terapia Ocupacional na Educação Inclusiva",
+    "availabilityCode": "TH",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Fabiana S. Z. C."
+    ]
+  },
+  {
+    "course_id": "DTO025",
+    "name": "TOPICOS EM TERAPIA OCUPACIONAL - \"Eu e a UFMG\"",
+    "availabilityCode": "TS",
+    "spots": 33,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Simone C. A."
+    ]
+  },
+  {
+    "course_id": "DTO025",
+    "name": "TOPICOS EM TERAPIA OCUPACIONAL - Juventudes e sistema socioeducativo: gênero e interseccionalidade",
+    "availabilityCode": "TT",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Tatiana M. M. T."
+    ]
+  },
+  {
+    "course_id": "DTO025",
+    "name": "TOPICOS EM TERAPIA OCUPACIONAL - O ingresso na UFMG: possibilidades, perspectivas e desafios",
+    "availabilityCode": "TTL",
+    "spots": 30,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Adriana F. D."
+    ]
+  },
+  {
+    "course_id": "DTO032",
+    "name": "HISTORIA DA TERAPIA OCUPACIONAL",
+    "availabilityCode": "TT",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Adriana F. D."
+    ]
+  },
+  {
+    "course_id": "DTO033",
+    "name": "INTRODUCAO AO ESTUDO DA OCUPACAO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Bruno S. B. M."
+    ]
+  },
+  {
+    "course_id": "DTO034",
+    "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+    "availabilityCode": "TTA",
+    "spots": 47,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Marcella G. A."
+    ]
+  },
+  {
+    "course_id": "DTO035",
+    "name": "PRATICA DE OBSERVACAO EM TERAPIA OCUPACIONAL I",
+    "availabilityCode": "PA",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Marcos A. F."
+    ]
+  },
+  {
+    "course_id": "DTO035",
+    "name": "PRATICA DE OBSERVACAO EM TERAPIA OCUPACIONAL I",
+    "availabilityCode": "PB",
+    "spots": 21,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Tatiana M. M. T."
+    ]
+  },
+  {
+    "course_id": "DTO036",
+    "name": "INTRODUCAO AO ESTUDO DA SAUDE",
+    "availabilityCode": "TA",
+    "spots": 42,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Bruno S. B. M.",
+      "Alessandro R. P. T."
+    ]
+  },
+  {
+    "course_id": "DTO037",
+    "name": "PROCESSOS DE INCLUSAO SOCIAL",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Luciana A. C."
+    ]
+  },
+  {
+    "course_id": "DTO038",
+    "name": "PRATICA DE OBSERVACAO EM TERAPIA OCUPACIONAL II",
+    "availabilityCode": "PA",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "10:00"
+      }
+    ],
+    "teachers": [
+      "Bruno S. B. M."
+    ]
+  },
+  {
+    "course_id": "DTO038",
+    "name": "PRATICA DE OBSERVACAO EM TERAPIA OCUPACIONAL II",
+    "availabilityCode": "PB",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Alessandro R. P. T."
+    ]
+  },
+  {
+    "course_id": "DTO039",
+    "name": "ETICA E DEONTOLOGIA",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Marcos A. F."
+    ]
+  },
+  {
+    "course_id": "DTO040",
+    "name": "DESENVOLVIMENTO DA INFANCIA A ADOLESCENCIA",
+    "availabilityCode": "TFIN",
+    "spots": 39,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Marcos A. F.",
+      "Fabiana S. Z. C."
+    ]
+  },
+  {
+    "course_id": "DTO041",
+    "name": "DESENVOLVIMENTO DO ADULTO AO IDOSO",
+    "availabilityCode": "TA",
+    "spots": 38,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Luciana O. A."
+    ]
+  },
+  {
+    "course_id": "DTO042",
+    "name": "PRATICA DE OBSERVACAO EM TERAPIA OCUPACIONAL III",
+    "availabilityCode": "PB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "09:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Luciana O. A."
+    ]
+  },
+  {
+    "course_id": "DTO043",
+    "name": "ESTUDO DAS ATIVIDADES DE VIDA DIARIA",
+    "availabilityCode": "TA",
+    "spots": 39,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Crystian M. S. G."
+    ]
+  },
+  {
+    "course_id": "DTO044",
+    "name": "ESTUDO DO TRABALHO",
+    "availabilityCode": "TB",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DTO045",
+    "name": "ESTUDO BRINCAR",
+    "availabilityCode": "TA",
+    "spots": 39,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Ana A. C. R."
+    ]
+  },
+  {
+    "course_id": "DTO046",
+    "name": "TECNICAS E INSTRUMENTOS DE AVALIACAO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Rafael C. M.",
+      "Iza F. F."
+    ]
+  },
+  {
+    "course_id": "DTO047",
+    "name": "ANALISE DE ATIVIDADE E OCUPACAO HUMANA",
+    "availabilityCode": "TA",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DTO048",
+    "name": "PRATICA CLINICA EM TERAPIA OCUPACIONAL I",
+    "availabilityCode": "PA",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Fernanda V. P."
+    ]
+  },
+  {
+    "course_id": "DTO048",
+    "name": "PRATICA CLINICA EM TERAPIA OCUPACIONAL I",
+    "availabilityCode": "PB",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Iza F. F."
+    ]
+  },
+  {
+    "course_id": "DTO048",
+    "name": "PRATICA CLINICA EM TERAPIA OCUPACIONAL I",
+    "availabilityCode": "PC",
+    "spots": 13,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Rafael C. M."
+    ]
+  },
+  {
+    "course_id": "DTO049",
+    "name": "CINESIOLOGIA E BIOMECANICA APLICADA A TO",
+    "availabilityCode": "PA",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:30",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Angelica R. S."
+    ]
+  },
+  {
+    "course_id": "DTO049",
+    "name": "CINESIOLOGIA E BIOMECANICA APLICADA A TO",
+    "availabilityCode": "PB",
+    "spots": 24,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "15:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Angelica R. S."
+    ]
+  },
+  {
+    "course_id": "DTO049",
+    "name": "CINESIOLOGIA E BIOMECANICA APLICADA A TO",
+    "availabilityCode": "TT",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:30",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Angelica R. S."
+    ]
+  },
+  {
+    "course_id": "DTO050",
+    "name": "INTERVENCOES EM TERAPIA OCUPACIONAL I",
+    "availabilityCode": "TA",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "17:00"
+      },
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Marcella G. A.",
+      "Simone C. A.",
+      "Fernanda V. P."
+    ]
+  },
+  {
+    "course_id": "DTO051",
+    "name": "INTERVENCOES EM TERAPIA OCUPACIONAL II",
+    "availabilityCode": "TA",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Tatiana M. M. T.",
+      "Luciana A. C."
+    ]
+  },
+  {
+    "course_id": "DTO052",
+    "name": "METODOLOGIA DA PESQUISA CIENTIFICA",
+    "availabilityCode": "TA",
+    "spots": 44,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Bruno S. B. M."
+    ]
+  },
+  {
+    "course_id": "DTO053",
+    "name": "PRATICA CLINICA EM TERAPIA OCUPACIONAL II",
+    "availabilityCode": "PA",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Cristiane M. D. B."
+    ]
+  },
+  {
+    "course_id": "DTO053",
+    "name": "PRATICA CLINICA EM TERAPIA OCUPACIONAL II",
+    "availabilityCode": "PB",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Cristiane M. D. B."
+    ]
+  },
+  {
+    "course_id": "DTO053",
+    "name": "PRATICA CLINICA EM TERAPIA OCUPACIONAL II",
+    "availabilityCode": "PC",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Alessandro R. P. T."
+    ]
+  },
+  {
+    "course_id": "DTO053",
+    "name": "PRATICA CLINICA EM TERAPIA OCUPACIONAL II",
+    "availabilityCode": "PD",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Marcella G. A."
+    ]
+  },
+  {
+    "course_id": "DTO053",
+    "name": "PRATICA CLINICA EM TERAPIA OCUPACIONAL II",
+    "availabilityCode": "PE",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "17:30"
+      },
+      {
+        "day": "Quinta",
+        "start": "08:30",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Bruno S. B. M."
+    ]
+  },
+  {
+    "course_id": "DTO053",
+    "name": "PRATICA CLINICA EM TERAPIA OCUPACIONAL II",
+    "availabilityCode": "PH",
+    "spots": 7,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Tatiana M. M. T."
+    ]
+  },
+  {
+    "course_id": "DTO054",
+    "name": "CINESIOTERAPIA",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DTO054",
+    "name": "CINESIOTERAPIA",
+    "availabilityCode": "TC",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DTO055",
+    "name": "INTERVENCOES EM TERAPIA OCUPACIONAL III",
+    "availabilityCode": "TA",
+    "spots": 38,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:00"
+      },
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Marina B. B.",
+      "Crystian M. S. G."
+    ]
+  },
+  {
+    "course_id": "DTO056",
+    "name": "ORTESES",
+    "availabilityCode": "TA",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Angelica R. S."
+    ]
+  },
+  {
+    "course_id": "DTO056",
+    "name": "ORTESES",
+    "availabilityCode": "TB",
+    "spots": 20,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Angelica R. S."
+    ]
+  },
+  {
+    "course_id": "DTO057",
+    "name": "PRATICA CLINICA EM TERAPIA OCUPACIONAL III",
+    "availabilityCode": "PA",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Angelica R. S."
+    ]
+  },
+  {
+    "course_id": "DTO057",
+    "name": "PRATICA CLINICA EM TERAPIA OCUPACIONAL III",
+    "availabilityCode": "PB",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "11:00"
+      }
+    ],
+    "teachers": [
+      "Adriana M. V. N. V. P."
+    ]
+  },
+  {
+    "course_id": "DTO057",
+    "name": "PRATICA CLINICA EM TERAPIA OCUPACIONAL III",
+    "availabilityCode": "PC",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": []
+  },
+  {
+    "course_id": "DTO057",
+    "name": "PRATICA CLINICA EM TERAPIA OCUPACIONAL III",
+    "availabilityCode": "PD",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Marina B. B."
+    ]
+  },
+  {
+    "course_id": "DTO057",
+    "name": "PRATICA CLINICA EM TERAPIA OCUPACIONAL III",
+    "availabilityCode": "PE",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Ana A. C. R."
+    ]
+  },
+  {
+    "course_id": "DTO057",
+    "name": "PRATICA CLINICA EM TERAPIA OCUPACIONAL III",
+    "availabilityCode": "PF",
+    "spots": 6,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Fabiana S. Z. C."
+    ]
+  },
+  {
+    "course_id": "DTO058",
+    "name": "TECNOLOGIA ASSISTIVA",
+    "availabilityCode": "TA",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "15:30"
+      }
+    ],
+    "teachers": [
+      "Angelica R. S."
+    ]
+  },
+  {
+    "course_id": "DTO058",
+    "name": "TECNOLOGIA ASSISTIVA",
+    "availabilityCode": "TB",
+    "spots": 12,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "15:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Angelica R. S."
+    ]
+  },
+  {
+    "course_id": "DTO059",
+    "name": "CLINICA EM TO NA SAUDE DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "PA",
+    "spots": 8,
+    "times": [],
+    "teachers": [
+      "Ana A. C. R."
+    ]
+  },
+  {
+    "course_id": "DTO059",
+    "name": "CLINICA EM TO NA SAUDE DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "PB",
+    "spots": 8,
+    "times": [],
+    "teachers": [
+      "Fernanda V. P."
+    ]
+  },
+  {
+    "course_id": "DTO059",
+    "name": "CLINICA EM TO NA SAUDE DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "PC",
+    "spots": 8,
+    "times": [],
+    "teachers": [
+      "Luciana A. C."
+    ]
+  },
+  {
+    "course_id": "DTO059",
+    "name": "CLINICA EM TO NA SAUDE DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "PD",
+    "spots": 8,
+    "times": [],
+    "teachers": [
+      "Marina B. B."
+    ]
+  },
+  {
+    "course_id": "DTO059",
+    "name": "CLINICA EM TO NA SAUDE DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "PE",
+    "spots": 8,
+    "times": [],
+    "teachers": [
+      "Fabiana S. Z. C."
+    ]
+  },
+  {
+    "course_id": "DTO059",
+    "name": "CLINICA EM TO NA SAUDE DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "PF",
+    "spots": 8,
+    "times": [],
+    "teachers": [
+      "Marcos A. F."
+    ]
+  },
+  {
+    "course_id": "DTO059",
+    "name": "CLINICA EM TO NA SAUDE DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "PG",
+    "spots": 8,
+    "times": [],
+    "teachers": []
+  },
+  {
+    "course_id": "DTO059",
+    "name": "CLINICA EM TO NA SAUDE DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "TA",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Ana A. C. R."
+    ]
+  },
+  {
+    "course_id": "DTO059",
+    "name": "CLINICA EM TO NA SAUDE DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "TB",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Fernanda V. P."
+    ]
+  },
+  {
+    "course_id": "DTO059",
+    "name": "CLINICA EM TO NA SAUDE DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "TC",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Luciana A. C."
+    ]
+  },
+  {
+    "course_id": "DTO059",
+    "name": "CLINICA EM TO NA SAUDE DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "TD",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Marina B. B."
+    ]
+  },
+  {
+    "course_id": "DTO059",
+    "name": "CLINICA EM TO NA SAUDE DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "TE",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Fabiana S. Z. C."
+    ]
+  },
+  {
+    "course_id": "DTO059",
+    "name": "CLINICA EM TO NA SAUDE DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "TF",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Marcos A. F."
+    ]
+  },
+  {
+    "course_id": "DTO059",
+    "name": "CLINICA EM TO NA SAUDE DA CRIANCA E DO ADOLESCENTE",
+    "availabilityCode": "TG",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Tatiana M. M. T."
+    ]
+  },
+  {
+    "course_id": "DTO060",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO I",
+    "availabilityCode": "TA",
+    "spots": 38,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:00",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Marcela A. F. B.",
+      "Adriana F. D.",
+      "Adriana M. V. N. V. P.",
+      "Ana A. C. R."
+    ]
+  },
+  {
+    "course_id": "DTO060",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO I",
+    "availabilityCode": "TC",
+    "spots": 38,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:00",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Cristiane M. D. B.",
+      "Crystian M. S. G.",
+      "Fabiana S. Z. C.",
+      "Bruno S. B. M.",
+      "Marcela A. F. B."
+    ]
+  },
+  {
+    "course_id": "DTO060",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO I",
+    "availabilityCode": "TTB",
+    "spots": 38,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:00",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Luciana A. C.",
+      "Luciana O. A.",
+      "Fernanda V. P.",
+      "Marcela A. F. B.",
+      "Iza F. F."
+    ]
+  },
+  {
+    "course_id": "DTO061",
+    "name": "CLINICA EM TO NA SAUDE DO ADULTO E DO IDOSO",
+    "availabilityCode": "TA",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Adriana M. V. N. V. P."
+    ]
+  },
+  {
+    "course_id": "DTO061",
+    "name": "CLINICA EM TO NA SAUDE DO ADULTO E DO IDOSO",
+    "availabilityCode": "TB",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Crystian M. S. G."
+    ]
+  },
+  {
+    "course_id": "DTO061",
+    "name": "CLINICA EM TO NA SAUDE DO ADULTO E DO IDOSO",
+    "availabilityCode": "TC",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "12:00",
+        "end": "15:00"
+      }
+    ],
+    "teachers": [
+      "Iza F. F."
+    ]
+  },
+  {
+    "course_id": "DTO061",
+    "name": "CLINICA EM TO NA SAUDE DO ADULTO E DO IDOSO",
+    "availabilityCode": "TD",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Luciana O. A."
+    ]
+  },
+  {
+    "course_id": "DTO061",
+    "name": "CLINICA EM TO NA SAUDE DO ADULTO E DO IDOSO",
+    "availabilityCode": "TE",
+    "spots": 8,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "13:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Simone C. A."
+    ]
+  },
+  {
+    "course_id": "DTO062",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO II",
+    "availabilityCode": "TA",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:00",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Marcela A. F. B.",
+      "Marcella G. A.",
+      "Marcos A. F."
+    ]
+  },
+  {
+    "course_id": "DTO062",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO II",
+    "availabilityCode": "TB",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:00",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Regina C. F. R.",
+      "Marcela A. F. B.",
+      "Alessandro R. P. T.",
+      "Rafael C. M."
+    ]
+  },
+  {
+    "course_id": "DTO062",
+    "name": "TRABALHO DE CONCLUSAO DE CURSO II",
+    "availabilityCode": "TC",
+    "spots": 35,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "18:00",
+        "end": "22:00"
+      }
+    ],
+    "teachers": [
+      "Marcela A. F. B.",
+      "Marina B. B.",
+      "Simone C. A.",
+      "Angelica R. S."
+    ]
+  },
+  {
+    "course_id": "EFI074",
+    "name": "ESTUDO DO LAZER",
+    "availabilityCode": "TA",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Cleber A. G. D."
+    ]
+  },
+  {
+    "course_id": "ENB054",
+    "name": "FUNDAMENTOS BASICOS DA ATENCAO EM SAUDE",
+    "availabilityCode": "TA",
+    "spots": 44,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "14:00",
+        "end": "18:00"
+      }
+    ],
+    "teachers": [
+      "Vania R. G."
+    ]
+  },
+  {
+    "course_id": "EST179",
+    "name": "INTRODUCAO A BIOESTATISTICA",
+    "availabilityCode": "TMT",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Thiago R. S."
+    ]
+  },
+  {
+    "course_id": "FIB031",
+    "name": "FISIOLOGIA APLICADA A TERAPIA OCUPACIONAL",
+    "availabilityCode": "PT1",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Luciola S. B."
+    ]
+  },
+  {
+    "course_id": "FIB031",
+    "name": "FISIOLOGIA APLICADA A TERAPIA OCUPACIONAL",
+    "availabilityCode": "PT2",
+    "spots": 25,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "16:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Luciola S. B."
+    ]
+  },
+  {
+    "course_id": "FIB031",
+    "name": "FISIOLOGIA APLICADA A TERAPIA OCUPACIONAL",
+    "availabilityCode": "TT",
+    "spots": 50,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "17:00"
+      },
+      {
+        "day": "Quinta",
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "teachers": [
+      "Luciola S. B."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Rodrigo A. F."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL4",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL5",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "LET223",
+    "name": "FUNDAMENTOS DE LIBRAS",
+    "availabilityCode": "TOL6",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Warley M. S."
+    ]
+  },
+  {
+    "course_id": "MOF044",
+    "name": "BIOLOGIA CELULAR E METABOLICA",
+    "availabilityCode": "TT",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Tania M. S.",
+      "Miriam C. S.",
+      "Rodolfo C. G."
+    ]
+  },
+  {
+    "course_id": "MOF045",
+    "name": "NEUROANATOMIA APLICADA A TERAPIA OCUPACIONAL",
+    "availabilityCode": "TTO",
+    "spots": 48,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "teachers": [
+      "Aline S. M."
+    ]
+  },
+  {
+    "course_id": "MOF062",
+    "name": "ANATOMIA APLICADA À TERAPIA OCUPACIONAL",
+    "availabilityCode": "TTO",
+    "spots": 45,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Giselle F. F."
+    ]
+  },
+  {
+    "course_id": "PAG006",
+    "name": "PATOLOGIA GERAL",
+    "availabilityCode": "TT",
+    "spots": 42,
+    "times": [
+      {
+        "day": "Terca",
+        "start": "14:00",
+        "end": "15:40"
+      },
+      {
+        "day": "Terca",
+        "start": "16:00",
+        "end": "17:40"
+      }
+    ],
+    "teachers": [
+      "Monica A. N. D. F.",
+      "Amanda M. S. R."
+    ]
+  },
+  {
+    "course_id": "PAG007",
+    "name": "PATOLOGIA APLICADA A TERAPIA OCUPACIONAL",
+    "availabilityCode": "TT",
+    "spots": 36,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "14:00",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Marina G. D.",
+      "Barbara A. C."
+    ]
+  },
+  {
+    "course_id": "PED016",
+    "name": "SAUDE DA CRIANCA E DO ADOLESCENTE PARA TERAPIA OCUPACIONAL",
+    "availabilityCode": "TA",
+    "spots": 54,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "16:30"
+      }
+    ],
+    "teachers": [
+      "Ivani N. S."
+    ]
+  },
+  {
+    "course_id": "PSI061",
+    "name": "GRUPOS E INSTITUICOES",
+    "availabilityCode": "TT",
+    "spots": 41,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Camila B. F."
+    ]
+  },
+  {
+    "course_id": "SAM021",
+    "name": "PSICOPATOLOGIA PARA TERAPIA OCUPACIONAL",
+    "availabilityCode": "TA",
+    "spots": 47,
+    "times": [
+      {
+        "day": "Quinta",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ],
+    "teachers": [
+      "Leandro F. M. D."
+    ]
+  },
+  {
+    "course_id": "SOA090",
+    "name": "SOCIOLOGIA",
+    "availabilityCode": "TT",
+    "spots": 46,
+    "times": [
+      {
+        "day": "Quarta",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Ana P. V. G."
+    ]
+  },
+  {
+    "course_id": "SOA168",
+    "name": "ANTROPOLOGIA CULTURAL",
+    "availabilityCode": "TT",
+    "spots": 47,
+    "times": [
+      {
+        "day": "Sexta",
+        "start": "13:30",
+        "end": "17:30"
+      }
+    ],
+    "teachers": [
+      "Leandro O."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI001",
+    "name": "INGLÊS INSTRUMENTAL I",
+    "availabilityCode": "TOL3",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL1",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Ronaldo C. G. J."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL2",
+    "spots": 999,
+    "times": [],
+    "teachers": [
+      "Junia C. F. B."
+    ]
+  },
+  {
+    "course_id": "UNI002",
+    "name": "INGLÊS INSTRUMENTAL II",
+    "availabilityCode": "TOL3",
+    "spots": 499,
+    "times": [],
+    "teachers": [
+      "Luciana O. S."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL1",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL2",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Luana L. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL3",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL4",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Raquel L. A. A."
+    ]
+  },
+  {
+    "course_id": "UNI003",
+    "name": "OFICINA DE LÍNGUA PORTUGUESA: LEITURA E PRODUÇÃO DE TEXTOS",
+    "availabilityCode": "TOL5",
+    "spots": 94,
+    "times": [],
+    "teachers": [
+      "Ana C. F. M."
+    ]
+  },
+  {
+    "course_id": "UNI101",
+    "name": "HISTÓRIA DA DEFICIÊNCIA E O PROCESSO DE INCLUSÃO",
+    "availabilityCode": "TA",
+    "spots": 40,
+    "times": [
+      {
+        "day": "Segunda",
+        "start": "17:30",
+        "end": "21:30"
+      }
+    ],
+    "teachers": [
+      "Marcela A. F. B."
+    ]
+  }
+]

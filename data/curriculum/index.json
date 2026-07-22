@@ -472,5 +472,17 @@
     "name": "Relações Públicas",
     "offerId": "relacoes-publicas",
     "shift": "diurno"
+  },
+  {
+    "id": "ciencias-biologicas-diurno",
+    "name": "Ciências Biológicas",
+    "offerId": "ciencias-biologicas",
+    "shift": "diurno"
+  },
+  {
+    "id": "terapia-ocupacional-diurno",
+    "name": "Terapia Ocupacional",
+    "offerId": "terapia-ocupacional",
+    "shift": "diurno"
   }
 ]

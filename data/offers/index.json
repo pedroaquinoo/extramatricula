@@ -19,6 +19,7 @@
       "ciencia-computacao",
       "ciencia-de-dados",
       "ciencias-atuariais",
+      "ciencias-biologicas",
       "ciencias-contabeis",
       "ciencias-do-estado",
       "ciencias-economicas",
@@ -70,7 +71,8 @@
       "quimica-tecnologica",
       "relacoes-economicas-internacionais",
       "relacoes-publicas",
-      "sistemas-informacao"
+      "sistemas-informacao",
+      "terapia-ocupacional"
     ]
   }
 }
